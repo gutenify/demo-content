@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.0.3" created="2022-10-18 09:06" -->
+	<!-- generator="WordPress/6.0.3" created="2022-10-19 08:09" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Finance Dark Pro</title>
 	<link>https://demo.gutenify.com/finance-up-dark-pro</link>
 	<description>Finance And Accounting</description>
-	<pubDate>Tue, 18 Oct 2022 09:06:32 +0000</pubDate>
+	<pubDate>Wed, 19 Oct 2022 08:09:40 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.gutenify.com/</wp:base_site_url>
@@ -6712,9 +6712,9 @@ https://player.vimeo.com/video/243191812?h=a742105876&amp;dnt=1&amp;app_id=12296
 
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"100px","bottom":"100px","right":"30px","left":"30px"}},"border":{"width":"0px","style":"none"}},"layout":{"inherit":true}} -->
 <div class="wp-block-group" style="border-style:none;border-width:0px;padding-top:100px;padding-right:30px;padding-bottom:100px;padding-left:30px"><!-- wp:gutenify/service {"blockClientId":"62e5840b-97d6-4dd7-9c9e-a5d5d93d6f16","blockAdvanceOptions":{"padding":{"desktop":{"top":"0px","bottom":"0px","left":"0px","right":"0px"}}},"columnSize":4,"hideButtons":true,"align":"wide","gutenifyStyles":".gutenify-section-62e5840b-97d6-4dd7-9c9e-a5d5d93d6f16 { padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px; }"} -->
-<div class="wp-block-gutenify-service alignwide gutenify-service-layout-1 gutenify-service-col-4 gutenify--service--hide-button gutenify-section-62e5840b-97d6-4dd7-9c9e-a5d5d93d6f16 gutenify-service-version-2"><div class="gutenify-service-block"><!-- wp:gutenify/info-box {"className":"has-shadow-dark","blockClientId":"2b07de95-dac3-4165-88b4-a0d630e48971","blockAdvanceOptions":{"backgroundColor":"#022222","padding":{"desktop":{"top":"40px","right":"40px","bottom":"40px","left":"40px"}}},"gutenifyStyles":".gutenify-section-2b07de95-dac3-4165-88b4-a0d630e48971 { background: #022222; }.gutenify-section-2b07de95-dac3-4165-88b4-a0d630e48971 { padding-top: 40px;padding-right: 40px;padding-bottom: 40px;padding-left: 40px; }"} -->
-<div class="wp-block-gutenify-info-box gutenify-info-box-layout-1 gutenify-section-2b07de95-dac3-4165-88b4-a0d630e48971 gutenify-info-box-version-2 has-shadow-dark"><!-- wp:gutenify/icon {"blockClientId":"3f93c984-e5ef-4d1a-bf83-381a798dd228","blockAdvanceOptions":{"textColor":"#057689"},"source":"image","iconName":"las la-trophy","size":"50","iconImage":{"id":4409,"title":"icon1","filename":"icon1.png","url":"https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon1.png","link":"https://demo.gutenify.com/finance-up-dark-pro/icon1/","alt":"","author":"5","description":"","caption":"","name":"icon1","status":"inherit","uploadedTo":0,"date":"2022-09-11T05:48:12.000Z","modified":"2022-09-11T05:48:12.000Z","menuOrder":0,"mime":"image/png","type":"image","subtype":"png","icon":"https://demo.gutenify.com/finance-up-dark-pro/wp-includes/images/media/default.png","dateFormatted":"September 11, 2022","nonces":{"update":"c29fabe8e9","delete":"b4d980e1c6","edit":"51ba3d33c7"},"editLink":"https://demo.gutenify.com/finance-up-dark-pro/wp-admin/post.php?post=4409\u0026action=edit","meta":false,"authorName":"siteadmin","authorLink":"https://demo.gutenify.com/finance-up-dark-pro/wp-admin/profile.php","filesizeInBytes":7184,"filesizeHumanReadable":"7 KB","context":"","height":256,"width":256,"orientation":"landscape","sizes":{"thumbnail":{"height":150,"width":150,"url":"https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon1-150x150.png","orientation":"landscape"},"full":{"url":"https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon1.png","height":256,"width":256,"orientation":"landscape"}},"compat":{"item":"","meta":""}},"gutenifyStyles":".gutenify-section-3f93c984-e5ef-4d1a-bf83-381a798dd228 .gutenify-icon-wrapper { color: #057689; }.gutenify-section-3f93c984-e5ef-4d1a-bf83-381a798dd228 .gutenify-icon-wrapper i {\n\t\t\tfont-size: 50px;\n\t\t}.gutenify-section-3f93c984-e5ef-4d1a-bf83-381a798dd228 .gutenify-icon-wrapper img {\n\t\t\twidth: 50px;\n\t\t\tmax-width: 50px;\n\t\t}.gutenify-section-3f93c984-e5ef-4d1a-bf83-381a798dd228 .gutenify-icon-wrapper .gutenify-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
-<div class="wp-block-gutenify-icon flex-col-item is-content-justification-center gutenify-section-3f93c984-e5ef-4d1a-bf83-381a798dd228 gutenify-icon-version-2"><a class="gutenify-icon-wrapper"><img class="" src="https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon1-150x150.png" alt=""/></a></div>
+<div class="wp-block-gutenify-service alignwide gutenify-service-layout-1 gutenify-service-col-4 gutenify--service--hide-button gutenify-section-62e5840b-97d6-4dd7-9c9e-a5d5d93d6f16 gutenify-service-version-2"><div class="gutenify-service-block"><!-- wp:gutenify/info-box {"className":"has-shadow-dark","blockClientId":"1e571aaa-f923-4ca5-add8-77034275f903","blockAdvanceOptions":{"backgroundColor":"#022222","padding":{"desktop":{"top":"40px","right":"40px","bottom":"40px","left":"40px"}}},"gutenifyStyles":".gutenify-section-1e571aaa-f923-4ca5-add8-77034275f903 { background: #022222; }.gutenify-section-1e571aaa-f923-4ca5-add8-77034275f903 { padding-top: 40px;padding-right: 40px;padding-bottom: 40px;padding-left: 40px; }"} -->
+<div class="wp-block-gutenify-info-box gutenify-info-box-layout-1 gutenify-section-1e571aaa-f923-4ca5-add8-77034275f903 gutenify-info-box-version-2 has-shadow-dark"><!-- wp:gutenify/icon {"blockClientId":"b5b8e70c-c44d-4291-84ed-89a3df927274","blockAdvanceOptions":{"textColor":"#057689"},"source":"image","iconName":"las la-trophy","size":"50","iconImage":{"id":4409,"title":"icon1","filename":"icon1.png","url":"https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon1.png","link":"https://demo.gutenify.com/finance-up-dark-pro/icon1/","alt":"","author":"5","description":"","caption":"","name":"icon1","status":"inherit","uploadedTo":0,"date":"2022-09-11T05:48:12.000Z","modified":"2022-09-11T05:48:12.000Z","menuOrder":0,"mime":"image/png","type":"image","subtype":"png","icon":"https://demo.gutenify.com/finance-up-dark-pro/wp-includes/images/media/default.png","dateFormatted":"September 11, 2022","nonces":{"update":"c29fabe8e9","delete":"b4d980e1c6","edit":"51ba3d33c7"},"editLink":"https://demo.gutenify.com/finance-up-dark-pro/wp-admin/post.php?post=4409\u0026action=edit","meta":false,"authorName":"siteadmin","authorLink":"https://demo.gutenify.com/finance-up-dark-pro/wp-admin/profile.php","filesizeInBytes":7184,"filesizeHumanReadable":"7 KB","context":"","height":256,"width":256,"orientation":"landscape","sizes":{"thumbnail":{"height":150,"width":150,"url":"https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon1-150x150.png","orientation":"landscape"},"full":{"url":"https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon1.png","height":256,"width":256,"orientation":"landscape"}},"compat":{"item":"","meta":""}},"gutenifyStyles":".gutenify-section-b5b8e70c-c44d-4291-84ed-89a3df927274 .gutenify-icon-wrapper { color: #057689; }.gutenify-section-b5b8e70c-c44d-4291-84ed-89a3df927274 .gutenify-icon-wrapper i {\n\t\t\tfont-size: 50px;\n\t\t}.gutenify-section-b5b8e70c-c44d-4291-84ed-89a3df927274 .gutenify-icon-wrapper img {\n\t\t\twidth: 50px;\n\t\t\tmax-width: 50px;\n\t\t}.gutenify-section-b5b8e70c-c44d-4291-84ed-89a3df927274 .gutenify-icon-wrapper .gutenify-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
+<div class="wp-block-gutenify-icon flex-col-item is-content-justification-center gutenify-section-b5b8e70c-c44d-4291-84ed-89a3df927274 gutenify-icon-version-2"><a class="gutenify-icon-wrapper"><img class="" src="https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon1-150x150.png" alt=""/></a></div>
 <!-- /wp:gutenify/icon -->
 
 <!-- wp:heading {"textAlign":"center","level":3,"className":"gutenify-admin-info-box-block-title"} -->
@@ -6734,9 +6734,9 @@ https://player.vimeo.com/video/243191812?h=a742105876&amp;dnt=1&amp;app_id=12296
 <!-- /wp:gutenify/buttons --></div>
 <!-- /wp:gutenify/info-box -->
 
-<!-- wp:gutenify/info-box {"className":"has-shadow-dark","blockClientId":"be11ef12-193d-4718-a768-46cbd202060b","blockAdvanceOptions":{"backgroundColor":"#022222","padding":{"desktop":{"top":"40px","right":"40px","bottom":"40px","left":"40px"}}},"gutenifyStyles":".gutenify-section-be11ef12-193d-4718-a768-46cbd202060b { background: #022222; }.gutenify-section-be11ef12-193d-4718-a768-46cbd202060b { padding-top: 40px;padding-right: 40px;padding-bottom: 40px;padding-left: 40px; }"} -->
-<div class="wp-block-gutenify-info-box gutenify-info-box-layout-1 gutenify-section-be11ef12-193d-4718-a768-46cbd202060b gutenify-info-box-version-2 has-shadow-dark"><!-- wp:gutenify/icon {"blockClientId":"ecf4571b-27d6-49b9-8bc9-106ed7725f31","blockAdvanceOptions":{"textColor":"#057689"},"source":"image","iconName":"las la-trophy","size":"50","iconImage":{"id":4410,"title":"icon2","filename":"icon2.png","url":"https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon2.png","link":"https://demo.gutenify.com/finance-up-dark-pro/icon2/","alt":"","author":"5","description":"","caption":"","name":"icon2","status":"inherit","uploadedTo":0,"date":"2022-09-11T05:48:19.000Z","modified":"2022-09-11T05:48:19.000Z","menuOrder":0,"mime":"image/png","type":"image","subtype":"png","icon":"https://demo.gutenify.com/finance-up-dark-pro/wp-includes/images/media/default.png","dateFormatted":"September 11, 2022","nonces":{"update":"9057d1a2b0","delete":"c51254b55e","edit":"63692e50f1"},"editLink":"https://demo.gutenify.com/finance-up-dark-pro/wp-admin/post.php?post=4410\u0026action=edit","meta":false,"authorName":"siteadmin","authorLink":"https://demo.gutenify.com/finance-up-dark-pro/wp-admin/profile.php","filesizeInBytes":8159,"filesizeHumanReadable":"8 KB","context":"","height":256,"width":256,"orientation":"landscape","sizes":{"thumbnail":{"height":150,"width":150,"url":"https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon2-150x150.png","orientation":"landscape"},"full":{"url":"https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon2.png","height":256,"width":256,"orientation":"landscape"}},"compat":{"item":"","meta":""}},"gutenifyStyles":".gutenify-section-ecf4571b-27d6-49b9-8bc9-106ed7725f31 .gutenify-icon-wrapper { color: #057689; }.gutenify-section-ecf4571b-27d6-49b9-8bc9-106ed7725f31 .gutenify-icon-wrapper i {\n\t\t\tfont-size: 50px;\n\t\t}.gutenify-section-ecf4571b-27d6-49b9-8bc9-106ed7725f31 .gutenify-icon-wrapper img {\n\t\t\twidth: 50px;\n\t\t\tmax-width: 50px;\n\t\t}.gutenify-section-ecf4571b-27d6-49b9-8bc9-106ed7725f31 .gutenify-icon-wrapper .gutenify-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
-<div class="wp-block-gutenify-icon flex-col-item is-content-justification-center gutenify-section-ecf4571b-27d6-49b9-8bc9-106ed7725f31 gutenify-icon-version-2"><a class="gutenify-icon-wrapper"><img class="" src="https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon2-150x150.png" alt=""/></a></div>
+<!-- wp:gutenify/info-box {"className":"has-shadow-dark","blockClientId":"0991bb8a-5ffc-42b8-95f3-11011de35fc7","blockAdvanceOptions":{"backgroundColor":"#022222","padding":{"desktop":{"top":"40px","right":"40px","bottom":"40px","left":"40px"}}},"gutenifyStyles":".gutenify-section-0991bb8a-5ffc-42b8-95f3-11011de35fc7 { background: #022222; }.gutenify-section-0991bb8a-5ffc-42b8-95f3-11011de35fc7 { padding-top: 40px;padding-right: 40px;padding-bottom: 40px;padding-left: 40px; }"} -->
+<div class="wp-block-gutenify-info-box gutenify-info-box-layout-1 gutenify-section-0991bb8a-5ffc-42b8-95f3-11011de35fc7 gutenify-info-box-version-2 has-shadow-dark"><!-- wp:gutenify/icon {"blockClientId":"f45983d2-34e0-4ddf-a5c2-c2bf3166b901","blockAdvanceOptions":{"textColor":"#057689"},"source":"image","iconName":"las la-trophy","size":"50","iconImage":{"id":4410,"title":"icon2","filename":"icon2.png","url":"https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon2.png","link":"https://demo.gutenify.com/finance-up-dark-pro/icon2/","alt":"","author":"5","description":"","caption":"","name":"icon2","status":"inherit","uploadedTo":0,"date":"2022-09-11T05:48:19.000Z","modified":"2022-09-11T05:48:19.000Z","menuOrder":0,"mime":"image/png","type":"image","subtype":"png","icon":"https://demo.gutenify.com/finance-up-dark-pro/wp-includes/images/media/default.png","dateFormatted":"September 11, 2022","nonces":{"update":"9057d1a2b0","delete":"c51254b55e","edit":"63692e50f1"},"editLink":"https://demo.gutenify.com/finance-up-dark-pro/wp-admin/post.php?post=4410\u0026action=edit","meta":false,"authorName":"siteadmin","authorLink":"https://demo.gutenify.com/finance-up-dark-pro/wp-admin/profile.php","filesizeInBytes":8159,"filesizeHumanReadable":"8 KB","context":"","height":256,"width":256,"orientation":"landscape","sizes":{"thumbnail":{"height":150,"width":150,"url":"https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon2-150x150.png","orientation":"landscape"},"full":{"url":"https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon2.png","height":256,"width":256,"orientation":"landscape"}},"compat":{"item":"","meta":""}},"gutenifyStyles":".gutenify-section-f45983d2-34e0-4ddf-a5c2-c2bf3166b901 .gutenify-icon-wrapper { color: #057689; }.gutenify-section-f45983d2-34e0-4ddf-a5c2-c2bf3166b901 .gutenify-icon-wrapper i {\n\t\t\tfont-size: 50px;\n\t\t}.gutenify-section-f45983d2-34e0-4ddf-a5c2-c2bf3166b901 .gutenify-icon-wrapper img {\n\t\t\twidth: 50px;\n\t\t\tmax-width: 50px;\n\t\t}.gutenify-section-f45983d2-34e0-4ddf-a5c2-c2bf3166b901 .gutenify-icon-wrapper .gutenify-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
+<div class="wp-block-gutenify-icon flex-col-item is-content-justification-center gutenify-section-f45983d2-34e0-4ddf-a5c2-c2bf3166b901 gutenify-icon-version-2"><a class="gutenify-icon-wrapper"><img class="" src="https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon2-150x150.png" alt=""/></a></div>
 <!-- /wp:gutenify/icon -->
 
 <!-- wp:heading {"textAlign":"center","level":3,"className":"gutenify-admin-info-box-block-title"} -->
@@ -6756,9 +6756,9 @@ https://player.vimeo.com/video/243191812?h=a742105876&amp;dnt=1&amp;app_id=12296
 <!-- /wp:gutenify/buttons --></div>
 <!-- /wp:gutenify/info-box -->
 
-<!-- wp:gutenify/info-box {"className":"has-shadow-dark","blockClientId":"8326bb98-c827-4ac7-a968-e6593b7caf7c","blockAdvanceOptions":{"backgroundColor":"#022222","padding":{"desktop":{"top":"40px","right":"40px","bottom":"40px","left":"40px"}}},"gutenifyStyles":".gutenify-section-8326bb98-c827-4ac7-a968-e6593b7caf7c { background: #022222; }.gutenify-section-8326bb98-c827-4ac7-a968-e6593b7caf7c { padding-top: 40px;padding-right: 40px;padding-bottom: 40px;padding-left: 40px; }"} -->
-<div class="wp-block-gutenify-info-box gutenify-info-box-layout-1 gutenify-section-8326bb98-c827-4ac7-a968-e6593b7caf7c gutenify-info-box-version-2 has-shadow-dark"><!-- wp:gutenify/icon {"blockClientId":"e5bbdd97-ccad-4d28-8548-bf0e1a72955b","blockAdvanceOptions":{"textColor":"#057689"},"source":"image","iconName":"las la-trophy","size":"50","iconImage":{"id":4411,"title":"icon3","filename":"icon3.png","url":"https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon3.png","link":"https://demo.gutenify.com/finance-up-dark-pro/icon3/","alt":"","author":"5","description":"","caption":"","name":"icon3","status":"inherit","uploadedTo":0,"date":"2022-09-11T05:48:24.000Z","modified":"2022-09-11T05:48:24.000Z","menuOrder":0,"mime":"image/png","type":"image","subtype":"png","icon":"https://demo.gutenify.com/finance-up-dark-pro/wp-includes/images/media/default.png","dateFormatted":"September 11, 2022","nonces":{"update":"97ad25e58c","delete":"2a10b03a0b","edit":"1359335d7c"},"editLink":"https://demo.gutenify.com/finance-up-dark-pro/wp-admin/post.php?post=4411\u0026action=edit","meta":false,"authorName":"siteadmin","authorLink":"https://demo.gutenify.com/finance-up-dark-pro/wp-admin/profile.php","filesizeInBytes":5156,"filesizeHumanReadable":"5 KB","context":"","height":256,"width":256,"orientation":"landscape","sizes":{"thumbnail":{"height":150,"width":150,"url":"https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon3-150x150.png","orientation":"landscape"},"full":{"url":"https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon3.png","height":256,"width":256,"orientation":"landscape"}},"compat":{"item":"","meta":""}},"gutenifyStyles":".gutenify-section-e5bbdd97-ccad-4d28-8548-bf0e1a72955b .gutenify-icon-wrapper { color: #057689; }.gutenify-section-e5bbdd97-ccad-4d28-8548-bf0e1a72955b .gutenify-icon-wrapper i {\n\t\t\tfont-size: 50px;\n\t\t}.gutenify-section-e5bbdd97-ccad-4d28-8548-bf0e1a72955b .gutenify-icon-wrapper img {\n\t\t\twidth: 50px;\n\t\t\tmax-width: 50px;\n\t\t}.gutenify-section-e5bbdd97-ccad-4d28-8548-bf0e1a72955b .gutenify-icon-wrapper .gutenify-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
-<div class="wp-block-gutenify-icon flex-col-item is-content-justification-center gutenify-section-e5bbdd97-ccad-4d28-8548-bf0e1a72955b gutenify-icon-version-2"><a class="gutenify-icon-wrapper"><img class="" src="https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon3-150x150.png" alt=""/></a></div>
+<!-- wp:gutenify/info-box {"className":"has-shadow-dark","blockClientId":"073df978-a5b0-4975-9b5d-81d9ef51e071","blockAdvanceOptions":{"backgroundColor":"#022222","padding":{"desktop":{"top":"40px","right":"40px","bottom":"40px","left":"40px"}}},"gutenifyStyles":".gutenify-section-073df978-a5b0-4975-9b5d-81d9ef51e071 { background: #022222; }.gutenify-section-073df978-a5b0-4975-9b5d-81d9ef51e071 { padding-top: 40px;padding-right: 40px;padding-bottom: 40px;padding-left: 40px; }"} -->
+<div class="wp-block-gutenify-info-box gutenify-info-box-layout-1 gutenify-section-073df978-a5b0-4975-9b5d-81d9ef51e071 gutenify-info-box-version-2 has-shadow-dark"><!-- wp:gutenify/icon {"blockClientId":"a60a5834-609d-4dbb-9461-59b49632c491","blockAdvanceOptions":{"textColor":"#057689"},"source":"image","iconName":"las la-trophy","size":"50","iconImage":{"id":4411,"title":"icon3","filename":"icon3.png","url":"https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon3.png","link":"https://demo.gutenify.com/finance-up-dark-pro/icon3/","alt":"","author":"5","description":"","caption":"","name":"icon3","status":"inherit","uploadedTo":0,"date":"2022-09-11T05:48:24.000Z","modified":"2022-09-11T05:48:24.000Z","menuOrder":0,"mime":"image/png","type":"image","subtype":"png","icon":"https://demo.gutenify.com/finance-up-dark-pro/wp-includes/images/media/default.png","dateFormatted":"September 11, 2022","nonces":{"update":"97ad25e58c","delete":"2a10b03a0b","edit":"1359335d7c"},"editLink":"https://demo.gutenify.com/finance-up-dark-pro/wp-admin/post.php?post=4411\u0026action=edit","meta":false,"authorName":"siteadmin","authorLink":"https://demo.gutenify.com/finance-up-dark-pro/wp-admin/profile.php","filesizeInBytes":5156,"filesizeHumanReadable":"5 KB","context":"","height":256,"width":256,"orientation":"landscape","sizes":{"thumbnail":{"height":150,"width":150,"url":"https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon3-150x150.png","orientation":"landscape"},"full":{"url":"https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon3.png","height":256,"width":256,"orientation":"landscape"}},"compat":{"item":"","meta":""}},"gutenifyStyles":".gutenify-section-a60a5834-609d-4dbb-9461-59b49632c491 .gutenify-icon-wrapper { color: #057689; }.gutenify-section-a60a5834-609d-4dbb-9461-59b49632c491 .gutenify-icon-wrapper i {\n\t\t\tfont-size: 50px;\n\t\t}.gutenify-section-a60a5834-609d-4dbb-9461-59b49632c491 .gutenify-icon-wrapper img {\n\t\t\twidth: 50px;\n\t\t\tmax-width: 50px;\n\t\t}.gutenify-section-a60a5834-609d-4dbb-9461-59b49632c491 .gutenify-icon-wrapper .gutenify-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
+<div class="wp-block-gutenify-icon flex-col-item is-content-justification-center gutenify-section-a60a5834-609d-4dbb-9461-59b49632c491 gutenify-icon-version-2"><a class="gutenify-icon-wrapper"><img class="" src="https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon3-150x150.png" alt=""/></a></div>
 <!-- /wp:gutenify/icon -->
 
 <!-- wp:heading {"textAlign":"center","level":3,"className":"gutenify-admin-info-box-block-title"} -->
@@ -6778,9 +6778,9 @@ https://player.vimeo.com/video/243191812?h=a742105876&amp;dnt=1&amp;app_id=12296
 <!-- /wp:gutenify/buttons --></div>
 <!-- /wp:gutenify/info-box -->
 
-<!-- wp:gutenify/info-box {"className":"has-shadow-dark","blockClientId":"eee6ac4e-6a0b-4e85-96ce-65e43f9c010c","blockAdvanceOptions":{"backgroundColor":"#022222","padding":{"desktop":{"top":"40px","right":"40px","bottom":"40px","left":"40px"}}},"gutenifyStyles":".gutenify-section-eee6ac4e-6a0b-4e85-96ce-65e43f9c010c { background: #022222; }.gutenify-section-eee6ac4e-6a0b-4e85-96ce-65e43f9c010c { padding-top: 40px;padding-right: 40px;padding-bottom: 40px;padding-left: 40px; }"} -->
-<div class="wp-block-gutenify-info-box gutenify-info-box-layout-1 gutenify-section-eee6ac4e-6a0b-4e85-96ce-65e43f9c010c gutenify-info-box-version-2 has-shadow-dark"><!-- wp:gutenify/icon {"blockClientId":"1c3c37ae-c252-49a8-aa81-82e9223103d1","blockAdvanceOptions":{"textColor":"#057689"},"source":"image","iconName":"las la-trophy","size":"50","iconImage":{"id":4412,"title":"icon4","filename":"icon4.png","url":"https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon4.png","link":"https://demo.gutenify.com/finance-up-dark-pro/icon4/","alt":"","author":"5","description":"","caption":"","name":"icon4","status":"inherit","uploadedTo":0,"date":"2022-09-11T05:48:30.000Z","modified":"2022-09-11T05:48:30.000Z","menuOrder":0,"mime":"image/png","type":"image","subtype":"png","icon":"https://demo.gutenify.com/finance-up-dark-pro/wp-includes/images/media/default.png","dateFormatted":"September 11, 2022","nonces":{"update":"0f0fd93032","delete":"eb9a5d6728","edit":"b3eb9e59be"},"editLink":"https://demo.gutenify.com/finance-up-dark-pro/wp-admin/post.php?post=4412\u0026action=edit","meta":false,"authorName":"siteadmin","authorLink":"https://demo.gutenify.com/finance-up-dark-pro/wp-admin/profile.php","filesizeInBytes":9003,"filesizeHumanReadable":"9 KB","context":"","height":256,"width":256,"orientation":"landscape","sizes":{"thumbnail":{"height":150,"width":150,"url":"https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon4-150x150.png","orientation":"landscape"},"full":{"url":"https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon4.png","height":256,"width":256,"orientation":"landscape"}},"compat":{"item":"","meta":""}},"gutenifyStyles":".gutenify-section-1c3c37ae-c252-49a8-aa81-82e9223103d1 .gutenify-icon-wrapper { color: #057689; }.gutenify-section-1c3c37ae-c252-49a8-aa81-82e9223103d1 .gutenify-icon-wrapper i {\n\t\t\tfont-size: 50px;\n\t\t}.gutenify-section-1c3c37ae-c252-49a8-aa81-82e9223103d1 .gutenify-icon-wrapper img {\n\t\t\twidth: 50px;\n\t\t\tmax-width: 50px;\n\t\t}.gutenify-section-1c3c37ae-c252-49a8-aa81-82e9223103d1 .gutenify-icon-wrapper .gutenify-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
-<div class="wp-block-gutenify-icon flex-col-item is-content-justification-center gutenify-section-1c3c37ae-c252-49a8-aa81-82e9223103d1 gutenify-icon-version-2"><a class="gutenify-icon-wrapper"><img class="" src="https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon4-150x150.png" alt=""/></a></div>
+<!-- wp:gutenify/info-box {"className":"has-shadow-dark","blockClientId":"0273334a-f97a-4037-bf0b-0bf2102f8d03","blockAdvanceOptions":{"backgroundColor":"#022222","padding":{"desktop":{"top":"40px","right":"40px","bottom":"40px","left":"40px"}}},"gutenifyStyles":".gutenify-section-0273334a-f97a-4037-bf0b-0bf2102f8d03 { background: #022222; }.gutenify-section-0273334a-f97a-4037-bf0b-0bf2102f8d03 { padding-top: 40px;padding-right: 40px;padding-bottom: 40px;padding-left: 40px; }"} -->
+<div class="wp-block-gutenify-info-box gutenify-info-box-layout-1 gutenify-section-0273334a-f97a-4037-bf0b-0bf2102f8d03 gutenify-info-box-version-2 has-shadow-dark"><!-- wp:gutenify/icon {"blockClientId":"d78d7aa7-e6b1-46c7-98c6-8eeee3c4a6bc","blockAdvanceOptions":{"textColor":"#057689"},"source":"image","iconName":"las la-trophy","size":"50","iconImage":{"id":4412,"title":"icon4","filename":"icon4.png","url":"https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon4.png","link":"https://demo.gutenify.com/finance-up-dark-pro/icon4/","alt":"","author":"5","description":"","caption":"","name":"icon4","status":"inherit","uploadedTo":0,"date":"2022-09-11T05:48:30.000Z","modified":"2022-09-11T05:48:30.000Z","menuOrder":0,"mime":"image/png","type":"image","subtype":"png","icon":"https://demo.gutenify.com/finance-up-dark-pro/wp-includes/images/media/default.png","dateFormatted":"September 11, 2022","nonces":{"update":"0f0fd93032","delete":"eb9a5d6728","edit":"b3eb9e59be"},"editLink":"https://demo.gutenify.com/finance-up-dark-pro/wp-admin/post.php?post=4412\u0026action=edit","meta":false,"authorName":"siteadmin","authorLink":"https://demo.gutenify.com/finance-up-dark-pro/wp-admin/profile.php","filesizeInBytes":9003,"filesizeHumanReadable":"9 KB","context":"","height":256,"width":256,"orientation":"landscape","sizes":{"thumbnail":{"height":150,"width":150,"url":"https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon4-150x150.png","orientation":"landscape"},"full":{"url":"https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon4.png","height":256,"width":256,"orientation":"landscape"}},"compat":{"item":"","meta":""}},"gutenifyStyles":".gutenify-section-d78d7aa7-e6b1-46c7-98c6-8eeee3c4a6bc .gutenify-icon-wrapper { color: #057689; }.gutenify-section-d78d7aa7-e6b1-46c7-98c6-8eeee3c4a6bc .gutenify-icon-wrapper i {\n\t\t\tfont-size: 50px;\n\t\t}.gutenify-section-d78d7aa7-e6b1-46c7-98c6-8eeee3c4a6bc .gutenify-icon-wrapper img {\n\t\t\twidth: 50px;\n\t\t\tmax-width: 50px;\n\t\t}.gutenify-section-d78d7aa7-e6b1-46c7-98c6-8eeee3c4a6bc .gutenify-icon-wrapper .gutenify-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
+<div class="wp-block-gutenify-icon flex-col-item is-content-justification-center gutenify-section-d78d7aa7-e6b1-46c7-98c6-8eeee3c4a6bc gutenify-icon-version-2"><a class="gutenify-icon-wrapper"><img class="" src="https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon4-150x150.png" alt=""/></a></div>
 <!-- /wp:gutenify/icon -->
 
 <!-- wp:heading {"textAlign":"center","level":3,"className":"gutenify-admin-info-box-block-title"} -->
@@ -6994,10 +6994,10 @@ https://player.vimeo.com/video/243191812?h=a742105876&amp;dnt=1&amp;app_id=12296
 <div class="wp-block-group alignfull gutena-pattern"><!-- wp:cover {"url":"https://demo-gutenify-com.s3.amazonaws.com/wp-content/uploads/sites/29/2022/05/25151127/production-id-4426380_wy8DbuMH.mp4","id":2452,"dimRatio":60,"backgroundType":"video","contentPosition":"center center","align":"full","style":{"spacing":{"padding":{"top":"100px","bottom":"100px"}}}} -->
 <div class="wp-block-cover alignfull" style="padding-top:100px;padding-bottom:100px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-60 has-background-dim"></span><video class="wp-block-cover__video-background intrinsic-ignore" autoplay muted loop playsinline src="https://demo-gutenify-com.s3.amazonaws.com/wp-content/uploads/sites/29/2022/05/25151127/production-id-4426380_wy8DbuMH.mp4" data-object-fit="cover"></video><div class="wp-block-cover__inner-container"><!-- wp:gutenify/container {"blockClientId":"f5a0020b-a70b-476c-87f7-a3bda397a5f9","blockAdvanceOptions":{"backgroundColor":"","backgroundGradient":"","padding":{"desktop":{"top":"40px","right":"0px","bottom":"80px","left":"0px"},"mobile":{"top":"40px","right":"40px","bottom":"40px","left":"40px"}}},"align":"wide","gutenifyStyles":".gutenify-section-f5a0020b-a70b-476c-87f7-a3bda397a5f9 { padding-top: 40px;padding-right: 0px;padding-bottom: 80px;padding-left: 0px; }@media only screen and (max-width: 768px) { .gutenify-section-f5a0020b-a70b-476c-87f7-a3bda397a5f9 { padding-top: 40px;padding-right: 40px;padding-bottom: 40px;padding-left: 40px; } }"} -->
 <div class="wp-block-gutenify-container alignwide gutenify-block-container-wrapper gutenify-section-f5a0020b-a70b-476c-87f7-a3bda397a5f9 gutenify-container-version-2"><div class="gutenify-container"><!-- wp:group -->
-<div class="wp-block-group"><!-- wp:gutenify/section-title {"blockClientId":"81d901d0-8942-4f88-b880-5718c79b22b6","blockAdvanceOptions":{"prefixTitleClasses":"animated animated-fadeInUp","mainTitleClasses":"animated animated-fadeInUp","suffixTitleClasses":"animated animated-fadeInUp","padding":{"desktop":{"top":"","bottom":""}}},"prefixColor":"#057689","prefixFontSize":"clamp(20px,1.2vw,22px)","titleContent":"Bring A New Experience To Y\u003cbr\u003eour Investment","titleColor":"#ffffff","titleFontSize":"clamp(36px,4.5vw,70px)","suffixContent":"Far far away, behind the word mountains, far from the countries\u003cbr\u003eVokalia and Consonantia, there live the blind texts.\u003cbr\u003e\u003ca href=\u0022https://kit.baliniz.com/hyfinance/#\u0022\u003e\u003c/a\u003e","suffixColor":"#ffffff","className":"animated animated-fadeInUp","gutenifyStyles":".gutenify-section-81d901d0-8942-4f88-b880-5718c79b22b6 .gutenify-section-title-prefix{\n\t\t\tfont-size: clamp(20px,1.2vw,22px);\n\t\t}.gutenify-section-81d901d0-8942-4f88-b880-5718c79b22b6 .gutenify-section-title-main{\n\t\tfont-size: clamp(36px,4.5vw,70px);\n\t}"} /-->
+<div class="wp-block-group"><!-- wp:gutenify/section-title {"blockClientId":"17ad6ca0-c4b8-4b90-8371-5109309fca09","blockAdvanceOptions":{"prefixTitleClasses":"animated animated-fadeInUp","mainTitleClasses":"animated animated-fadeInUp","suffixTitleClasses":"animated animated-fadeInUp","padding":{"desktop":{"top":"","bottom":""}}},"prefixColor":"#057689","prefixFontSize":"clamp(20px,1.2vw,22px)","titleContent":"Bring A New Experience To Y\u003cbr\u003eour Investment","titleColor":"#ffffff","titleFontSize":"clamp(36px,4.5vw,70px)","suffixContent":"Far far away, behind the word mountains, far from the countries\u003cbr\u003eVokalia and Consonantia, there live the blind texts.\u003cbr\u003e\u003ca href=\u0022https://kit.baliniz.com/hyfinance/#\u0022\u003e\u003c/a\u003e","suffixColor":"#ffffff","className":"animated animated-fadeInUp","gutenifyStyles":".gutenify-section-17ad6ca0-c4b8-4b90-8371-5109309fca09 .gutenify-section-title-prefix{\n\t\t\tfont-size: clamp(20px,1.2vw,22px);\n\t\t}.gutenify-section-17ad6ca0-c4b8-4b90-8371-5109309fca09 .gutenify-section-title-main{\n\t\tfont-size: clamp(36px,4.5vw,70px);\n\t}"} /-->
 
-<!-- wp:gutenify/icon {"blockClientId":"399180af-bf39-4a60-9012-56eabb0cbf90","blockAdvanceOptions":{"textColor":"#000","backgroundColor":"#fff","iconPadding":{"desktop":{"top":"20px","right":"20px","bottom":"20px","left":"20px"}},"hoverBackgroundColor":"#ff0000","hoverTextColor":"#fff"},"url":"#","iconName":"las la-play","size":"50","borderRadius":"100px","className":"animated animated-fadeInUp","gutenifyStyles":".gutenify-section-399180af-bf39-4a60-9012-56eabb0cbf90 .gutenify-icon-wrapper { color: #000;background: #fff;border-radius: 100px;\n\t\tpadding-top: 20px;\n\t\tpadding-right: 20px;\n\t\tpadding-bottom: 20px;\n\t\tpadding-left: 20px;\n\t }.gutenify-section-399180af-bf39-4a60-9012-56eabb0cbf90 .gutenify-icon-wrapper:hover { color: #fff;background: #ff0000; }.gutenify-section-399180af-bf39-4a60-9012-56eabb0cbf90 .gutenify-icon-wrapper i {\n\t\t\tfont-size: 50px;\n\t\t}.gutenify-section-399180af-bf39-4a60-9012-56eabb0cbf90 .gutenify-icon-wrapper img {\n\t\t\twidth: 50px;\n\t\t\tmax-width: 50px;\n\t\t}.gutenify-section-399180af-bf39-4a60-9012-56eabb0cbf90 .gutenify-icon-wrapper .gutenify-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
-<div class="wp-block-gutenify-icon flex-col-item is-content-justification-center gutenify-section-399180af-bf39-4a60-9012-56eabb0cbf90 gutenify-icon-version-2 animated animated-fadeInUp"><a href="#" class="gutenify-icon-wrapper"><i class="las la-play"></i></a></div>
+<!-- wp:gutenify/icon {"blockClientId":"de22007b-5735-402c-bb95-7f4365348950","blockAdvanceOptions":{"textColor":"#000","backgroundColor":"#fff","iconPadding":{"desktop":{"top":"20px","right":"20px","bottom":"20px","left":"20px"}},"hoverBackgroundColor":"#ff0000","hoverTextColor":"#fff"},"url":"#","iconName":"las la-play","size":"50","borderRadius":"100px","className":"animated animated-fadeInUp","gutenifyStyles":".gutenify-section-de22007b-5735-402c-bb95-7f4365348950 .gutenify-icon-wrapper { color: #000;background: #fff;border-radius: 100px;\n\t\tpadding-top: 20px;\n\t\tpadding-right: 20px;\n\t\tpadding-bottom: 20px;\n\t\tpadding-left: 20px;\n\t }.gutenify-section-de22007b-5735-402c-bb95-7f4365348950 .gutenify-icon-wrapper:hover { color: #fff;background: #ff0000; }.gutenify-section-de22007b-5735-402c-bb95-7f4365348950 .gutenify-icon-wrapper i {\n\t\t\tfont-size: 50px;\n\t\t}.gutenify-section-de22007b-5735-402c-bb95-7f4365348950 .gutenify-icon-wrapper img {\n\t\t\twidth: 50px;\n\t\t\tmax-width: 50px;\n\t\t}.gutenify-section-de22007b-5735-402c-bb95-7f4365348950 .gutenify-icon-wrapper .gutenify-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
+<div class="wp-block-gutenify-icon flex-col-item is-content-justification-center gutenify-section-de22007b-5735-402c-bb95-7f4365348950 gutenify-icon-version-2 animated animated-fadeInUp"><a href="#" class="gutenify-icon-wrapper"><i class="las la-play"></i></a></div>
 <!-- /wp:gutenify/icon --></div>
 <!-- /wp:group --></div></div>
 <!-- /wp:gutenify/container --></div></div>
@@ -7034,9 +7034,9 @@ https://player.vimeo.com/video/243191812?h=a742105876&amp;dnt=1&amp;app_id=12296
 <!-- /wp:group -->
 
 <!-- wp:gutenify/service {"blockClientId":"62e5840b-97d6-4dd7-9c9e-a5d5d93d6f16","blockAdvanceOptions":{"padding":{"desktop":{"top":"0px","bottom":"0px","left":"0px","right":"0px"}}},"columnSize":4,"align":"wide","gutenifyStyles":".gutenify-section-62e5840b-97d6-4dd7-9c9e-a5d5d93d6f16 { padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px; }"} -->
-<div class="wp-block-gutenify-service alignwide gutenify-service-layout-1 gutenify-service-col-4 gutenify-section-62e5840b-97d6-4dd7-9c9e-a5d5d93d6f16 gutenify-service-version-2"><div class="gutenify-service-block"><!-- wp:gutenify/info-box {"className":"has-shadow-dark","blockClientId":"4b64217b-5cf6-4e2b-8870-28553d3e53cf","blockAdvanceOptions":{"backgroundColor":"#022222","padding":{"desktop":{"top":"40px","right":"40px","bottom":"40px","left":"40px"}}},"gutenifyStyles":".gutenify-section-4b64217b-5cf6-4e2b-8870-28553d3e53cf { background: #022222; }.gutenify-section-4b64217b-5cf6-4e2b-8870-28553d3e53cf { padding-top: 40px;padding-right: 40px;padding-bottom: 40px;padding-left: 40px; }"} -->
-<div class="wp-block-gutenify-info-box gutenify-info-box-layout-1 gutenify-section-4b64217b-5cf6-4e2b-8870-28553d3e53cf gutenify-info-box-version-2 has-shadow-dark"><!-- wp:gutenify/icon {"blockClientId":"e5485c9e-4350-4f58-a80a-53b67a996157","blockAdvanceOptions":{"textColor":"#057689"},"source":"image","iconName":"las la-trophy","size":"50","iconImage":{"id":4409,"title":"icon1","filename":"icon1.png","url":"https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon1.png","link":"https://demo.gutenify.com/finance-up-dark-pro/icon1/","alt":"","author":"5","description":"","caption":"","name":"icon1","status":"inherit","uploadedTo":0,"date":"2022-09-11T05:48:12.000Z","modified":"2022-09-11T05:48:12.000Z","menuOrder":0,"mime":"image/png","type":"image","subtype":"png","icon":"https://demo.gutenify.com/finance-up-dark-pro/wp-includes/images/media/default.png","dateFormatted":"September 11, 2022","nonces":{"update":"c29fabe8e9","delete":"b4d980e1c6","edit":"51ba3d33c7"},"editLink":"https://demo.gutenify.com/finance-up-dark-pro/wp-admin/post.php?post=4409\u0026action=edit","meta":false,"authorName":"siteadmin","authorLink":"https://demo.gutenify.com/finance-up-dark-pro/wp-admin/profile.php","filesizeInBytes":7184,"filesizeHumanReadable":"7 KB","context":"","height":256,"width":256,"orientation":"landscape","sizes":{"thumbnail":{"height":150,"width":150,"url":"https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon1-150x150.png","orientation":"landscape"},"full":{"url":"https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon1.png","height":256,"width":256,"orientation":"landscape"}},"compat":{"item":"","meta":""}},"gutenifyStyles":".gutenify-section-e5485c9e-4350-4f58-a80a-53b67a996157 .gutenify-icon-wrapper { color: #057689; }.gutenify-section-e5485c9e-4350-4f58-a80a-53b67a996157 .gutenify-icon-wrapper i {\n\t\t\tfont-size: 50px;\n\t\t}.gutenify-section-e5485c9e-4350-4f58-a80a-53b67a996157 .gutenify-icon-wrapper img {\n\t\t\twidth: 50px;\n\t\t\tmax-width: 50px;\n\t\t}.gutenify-section-e5485c9e-4350-4f58-a80a-53b67a996157 .gutenify-icon-wrapper .gutenify-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
-<div class="wp-block-gutenify-icon flex-col-item is-content-justification-center gutenify-section-e5485c9e-4350-4f58-a80a-53b67a996157 gutenify-icon-version-2"><a class="gutenify-icon-wrapper"><img class="" src="https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon1-150x150.png" alt=""/></a></div>
+<div class="wp-block-gutenify-service alignwide gutenify-service-layout-1 gutenify-service-col-4 gutenify-section-62e5840b-97d6-4dd7-9c9e-a5d5d93d6f16 gutenify-service-version-2"><div class="gutenify-service-block"><!-- wp:gutenify/info-box {"className":"has-shadow-dark","blockClientId":"3526e81f-6d95-42a8-9e31-644fd09ef39c","blockAdvanceOptions":{"backgroundColor":"#022222","padding":{"desktop":{"top":"40px","right":"40px","bottom":"40px","left":"40px"}}},"gutenifyStyles":".gutenify-section-3526e81f-6d95-42a8-9e31-644fd09ef39c { background: #022222; }.gutenify-section-3526e81f-6d95-42a8-9e31-644fd09ef39c { padding-top: 40px;padding-right: 40px;padding-bottom: 40px;padding-left: 40px; }"} -->
+<div class="wp-block-gutenify-info-box gutenify-info-box-layout-1 gutenify-section-3526e81f-6d95-42a8-9e31-644fd09ef39c gutenify-info-box-version-2 has-shadow-dark"><!-- wp:gutenify/icon {"blockClientId":"05fcde29-f6c3-4bff-9295-5b96edee9c68","blockAdvanceOptions":{"textColor":"#057689"},"source":"image","iconName":"las la-trophy","size":"50","iconImage":{"id":4409,"title":"icon1","filename":"icon1.png","url":"https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon1.png","link":"https://demo.gutenify.com/finance-up-dark-pro/icon1/","alt":"","author":"5","description":"","caption":"","name":"icon1","status":"inherit","uploadedTo":0,"date":"2022-09-11T05:48:12.000Z","modified":"2022-09-11T05:48:12.000Z","menuOrder":0,"mime":"image/png","type":"image","subtype":"png","icon":"https://demo.gutenify.com/finance-up-dark-pro/wp-includes/images/media/default.png","dateFormatted":"September 11, 2022","nonces":{"update":"c29fabe8e9","delete":"b4d980e1c6","edit":"51ba3d33c7"},"editLink":"https://demo.gutenify.com/finance-up-dark-pro/wp-admin/post.php?post=4409\u0026action=edit","meta":false,"authorName":"siteadmin","authorLink":"https://demo.gutenify.com/finance-up-dark-pro/wp-admin/profile.php","filesizeInBytes":7184,"filesizeHumanReadable":"7 KB","context":"","height":256,"width":256,"orientation":"landscape","sizes":{"thumbnail":{"height":150,"width":150,"url":"https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon1-150x150.png","orientation":"landscape"},"full":{"url":"https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon1.png","height":256,"width":256,"orientation":"landscape"}},"compat":{"item":"","meta":""}},"gutenifyStyles":".gutenify-section-05fcde29-f6c3-4bff-9295-5b96edee9c68 .gutenify-icon-wrapper { color: #057689; }.gutenify-section-05fcde29-f6c3-4bff-9295-5b96edee9c68 .gutenify-icon-wrapper i {\n\t\t\tfont-size: 50px;\n\t\t}.gutenify-section-05fcde29-f6c3-4bff-9295-5b96edee9c68 .gutenify-icon-wrapper img {\n\t\t\twidth: 50px;\n\t\t\tmax-width: 50px;\n\t\t}.gutenify-section-05fcde29-f6c3-4bff-9295-5b96edee9c68 .gutenify-icon-wrapper .gutenify-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
+<div class="wp-block-gutenify-icon flex-col-item is-content-justification-center gutenify-section-05fcde29-f6c3-4bff-9295-5b96edee9c68 gutenify-icon-version-2"><a class="gutenify-icon-wrapper"><img class="" src="https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon1-150x150.png" alt=""/></a></div>
 <!-- /wp:gutenify/icon -->
 
 <!-- wp:heading {"textAlign":"center","level":3,"className":"gutenify-admin-info-box-block-title"} -->
@@ -7058,9 +7058,9 @@ https://player.vimeo.com/video/243191812?h=a742105876&amp;dnt=1&amp;app_id=12296
 <!-- /wp:gutenify/buttons --></div>
 <!-- /wp:gutenify/info-box -->
 
-<!-- wp:gutenify/info-box {"className":"has-shadow-dark","blockClientId":"ce787cac-7be9-4890-ba91-96d3f07a092c","blockAdvanceOptions":{"backgroundColor":"#022222","padding":{"desktop":{"top":"40px","right":"40px","bottom":"40px","left":"40px"}}},"gutenifyStyles":".gutenify-section-ce787cac-7be9-4890-ba91-96d3f07a092c { background: #022222; }.gutenify-section-ce787cac-7be9-4890-ba91-96d3f07a092c { padding-top: 40px;padding-right: 40px;padding-bottom: 40px;padding-left: 40px; }"} -->
-<div class="wp-block-gutenify-info-box gutenify-info-box-layout-1 gutenify-section-ce787cac-7be9-4890-ba91-96d3f07a092c gutenify-info-box-version-2 has-shadow-dark"><!-- wp:gutenify/icon {"blockClientId":"0d5e8bca-d610-45f6-970a-01e85c383c1d","blockAdvanceOptions":{"textColor":"#057689"},"source":"image","iconName":"las la-trophy","size":"50","iconImage":{"id":4410,"title":"icon2","filename":"icon2.png","url":"https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon2.png","link":"https://demo.gutenify.com/finance-up-dark-pro/icon2/","alt":"","author":"5","description":"","caption":"","name":"icon2","status":"inherit","uploadedTo":0,"date":"2022-09-11T05:48:19.000Z","modified":"2022-09-11T05:48:19.000Z","menuOrder":0,"mime":"image/png","type":"image","subtype":"png","icon":"https://demo.gutenify.com/finance-up-dark-pro/wp-includes/images/media/default.png","dateFormatted":"September 11, 2022","nonces":{"update":"9057d1a2b0","delete":"c51254b55e","edit":"63692e50f1"},"editLink":"https://demo.gutenify.com/finance-up-dark-pro/wp-admin/post.php?post=4410\u0026action=edit","meta":false,"authorName":"siteadmin","authorLink":"https://demo.gutenify.com/finance-up-dark-pro/wp-admin/profile.php","filesizeInBytes":8159,"filesizeHumanReadable":"8 KB","context":"","height":256,"width":256,"orientation":"landscape","sizes":{"thumbnail":{"height":150,"width":150,"url":"https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon2-150x150.png","orientation":"landscape"},"full":{"url":"https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon2.png","height":256,"width":256,"orientation":"landscape"}},"compat":{"item":"","meta":""}},"gutenifyStyles":".gutenify-section-0d5e8bca-d610-45f6-970a-01e85c383c1d .gutenify-icon-wrapper { color: #057689; }.gutenify-section-0d5e8bca-d610-45f6-970a-01e85c383c1d .gutenify-icon-wrapper i {\n\t\t\tfont-size: 50px;\n\t\t}.gutenify-section-0d5e8bca-d610-45f6-970a-01e85c383c1d .gutenify-icon-wrapper img {\n\t\t\twidth: 50px;\n\t\t\tmax-width: 50px;\n\t\t}.gutenify-section-0d5e8bca-d610-45f6-970a-01e85c383c1d .gutenify-icon-wrapper .gutenify-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
-<div class="wp-block-gutenify-icon flex-col-item is-content-justification-center gutenify-section-0d5e8bca-d610-45f6-970a-01e85c383c1d gutenify-icon-version-2"><a class="gutenify-icon-wrapper"><img class="" src="https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon2-150x150.png" alt=""/></a></div>
+<!-- wp:gutenify/info-box {"className":"has-shadow-dark","blockClientId":"00f4890c-fecf-4a4d-991c-7957783c35af","blockAdvanceOptions":{"backgroundColor":"#022222","padding":{"desktop":{"top":"40px","right":"40px","bottom":"40px","left":"40px"}}},"gutenifyStyles":".gutenify-section-00f4890c-fecf-4a4d-991c-7957783c35af { background: #022222; }.gutenify-section-00f4890c-fecf-4a4d-991c-7957783c35af { padding-top: 40px;padding-right: 40px;padding-bottom: 40px;padding-left: 40px; }"} -->
+<div class="wp-block-gutenify-info-box gutenify-info-box-layout-1 gutenify-section-00f4890c-fecf-4a4d-991c-7957783c35af gutenify-info-box-version-2 has-shadow-dark"><!-- wp:gutenify/icon {"blockClientId":"4b1e3a70-8a79-4594-87ab-fe6d689b53e8","blockAdvanceOptions":{"textColor":"#057689"},"source":"image","iconName":"las la-trophy","size":"50","iconImage":{"id":4410,"title":"icon2","filename":"icon2.png","url":"https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon2.png","link":"https://demo.gutenify.com/finance-up-dark-pro/icon2/","alt":"","author":"5","description":"","caption":"","name":"icon2","status":"inherit","uploadedTo":0,"date":"2022-09-11T05:48:19.000Z","modified":"2022-09-11T05:48:19.000Z","menuOrder":0,"mime":"image/png","type":"image","subtype":"png","icon":"https://demo.gutenify.com/finance-up-dark-pro/wp-includes/images/media/default.png","dateFormatted":"September 11, 2022","nonces":{"update":"9057d1a2b0","delete":"c51254b55e","edit":"63692e50f1"},"editLink":"https://demo.gutenify.com/finance-up-dark-pro/wp-admin/post.php?post=4410\u0026action=edit","meta":false,"authorName":"siteadmin","authorLink":"https://demo.gutenify.com/finance-up-dark-pro/wp-admin/profile.php","filesizeInBytes":8159,"filesizeHumanReadable":"8 KB","context":"","height":256,"width":256,"orientation":"landscape","sizes":{"thumbnail":{"height":150,"width":150,"url":"https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon2-150x150.png","orientation":"landscape"},"full":{"url":"https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon2.png","height":256,"width":256,"orientation":"landscape"}},"compat":{"item":"","meta":""}},"gutenifyStyles":".gutenify-section-4b1e3a70-8a79-4594-87ab-fe6d689b53e8 .gutenify-icon-wrapper { color: #057689; }.gutenify-section-4b1e3a70-8a79-4594-87ab-fe6d689b53e8 .gutenify-icon-wrapper i {\n\t\t\tfont-size: 50px;\n\t\t}.gutenify-section-4b1e3a70-8a79-4594-87ab-fe6d689b53e8 .gutenify-icon-wrapper img {\n\t\t\twidth: 50px;\n\t\t\tmax-width: 50px;\n\t\t}.gutenify-section-4b1e3a70-8a79-4594-87ab-fe6d689b53e8 .gutenify-icon-wrapper .gutenify-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
+<div class="wp-block-gutenify-icon flex-col-item is-content-justification-center gutenify-section-4b1e3a70-8a79-4594-87ab-fe6d689b53e8 gutenify-icon-version-2"><a class="gutenify-icon-wrapper"><img class="" src="https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon2-150x150.png" alt=""/></a></div>
 <!-- /wp:gutenify/icon -->
 
 <!-- wp:heading {"textAlign":"center","level":3,"className":"gutenify-admin-info-box-block-title"} -->
@@ -7082,9 +7082,9 @@ https://player.vimeo.com/video/243191812?h=a742105876&amp;dnt=1&amp;app_id=12296
 <!-- /wp:gutenify/buttons --></div>
 <!-- /wp:gutenify/info-box -->
 
-<!-- wp:gutenify/info-box {"className":"has-shadow-dark","blockClientId":"fcf14d4a-0a34-4ed7-910a-95b8adb1e795","blockAdvanceOptions":{"backgroundColor":"#022222","padding":{"desktop":{"top":"40px","right":"40px","bottom":"40px","left":"40px"}}},"gutenifyStyles":".gutenify-section-fcf14d4a-0a34-4ed7-910a-95b8adb1e795 { background: #022222; }.gutenify-section-fcf14d4a-0a34-4ed7-910a-95b8adb1e795 { padding-top: 40px;padding-right: 40px;padding-bottom: 40px;padding-left: 40px; }"} -->
-<div class="wp-block-gutenify-info-box gutenify-info-box-layout-1 gutenify-section-fcf14d4a-0a34-4ed7-910a-95b8adb1e795 gutenify-info-box-version-2 has-shadow-dark"><!-- wp:gutenify/icon {"blockClientId":"1f425b1d-5324-4657-b541-24f4a77db06d","blockAdvanceOptions":{"textColor":"#057689"},"source":"image","iconName":"las la-trophy","size":"50","iconImage":{"id":4411,"title":"icon3","filename":"icon3.png","url":"https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon3.png","link":"https://demo.gutenify.com/finance-up-dark-pro/icon3/","alt":"","author":"5","description":"","caption":"","name":"icon3","status":"inherit","uploadedTo":0,"date":"2022-09-11T05:48:24.000Z","modified":"2022-09-11T05:48:24.000Z","menuOrder":0,"mime":"image/png","type":"image","subtype":"png","icon":"https://demo.gutenify.com/finance-up-dark-pro/wp-includes/images/media/default.png","dateFormatted":"September 11, 2022","nonces":{"update":"97ad25e58c","delete":"2a10b03a0b","edit":"1359335d7c"},"editLink":"https://demo.gutenify.com/finance-up-dark-pro/wp-admin/post.php?post=4411\u0026action=edit","meta":false,"authorName":"siteadmin","authorLink":"https://demo.gutenify.com/finance-up-dark-pro/wp-admin/profile.php","filesizeInBytes":5156,"filesizeHumanReadable":"5 KB","context":"","height":256,"width":256,"orientation":"landscape","sizes":{"thumbnail":{"height":150,"width":150,"url":"https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon3-150x150.png","orientation":"landscape"},"full":{"url":"https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon3.png","height":256,"width":256,"orientation":"landscape"}},"compat":{"item":"","meta":""}},"gutenifyStyles":".gutenify-section-1f425b1d-5324-4657-b541-24f4a77db06d .gutenify-icon-wrapper { color: #057689; }.gutenify-section-1f425b1d-5324-4657-b541-24f4a77db06d .gutenify-icon-wrapper i {\n\t\t\tfont-size: 50px;\n\t\t}.gutenify-section-1f425b1d-5324-4657-b541-24f4a77db06d .gutenify-icon-wrapper img {\n\t\t\twidth: 50px;\n\t\t\tmax-width: 50px;\n\t\t}.gutenify-section-1f425b1d-5324-4657-b541-24f4a77db06d .gutenify-icon-wrapper .gutenify-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
-<div class="wp-block-gutenify-icon flex-col-item is-content-justification-center gutenify-section-1f425b1d-5324-4657-b541-24f4a77db06d gutenify-icon-version-2"><a class="gutenify-icon-wrapper"><img class="" src="https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon3-150x150.png" alt=""/></a></div>
+<!-- wp:gutenify/info-box {"className":"has-shadow-dark","blockClientId":"b97889c6-b73f-40cb-8530-c89dc4ffed05","blockAdvanceOptions":{"backgroundColor":"#022222","padding":{"desktop":{"top":"40px","right":"40px","bottom":"40px","left":"40px"}}},"gutenifyStyles":".gutenify-section-b97889c6-b73f-40cb-8530-c89dc4ffed05 { background: #022222; }.gutenify-section-b97889c6-b73f-40cb-8530-c89dc4ffed05 { padding-top: 40px;padding-right: 40px;padding-bottom: 40px;padding-left: 40px; }"} -->
+<div class="wp-block-gutenify-info-box gutenify-info-box-layout-1 gutenify-section-b97889c6-b73f-40cb-8530-c89dc4ffed05 gutenify-info-box-version-2 has-shadow-dark"><!-- wp:gutenify/icon {"blockClientId":"09a7e6ff-6544-467b-8786-beecceb19673","blockAdvanceOptions":{"textColor":"#057689"},"source":"image","iconName":"las la-trophy","size":"50","iconImage":{"id":4411,"title":"icon3","filename":"icon3.png","url":"https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon3.png","link":"https://demo.gutenify.com/finance-up-dark-pro/icon3/","alt":"","author":"5","description":"","caption":"","name":"icon3","status":"inherit","uploadedTo":0,"date":"2022-09-11T05:48:24.000Z","modified":"2022-09-11T05:48:24.000Z","menuOrder":0,"mime":"image/png","type":"image","subtype":"png","icon":"https://demo.gutenify.com/finance-up-dark-pro/wp-includes/images/media/default.png","dateFormatted":"September 11, 2022","nonces":{"update":"97ad25e58c","delete":"2a10b03a0b","edit":"1359335d7c"},"editLink":"https://demo.gutenify.com/finance-up-dark-pro/wp-admin/post.php?post=4411\u0026action=edit","meta":false,"authorName":"siteadmin","authorLink":"https://demo.gutenify.com/finance-up-dark-pro/wp-admin/profile.php","filesizeInBytes":5156,"filesizeHumanReadable":"5 KB","context":"","height":256,"width":256,"orientation":"landscape","sizes":{"thumbnail":{"height":150,"width":150,"url":"https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon3-150x150.png","orientation":"landscape"},"full":{"url":"https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon3.png","height":256,"width":256,"orientation":"landscape"}},"compat":{"item":"","meta":""}},"gutenifyStyles":".gutenify-section-09a7e6ff-6544-467b-8786-beecceb19673 .gutenify-icon-wrapper { color: #057689; }.gutenify-section-09a7e6ff-6544-467b-8786-beecceb19673 .gutenify-icon-wrapper i {\n\t\t\tfont-size: 50px;\n\t\t}.gutenify-section-09a7e6ff-6544-467b-8786-beecceb19673 .gutenify-icon-wrapper img {\n\t\t\twidth: 50px;\n\t\t\tmax-width: 50px;\n\t\t}.gutenify-section-09a7e6ff-6544-467b-8786-beecceb19673 .gutenify-icon-wrapper .gutenify-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
+<div class="wp-block-gutenify-icon flex-col-item is-content-justification-center gutenify-section-09a7e6ff-6544-467b-8786-beecceb19673 gutenify-icon-version-2"><a class="gutenify-icon-wrapper"><img class="" src="https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon3-150x150.png" alt=""/></a></div>
 <!-- /wp:gutenify/icon -->
 
 <!-- wp:heading {"textAlign":"center","level":3,"className":"gutenify-admin-info-box-block-title"} -->
@@ -7106,9 +7106,9 @@ https://player.vimeo.com/video/243191812?h=a742105876&amp;dnt=1&amp;app_id=12296
 <!-- /wp:gutenify/buttons --></div>
 <!-- /wp:gutenify/info-box -->
 
-<!-- wp:gutenify/info-box {"className":"has-shadow-dark","blockClientId":"5a0fbff5-3d81-4e49-8160-3216d6f70c95","blockAdvanceOptions":{"backgroundColor":"#022222","padding":{"desktop":{"top":"40px","right":"40px","bottom":"40px","left":"40px"}}},"gutenifyStyles":".gutenify-section-5a0fbff5-3d81-4e49-8160-3216d6f70c95 { background: #022222; }.gutenify-section-5a0fbff5-3d81-4e49-8160-3216d6f70c95 { padding-top: 40px;padding-right: 40px;padding-bottom: 40px;padding-left: 40px; }"} -->
-<div class="wp-block-gutenify-info-box gutenify-info-box-layout-1 gutenify-section-5a0fbff5-3d81-4e49-8160-3216d6f70c95 gutenify-info-box-version-2 has-shadow-dark"><!-- wp:gutenify/icon {"blockClientId":"ba3b07af-b171-4665-bb22-958f2b8b444a","blockAdvanceOptions":{"textColor":"#057689"},"source":"image","iconName":"las la-trophy","size":"50","iconImage":{"id":4412,"title":"icon4","filename":"icon4.png","url":"https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon4.png","link":"https://demo.gutenify.com/finance-up-dark-pro/icon4/","alt":"","author":"5","description":"","caption":"","name":"icon4","status":"inherit","uploadedTo":0,"date":"2022-09-11T05:48:30.000Z","modified":"2022-09-11T05:48:30.000Z","menuOrder":0,"mime":"image/png","type":"image","subtype":"png","icon":"https://demo.gutenify.com/finance-up-dark-pro/wp-includes/images/media/default.png","dateFormatted":"September 11, 2022","nonces":{"update":"0f0fd93032","delete":"eb9a5d6728","edit":"b3eb9e59be"},"editLink":"https://demo.gutenify.com/finance-up-dark-pro/wp-admin/post.php?post=4412\u0026action=edit","meta":false,"authorName":"siteadmin","authorLink":"https://demo.gutenify.com/finance-up-dark-pro/wp-admin/profile.php","filesizeInBytes":9003,"filesizeHumanReadable":"9 KB","context":"","height":256,"width":256,"orientation":"landscape","sizes":{"thumbnail":{"height":150,"width":150,"url":"https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon4-150x150.png","orientation":"landscape"},"full":{"url":"https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon4.png","height":256,"width":256,"orientation":"landscape"}},"compat":{"item":"","meta":""}},"gutenifyStyles":".gutenify-section-ba3b07af-b171-4665-bb22-958f2b8b444a .gutenify-icon-wrapper { color: #057689; }.gutenify-section-ba3b07af-b171-4665-bb22-958f2b8b444a .gutenify-icon-wrapper i {\n\t\t\tfont-size: 50px;\n\t\t}.gutenify-section-ba3b07af-b171-4665-bb22-958f2b8b444a .gutenify-icon-wrapper img {\n\t\t\twidth: 50px;\n\t\t\tmax-width: 50px;\n\t\t}.gutenify-section-ba3b07af-b171-4665-bb22-958f2b8b444a .gutenify-icon-wrapper .gutenify-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
-<div class="wp-block-gutenify-icon flex-col-item is-content-justification-center gutenify-section-ba3b07af-b171-4665-bb22-958f2b8b444a gutenify-icon-version-2"><a class="gutenify-icon-wrapper"><img class="" src="https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon4-150x150.png" alt=""/></a></div>
+<!-- wp:gutenify/info-box {"className":"has-shadow-dark","blockClientId":"13965af1-91c0-481a-a0b4-c03393901761","blockAdvanceOptions":{"backgroundColor":"#022222","padding":{"desktop":{"top":"40px","right":"40px","bottom":"40px","left":"40px"}}},"gutenifyStyles":".gutenify-section-13965af1-91c0-481a-a0b4-c03393901761 { background: #022222; }.gutenify-section-13965af1-91c0-481a-a0b4-c03393901761 { padding-top: 40px;padding-right: 40px;padding-bottom: 40px;padding-left: 40px; }"} -->
+<div class="wp-block-gutenify-info-box gutenify-info-box-layout-1 gutenify-section-13965af1-91c0-481a-a0b4-c03393901761 gutenify-info-box-version-2 has-shadow-dark"><!-- wp:gutenify/icon {"blockClientId":"274597d2-d30f-4742-83ba-46e8d12df000","blockAdvanceOptions":{"textColor":"#057689"},"source":"image","iconName":"las la-trophy","size":"50","iconImage":{"id":4412,"title":"icon4","filename":"icon4.png","url":"https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon4.png","link":"https://demo.gutenify.com/finance-up-dark-pro/icon4/","alt":"","author":"5","description":"","caption":"","name":"icon4","status":"inherit","uploadedTo":0,"date":"2022-09-11T05:48:30.000Z","modified":"2022-09-11T05:48:30.000Z","menuOrder":0,"mime":"image/png","type":"image","subtype":"png","icon":"https://demo.gutenify.com/finance-up-dark-pro/wp-includes/images/media/default.png","dateFormatted":"September 11, 2022","nonces":{"update":"0f0fd93032","delete":"eb9a5d6728","edit":"b3eb9e59be"},"editLink":"https://demo.gutenify.com/finance-up-dark-pro/wp-admin/post.php?post=4412\u0026action=edit","meta":false,"authorName":"siteadmin","authorLink":"https://demo.gutenify.com/finance-up-dark-pro/wp-admin/profile.php","filesizeInBytes":9003,"filesizeHumanReadable":"9 KB","context":"","height":256,"width":256,"orientation":"landscape","sizes":{"thumbnail":{"height":150,"width":150,"url":"https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon4-150x150.png","orientation":"landscape"},"full":{"url":"https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon4.png","height":256,"width":256,"orientation":"landscape"}},"compat":{"item":"","meta":""}},"gutenifyStyles":".gutenify-section-274597d2-d30f-4742-83ba-46e8d12df000 .gutenify-icon-wrapper { color: #057689; }.gutenify-section-274597d2-d30f-4742-83ba-46e8d12df000 .gutenify-icon-wrapper i {\n\t\t\tfont-size: 50px;\n\t\t}.gutenify-section-274597d2-d30f-4742-83ba-46e8d12df000 .gutenify-icon-wrapper img {\n\t\t\twidth: 50px;\n\t\t\tmax-width: 50px;\n\t\t}.gutenify-section-274597d2-d30f-4742-83ba-46e8d12df000 .gutenify-icon-wrapper .gutenify-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
+<div class="wp-block-gutenify-icon flex-col-item is-content-justification-center gutenify-section-274597d2-d30f-4742-83ba-46e8d12df000 gutenify-icon-version-2"><a class="gutenify-icon-wrapper"><img class="" src="https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon4-150x150.png" alt=""/></a></div>
 <!-- /wp:gutenify/icon -->
 
 <!-- wp:heading {"textAlign":"center","level":3,"className":"gutenify-admin-info-box-block-title"} -->
@@ -7130,9 +7130,9 @@ https://player.vimeo.com/video/243191812?h=a742105876&amp;dnt=1&amp;app_id=12296
 <!-- /wp:gutenify/buttons --></div>
 <!-- /wp:gutenify/info-box -->
 
-<!-- wp:gutenify/info-box {"className":"has-shadow-dark","blockClientId":"9579e4ad-90dc-4cd6-9671-51134304f20c","blockAdvanceOptions":{"backgroundColor":"#022222","padding":{"desktop":{"top":"40px","right":"40px","bottom":"40px","left":"40px"}}},"gutenifyStyles":".gutenify-section-9579e4ad-90dc-4cd6-9671-51134304f20c { background: #022222; }.gutenify-section-9579e4ad-90dc-4cd6-9671-51134304f20c { padding-top: 40px;padding-right: 40px;padding-bottom: 40px;padding-left: 40px; }"} -->
-<div class="wp-block-gutenify-info-box gutenify-info-box-layout-1 gutenify-section-9579e4ad-90dc-4cd6-9671-51134304f20c gutenify-info-box-version-2 has-shadow-dark"><!-- wp:gutenify/icon {"blockClientId":"7300ca41-c0fd-47bf-bdaa-578e4f7cd2c5","blockAdvanceOptions":{"textColor":"#057689"},"source":"image","iconName":"las la-trophy","size":"50","iconImage":{"id":4412,"title":"icon4","filename":"icon4.png","url":"https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon4.png","link":"https://demo.gutenify.com/finance-up-dark-pro/icon4/","alt":"","author":"5","description":"","caption":"","name":"icon4","status":"inherit","uploadedTo":0,"date":"2022-09-11T05:48:30.000Z","modified":"2022-09-11T05:48:30.000Z","menuOrder":0,"mime":"image/png","type":"image","subtype":"png","icon":"https://demo.gutenify.com/finance-up-dark-pro/wp-includes/images/media/default.png","dateFormatted":"September 11, 2022","nonces":{"update":"0f0fd93032","delete":"eb9a5d6728","edit":"b3eb9e59be"},"editLink":"https://demo.gutenify.com/finance-up-dark-pro/wp-admin/post.php?post=4412\u0026action=edit","meta":false,"authorName":"siteadmin","authorLink":"https://demo.gutenify.com/finance-up-dark-pro/wp-admin/profile.php","filesizeInBytes":9003,"filesizeHumanReadable":"9 KB","context":"","height":256,"width":256,"orientation":"landscape","sizes":{"thumbnail":{"height":150,"width":150,"url":"https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon4-150x150.png","orientation":"landscape"},"full":{"url":"https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon4.png","height":256,"width":256,"orientation":"landscape"}},"compat":{"item":"","meta":""}},"gutenifyStyles":".gutenify-section-7300ca41-c0fd-47bf-bdaa-578e4f7cd2c5 .gutenify-icon-wrapper { color: #057689; }.gutenify-section-7300ca41-c0fd-47bf-bdaa-578e4f7cd2c5 .gutenify-icon-wrapper i {\n\t\t\tfont-size: 50px;\n\t\t}.gutenify-section-7300ca41-c0fd-47bf-bdaa-578e4f7cd2c5 .gutenify-icon-wrapper img {\n\t\t\twidth: 50px;\n\t\t\tmax-width: 50px;\n\t\t}.gutenify-section-7300ca41-c0fd-47bf-bdaa-578e4f7cd2c5 .gutenify-icon-wrapper .gutenify-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
-<div class="wp-block-gutenify-icon flex-col-item is-content-justification-center gutenify-section-7300ca41-c0fd-47bf-bdaa-578e4f7cd2c5 gutenify-icon-version-2"><a class="gutenify-icon-wrapper"><img class="" src="https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon4-150x150.png" alt=""/></a></div>
+<!-- wp:gutenify/info-box {"className":"has-shadow-dark","blockClientId":"0b182fb2-445a-43ff-8a18-3f056acbada8","blockAdvanceOptions":{"backgroundColor":"#022222","padding":{"desktop":{"top":"40px","right":"40px","bottom":"40px","left":"40px"}}},"gutenifyStyles":".gutenify-section-0b182fb2-445a-43ff-8a18-3f056acbada8 { background: #022222; }.gutenify-section-0b182fb2-445a-43ff-8a18-3f056acbada8 { padding-top: 40px;padding-right: 40px;padding-bottom: 40px;padding-left: 40px; }"} -->
+<div class="wp-block-gutenify-info-box gutenify-info-box-layout-1 gutenify-section-0b182fb2-445a-43ff-8a18-3f056acbada8 gutenify-info-box-version-2 has-shadow-dark"><!-- wp:gutenify/icon {"blockClientId":"79995865-4f51-4685-b00f-7434e18fcc5f","blockAdvanceOptions":{"textColor":"#057689"},"source":"image","iconName":"las la-trophy","size":"50","iconImage":{"id":4412,"title":"icon4","filename":"icon4.png","url":"https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon4.png","link":"https://demo.gutenify.com/finance-up-dark-pro/icon4/","alt":"","author":"5","description":"","caption":"","name":"icon4","status":"inherit","uploadedTo":0,"date":"2022-09-11T05:48:30.000Z","modified":"2022-09-11T05:48:30.000Z","menuOrder":0,"mime":"image/png","type":"image","subtype":"png","icon":"https://demo.gutenify.com/finance-up-dark-pro/wp-includes/images/media/default.png","dateFormatted":"September 11, 2022","nonces":{"update":"0f0fd93032","delete":"eb9a5d6728","edit":"b3eb9e59be"},"editLink":"https://demo.gutenify.com/finance-up-dark-pro/wp-admin/post.php?post=4412\u0026action=edit","meta":false,"authorName":"siteadmin","authorLink":"https://demo.gutenify.com/finance-up-dark-pro/wp-admin/profile.php","filesizeInBytes":9003,"filesizeHumanReadable":"9 KB","context":"","height":256,"width":256,"orientation":"landscape","sizes":{"thumbnail":{"height":150,"width":150,"url":"https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon4-150x150.png","orientation":"landscape"},"full":{"url":"https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon4.png","height":256,"width":256,"orientation":"landscape"}},"compat":{"item":"","meta":""}},"gutenifyStyles":".gutenify-section-79995865-4f51-4685-b00f-7434e18fcc5f .gutenify-icon-wrapper { color: #057689; }.gutenify-section-79995865-4f51-4685-b00f-7434e18fcc5f .gutenify-icon-wrapper i {\n\t\t\tfont-size: 50px;\n\t\t}.gutenify-section-79995865-4f51-4685-b00f-7434e18fcc5f .gutenify-icon-wrapper img {\n\t\t\twidth: 50px;\n\t\t\tmax-width: 50px;\n\t\t}.gutenify-section-79995865-4f51-4685-b00f-7434e18fcc5f .gutenify-icon-wrapper .gutenify-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
+<div class="wp-block-gutenify-icon flex-col-item is-content-justification-center gutenify-section-79995865-4f51-4685-b00f-7434e18fcc5f gutenify-icon-version-2"><a class="gutenify-icon-wrapper"><img class="" src="https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon4-150x150.png" alt=""/></a></div>
 <!-- /wp:gutenify/icon -->
 
 <!-- wp:heading {"textAlign":"center","level":3,"className":"gutenify-admin-info-box-block-title"} -->
@@ -7154,9 +7154,9 @@ https://player.vimeo.com/video/243191812?h=a742105876&amp;dnt=1&amp;app_id=12296
 <!-- /wp:gutenify/buttons --></div>
 <!-- /wp:gutenify/info-box -->
 
-<!-- wp:gutenify/info-box {"className":"has-shadow-dark","blockClientId":"1dd3f947-ab14-487b-8920-9b4ff8ee5a7c","blockAdvanceOptions":{"backgroundColor":"#022222","padding":{"desktop":{"top":"40px","right":"40px","bottom":"40px","left":"40px"}}},"gutenifyStyles":".gutenify-section-1dd3f947-ab14-487b-8920-9b4ff8ee5a7c { background: #022222; }.gutenify-section-1dd3f947-ab14-487b-8920-9b4ff8ee5a7c { padding-top: 40px;padding-right: 40px;padding-bottom: 40px;padding-left: 40px; }"} -->
-<div class="wp-block-gutenify-info-box gutenify-info-box-layout-1 gutenify-section-1dd3f947-ab14-487b-8920-9b4ff8ee5a7c gutenify-info-box-version-2 has-shadow-dark"><!-- wp:gutenify/icon {"blockClientId":"9eb1bdf3-52df-4af1-9b39-675e6d563ddb","blockAdvanceOptions":{"textColor":"#057689"},"source":"image","iconName":"las la-trophy","size":"50","iconImage":{"id":4412,"title":"icon4","filename":"icon4.png","url":"https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon4.png","link":"https://demo.gutenify.com/finance-up-dark-pro/icon4/","alt":"","author":"5","description":"","caption":"","name":"icon4","status":"inherit","uploadedTo":0,"date":"2022-09-11T05:48:30.000Z","modified":"2022-09-11T05:48:30.000Z","menuOrder":0,"mime":"image/png","type":"image","subtype":"png","icon":"https://demo.gutenify.com/finance-up-dark-pro/wp-includes/images/media/default.png","dateFormatted":"September 11, 2022","nonces":{"update":"0f0fd93032","delete":"eb9a5d6728","edit":"b3eb9e59be"},"editLink":"https://demo.gutenify.com/finance-up-dark-pro/wp-admin/post.php?post=4412\u0026action=edit","meta":false,"authorName":"siteadmin","authorLink":"https://demo.gutenify.com/finance-up-dark-pro/wp-admin/profile.php","filesizeInBytes":9003,"filesizeHumanReadable":"9 KB","context":"","height":256,"width":256,"orientation":"landscape","sizes":{"thumbnail":{"height":150,"width":150,"url":"https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon4-150x150.png","orientation":"landscape"},"full":{"url":"https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon4.png","height":256,"width":256,"orientation":"landscape"}},"compat":{"item":"","meta":""}},"gutenifyStyles":".gutenify-section-9eb1bdf3-52df-4af1-9b39-675e6d563ddb .gutenify-icon-wrapper { color: #057689; }.gutenify-section-9eb1bdf3-52df-4af1-9b39-675e6d563ddb .gutenify-icon-wrapper i {\n\t\t\tfont-size: 50px;\n\t\t}.gutenify-section-9eb1bdf3-52df-4af1-9b39-675e6d563ddb .gutenify-icon-wrapper img {\n\t\t\twidth: 50px;\n\t\t\tmax-width: 50px;\n\t\t}.gutenify-section-9eb1bdf3-52df-4af1-9b39-675e6d563ddb .gutenify-icon-wrapper .gutenify-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
-<div class="wp-block-gutenify-icon flex-col-item is-content-justification-center gutenify-section-9eb1bdf3-52df-4af1-9b39-675e6d563ddb gutenify-icon-version-2"><a class="gutenify-icon-wrapper"><img class="" src="https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon4-150x150.png" alt=""/></a></div>
+<!-- wp:gutenify/info-box {"className":"has-shadow-dark","blockClientId":"40e3f665-598a-4f52-9b4a-b639a9a2ae81","blockAdvanceOptions":{"backgroundColor":"#022222","padding":{"desktop":{"top":"40px","right":"40px","bottom":"40px","left":"40px"}}},"gutenifyStyles":".gutenify-section-40e3f665-598a-4f52-9b4a-b639a9a2ae81 { background: #022222; }.gutenify-section-40e3f665-598a-4f52-9b4a-b639a9a2ae81 { padding-top: 40px;padding-right: 40px;padding-bottom: 40px;padding-left: 40px; }"} -->
+<div class="wp-block-gutenify-info-box gutenify-info-box-layout-1 gutenify-section-40e3f665-598a-4f52-9b4a-b639a9a2ae81 gutenify-info-box-version-2 has-shadow-dark"><!-- wp:gutenify/icon {"blockClientId":"47e49309-1bb5-4c90-91b7-bf51aa7d4a5a","blockAdvanceOptions":{"textColor":"#057689"},"source":"image","iconName":"las la-trophy","size":"50","iconImage":{"id":4412,"title":"icon4","filename":"icon4.png","url":"https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon4.png","link":"https://demo.gutenify.com/finance-up-dark-pro/icon4/","alt":"","author":"5","description":"","caption":"","name":"icon4","status":"inherit","uploadedTo":0,"date":"2022-09-11T05:48:30.000Z","modified":"2022-09-11T05:48:30.000Z","menuOrder":0,"mime":"image/png","type":"image","subtype":"png","icon":"https://demo.gutenify.com/finance-up-dark-pro/wp-includes/images/media/default.png","dateFormatted":"September 11, 2022","nonces":{"update":"0f0fd93032","delete":"eb9a5d6728","edit":"b3eb9e59be"},"editLink":"https://demo.gutenify.com/finance-up-dark-pro/wp-admin/post.php?post=4412\u0026action=edit","meta":false,"authorName":"siteadmin","authorLink":"https://demo.gutenify.com/finance-up-dark-pro/wp-admin/profile.php","filesizeInBytes":9003,"filesizeHumanReadable":"9 KB","context":"","height":256,"width":256,"orientation":"landscape","sizes":{"thumbnail":{"height":150,"width":150,"url":"https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon4-150x150.png","orientation":"landscape"},"full":{"url":"https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon4.png","height":256,"width":256,"orientation":"landscape"}},"compat":{"item":"","meta":""}},"gutenifyStyles":".gutenify-section-47e49309-1bb5-4c90-91b7-bf51aa7d4a5a .gutenify-icon-wrapper { color: #057689; }.gutenify-section-47e49309-1bb5-4c90-91b7-bf51aa7d4a5a .gutenify-icon-wrapper i {\n\t\t\tfont-size: 50px;\n\t\t}.gutenify-section-47e49309-1bb5-4c90-91b7-bf51aa7d4a5a .gutenify-icon-wrapper img {\n\t\t\twidth: 50px;\n\t\t\tmax-width: 50px;\n\t\t}.gutenify-section-47e49309-1bb5-4c90-91b7-bf51aa7d4a5a .gutenify-icon-wrapper .gutenify-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
+<div class="wp-block-gutenify-icon flex-col-item is-content-justification-center gutenify-section-47e49309-1bb5-4c90-91b7-bf51aa7d4a5a gutenify-icon-version-2"><a class="gutenify-icon-wrapper"><img class="" src="https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon4-150x150.png" alt=""/></a></div>
 <!-- /wp:gutenify/icon -->
 
 <!-- wp:heading {"textAlign":"center","level":3,"className":"gutenify-admin-info-box-block-title"} -->
@@ -7178,9 +7178,9 @@ https://player.vimeo.com/video/243191812?h=a742105876&amp;dnt=1&amp;app_id=12296
 <!-- /wp:gutenify/buttons --></div>
 <!-- /wp:gutenify/info-box -->
 
-<!-- wp:gutenify/info-box {"className":"has-shadow-dark","blockClientId":"ac101543-573e-4b21-863e-7e67da2d94ad","blockAdvanceOptions":{"backgroundColor":"#022222","padding":{"desktop":{"top":"40px","right":"40px","bottom":"40px","left":"40px"}}},"gutenifyStyles":".gutenify-section-ac101543-573e-4b21-863e-7e67da2d94ad { background: #022222; }.gutenify-section-ac101543-573e-4b21-863e-7e67da2d94ad { padding-top: 40px;padding-right: 40px;padding-bottom: 40px;padding-left: 40px; }"} -->
-<div class="wp-block-gutenify-info-box gutenify-info-box-layout-1 gutenify-section-ac101543-573e-4b21-863e-7e67da2d94ad gutenify-info-box-version-2 has-shadow-dark"><!-- wp:gutenify/icon {"blockClientId":"b6c7ed8a-0665-4d20-ad98-b6ad2b5f440a","blockAdvanceOptions":{"textColor":"#057689"},"source":"image","iconName":"las la-trophy","size":"50","iconImage":{"id":4412,"title":"icon4","filename":"icon4.png","url":"https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon4.png","link":"https://demo.gutenify.com/finance-up-dark-pro/icon4/","alt":"","author":"5","description":"","caption":"","name":"icon4","status":"inherit","uploadedTo":0,"date":"2022-09-11T05:48:30.000Z","modified":"2022-09-11T05:48:30.000Z","menuOrder":0,"mime":"image/png","type":"image","subtype":"png","icon":"https://demo.gutenify.com/finance-up-dark-pro/wp-includes/images/media/default.png","dateFormatted":"September 11, 2022","nonces":{"update":"0f0fd93032","delete":"eb9a5d6728","edit":"b3eb9e59be"},"editLink":"https://demo.gutenify.com/finance-up-dark-pro/wp-admin/post.php?post=4412\u0026action=edit","meta":false,"authorName":"siteadmin","authorLink":"https://demo.gutenify.com/finance-up-dark-pro/wp-admin/profile.php","filesizeInBytes":9003,"filesizeHumanReadable":"9 KB","context":"","height":256,"width":256,"orientation":"landscape","sizes":{"thumbnail":{"height":150,"width":150,"url":"https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon4-150x150.png","orientation":"landscape"},"full":{"url":"https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon4.png","height":256,"width":256,"orientation":"landscape"}},"compat":{"item":"","meta":""}},"gutenifyStyles":".gutenify-section-b6c7ed8a-0665-4d20-ad98-b6ad2b5f440a .gutenify-icon-wrapper { color: #057689; }.gutenify-section-b6c7ed8a-0665-4d20-ad98-b6ad2b5f440a .gutenify-icon-wrapper i {\n\t\t\tfont-size: 50px;\n\t\t}.gutenify-section-b6c7ed8a-0665-4d20-ad98-b6ad2b5f440a .gutenify-icon-wrapper img {\n\t\t\twidth: 50px;\n\t\t\tmax-width: 50px;\n\t\t}.gutenify-section-b6c7ed8a-0665-4d20-ad98-b6ad2b5f440a .gutenify-icon-wrapper .gutenify-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
-<div class="wp-block-gutenify-icon flex-col-item is-content-justification-center gutenify-section-b6c7ed8a-0665-4d20-ad98-b6ad2b5f440a gutenify-icon-version-2"><a class="gutenify-icon-wrapper"><img class="" src="https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon4-150x150.png" alt=""/></a></div>
+<!-- wp:gutenify/info-box {"className":"has-shadow-dark","blockClientId":"24b7eca5-74b8-4447-bfe5-49904f8ff7b2","blockAdvanceOptions":{"backgroundColor":"#022222","padding":{"desktop":{"top":"40px","right":"40px","bottom":"40px","left":"40px"}}},"gutenifyStyles":".gutenify-section-24b7eca5-74b8-4447-bfe5-49904f8ff7b2 { background: #022222; }.gutenify-section-24b7eca5-74b8-4447-bfe5-49904f8ff7b2 { padding-top: 40px;padding-right: 40px;padding-bottom: 40px;padding-left: 40px; }"} -->
+<div class="wp-block-gutenify-info-box gutenify-info-box-layout-1 gutenify-section-24b7eca5-74b8-4447-bfe5-49904f8ff7b2 gutenify-info-box-version-2 has-shadow-dark"><!-- wp:gutenify/icon {"blockClientId":"2bd84703-6b4b-408b-9141-ca1fb3244b21","blockAdvanceOptions":{"textColor":"#057689"},"source":"image","iconName":"las la-trophy","size":"50","iconImage":{"id":4412,"title":"icon4","filename":"icon4.png","url":"https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon4.png","link":"https://demo.gutenify.com/finance-up-dark-pro/icon4/","alt":"","author":"5","description":"","caption":"","name":"icon4","status":"inherit","uploadedTo":0,"date":"2022-09-11T05:48:30.000Z","modified":"2022-09-11T05:48:30.000Z","menuOrder":0,"mime":"image/png","type":"image","subtype":"png","icon":"https://demo.gutenify.com/finance-up-dark-pro/wp-includes/images/media/default.png","dateFormatted":"September 11, 2022","nonces":{"update":"0f0fd93032","delete":"eb9a5d6728","edit":"b3eb9e59be"},"editLink":"https://demo.gutenify.com/finance-up-dark-pro/wp-admin/post.php?post=4412\u0026action=edit","meta":false,"authorName":"siteadmin","authorLink":"https://demo.gutenify.com/finance-up-dark-pro/wp-admin/profile.php","filesizeInBytes":9003,"filesizeHumanReadable":"9 KB","context":"","height":256,"width":256,"orientation":"landscape","sizes":{"thumbnail":{"height":150,"width":150,"url":"https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon4-150x150.png","orientation":"landscape"},"full":{"url":"https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon4.png","height":256,"width":256,"orientation":"landscape"}},"compat":{"item":"","meta":""}},"gutenifyStyles":".gutenify-section-2bd84703-6b4b-408b-9141-ca1fb3244b21 .gutenify-icon-wrapper { color: #057689; }.gutenify-section-2bd84703-6b4b-408b-9141-ca1fb3244b21 .gutenify-icon-wrapper i {\n\t\t\tfont-size: 50px;\n\t\t}.gutenify-section-2bd84703-6b4b-408b-9141-ca1fb3244b21 .gutenify-icon-wrapper img {\n\t\t\twidth: 50px;\n\t\t\tmax-width: 50px;\n\t\t}.gutenify-section-2bd84703-6b4b-408b-9141-ca1fb3244b21 .gutenify-icon-wrapper .gutenify-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
+<div class="wp-block-gutenify-icon flex-col-item is-content-justification-center gutenify-section-2bd84703-6b4b-408b-9141-ca1fb3244b21 gutenify-icon-version-2"><a class="gutenify-icon-wrapper"><img class="" src="https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon4-150x150.png" alt=""/></a></div>
 <!-- /wp:gutenify/icon -->
 
 <!-- wp:heading {"textAlign":"center","level":3,"className":"gutenify-admin-info-box-block-title"} -->
@@ -7202,9 +7202,9 @@ https://player.vimeo.com/video/243191812?h=a742105876&amp;dnt=1&amp;app_id=12296
 <!-- /wp:gutenify/buttons --></div>
 <!-- /wp:gutenify/info-box -->
 
-<!-- wp:gutenify/info-box {"className":"has-shadow-dark","blockClientId":"749fbf32-7f5f-4e05-8c3e-c96b992a3426","blockAdvanceOptions":{"backgroundColor":"#022222","padding":{"desktop":{"top":"40px","right":"40px","bottom":"40px","left":"40px"}}},"gutenifyStyles":".gutenify-section-749fbf32-7f5f-4e05-8c3e-c96b992a3426 { background: #022222; }.gutenify-section-749fbf32-7f5f-4e05-8c3e-c96b992a3426 { padding-top: 40px;padding-right: 40px;padding-bottom: 40px;padding-left: 40px; }"} -->
-<div class="wp-block-gutenify-info-box gutenify-info-box-layout-1 gutenify-section-749fbf32-7f5f-4e05-8c3e-c96b992a3426 gutenify-info-box-version-2 has-shadow-dark"><!-- wp:gutenify/icon {"blockClientId":"dc309c4a-d3f8-4739-a2dc-ee73c0184639","blockAdvanceOptions":{"textColor":"#057689"},"source":"image","iconName":"las la-trophy","size":"50","iconImage":{"id":4412,"title":"icon4","filename":"icon4.png","url":"https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon4.png","link":"https://demo.gutenify.com/finance-up-dark-pro/icon4/","alt":"","author":"5","description":"","caption":"","name":"icon4","status":"inherit","uploadedTo":0,"date":"2022-09-11T05:48:30.000Z","modified":"2022-09-11T05:48:30.000Z","menuOrder":0,"mime":"image/png","type":"image","subtype":"png","icon":"https://demo.gutenify.com/finance-up-dark-pro/wp-includes/images/media/default.png","dateFormatted":"September 11, 2022","nonces":{"update":"0f0fd93032","delete":"eb9a5d6728","edit":"b3eb9e59be"},"editLink":"https://demo.gutenify.com/finance-up-dark-pro/wp-admin/post.php?post=4412\u0026action=edit","meta":false,"authorName":"siteadmin","authorLink":"https://demo.gutenify.com/finance-up-dark-pro/wp-admin/profile.php","filesizeInBytes":9003,"filesizeHumanReadable":"9 KB","context":"","height":256,"width":256,"orientation":"landscape","sizes":{"thumbnail":{"height":150,"width":150,"url":"https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon4-150x150.png","orientation":"landscape"},"full":{"url":"https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon4.png","height":256,"width":256,"orientation":"landscape"}},"compat":{"item":"","meta":""}},"gutenifyStyles":".gutenify-section-dc309c4a-d3f8-4739-a2dc-ee73c0184639 .gutenify-icon-wrapper { color: #057689; }.gutenify-section-dc309c4a-d3f8-4739-a2dc-ee73c0184639 .gutenify-icon-wrapper i {\n\t\t\tfont-size: 50px;\n\t\t}.gutenify-section-dc309c4a-d3f8-4739-a2dc-ee73c0184639 .gutenify-icon-wrapper img {\n\t\t\twidth: 50px;\n\t\t\tmax-width: 50px;\n\t\t}.gutenify-section-dc309c4a-d3f8-4739-a2dc-ee73c0184639 .gutenify-icon-wrapper .gutenify-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
-<div class="wp-block-gutenify-icon flex-col-item is-content-justification-center gutenify-section-dc309c4a-d3f8-4739-a2dc-ee73c0184639 gutenify-icon-version-2"><a class="gutenify-icon-wrapper"><img class="" src="https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon4-150x150.png" alt=""/></a></div>
+<!-- wp:gutenify/info-box {"className":"has-shadow-dark","blockClientId":"e3775730-ba4a-4abd-8675-e4d2b536eafa","blockAdvanceOptions":{"backgroundColor":"#022222","padding":{"desktop":{"top":"40px","right":"40px","bottom":"40px","left":"40px"}}},"gutenifyStyles":".gutenify-section-e3775730-ba4a-4abd-8675-e4d2b536eafa { background: #022222; }.gutenify-section-e3775730-ba4a-4abd-8675-e4d2b536eafa { padding-top: 40px;padding-right: 40px;padding-bottom: 40px;padding-left: 40px; }"} -->
+<div class="wp-block-gutenify-info-box gutenify-info-box-layout-1 gutenify-section-e3775730-ba4a-4abd-8675-e4d2b536eafa gutenify-info-box-version-2 has-shadow-dark"><!-- wp:gutenify/icon {"blockClientId":"8e1d6aa0-047c-4569-8880-1696746baf40","blockAdvanceOptions":{"textColor":"#057689"},"source":"image","iconName":"las la-trophy","size":"50","iconImage":{"id":4412,"title":"icon4","filename":"icon4.png","url":"https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon4.png","link":"https://demo.gutenify.com/finance-up-dark-pro/icon4/","alt":"","author":"5","description":"","caption":"","name":"icon4","status":"inherit","uploadedTo":0,"date":"2022-09-11T05:48:30.000Z","modified":"2022-09-11T05:48:30.000Z","menuOrder":0,"mime":"image/png","type":"image","subtype":"png","icon":"https://demo.gutenify.com/finance-up-dark-pro/wp-includes/images/media/default.png","dateFormatted":"September 11, 2022","nonces":{"update":"0f0fd93032","delete":"eb9a5d6728","edit":"b3eb9e59be"},"editLink":"https://demo.gutenify.com/finance-up-dark-pro/wp-admin/post.php?post=4412\u0026action=edit","meta":false,"authorName":"siteadmin","authorLink":"https://demo.gutenify.com/finance-up-dark-pro/wp-admin/profile.php","filesizeInBytes":9003,"filesizeHumanReadable":"9 KB","context":"","height":256,"width":256,"orientation":"landscape","sizes":{"thumbnail":{"height":150,"width":150,"url":"https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon4-150x150.png","orientation":"landscape"},"full":{"url":"https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon4.png","height":256,"width":256,"orientation":"landscape"}},"compat":{"item":"","meta":""}},"gutenifyStyles":".gutenify-section-8e1d6aa0-047c-4569-8880-1696746baf40 .gutenify-icon-wrapper { color: #057689; }.gutenify-section-8e1d6aa0-047c-4569-8880-1696746baf40 .gutenify-icon-wrapper i {\n\t\t\tfont-size: 50px;\n\t\t}.gutenify-section-8e1d6aa0-047c-4569-8880-1696746baf40 .gutenify-icon-wrapper img {\n\t\t\twidth: 50px;\n\t\t\tmax-width: 50px;\n\t\t}.gutenify-section-8e1d6aa0-047c-4569-8880-1696746baf40 .gutenify-icon-wrapper .gutenify-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
+<div class="wp-block-gutenify-icon flex-col-item is-content-justification-center gutenify-section-8e1d6aa0-047c-4569-8880-1696746baf40 gutenify-icon-version-2"><a class="gutenify-icon-wrapper"><img class="" src="https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/icon4-150x150.png" alt=""/></a></div>
 <!-- /wp:gutenify/icon -->
 
 <!-- wp:heading {"textAlign":"center","level":3,"className":"gutenify-admin-info-box-block-title"} -->
@@ -7328,9 +7328,9 @@ https://player.vimeo.com/video/243191812?h=a742105876&amp;dnt=1&amp;app_id=12296
 <!-- /wp:group -->
 
 <!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"16px"}}},"layout":{"inherit":false}} -->
-<div class="wp-block-group alignwide" style="padding-top:16px"><!-- wp:gutenify/team {"blockClientId":"6390140e-3ab2-4972-b15d-d30316a85d2c","blockAdvanceOptions":{"padding":{"desktop":{"top":"20px","bottom":"20px","left":"0px","right":"0px"}},"textColor":"#3a57e8"},"columnSize":4,"align":"wide","className":"wp-block-gutenify-team alignwide animated animated-fadeInUp","gutenifyStyles":".gutenify-section-6390140e-3ab2-4972-b15d-d30316a85d2c { color: #3a57e8; }.gutenify-section-6390140e-3ab2-4972-b15d-d30316a85d2c { padding-top: 20px;padding-right: 0px;padding-bottom: 20px;padding-left: 0px; }"} -->
-<div class="gutenify-team-block-wrapper gutenify-team-layout-1 gutenify-team-col-4 gutenify-section-6390140e-3ab2-4972-b15d-d30316a85d2c gutenify-team-version-2"><div class="gutenify-team-section"><!-- wp:gutenify/team-member {"blockClientId":"c1d23184-891c-48da-aaa5-1e2998c94c02","blockAdvanceOptions":{"backgroundColor":"#022222"},"className":"has-shadow-dark animated animated-fadeInUp","gutenifyStyles":".gutenify-section-c1d23184-891c-48da-aaa5-1e2998c94c02 { background: #022222; }"} -->
-<div class="wp-block-gutenify-team-member gutenify-team-item gutenify-section-c1d23184-891c-48da-aaa5-1e2998c94c02 gutenify-team-member-layout-1 gutenify-team-member-version-2 has-shadow-dark animated animated-fadeInUp"><div class="gutenify-team-member-section"><!-- wp:image {"align":"center","id":4476,"sizeSlug":"full","linkDestination":"none","className":" image-zoom-hover"} -->
+<div class="wp-block-group alignwide" style="padding-top:16px"><!-- wp:gutenify/team {"blockClientId":"943fdd27-4724-4f68-8288-fcba1c49ea1e","blockAdvanceOptions":{"padding":{"desktop":{"top":"20px","bottom":"20px","left":"0px","right":"0px"}},"textColor":"#3a57e8"},"columnSize":4,"align":"wide","className":"wp-block-gutenify-team alignwide animated animated-fadeInUp","gutenifyStyles":".gutenify-section-943fdd27-4724-4f68-8288-fcba1c49ea1e { color: #3a57e8; }.gutenify-section-943fdd27-4724-4f68-8288-fcba1c49ea1e { padding-top: 20px;padding-right: 0px;padding-bottom: 20px;padding-left: 0px; }"} -->
+<div class="gutenify-team-block-wrapper gutenify-team-layout-1 gutenify-team-col-4 gutenify-section-943fdd27-4724-4f68-8288-fcba1c49ea1e gutenify-team-version-2"><div class="gutenify-team-section"><!-- wp:gutenify/team-member {"blockClientId":"226fb451-e5f4-4fad-bbd1-f15a2b80ffa7","blockAdvanceOptions":{"backgroundColor":"#022222"},"className":"has-shadow-dark animated animated-fadeInUp","gutenifyStyles":".gutenify-section-226fb451-e5f4-4fad-bbd1-f15a2b80ffa7 { background: #022222; }"} -->
+<div class="wp-block-gutenify-team-member gutenify-team-item gutenify-section-226fb451-e5f4-4fad-bbd1-f15a2b80ffa7 gutenify-team-member-layout-1 gutenify-team-member-version-2 has-shadow-dark animated animated-fadeInUp"><div class="gutenify-team-member-section"><!-- wp:image {"align":"center","id":4476,"sizeSlug":"full","linkDestination":"none","className":" image-zoom-hover"} -->
 <figure class="wp-block-image aligncenter size-full  image-zoom-hover"><img src="https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/image-85-copright-570x696-2.jpeg" alt="" class="wp-image-4476"/></figure>
 <!-- /wp:image -->
 
@@ -7355,8 +7355,8 @@ https://player.vimeo.com/video/243191812?h=a742105876&amp;dnt=1&amp;app_id=12296
 <!-- /wp:social-links --></div></div>
 <!-- /wp:gutenify/team-member -->
 
-<!-- wp:gutenify/team-member {"blockClientId":"3a21b626-2cf8-49f9-8342-8964a91c3663","blockAdvanceOptions":{"backgroundColor":"#022222"},"className":"has-shadow-dark animated animated-fadeInUp","gutenifyStyles":".gutenify-section-3a21b626-2cf8-49f9-8342-8964a91c3663 { background: #022222; }"} -->
-<div class="wp-block-gutenify-team-member gutenify-team-item gutenify-section-3a21b626-2cf8-49f9-8342-8964a91c3663 gutenify-team-member-layout-1 gutenify-team-member-version-2 has-shadow-dark animated animated-fadeInUp"><div class="gutenify-team-member-section"><!-- wp:image {"align":"center","id":4474,"sizeSlug":"full","linkDestination":"none","className":" image-zoom-hover"} -->
+<!-- wp:gutenify/team-member {"blockClientId":"8ab234b6-7372-4759-9587-72c0cca58cfb","blockAdvanceOptions":{"backgroundColor":"#022222"},"className":"has-shadow-dark animated animated-fadeInUp","gutenifyStyles":".gutenify-section-8ab234b6-7372-4759-9587-72c0cca58cfb { background: #022222; }"} -->
+<div class="wp-block-gutenify-team-member gutenify-team-item gutenify-section-8ab234b6-7372-4759-9587-72c0cca58cfb gutenify-team-member-layout-1 gutenify-team-member-version-2 has-shadow-dark animated animated-fadeInUp"><div class="gutenify-team-member-section"><!-- wp:image {"align":"center","id":4474,"sizeSlug":"full","linkDestination":"none","className":" image-zoom-hover"} -->
 <figure class="wp-block-image aligncenter size-full  image-zoom-hover"><img src="https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/image-83-copright-570x696-1.jpeg" alt="" class="wp-image-4474"/></figure>
 <!-- /wp:image -->
 
@@ -7381,8 +7381,8 @@ https://player.vimeo.com/video/243191812?h=a742105876&amp;dnt=1&amp;app_id=12296
 <!-- /wp:social-links --></div></div>
 <!-- /wp:gutenify/team-member -->
 
-<!-- wp:gutenify/team-member {"blockClientId":"757b1e91-96fd-4c4d-b63a-2c9cdd0343b7","blockAdvanceOptions":{"backgroundColor":"#022222"},"className":"has-shadow-dark animated animated-fadeInUp","gutenifyStyles":".gutenify-section-757b1e91-96fd-4c4d-b63a-2c9cdd0343b7 { background: #022222; }"} -->
-<div class="wp-block-gutenify-team-member gutenify-team-item gutenify-section-757b1e91-96fd-4c4d-b63a-2c9cdd0343b7 gutenify-team-member-layout-1 gutenify-team-member-version-2 has-shadow-dark animated animated-fadeInUp"><div class="gutenify-team-member-section"><!-- wp:image {"align":"center","id":4471,"sizeSlug":"full","linkDestination":"none","className":" image-zoom-hover"} -->
+<!-- wp:gutenify/team-member {"blockClientId":"66353868-e70c-4c82-9dd8-6b33aede1a86","blockAdvanceOptions":{"backgroundColor":"#022222"},"className":"has-shadow-dark animated animated-fadeInUp","gutenifyStyles":".gutenify-section-66353868-e70c-4c82-9dd8-6b33aede1a86 { background: #022222; }"} -->
+<div class="wp-block-gutenify-team-member gutenify-team-item gutenify-section-66353868-e70c-4c82-9dd8-6b33aede1a86 gutenify-team-member-layout-1 gutenify-team-member-version-2 has-shadow-dark animated animated-fadeInUp"><div class="gutenify-team-member-section"><!-- wp:image {"align":"center","id":4471,"sizeSlug":"full","linkDestination":"none","className":" image-zoom-hover"} -->
 <figure class="wp-block-image aligncenter size-full  image-zoom-hover"><img src="https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/image-86-copright-570x696-1.jpeg" alt="" class="wp-image-4471"/></figure>
 <!-- /wp:image -->
 
@@ -7407,8 +7407,8 @@ https://player.vimeo.com/video/243191812?h=a742105876&amp;dnt=1&amp;app_id=12296
 <!-- /wp:social-links --></div></div>
 <!-- /wp:gutenify/team-member -->
 
-<!-- wp:gutenify/team-member {"blockClientId":"65a002c0-5717-41a7-acec-c23af0358214","blockAdvanceOptions":{"backgroundColor":"#022222"},"className":"has-shadow-dark animated animated-fadeInUp","gutenifyStyles":".gutenify-section-65a002c0-5717-41a7-acec-c23af0358214 { background: #022222; }"} -->
-<div class="wp-block-gutenify-team-member gutenify-team-item gutenify-section-65a002c0-5717-41a7-acec-c23af0358214 gutenify-team-member-layout-1 gutenify-team-member-version-2 has-shadow-dark animated animated-fadeInUp"><div class="gutenify-team-member-section"><!-- wp:image {"align":"center","id":4472,"sizeSlug":"full","linkDestination":"none","className":" image-zoom-hover"} -->
+<!-- wp:gutenify/team-member {"blockClientId":"fdac8b74-57bc-4147-a3db-fae30fb78eef","blockAdvanceOptions":{"backgroundColor":"#022222"},"className":"has-shadow-dark animated animated-fadeInUp","gutenifyStyles":".gutenify-section-fdac8b74-57bc-4147-a3db-fae30fb78eef { background: #022222; }"} -->
+<div class="wp-block-gutenify-team-member gutenify-team-item gutenify-section-fdac8b74-57bc-4147-a3db-fae30fb78eef gutenify-team-member-layout-1 gutenify-team-member-version-2 has-shadow-dark animated animated-fadeInUp"><div class="gutenify-team-member-section"><!-- wp:image {"align":"center","id":4472,"sizeSlug":"full","linkDestination":"none","className":" image-zoom-hover"} -->
 <figure class="wp-block-image aligncenter size-full  image-zoom-hover"><img src="https://demo.gutenify.com/finance-up-dark-pro/wp-content/uploads/sites/68/2022/09/image-81-copright-570x696-1.jpeg" alt="" class="wp-image-4472"/></figure>
 <!-- /wp:image -->
 
@@ -7601,12 +7601,12 @@ https://player.vimeo.com/video/243191812?h=a742105876&amp;dnt=1&amp;app_id=12296
 <div class="wp-block-group alignfull"><!-- wp:gutenify/container {"blockClientId":"60cf2b9d-2424-45ed-a74a-e423caf84052","blockAdvanceOptions":{"backgroundColor":"","backgroundGradient":"","padding":{"desktop":{"top":"80px","right":"0px","bottom":"80px","left":"0px"},"mobile":{"top":"40px","right":"20px","bottom":"40px","left":"20px"}}},"align":"wide","gutenifyStyles":".gutenify-section-60cf2b9d-2424-45ed-a74a-e423caf84052 { padding-top: 80px;padding-right: 0px;padding-bottom: 80px;padding-left: 0px; }@media only screen and (max-width: 768px) { .gutenify-section-60cf2b9d-2424-45ed-a74a-e423caf84052 { padding-top: 40px;padding-right: 20px;padding-bottom: 40px;padding-left: 20px; } }"} -->
 <div class="wp-block-gutenify-container alignwide gutenify-block-container-wrapper gutenify-section-60cf2b9d-2424-45ed-a74a-e423caf84052 gutenify-container-version-2"><div class="gutenify-container"><!-- wp:columns {"verticalAlignment":"center","align":"wide"} -->
 <div class="wp-block-columns alignwide are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","className":"animated fadeInUp"} -->
-<div class="wp-block-column is-vertically-aligned-center animated fadeInUp"><!-- wp:gutenify/section-title {"blockClientId":"c9ce7851-d7a3-4d9b-a1d6-9dac631fbb55","blockAdvanceOptions":{"prefixTitleClasses":"animated animated-fadeInUp","mainTitleClasses":"animated animated-fadeInUp","suffixTitleClasses":"animated animated-fadeInUp"},"textAlignment":"left","prefixContent":"CONTACT US","prefixColor":"#057689","titleContent":"Get In Touch","titleFontSize":"clamp(2.5rem, 4vw, 3rem)","suffixContent":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. Vestibulum sodales sapien id dolor aliquam volutpat. Suspendisse fermentum lorem.","gutenifyStyles":".gutenify-section-c9ce7851-d7a3-4d9b-a1d6-9dac631fbb55 .gutenify-section-title-main{\n\t\tfont-size: clamp(2.5rem, 4vw, 3rem);\n\t}"} /-->
+<div class="wp-block-column is-vertically-aligned-center animated fadeInUp"><!-- wp:gutenify/section-title {"blockClientId":"4267fccc-6478-476d-ae24-4007610ad2ec","blockAdvanceOptions":{"prefixTitleClasses":"animated animated-fadeInUp","mainTitleClasses":"animated animated-fadeInUp","suffixTitleClasses":"animated animated-fadeInUp"},"textAlignment":"left","prefixContent":"CONTACT US","prefixColor":"#057689","titleContent":"Get In Touch","titleFontSize":"clamp(2.5rem, 4vw, 3rem)","suffixContent":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. Vestibulum sodales sapien id dolor aliquam volutpat. Suspendisse fermentum lorem.","gutenifyStyles":".gutenify-section-4267fccc-6478-476d-ae24-4007610ad2ec .gutenify-section-title-main{\n\t\tfont-size: clamp(2.5rem, 4vw, 3rem);\n\t}"} /-->
 
 <!-- wp:gutenify/service {"blockClientId":"a4305800-a651-4864-a09c-2f33590f4b10","layout":"layout-2","hideButtons":true,"className":"animated animated-fadeInUp alignundefined gutenify-service-block-wrapper","gutenifyStyles":".gutenify-section-a4305800-a651-4864-a09c-2f33590f4b10 { padding-top: 20px;padding-right: 20px;padding-bottom: 20px;padding-left: 20px; }"} -->
 <div class="wp-block-gutenify-service gutenify-service-layout-2 gutenify-service-col-2 gutenify--service--hide-button gutenify-section-a4305800-a651-4864-a09c-2f33590f4b10 gutenify-service-version-2 animated animated-fadeInUp alignundefined gutenify-service-block-wrapper"><div class="gutenify-service-block"><!-- wp:gutenify/info-box {"className":"flex-col-item","blockClientId":"a0d4abab-4f34-4ada-a2e3-72fec2176eb5","blockAdvanceOptions":{"padding":{"desktop":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}},"layout":"layout-2","iconAlign":"center","titleAlign":"left","gutenifyStyles":".gutenify-section-a0d4abab-4f34-4ada-a2e3-72fec2176eb5 { padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px; }"} -->
-<div class="wp-block-gutenify-info-box gutenify-info-box-layout-2 gutenify-section-a0d4abab-4f34-4ada-a2e3-72fec2176eb5 gutenify-info-box-version-2 flex-col-item"><!-- wp:gutenify/icon {"blockClientId":"f65308a4-2d50-4ca4-944b-3ea12b62ee9a","blockAdvanceOptions":{"textColor":"#fff","backgroundColor":"#057689","iconPadding":{"desktop":{"top":"10px","right":"10px","bottom":"10px","left":"10px"}},"containerHeight":"40","containerWidth":"40"},"iconName":"fas fa-map-marker-alt","size":"18","borderRadius":"100px","gutenifyStyles":".gutenify-section-f65308a4-2d50-4ca4-944b-3ea12b62ee9a .gutenify-icon-wrapper { color: #fff;background: #057689;border-radius: 100px;\n\t\tpadding-top: 10px;\n\t\tpadding-right: 10px;\n\t\tpadding-bottom: 10px;\n\t\tpadding-left: 10px;\n\twidth: 40px;height: 40px; }.gutenify-section-f65308a4-2d50-4ca4-944b-3ea12b62ee9a .gutenify-icon-wrapper i {\n\t\t\tfont-size: 18px;\n\t\t}.gutenify-section-f65308a4-2d50-4ca4-944b-3ea12b62ee9a .gutenify-icon-wrapper img {\n\t\t\twidth: 18px;\n\t\t\tmax-width: 18px;\n\t\t}.gutenify-section-f65308a4-2d50-4ca4-944b-3ea12b62ee9a .gutenify-icon-wrapper .gutenify-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
-<div class="wp-block-gutenify-icon flex-col-item is-content-justification-center gutenify-section-f65308a4-2d50-4ca4-944b-3ea12b62ee9a gutenify-icon-version-2"><a class="gutenify-icon-wrapper"><i class="fas fa-map-marker-alt"></i></a></div>
+<div class="wp-block-gutenify-info-box gutenify-info-box-layout-2 gutenify-section-a0d4abab-4f34-4ada-a2e3-72fec2176eb5 gutenify-info-box-version-2 flex-col-item"><!-- wp:gutenify/icon {"blockClientId":"a903274f-9fc2-4b78-9854-6bf91fba59c6","blockAdvanceOptions":{"textColor":"#fff","backgroundColor":"#057689","iconPadding":{"desktop":{"top":"10px","right":"10px","bottom":"10px","left":"10px"}},"containerHeight":"40","containerWidth":"40"},"iconName":"fas fa-map-marker-alt","size":"18","borderRadius":"100px","gutenifyStyles":".gutenify-section-a903274f-9fc2-4b78-9854-6bf91fba59c6 .gutenify-icon-wrapper { color: #fff;background: #057689;border-radius: 100px;\n\t\tpadding-top: 10px;\n\t\tpadding-right: 10px;\n\t\tpadding-bottom: 10px;\n\t\tpadding-left: 10px;\n\twidth: 40px;height: 40px; }.gutenify-section-a903274f-9fc2-4b78-9854-6bf91fba59c6 .gutenify-icon-wrapper i {\n\t\t\tfont-size: 18px;\n\t\t}.gutenify-section-a903274f-9fc2-4b78-9854-6bf91fba59c6 .gutenify-icon-wrapper img {\n\t\t\twidth: 18px;\n\t\t\tmax-width: 18px;\n\t\t}.gutenify-section-a903274f-9fc2-4b78-9854-6bf91fba59c6 .gutenify-icon-wrapper .gutenify-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
+<div class="wp-block-gutenify-icon flex-col-item is-content-justification-center gutenify-section-a903274f-9fc2-4b78-9854-6bf91fba59c6 gutenify-icon-version-2"><a class="gutenify-icon-wrapper"><i class="fas fa-map-marker-alt"></i></a></div>
 <!-- /wp:gutenify/icon -->
 
 <!-- wp:heading {"textAlign":"left","level":3,"className":"gutenify-admin-info-box-block-title"} -->
@@ -7627,8 +7627,8 @@ https://player.vimeo.com/video/243191812?h=a742105876&amp;dnt=1&amp;app_id=12296
 <!-- /wp:gutenify/info-box -->
 
 <!-- wp:gutenify/info-box {"className":"flex-col-item","blockClientId":"258733da-c277-4302-86c9-fe4e69ea4567","blockAdvanceOptions":{"padding":{"desktop":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}},"layout":"layout-2","iconAlign":"center","titleAlign":"left","gutenifyStyles":".gutenify-section-258733da-c277-4302-86c9-fe4e69ea4567 { padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px; }"} -->
-<div class="wp-block-gutenify-info-box gutenify-info-box-layout-2 gutenify-section-258733da-c277-4302-86c9-fe4e69ea4567 gutenify-info-box-version-2 flex-col-item"><!-- wp:gutenify/icon {"blockClientId":"b6dccfbc-4497-4e3b-bdd7-c1a8ddb4c590","blockAdvanceOptions":{"textColor":"#fff","containerWidth":"40","containerHeight":"40","backgroundColor":"#057689","iconPadding":{"desktop":{"top":"10px","right":"10px","bottom":"10px","left":"10px"}}},"iconName":"fas fa-phone","size":"18","borderRadius":"100px","gutenifyStyles":".gutenify-section-b6dccfbc-4497-4e3b-bdd7-c1a8ddb4c590 .gutenify-icon-wrapper { color: #fff;background: #057689;border-radius: 100px;\n\t\tpadding-top: 10px;\n\t\tpadding-right: 10px;\n\t\tpadding-bottom: 10px;\n\t\tpadding-left: 10px;\n\twidth: 40px;height: 40px; }.gutenify-section-b6dccfbc-4497-4e3b-bdd7-c1a8ddb4c590 .gutenify-icon-wrapper i {\n\t\t\tfont-size: 18px;\n\t\t}.gutenify-section-b6dccfbc-4497-4e3b-bdd7-c1a8ddb4c590 .gutenify-icon-wrapper img {\n\t\t\twidth: 18px;\n\t\t\tmax-width: 18px;\n\t\t}.gutenify-section-b6dccfbc-4497-4e3b-bdd7-c1a8ddb4c590 .gutenify-icon-wrapper .gutenify-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
-<div class="wp-block-gutenify-icon flex-col-item is-content-justification-center gutenify-section-b6dccfbc-4497-4e3b-bdd7-c1a8ddb4c590 gutenify-icon-version-2"><a class="gutenify-icon-wrapper"><i class="fas fa-phone"></i></a></div>
+<div class="wp-block-gutenify-info-box gutenify-info-box-layout-2 gutenify-section-258733da-c277-4302-86c9-fe4e69ea4567 gutenify-info-box-version-2 flex-col-item"><!-- wp:gutenify/icon {"blockClientId":"e948758f-0a36-447b-ae27-214430dd8be8","blockAdvanceOptions":{"textColor":"#fff","containerWidth":"40","containerHeight":"40","backgroundColor":"#057689","iconPadding":{"desktop":{"top":"10px","right":"10px","bottom":"10px","left":"10px"}}},"iconName":"fas fa-phone","size":"18","borderRadius":"100px","gutenifyStyles":".gutenify-section-e948758f-0a36-447b-ae27-214430dd8be8 .gutenify-icon-wrapper { color: #fff;background: #057689;border-radius: 100px;\n\t\tpadding-top: 10px;\n\t\tpadding-right: 10px;\n\t\tpadding-bottom: 10px;\n\t\tpadding-left: 10px;\n\twidth: 40px;height: 40px; }.gutenify-section-e948758f-0a36-447b-ae27-214430dd8be8 .gutenify-icon-wrapper i {\n\t\t\tfont-size: 18px;\n\t\t}.gutenify-section-e948758f-0a36-447b-ae27-214430dd8be8 .gutenify-icon-wrapper img {\n\t\t\twidth: 18px;\n\t\t\tmax-width: 18px;\n\t\t}.gutenify-section-e948758f-0a36-447b-ae27-214430dd8be8 .gutenify-icon-wrapper .gutenify-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
+<div class="wp-block-gutenify-icon flex-col-item is-content-justification-center gutenify-section-e948758f-0a36-447b-ae27-214430dd8be8 gutenify-icon-version-2"><a class="gutenify-icon-wrapper"><i class="fas fa-phone"></i></a></div>
 <!-- /wp:gutenify/icon -->
 
 <!-- wp:heading {"textAlign":"left","level":3,"className":"gutenify-admin-info-box-block-title"} -->
@@ -7649,8 +7649,8 @@ https://player.vimeo.com/video/243191812?h=a742105876&amp;dnt=1&amp;app_id=12296
 <!-- /wp:gutenify/info-box -->
 
 <!-- wp:gutenify/info-box {"className":"flex-col-item","blockClientId":"235803f3-a7a8-4774-b5c8-c00cd7e88ac9","blockAdvanceOptions":{"padding":{"desktop":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}},"layout":"layout-2","iconAlign":"center","titleAlign":"left","gutenifyStyles":".gutenify-section-235803f3-a7a8-4774-b5c8-c00cd7e88ac9 { padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px; }"} -->
-<div class="wp-block-gutenify-info-box gutenify-info-box-layout-2 gutenify-section-235803f3-a7a8-4774-b5c8-c00cd7e88ac9 gutenify-info-box-version-2 flex-col-item"><!-- wp:gutenify/icon {"blockClientId":"4abd9372-7144-4019-b3ce-bafea9be837a","blockAdvanceOptions":{"textColor":"#fff","backgroundColor":"#057689","containerWidth":"40","containerHeight":"40","iconPadding":{"desktop":{"top":"10px","right":"10px","bottom":"10px","left":"10px"}}},"iconName":"far fa-comments","size":"18","borderRadius":"100px","gutenifyStyles":".gutenify-section-4abd9372-7144-4019-b3ce-bafea9be837a .gutenify-icon-wrapper { color: #fff;background: #057689;border-radius: 100px;\n\t\tpadding-top: 10px;\n\t\tpadding-right: 10px;\n\t\tpadding-bottom: 10px;\n\t\tpadding-left: 10px;\n\twidth: 40px;height: 40px; }.gutenify-section-4abd9372-7144-4019-b3ce-bafea9be837a .gutenify-icon-wrapper i {\n\t\t\tfont-size: 18px;\n\t\t}.gutenify-section-4abd9372-7144-4019-b3ce-bafea9be837a .gutenify-icon-wrapper img {\n\t\t\twidth: 18px;\n\t\t\tmax-width: 18px;\n\t\t}.gutenify-section-4abd9372-7144-4019-b3ce-bafea9be837a .gutenify-icon-wrapper .gutenify-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
-<div class="wp-block-gutenify-icon flex-col-item is-content-justification-center gutenify-section-4abd9372-7144-4019-b3ce-bafea9be837a gutenify-icon-version-2"><a class="gutenify-icon-wrapper"><i class="far fa-comments"></i></a></div>
+<div class="wp-block-gutenify-info-box gutenify-info-box-layout-2 gutenify-section-235803f3-a7a8-4774-b5c8-c00cd7e88ac9 gutenify-info-box-version-2 flex-col-item"><!-- wp:gutenify/icon {"blockClientId":"efae00df-a749-4abc-a743-245cb99d9c0a","blockAdvanceOptions":{"textColor":"#fff","backgroundColor":"#057689","containerWidth":"40","containerHeight":"40","iconPadding":{"desktop":{"top":"10px","right":"10px","bottom":"10px","left":"10px"}}},"iconName":"far fa-comments","size":"18","borderRadius":"100px","gutenifyStyles":".gutenify-section-efae00df-a749-4abc-a743-245cb99d9c0a .gutenify-icon-wrapper { color: #fff;background: #057689;border-radius: 100px;\n\t\tpadding-top: 10px;\n\t\tpadding-right: 10px;\n\t\tpadding-bottom: 10px;\n\t\tpadding-left: 10px;\n\twidth: 40px;height: 40px; }.gutenify-section-efae00df-a749-4abc-a743-245cb99d9c0a .gutenify-icon-wrapper i {\n\t\t\tfont-size: 18px;\n\t\t}.gutenify-section-efae00df-a749-4abc-a743-245cb99d9c0a .gutenify-icon-wrapper img {\n\t\t\twidth: 18px;\n\t\t\tmax-width: 18px;\n\t\t}.gutenify-section-efae00df-a749-4abc-a743-245cb99d9c0a .gutenify-icon-wrapper .gutenify-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
+<div class="wp-block-gutenify-icon flex-col-item is-content-justification-center gutenify-section-efae00df-a749-4abc-a743-245cb99d9c0a gutenify-icon-version-2"><a class="gutenify-icon-wrapper"><i class="far fa-comments"></i></a></div>
 <!-- /wp:gutenify/icon -->
 
 <!-- wp:heading {"textAlign":"left","level":3,"className":"gutenify-admin-info-box-block-title"} -->
@@ -7671,8 +7671,8 @@ https://player.vimeo.com/video/243191812?h=a742105876&amp;dnt=1&amp;app_id=12296
 <!-- /wp:gutenify/info-box -->
 
 <!-- wp:gutenify/info-box {"className":"flex-col-item","blockClientId":"cdfce595-462b-40e0-aaaa-3d791a554af3","blockAdvanceOptions":{"padding":{"desktop":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}},"layout":"layout-2","iconAlign":"center","titleAlign":"left","gutenifyStyles":".gutenify-section-cdfce595-462b-40e0-aaaa-3d791a554af3 { padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px; }"} -->
-<div class="wp-block-gutenify-info-box gutenify-info-box-layout-2 gutenify-section-cdfce595-462b-40e0-aaaa-3d791a554af3 gutenify-info-box-version-2 flex-col-item"><!-- wp:gutenify/icon {"blockClientId":"9c2b013e-7628-446a-ba1f-37e665a730b4","blockAdvanceOptions":{"textColor":"#fff","backgroundColor":"#057689","containerWidth":"40","containerHeight":"40","iconPadding":{"desktop":{"left":"10px","bottom":"10px","right":"10px","top":"10px"}}},"iconName":"fas fa-globe","size":"18","borderRadius":"100px","gutenifyStyles":".gutenify-section-9c2b013e-7628-446a-ba1f-37e665a730b4 .gutenify-icon-wrapper { color: #fff;background: #057689;border-radius: 100px;\n\t\tpadding-top: 10px;\n\t\tpadding-right: 10px;\n\t\tpadding-bottom: 10px;\n\t\tpadding-left: 10px;\n\twidth: 40px;height: 40px; }.gutenify-section-9c2b013e-7628-446a-ba1f-37e665a730b4 .gutenify-icon-wrapper i {\n\t\t\tfont-size: 18px;\n\t\t}.gutenify-section-9c2b013e-7628-446a-ba1f-37e665a730b4 .gutenify-icon-wrapper img {\n\t\t\twidth: 18px;\n\t\t\tmax-width: 18px;\n\t\t}.gutenify-section-9c2b013e-7628-446a-ba1f-37e665a730b4 .gutenify-icon-wrapper .gutenify-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
-<div class="wp-block-gutenify-icon flex-col-item is-content-justification-center gutenify-section-9c2b013e-7628-446a-ba1f-37e665a730b4 gutenify-icon-version-2"><a class="gutenify-icon-wrapper"><i class="fas fa-globe"></i></a></div>
+<div class="wp-block-gutenify-info-box gutenify-info-box-layout-2 gutenify-section-cdfce595-462b-40e0-aaaa-3d791a554af3 gutenify-info-box-version-2 flex-col-item"><!-- wp:gutenify/icon {"blockClientId":"08afe03b-5bff-4fdf-ac6f-0ad62effc792","blockAdvanceOptions":{"textColor":"#fff","backgroundColor":"#057689","containerWidth":"40","containerHeight":"40","iconPadding":{"desktop":{"left":"10px","bottom":"10px","right":"10px","top":"10px"}}},"iconName":"fas fa-globe","size":"18","borderRadius":"100px","gutenifyStyles":".gutenify-section-08afe03b-5bff-4fdf-ac6f-0ad62effc792 .gutenify-icon-wrapper { color: #fff;background: #057689;border-radius: 100px;\n\t\tpadding-top: 10px;\n\t\tpadding-right: 10px;\n\t\tpadding-bottom: 10px;\n\t\tpadding-left: 10px;\n\twidth: 40px;height: 40px; }.gutenify-section-08afe03b-5bff-4fdf-ac6f-0ad62effc792 .gutenify-icon-wrapper i {\n\t\t\tfont-size: 18px;\n\t\t}.gutenify-section-08afe03b-5bff-4fdf-ac6f-0ad62effc792 .gutenify-icon-wrapper img {\n\t\t\twidth: 18px;\n\t\t\tmax-width: 18px;\n\t\t}.gutenify-section-08afe03b-5bff-4fdf-ac6f-0ad62effc792 .gutenify-icon-wrapper .gutenify-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
+<div class="wp-block-gutenify-icon flex-col-item is-content-justification-center gutenify-section-08afe03b-5bff-4fdf-ac6f-0ad62effc792 gutenify-icon-version-2"><a class="gutenify-icon-wrapper"><i class="fas fa-globe"></i></a></div>
 <!-- /wp:gutenify/icon -->
 
 <!-- wp:heading {"textAlign":"left","level":3,"className":"gutenify-admin-info-box-block-title"} -->
@@ -7790,7 +7790,7 @@ https://player.vimeo.com/video/243191812?h=a742105876&amp;dnt=1&amp;app_id=12296
 
 <!-- wp:post-date {"isLink":true,"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} /-->
 
-<!-- wp:post-excerpt {"moreText":"Know More\u003ca role=\u0022textbox\u0022 aria-multiline=\u0022true\u0022 aria-label=\u0022\u0026quot;Read more\u0026quot; link text\u0022 class=\u0022block-editor-rich-text__editable wp-block-post-excerpt__more-link rich-text\u0022 style=\u0022font-size: revert; font-family: var(\u002d\u002dwp\u002d\u002dpreset\u002d\u002dfont-family\u002d\u002dpoppins); min-width: 1px; display: inline !important;\u0022\u003e\u003c/a\u003e","style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}}} /--></div>
+<!-- wp:post-excerpt {"moreText":"Know More","style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}}} /--></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->
 <!-- /wp:post-template --></main>
@@ -7802,8 +7802,8 @@ https://player.vimeo.com/video/243191812?h=a742105876&amp;dnt=1&amp;app_id=12296
 		<wp:post_id>4632</wp:post_id>
 		<wp:post_date><![CDATA[2022-09-14 14:01:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-09-14 14:01:47]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-21 08:06:29]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-21 08:06:29]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-10-19 04:19:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-10-19 04:19:51]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-2]]></wp:post_name>
@@ -11238,8 +11238,8 @@ audio/mpeg
 <div class="wp-block-group has-background-color has-secondary-background-color has-text-color has-background" style="padding-top:8px;padding-right:8px;padding-bottom:8px;padding-left:8px"><!-- wp:group {"align":"wide","className":"mobile-aligncenter","layout":{"type":"flex","allowOrientation":false,"justifyContent":"space-between"}} -->
 <div class="wp-block-group alignwide mobile-aligncenter"><!-- wp:group {"style":{"spacing":{"blockGap":"25px"}},"className":"mobile-aligncenter","layout":{"type":"flex","flexWrap":"wrap"}} -->
 <div class="wp-block-group mobile-aligncenter"><!-- wp:group {"style":{"spacing":{"blockGap":"10px"}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center"}} -->
-<div class="wp-block-group"><!-- wp:gutenify/icon {"blockClientId":"6a2c3b29-5b09-4df2-bd39-12140fbe2e62","blockAdvanceOptions":{"textColor":"#289482"},"iconName":"fas fa-phone-volume","size":"18","gutenifyStyles":".gutenify-section-6a2c3b29-5b09-4df2-bd39-12140fbe2e62 .gutenify-icon-wrapper { color: #289482; }.gutenify-section-6a2c3b29-5b09-4df2-bd39-12140fbe2e62 .gutenify-icon-wrapper i {\n\t\t\tfont-size: 18px;\n\t\t}.gutenify-section-6a2c3b29-5b09-4df2-bd39-12140fbe2e62 .gutenify-icon-wrapper img {\n\t\t\twidth: 18px;\n\t\t\tmax-width: 18px;\n\t\t}.gutenify-section-6a2c3b29-5b09-4df2-bd39-12140fbe2e62 .gutenify-icon-wrapper .gutenify-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
-<div class="wp-block-gutenify-icon flex-col-item is-content-justification-center gutenify-section-6a2c3b29-5b09-4df2-bd39-12140fbe2e62 gutenify-icon-version-2"><a class="gutenify-icon-wrapper"><i class="fas fa-phone-volume"></i></a></div>
+<div class="wp-block-group"><!-- wp:gutenify/icon {"blockClientId":"93d95308-e3c2-4a04-9ab9-63ec0a930660","blockAdvanceOptions":{"textColor":"#289482"},"iconName":"fas fa-phone-volume","size":"18","gutenifyStyles":".gutenify-section-93d95308-e3c2-4a04-9ab9-63ec0a930660 .gutenify-icon-wrapper { color: #289482; }.gutenify-section-93d95308-e3c2-4a04-9ab9-63ec0a930660 .gutenify-icon-wrapper i {\n\t\t\tfont-size: 18px;\n\t\t}.gutenify-section-93d95308-e3c2-4a04-9ab9-63ec0a930660 .gutenify-icon-wrapper img {\n\t\t\twidth: 18px;\n\t\t\tmax-width: 18px;\n\t\t}.gutenify-section-93d95308-e3c2-4a04-9ab9-63ec0a930660 .gutenify-icon-wrapper .gutenify-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
+<div class="wp-block-gutenify-icon flex-col-item is-content-justification-center gutenify-section-93d95308-e3c2-4a04-9ab9-63ec0a930660 gutenify-icon-version-2"><a class="gutenify-icon-wrapper"><i class="fas fa-phone-volume"></i></a></div>
 <!-- /wp:gutenify/icon -->
 
 <!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"500"}},"textColor":"foreground","fontSize":"small"} -->
@@ -11248,8 +11248,8 @@ audio/mpeg
 <!-- /wp:group -->
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"10px"}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center"}} -->
-<div class="wp-block-group"><!-- wp:gutenify/icon {"blockClientId":"6e5b0a2c-20b4-4bbc-9e77-a60b07261ccc","blockAdvanceOptions":{"textColor":"#289482"},"iconName":"far fa-envelope","size":"18","gutenifyStyles":".gutenify-section-6e5b0a2c-20b4-4bbc-9e77-a60b07261ccc .gutenify-icon-wrapper { color: #289482; }.gutenify-section-6e5b0a2c-20b4-4bbc-9e77-a60b07261ccc .gutenify-icon-wrapper i {\n\t\t\tfont-size: 18px;\n\t\t}.gutenify-section-6e5b0a2c-20b4-4bbc-9e77-a60b07261ccc .gutenify-icon-wrapper img {\n\t\t\twidth: 18px;\n\t\t\tmax-width: 18px;\n\t\t}.gutenify-section-6e5b0a2c-20b4-4bbc-9e77-a60b07261ccc .gutenify-icon-wrapper .gutenify-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
-<div class="wp-block-gutenify-icon flex-col-item is-content-justification-center gutenify-section-6e5b0a2c-20b4-4bbc-9e77-a60b07261ccc gutenify-icon-version-2"><a class="gutenify-icon-wrapper"><i class="far fa-envelope"></i></a></div>
+<div class="wp-block-group"><!-- wp:gutenify/icon {"blockClientId":"74530d3e-ad7f-4c9d-9077-5f79747ea4f5","blockAdvanceOptions":{"textColor":"#289482"},"iconName":"far fa-envelope","size":"18","gutenifyStyles":".gutenify-section-74530d3e-ad7f-4c9d-9077-5f79747ea4f5 .gutenify-icon-wrapper { color: #289482; }.gutenify-section-74530d3e-ad7f-4c9d-9077-5f79747ea4f5 .gutenify-icon-wrapper i {\n\t\t\tfont-size: 18px;\n\t\t}.gutenify-section-74530d3e-ad7f-4c9d-9077-5f79747ea4f5 .gutenify-icon-wrapper img {\n\t\t\twidth: 18px;\n\t\t\tmax-width: 18px;\n\t\t}.gutenify-section-74530d3e-ad7f-4c9d-9077-5f79747ea4f5 .gutenify-icon-wrapper .gutenify-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
+<div class="wp-block-gutenify-icon flex-col-item is-content-justification-center gutenify-section-74530d3e-ad7f-4c9d-9077-5f79747ea4f5 gutenify-icon-version-2"><a class="gutenify-icon-wrapper"><i class="far fa-envelope"></i></a></div>
 <!-- /wp:gutenify/icon -->
 
 <!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"500"}},"textColor":"foreground","fontSize":"small"} -->
@@ -11298,8 +11298,8 @@ audio/mpeg
 		<wp:post_id>4619</wp:post_id>
 		<wp:post_date><![CDATA[2022-09-14 09:36:46]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-09-14 09:36:46]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-21 08:06:28]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-21 08:06:28]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-10-19 04:20:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-10-19 04:20:53]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[header]]></wp:post_name>
@@ -12186,129 +12186,6 @@ audio/mpeg
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Contact form 1]]></title>
-		<link>https://demo.gutenify.com/finance-up-dark-pro/?post_type=wpcf7_contact_form&#038;p=4637</link>
-		<pubDate>Wed, 14 Sep 2022 14:04:08 +0000</pubDate>
-		<dc:creator><![CDATA[siteadmin]]></dc:creator>
-		<guid isPermaLink="false">https://demo.gutenify.com/finance-up-dark-pro/?post_type=wpcf7_contact_form&#038;p=4637</guid>
-		<description></description>
-		<content:encoded><![CDATA[<label> Your name
-    [text* your-name] </label>
-
-<label> Your email
-    [email* your-email] </label>
-
-<label> Subject
-    [text* your-subject] </label>
-
-<label> Your message (optional)
-    [textarea your-message] </label>
-
-[submit "Submit"]
-[_site_title] "[your-subject]"
-[_site_title] <wordpress@demo.gutenify.com>
-From: [your-name] <[your-email]>
-Subject: [your-subject]
-
-Message Body:
-[your-message]
-
--- 
-This e-mail was sent from a contact form on [_site_title] ([_site_url])
-[_site_admin_email]
-Reply-To: [your-email]
-
-0
-0
-
-[_site_title] "[your-subject]"
-[_site_title] <wordpress@demo.gutenify.com>
-Message Body:
-[your-message]
-
--- 
-This e-mail was sent from a contact form on [_site_title] ([_site_url])
-[your-email]
-Reply-To: [_site_admin_email]
-
-0
-0
-Thank you for your message. It has been sent.
-There was an error trying to send your message. Please try again later.
-One or more fields have an error. Please check and try again.
-There was an error trying to send your message. Please try again later.
-You must accept the terms and conditions before sending your message.
-Please fill out this field.
-This field has a too long input.
-This field has a too short input.
-There was an unknown error uploading the file.
-You are not allowed to upload files of this type.
-The uploaded file is too large.
-There was an error uploading the file.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>4637</wp:post_id>
-		<wp:post_date><![CDATA[2022-09-14 14:04:08]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-09-14 14:04:08]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-14 14:04:08]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-14 14:04:08]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[contact-form-1]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wpcf7_contact_form]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_form]]></wp:meta_key>
-		<wp:meta_value><![CDATA[<label> Your name
-    [text* your-name] </label>
-
-<label> Your email
-    [email* your-email] </label>
-
-<label> Subject
-    [text* your-subject] </label>
-
-<label> Your message (optional)
-    [textarea your-message] </label>
-
-[submit "Submit"]]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:8:{s:7:"subject";s:30:"[_site_title] "[your-subject]"";s:6:"sender";s:43:"[_site_title] <wordpress@demo.gutenify.com>";s:4:"body";s:163:"From: [your-name] <[your-email]>
-Subject: [your-subject]
-
-Message Body:
-[your-message]
-
--- 
-This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:9:"recipient";s:19:"[_site_admin_email]";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:30:"[_site_title] "[your-subject]"";s:6:"sender";s:43:"[_site_title] <wordpress@demo.gutenify.com>";s:4:"body";s:105:"Message Body:
-[your-message]
-
--- 
-This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:29:"Reply-To: [_site_admin_email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:12:{s:12:"mail_sent_ok";s:45:"Thank you for your message. It has been sent.";s:12:"mail_sent_ng";s:71:"There was an error trying to send your message. Please try again later.";s:16:"validation_error";s:61:"One or more fields have an error. Please check and try again.";s:4:"spam";s:71:"There was an error trying to send your message. Please try again later.";s:12:"accept_terms";s:69:"You must accept the terms and conditions before sending your message.";s:16:"invalid_required";s:27:"Please fill out this field.";s:16:"invalid_too_long";s:32:"This field has a too long input.";s:17:"invalid_too_short";s:33:"This field has a too short input.";s:13:"upload_failed";s:46:"There was an unknown error uploading the file.";s:24:"upload_file_type_invalid";s:49:"You are not allowed to upload files of this type.";s:21:"upload_file_too_large";s:31:"The uploaded file is too large.";s:23:"upload_failed_php_error";s:38:"There was an error uploading the file.";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_additional_settings]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_locale]]></wp:meta_key>
-		<wp:meta_value><![CDATA[en_US]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[Header Menu]]></title>
 		<link>https://demo.gutenify.com/finance-up-dark-pro/2022/09/15/header-menu-3/</link>
 		<pubDate>Thu, 15 Sep 2022 08:51:31 +0000</pubDate>
@@ -12391,7 +12268,7 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:9:"re
 <!-- wp:post-date {"format":"M j, Y","isLink":true,"fontSize":"small"} /--></div>
 <!-- /wp:group -->
 
-<!-- wp:post-excerpt {"moreText":"Know More\u003ca role=\u0022textbox\u0022 aria-multiline=\u0022true\u0022 aria-label=\u0022\u0026quot;Read more\u0026quot; link text\u0022 class=\u0022block-editor-rich-text__editable wp-block-post-excerpt__more-link rich-text\u0022 style=\u0022font-size: revert; background-color: initial; font-family: var(\u002d\u002dwp\u002d\u002dpreset\u002d\u002dfont-family\u002d\u002droboto); min-width: 1px; display: inline !important;\u0022\u003e\u003c/a\u003e"} /--></div>
+<!-- wp:post-excerpt {"moreText":"Know More","style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}}} /--></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->
 
@@ -12416,8 +12293,8 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:9:"re
 		<wp:post_id>4897</wp:post_id>
 		<wp:post_date><![CDATA[2022-09-16 07:17:01]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-09-16 07:17:01]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-16 07:17:09]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-16 07:17:09]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-10-19 04:20:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-10-19 04:20:53]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[archive]]></wp:post_name>
@@ -12509,144 +12386,6 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:9:"re
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="wp_theme" nicename="gutenify-finance"><![CDATA[gutenify-finance]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
-		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Sidebar]]></title>
-		<link>https://demo.gutenify.com/finance-up-dark-pro/2022/09/16/sidebar/</link>
-		<pubDate>Fri, 16 Sep 2022 07:18:12 +0000</pubDate>
-		<dc:creator><![CDATA[siteadmin]]></dc:creator>
-		<guid isPermaLink="false">https://demo.gutenify.com/finance-up-dark-pro/2022/09/16/sidebar/</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:group {"style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}}} -->
-<div class="wp-block-group" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:group {"style":{"spacing":{"blockGap":"5px"}},"className":"has-no-hover-shadow-dark animated animated-fadeInUp"} -->
-<div class="wp-block-group has-no-hover-shadow-dark animated animated-fadeInUp"><!-- wp:group {"style":{"spacing":{"padding":{"top":"30px","right":"30px","bottom":"30px","left":"30px"}}},"backgroundColor":"background-secondary"} -->
-<div class="wp-block-group has-background-secondary-background-color has-background" style="padding-top:30px;padding-right:30px;padding-bottom:30px;padding-left:30px"><!-- wp:search {"label":"","showLabel":false,"placeholder":" Search","width":100,"widthUnit":"%","buttonText":"Search","buttonUseIcon":true,"style":{"border":{"radius":"0px","width":"0px","style":"none"}},"backgroundColor":"primary","textColor":"background"} /--></div>
-<!-- /wp:group --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"style":{"spacing":{"padding":{"top":"25px","right":"30px","bottom":"25px","left":"30px"},"blockGap":"0px"}},"backgroundColor":"background-secondary","className":"has-no-hover-shadow-dark animated animated-fadeInUp"} -->
-<div class="wp-block-group has-no-hover-shadow-dark animated animated-fadeInUp has-background-secondary-background-color has-background" style="padding-top:25px;padding-right:30px;padding-bottom:25px;padding-left:30px"><!-- wp:group {"style":{"spacing":{"blockGap":"10px","margin":{"top":"0px","bottom":"0px"},"padding":{"top":"0px","right":"0px","bottom":"20px","left":"0px"}}},"layout":{"inherit":true}} -->
-<div class="wp-block-group" style="margin-top:0px;margin-bottom:0px;padding-top:0px;padding-right:0px;padding-bottom:20px;padding-left:0px"><!-- wp:heading {"level":3,"align":"wide","style":{"spacing":{"margin":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}},"textColor":"foreground","fontSize":"content-heading"} -->
-<h3 class="alignwide has-foreground-color has-text-color has-content-heading-font-size" style="margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px">Categories</h3>
-<!-- /wp:heading -->
-
-<!-- wp:group {"align":"wide","layout":{"inherit":false}} -->
-<div class="wp-block-group alignwide"><!-- wp:separator {"backgroundColor":"border","className":"is-style-wide"} -->
-<hr class="wp-block-separator has-text-color has-border-color has-alpha-channel-opacity has-border-background-color has-background is-style-wide"/>
-<!-- /wp:separator --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}}} -->
-<div class="wp-block-group" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:categories /--></div>
-<!-- /wp:group --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"style":{"spacing":{"padding":{"top":"25px","right":"30px","bottom":"25px","left":"30px"},"blockGap":"0px"}},"backgroundColor":"background-secondary","className":"has-no-hover-shadow-dark animated animated-fadeInUp"} -->
-<div class="wp-block-group has-no-hover-shadow-dark animated animated-fadeInUp has-background-secondary-background-color has-background" style="padding-top:25px;padding-right:30px;padding-bottom:25px;padding-left:30px"><!-- wp:group {"style":{"spacing":{"blockGap":"10px","margin":{"top":"0px","bottom":"0px"},"padding":{"top":"0px","right":"0px","bottom":"20px","left":"0px"}}},"layout":{"inherit":true}} -->
-<div class="wp-block-group" style="margin-top:0px;margin-bottom:0px;padding-top:0px;padding-right:0px;padding-bottom:20px;padding-left:0px"><!-- wp:heading {"level":3,"align":"wide","style":{"spacing":{"margin":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}},"textColor":"foreground","fontSize":"content-heading"} -->
-<h3 class="alignwide has-foreground-color has-text-color has-content-heading-font-size" style="margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px">Recent Posts</h3>
-<!-- /wp:heading -->
-
-<!-- wp:group {"align":"wide","layout":{"inherit":false}} -->
-<div class="wp-block-group alignwide"><!-- wp:separator {"backgroundColor":"border","className":"is-style-wide"} -->
-<hr class="wp-block-separator has-text-color has-border-color has-alpha-channel-opacity has-border-background-color has-background is-style-wide"/>
-<!-- /wp:separator --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}}} -->
-<div class="wp-block-group" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:latest-posts {"displayPostDate":true,"displayFeaturedImage":true,"featuredImageAlign":"left","featuredImageSizeWidth":75,"featuredImageSizeHeight":75} /--></div>
-<!-- /wp:group --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"style":{"spacing":{"padding":{"top":"25px","right":"30px","bottom":"25px","left":"30px"},"blockGap":"0px"}},"backgroundColor":"background-secondary","className":"has-no-hover-shadow-dark animated animated-fadeInUp"} -->
-<div class="wp-block-group has-no-hover-shadow-dark animated animated-fadeInUp has-background-secondary-background-color has-background" style="padding-top:25px;padding-right:30px;padding-bottom:25px;padding-left:30px"><!-- wp:group {"style":{"spacing":{"blockGap":"10px","margin":{"top":"0px","bottom":"0px"},"padding":{"top":"0px","right":"0px","bottom":"20px","left":"0px"}}},"layout":{"inherit":true}} -->
-<div class="wp-block-group" style="margin-top:0px;margin-bottom:0px;padding-top:0px;padding-right:0px;padding-bottom:20px;padding-left:0px"><!-- wp:heading {"level":3,"align":"wide","style":{"spacing":{"margin":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}},"textColor":"foreground","fontSize":"content-heading"} -->
-<h3 class="alignwide has-foreground-color has-text-color has-content-heading-font-size" style="margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px">Archive</h3>
-<!-- /wp:heading -->
-
-<!-- wp:group {"align":"wide","layout":{"inherit":false}} -->
-<div class="wp-block-group alignwide"><!-- wp:separator {"backgroundColor":"border","className":"is-style-wide"} -->
-<hr class="wp-block-separator has-text-color has-border-color has-alpha-channel-opacity has-border-background-color has-background is-style-wide"/>
-<!-- /wp:separator --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}}} -->
-<div class="wp-block-group" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:group -->
-<div class="wp-block-group"><!-- wp:archives /--></div>
-<!-- /wp:group --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"style":{"spacing":{"padding":{"top":"25px","right":"30px","bottom":"25px","left":"30px"},"blockGap":"0px"}},"backgroundColor":"background-secondary","className":"has-no-hover-shadow-dark animated animated-fadeInUp"} -->
-<div class="wp-block-group has-no-hover-shadow-dark animated animated-fadeInUp has-background-secondary-background-color has-background" style="padding-top:25px;padding-right:30px;padding-bottom:25px;padding-left:30px"><!-- wp:group {"style":{"spacing":{"blockGap":"10px","margin":{"top":"0px","bottom":"0px"},"padding":{"top":"0px","right":"0px","bottom":"20px","left":"0px"}}},"layout":{"inherit":true}} -->
-<div class="wp-block-group" style="margin-top:0px;margin-bottom:0px;padding-top:0px;padding-right:0px;padding-bottom:20px;padding-left:0px"><!-- wp:heading {"level":3,"align":"wide","style":{"spacing":{"margin":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}},"textColor":"foreground","fontSize":"content-heading"} -->
-<h3 class="alignwide has-foreground-color has-text-color has-content-heading-font-size" style="margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px">Tags</h3>
-<!-- /wp:heading -->
-
-<!-- wp:group {"align":"wide","layout":{"inherit":false}} -->
-<div class="wp-block-group alignwide"><!-- wp:separator {"backgroundColor":"border","className":"is-style-wide"} -->
-<hr class="wp-block-separator has-text-color has-border-color has-alpha-channel-opacity has-border-background-color has-background is-style-wide"/>
-<!-- /wp:separator --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}}} -->
-<div class="wp-block-group" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:tag-cloud /--></div>
-<!-- /wp:group --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"style":{"spacing":{"padding":{"top":"25px","right":"30px","bottom":"25px","left":"30px"},"blockGap":"0px"}},"backgroundColor":"background-secondary","className":"has-no-hover-shadow-dark animated animated-fadeInUp"} -->
-<div class="wp-block-group has-no-hover-shadow-dark animated animated-fadeInUp has-background-secondary-background-color has-background" style="padding-top:25px;padding-right:30px;padding-bottom:25px;padding-left:30px"><!-- wp:group {"style":{"spacing":{"blockGap":"10px","margin":{"top":"0px","bottom":"0px"},"padding":{"top":"0px","right":"0px","bottom":"20px","left":"0px"}}},"layout":{"inherit":true}} -->
-<div class="wp-block-group" style="margin-top:0px;margin-bottom:0px;padding-top:0px;padding-right:0px;padding-bottom:20px;padding-left:0px"><!-- wp:heading {"level":3,"align":"wide","style":{"spacing":{"margin":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}},"textColor":"foreground","fontSize":"content-heading"} -->
-<h3 class="alignwide has-foreground-color has-text-color has-content-heading-font-size" style="margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px">Social Links</h3>
-<!-- /wp:heading -->
-
-<!-- wp:group {"align":"wide","layout":{"inherit":false}} -->
-<div class="wp-block-group alignwide"><!-- wp:separator {"backgroundColor":"border","className":"is-style-wide"} -->
-<hr class="wp-block-separator has-text-color has-border-color has-alpha-channel-opacity has-border-background-color has-background is-style-wide"/>
-<!-- /wp:separator --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}}} -->
-<div class="wp-block-group" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:group {"style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}}} -->
-<div class="wp-block-group" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:social-links {"iconColor":"background","iconColorValue":"#ffffff","openInNewTab":true,"size":"has-small-icon-size","className":"is-style-default","layout":{"type":"flex","justifyContent":"left"},"style":{"spacing":{"blockGap":"20px"}}} -->
-<ul class="wp-block-social-links has-small-icon-size has-icon-color is-style-default"><!-- wp:social-link {"url":"#","service":"facebook"} /-->
-
-<!-- wp:social-link {"url":"#","service":"twitter"} /-->
-
-<!-- wp:social-link {"url":"#","service":"linkedin"} /-->
-
-<!-- wp:social-link {"url":"#","service":"instagram"} /--></ul>
-<!-- /wp:social-links --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>4902</wp:post_id>
-		<wp:post_date><![CDATA[2022-09-16 07:18:12]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-09-16 07:18:12]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-16 07:18:12]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-16 07:18:12]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[sidebar]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_template_part]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="wp_theme" nicename="gutenify-finance"><![CDATA[gutenify-finance]]></category>
-		<category domain="wp_template_part_area" nicename="uncategorized"><![CDATA[uncategorized]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
 		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
@@ -12945,6 +12684,388 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:9:"re
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="wp_theme" nicename="gutenify-finance"><![CDATA[gutenify-finance]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[404]]></title>
+		<link>https://demo.gutenify.com/finance-up-dark-pro/2022/10/19/404/</link>
+		<pubDate>Wed, 19 Oct 2022 04:20:17 +0000</pubDate>
+		<dc:creator><![CDATA[siteadmin]]></dc:creator>
+		<guid isPermaLink="false">https://demo.gutenify.com/finance-up-dark-pro/2022/10/19/404/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:template-part {"slug":"header","theme":"gutenify-finance","tagName":"header"} /-->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"0px","bottom":"0px","right":"0px","left":"0px"},"blockGap":"0px"}},"layout":{"inherit":true}} -->
+<div class="wp-block-group" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:cover {"url":"https://demo.gutenify.com/finance-up-dark-pro/wp-content/themes/gutenify-finance/images/header-media.jpeg","id":4101,"dimRatio":70,"focalPoint":{"x":"0.34","y":"0.00"},"minHeight":60,"minHeightUnit":"vw","customGradient":"linear-gradient(90deg,rgb(0,0,0) 52%,rgba(150,149,240,0) 96%)","contentPosition":"center center","align":"full","style":{"spacing":{"padding":{"top":"50px"}}}} -->
+<div class="wp-block-cover alignfull" style="padding-top:50px;min-height:60vw"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-70 has-background-dim wp-block-cover__gradient-background has-background-gradient" style="background:linear-gradient(90deg,rgb(0,0,0) 52%,rgba(150,149,240,0) 96%)"></span><img class="wp-block-cover__image-background wp-image-4101" alt="" src="https://demo.gutenify.com/finance-up-dark-pro/wp-content/themes/gutenify-finance/images/header-media.jpeg" style="object-position:34% 0%" data-object-fit="cover" data-object-position="34% 0%"/><div class="wp-block-cover__inner-container"><!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"0px","padding":{"bottom":"100px","top":"100px"}}},"layout":{"type":"default"}} -->
+<div class="wp-block-group alignwide" style="padding-top:100px;padding-bottom:100px"><!-- wp:heading {"style":{"typography":{"fontSize":"clamp(4rem, 40vw, 20rem)","fontWeight":"200","lineHeight":"1"}},"textColor":"white","className":"has-text-align-center"} -->
+<h2 class="has-text-align-center has-white-color has-text-color" style="font-size:clamp(4rem, 40vw, 20rem);font-weight:200;line-height:1">4<mark style="background-color: rgba(0, 0, 0, 0)" class="has-inline-color has-primary-color">0</mark>4</h2>
+<!-- /wp:heading -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"bottom":"30px"}}},"layout":{"inherit":true}} -->
+<div class="wp-block-group" style="padding-bottom:30px"><!-- wp:search {"label":"Search","showLabel":false,"placeholder":"Search","width":75,"widthUnit":"%","buttonText":"Search","buttonUseIcon":true,"align":"center","backgroundColor":"primary","textColor":"white"} /--></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph {"align":"center","textColor":"background-secondary"} -->
+<p class="has-text-align-center has-background-secondary-color has-text-color">PhotoThis page could not be found. Maybe try a search?</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div></div>
+<!-- /wp:cover --></div>
+<!-- /wp:group -->
+
+<!-- wp:template-part {"slug":"footer","theme":"gutenify-finance","tagName":"footer"} /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[Displays when no content is found.]]></excerpt:encoded>
+		<wp:post_id>4927</wp:post_id>
+		<wp:post_date><![CDATA[2022-10-19 04:20:17]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-10-19 04:20:17]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-10-19 04:20:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-10-19 04:20:17]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[404]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_template]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="gutenify-finance"><![CDATA[gutenify-finance]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Page (No Title / Feature Image)]]></title>
+		<link>https://demo.gutenify.com/finance-up-dark-pro/2022/10/19/page-no-title/</link>
+		<pubDate>Wed, 19 Oct 2022 04:20:26 +0000</pubDate>
+		<dc:creator><![CDATA[siteadmin]]></dc:creator>
+		<guid isPermaLink="false">https://demo.gutenify.com/finance-up-dark-pro/2022/10/19/page-no-title/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:template-part {"slug":"header","theme":"gutenify-finance","tagName":"header"} /-->
+
+<!-- wp:group {"tagName":"main","style":{"spacing":{"margin":{"top":"0px"},"padding":{"top":"0px","bottom":"0px"}}},"layout":{"inherit":false}} -->
+<main class="wp-block-group" style="margin-top:0px;padding-top:0px;padding-bottom:0px"><!-- wp:group {"style":{"spacing":{"margin":{"top":"0px"}}}} -->
+<div class="wp-block-group" style="margin-top:0px"><!-- wp:post-content {"layout":{"inherit":true}} /--></div>
+<!-- /wp:group --></main>
+<!-- /wp:group -->
+
+<!-- wp:template-part {"slug":"footer","theme":"gutenify-finance","tagName":"footer"} /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>4929</wp:post_id>
+		<wp:post_date><![CDATA[2022-10-19 04:20:26]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-10-19 04:20:26]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-10-19 04:20:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-10-19 04:20:26]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[page-no-title]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_template]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="gutenify-finance"><![CDATA[gutenify-finance]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Product Search Results]]></title>
+		<link>https://demo.gutenify.com/finance-up-dark-pro/2022/10/19/product-search-results/</link>
+		<pubDate>Wed, 19 Oct 2022 04:20:32 +0000</pubDate>
+		<dc:creator><![CDATA[siteadmin]]></dc:creator>
+		<guid isPermaLink="false">https://demo.gutenify.com/finance-up-dark-pro/2022/10/19/product-search-results/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:template-part {"slug":"header","theme":"gutenify-finance","tagName":"header"} /-->
+
+<!-- wp:group {"layout":{"inherit":true}} -->
+<div class="wp-block-group"><!-- wp:woocommerce/legacy-template {"template":"archive-product"} /--></div>
+<!-- /wp:group -->
+
+<!-- wp:template-part {"slug":"footer","theme":"gutenify-finance","tagName":"footer"} /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[Displays search results for your store.]]></excerpt:encoded>
+		<wp:post_id>4931</wp:post_id>
+		<wp:post_date><![CDATA[2022-10-19 04:20:32]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-10-19 04:20:32]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-10-19 04:20:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-10-19 04:20:32]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[product-search-results]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_template]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="woocommerce-woocommerce"><![CDATA[woocommerce/woocommerce]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[plugin]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Contact form 1]]></title>
+		<link>https://demo.gutenify.com/finance-up-dark-pro/?post_type=wpcf7_contact_form&#038;p=4637</link>
+		<pubDate>Wed, 14 Sep 2022 14:04:08 +0000</pubDate>
+		<dc:creator><![CDATA[siteadmin]]></dc:creator>
+		<guid isPermaLink="false">https://demo.gutenify.com/finance-up-dark-pro/?post_type=wpcf7_contact_form&#038;p=4637</guid>
+		<description></description>
+		<content:encoded><![CDATA[<label> Your name
+    [text* your-name] </label>
+
+<label> Your email
+    [email* your-email] </label>
+
+<label> Subject
+    [text* your-subject] </label>
+
+<label> Your message (optional)
+    [textarea your-message] </label>
+
+[submit "Submit"]
+[_site_title] "[your-subject]"
+[_site_title] <wordpress@demo.gutenify.com>
+From: [your-name] <[your-email]>
+Subject: [your-subject]
+
+Message Body:
+[your-message]
+
+-- 
+This e-mail was sent from a contact form on [_site_title] ([_site_url])
+[_site_admin_email]
+Reply-To: [your-email]
+
+0
+0
+
+[_site_title] "[your-subject]"
+[_site_title] <wordpress@demo.gutenify.com>
+Message Body:
+[your-message]
+
+-- 
+This e-mail was sent from a contact form on [_site_title] ([_site_url])
+[your-email]
+Reply-To: [_site_admin_email]
+
+0
+0
+Thank you for your message. It has been sent.
+There was an error trying to send your message. Please try again later.
+One or more fields have an error. Please check and try again.
+There was an error trying to send your message. Please try again later.
+You must accept the terms and conditions before sending your message.
+Please fill out this field.
+This field has a too long input.
+This field has a too short input.
+There was an unknown error uploading the file.
+You are not allowed to upload files of this type.
+The uploaded file is too large.
+There was an error uploading the file.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>4637</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-14 14:04:08]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-14 14:04:08]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-14 14:04:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-14 14:04:08]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[contact-form-1]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wpcf7_contact_form]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_form]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<label> Your name
+    [text* your-name] </label>
+
+<label> Your email
+    [email* your-email] </label>
+
+<label> Subject
+    [text* your-subject] </label>
+
+<label> Your message (optional)
+    [textarea your-message] </label>
+
+[submit "Submit"]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:8:{s:7:"subject";s:30:"[_site_title] "[your-subject]"";s:6:"sender";s:43:"[_site_title] <wordpress@demo.gutenify.com>";s:4:"body";s:163:"From: [your-name] <[your-email]>
+Subject: [your-subject]
+
+Message Body:
+[your-message]
+
+-- 
+This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:9:"recipient";s:19:"[_site_admin_email]";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:30:"[_site_title] "[your-subject]"";s:6:"sender";s:43:"[_site_title] <wordpress@demo.gutenify.com>";s:4:"body";s:105:"Message Body:
+[your-message]
+
+-- 
+This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:29:"Reply-To: [_site_admin_email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:12:{s:12:"mail_sent_ok";s:45:"Thank you for your message. It has been sent.";s:12:"mail_sent_ng";s:71:"There was an error trying to send your message. Please try again later.";s:16:"validation_error";s:61:"One or more fields have an error. Please check and try again.";s:4:"spam";s:71:"There was an error trying to send your message. Please try again later.";s:12:"accept_terms";s:69:"You must accept the terms and conditions before sending your message.";s:16:"invalid_required";s:27:"Please fill out this field.";s:16:"invalid_too_long";s:32:"This field has a too long input.";s:17:"invalid_too_short";s:33:"This field has a too short input.";s:13:"upload_failed";s:46:"There was an unknown error uploading the file.";s:24:"upload_file_type_invalid";s:49:"You are not allowed to upload files of this type.";s:21:"upload_file_too_large";s:31:"The uploaded file is too large.";s:23:"upload_failed_php_error";s:38:"There was an error uploading the file.";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_additional_settings]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_locale]]></wp:meta_key>
+		<wp:meta_value><![CDATA[en_US]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Sidebar]]></title>
+		<link>https://demo.gutenify.com/finance-up-dark-pro/2022/09/16/sidebar/</link>
+		<pubDate>Fri, 16 Sep 2022 07:18:12 +0000</pubDate>
+		<dc:creator><![CDATA[siteadmin]]></dc:creator>
+		<guid isPermaLink="false">https://demo.gutenify.com/finance-up-dark-pro/2022/09/16/sidebar/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:group {"style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}}} -->
+<div class="wp-block-group" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:group {"style":{"spacing":{"blockGap":"5px"}},"className":"has-no-hover-shadow-dark animated animated-fadeInUp"} -->
+<div class="wp-block-group has-no-hover-shadow-dark animated animated-fadeInUp"><!-- wp:group {"style":{"spacing":{"padding":{"top":"30px","right":"30px","bottom":"30px","left":"30px"}}},"backgroundColor":"background-secondary"} -->
+<div class="wp-block-group has-background-secondary-background-color has-background" style="padding-top:30px;padding-right:30px;padding-bottom:30px;padding-left:30px"><!-- wp:search {"label":"","showLabel":false,"placeholder":" Search","width":100,"widthUnit":"%","buttonText":"Search","buttonUseIcon":true,"style":{"border":{"radius":"0px","width":"0px","style":"none"}},"backgroundColor":"primary","textColor":"background"} /--></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"25px","right":"30px","bottom":"25px","left":"30px"},"blockGap":"0px"}},"backgroundColor":"background-secondary","className":"has-no-hover-shadow-dark animated animated-fadeInUp"} -->
+<div class="wp-block-group has-no-hover-shadow-dark animated animated-fadeInUp has-background-secondary-background-color has-background" style="padding-top:25px;padding-right:30px;padding-bottom:25px;padding-left:30px"><!-- wp:group {"style":{"spacing":{"blockGap":"10px","margin":{"top":"0px","bottom":"0px"},"padding":{"top":"0px","right":"0px","bottom":"20px","left":"0px"}}},"layout":{"inherit":true}} -->
+<div class="wp-block-group" style="margin-top:0px;margin-bottom:0px;padding-top:0px;padding-right:0px;padding-bottom:20px;padding-left:0px"><!-- wp:heading {"level":3,"align":"wide","style":{"spacing":{"margin":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}},"textColor":"foreground","fontSize":"content-heading"} -->
+<h3 class="alignwide has-foreground-color has-text-color has-content-heading-font-size" style="margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px">Categories</h3>
+<!-- /wp:heading -->
+
+<!-- wp:group {"align":"wide","layout":{"inherit":false}} -->
+<div class="wp-block-group alignwide"><!-- wp:separator {"backgroundColor":"border","className":"is-style-wide"} -->
+<hr class="wp-block-separator has-text-color has-border-color has-alpha-channel-opacity has-border-background-color has-background is-style-wide"/>
+<!-- /wp:separator --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}}} -->
+<div class="wp-block-group" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:categories /--></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"25px","right":"30px","bottom":"25px","left":"30px"},"blockGap":"0px"}},"backgroundColor":"background-secondary","className":"has-no-hover-shadow-dark animated animated-fadeInUp"} -->
+<div class="wp-block-group has-no-hover-shadow-dark animated animated-fadeInUp has-background-secondary-background-color has-background" style="padding-top:25px;padding-right:30px;padding-bottom:25px;padding-left:30px"><!-- wp:group {"style":{"spacing":{"blockGap":"10px","margin":{"top":"0px","bottom":"0px"},"padding":{"top":"0px","right":"0px","bottom":"20px","left":"0px"}}},"layout":{"inherit":true}} -->
+<div class="wp-block-group" style="margin-top:0px;margin-bottom:0px;padding-top:0px;padding-right:0px;padding-bottom:20px;padding-left:0px"><!-- wp:heading {"level":3,"align":"wide","style":{"spacing":{"margin":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}},"textColor":"foreground","fontSize":"content-heading"} -->
+<h3 class="alignwide has-foreground-color has-text-color has-content-heading-font-size" style="margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px">Recent Posts</h3>
+<!-- /wp:heading -->
+
+<!-- wp:group {"align":"wide","layout":{"inherit":false}} -->
+<div class="wp-block-group alignwide"><!-- wp:separator {"backgroundColor":"border","className":"is-style-wide"} -->
+<hr class="wp-block-separator has-text-color has-border-color has-alpha-channel-opacity has-border-background-color has-background is-style-wide"/>
+<!-- /wp:separator --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}}} -->
+<div class="wp-block-group" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:latest-posts {"displayPostDate":true,"displayFeaturedImage":true,"featuredImageAlign":"left","featuredImageSizeWidth":75,"featuredImageSizeHeight":75} /--></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"25px","right":"30px","bottom":"25px","left":"30px"},"blockGap":"0px"}},"backgroundColor":"background-secondary","className":"has-no-hover-shadow-dark animated animated-fadeInUp"} -->
+<div class="wp-block-group has-no-hover-shadow-dark animated animated-fadeInUp has-background-secondary-background-color has-background" style="padding-top:25px;padding-right:30px;padding-bottom:25px;padding-left:30px"><!-- wp:group {"style":{"spacing":{"blockGap":"10px","margin":{"top":"0px","bottom":"0px"},"padding":{"top":"0px","right":"0px","bottom":"20px","left":"0px"}}},"layout":{"inherit":true}} -->
+<div class="wp-block-group" style="margin-top:0px;margin-bottom:0px;padding-top:0px;padding-right:0px;padding-bottom:20px;padding-left:0px"><!-- wp:heading {"level":3,"align":"wide","style":{"spacing":{"margin":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}},"textColor":"foreground","fontSize":"content-heading"} -->
+<h3 class="alignwide has-foreground-color has-text-color has-content-heading-font-size" style="margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px">Archive</h3>
+<!-- /wp:heading -->
+
+<!-- wp:group {"align":"wide","layout":{"inherit":false}} -->
+<div class="wp-block-group alignwide"><!-- wp:separator {"backgroundColor":"border","className":"is-style-wide"} -->
+<hr class="wp-block-separator has-text-color has-border-color has-alpha-channel-opacity has-border-background-color has-background is-style-wide"/>
+<!-- /wp:separator --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}}} -->
+<div class="wp-block-group" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:group -->
+<div class="wp-block-group"><!-- wp:archives /--></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"25px","right":"30px","bottom":"25px","left":"30px"},"blockGap":"0px"}},"backgroundColor":"background-secondary","className":"has-no-hover-shadow-dark animated animated-fadeInUp"} -->
+<div class="wp-block-group has-no-hover-shadow-dark animated animated-fadeInUp has-background-secondary-background-color has-background" style="padding-top:25px;padding-right:30px;padding-bottom:25px;padding-left:30px"><!-- wp:group {"style":{"spacing":{"blockGap":"10px","margin":{"top":"0px","bottom":"0px"},"padding":{"top":"0px","right":"0px","bottom":"20px","left":"0px"}}},"layout":{"inherit":true}} -->
+<div class="wp-block-group" style="margin-top:0px;margin-bottom:0px;padding-top:0px;padding-right:0px;padding-bottom:20px;padding-left:0px"><!-- wp:heading {"level":3,"align":"wide","style":{"spacing":{"margin":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}},"textColor":"foreground","fontSize":"content-heading"} -->
+<h3 class="alignwide has-foreground-color has-text-color has-content-heading-font-size" style="margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px">Tags</h3>
+<!-- /wp:heading -->
+
+<!-- wp:group {"align":"wide","layout":{"inherit":false}} -->
+<div class="wp-block-group alignwide"><!-- wp:separator {"backgroundColor":"border","className":"is-style-wide"} -->
+<hr class="wp-block-separator has-text-color has-border-color has-alpha-channel-opacity has-border-background-color has-background is-style-wide"/>
+<!-- /wp:separator --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}}} -->
+<div class="wp-block-group" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:tag-cloud /--></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"25px","right":"30px","bottom":"25px","left":"30px"},"blockGap":"0px"}},"backgroundColor":"background-secondary","className":"has-no-hover-shadow-dark animated animated-fadeInUp"} -->
+<div class="wp-block-group has-no-hover-shadow-dark animated animated-fadeInUp has-background-secondary-background-color has-background" style="padding-top:25px;padding-right:30px;padding-bottom:25px;padding-left:30px"><!-- wp:group {"style":{"spacing":{"blockGap":"10px","margin":{"top":"0px","bottom":"0px"},"padding":{"top":"0px","right":"0px","bottom":"20px","left":"0px"}}},"layout":{"inherit":true}} -->
+<div class="wp-block-group" style="margin-top:0px;margin-bottom:0px;padding-top:0px;padding-right:0px;padding-bottom:20px;padding-left:0px"><!-- wp:heading {"level":3,"align":"wide","style":{"spacing":{"margin":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}},"textColor":"foreground","fontSize":"content-heading"} -->
+<h3 class="alignwide has-foreground-color has-text-color has-content-heading-font-size" style="margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px">Social Links</h3>
+<!-- /wp:heading -->
+
+<!-- wp:group {"align":"wide","layout":{"inherit":false}} -->
+<div class="wp-block-group alignwide"><!-- wp:separator {"backgroundColor":"border","className":"is-style-wide"} -->
+<hr class="wp-block-separator has-text-color has-border-color has-alpha-channel-opacity has-border-background-color has-background is-style-wide"/>
+<!-- /wp:separator --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}}} -->
+<div class="wp-block-group" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:group {"style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}}} -->
+<div class="wp-block-group" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:social-links {"iconColor":"background","iconColorValue":"#ffffff","openInNewTab":true,"size":"has-small-icon-size","className":"is-style-default","layout":{"type":"flex","justifyContent":"left"},"style":{"spacing":{"blockGap":"20px"}}} -->
+<ul class="wp-block-social-links has-small-icon-size has-icon-color is-style-default"><!-- wp:social-link {"url":"#","service":"facebook"} /-->
+
+<!-- wp:social-link {"url":"#","service":"twitter"} /-->
+
+<!-- wp:social-link {"url":"#","service":"linkedin"} /-->
+
+<!-- wp:social-link {"url":"#","service":"instagram"} /--></ul>
+<!-- /wp:social-links --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>4902</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-16 07:18:12]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-16 07:18:12]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-16 07:18:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-16 07:18:12]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[sidebar]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_template_part]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="gutenify-finance"><![CDATA[gutenify-finance]]></category>
+		<category domain="wp_template_part_area" nicename="uncategorized"><![CDATA[uncategorized]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
 		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
