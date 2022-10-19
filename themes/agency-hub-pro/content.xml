@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.0.3" created="2022-10-18 09:01" -->
+	<!-- generator="WordPress/6.0.3" created="2022-10-19 08:13" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Agency Hub Pro</title>
 	<link>https://demo.gutenify.com/agency-hub-pro</link>
 	<description>FSE Corporate Theme</description>
-	<pubDate>Tue, 18 Oct 2022 09:01:29 +0000</pubDate>
+	<pubDate>Wed, 19 Oct 2022 08:13:24 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.gutenify.com/</wp:base_site_url>
@@ -9217,7 +9217,7 @@ https://player.vimeo.com/video/243191812?h=a742105876&amp;dnt=1&amp;app_id=12296
 <!-- wp:post-date {"format":"M j, Y","isLink":true,"fontSize":"small"} /--></div>
 <!-- /wp:group -->
 
-<!-- wp:post-excerpt {"moreText":"Know More\u003ca role=\u0022textbox\u0022 aria-multiline=\u0022true\u0022 aria-label=\u0022\u0026quot;Read more\u0026quot; link text\u0022 class=\u0022block-editor-rich-text__editable wp-block-post-excerpt__more-link rich-text\u0022 style=\u0022font-size: revert; background-color: initial; font-family: var(\u002d\u002dwp\u002d\u002dpreset\u002d\u002dfont-family\u002d\u002droboto); min-width: 1px; display: inline !important;\u0022\u003e\u003c/a\u003e"} /--></div>
+<!-- wp:post-excerpt {"moreText":"Know More","style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}}} /--></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->
 
@@ -9242,8 +9242,8 @@ https://player.vimeo.com/video/243191812?h=a742105876&amp;dnt=1&amp;app_id=12296
 		<wp:post_id>4150</wp:post_id>
 		<wp:post_date><![CDATA[2022-08-06 08:45:21]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-08-06 08:45:21]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-08-06 08:46:09]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-08-06 08:46:09]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-10-19 04:37:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-10-19 04:37:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[archive]]></wp:post_name>
@@ -10399,8 +10399,8 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:9:"re
 <div class="wp-block-group has-background-color has-secondary-background-color has-text-color has-background" style="padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px"><!-- wp:group {"align":"wide","className":"mobile-aligncenter","layout":{"type":"flex","allowOrientation":false,"justifyContent":"space-between"}} -->
 <div class="wp-block-group alignwide mobile-aligncenter"><!-- wp:group {"style":{"spacing":{"blockGap":"25px"}},"className":"mobile-aligncenter","layout":{"type":"flex","flexWrap":"wrap"}} -->
 <div class="wp-block-group mobile-aligncenter"><!-- wp:group {"style":{"spacing":{"blockGap":"10px"}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center"}} -->
-<div class="wp-block-group"><!-- wp:gutenify/icon {"blockClientId":"7e0b046c-f4bd-43ba-b045-907c5567bec2","blockAdvanceOptions":{"textColor":"#fff"},"iconName":"fas fa-phone-volume","size":"18","gutenifyStyles":".gutenify-section-7e0b046c-f4bd-43ba-b045-907c5567bec2 .gutenify-icon-wrapper { color: #fff; }.gutenify-section-7e0b046c-f4bd-43ba-b045-907c5567bec2 .gutenify-icon-wrapper i {\n\t\t\tfont-size: 18px;\n\t\t}.gutenify-section-7e0b046c-f4bd-43ba-b045-907c5567bec2 .gutenify-icon-wrapper img {\n\t\t\twidth: 18px;\n\t\t\tmax-width: 18px;\n\t\t}.gutenify-section-7e0b046c-f4bd-43ba-b045-907c5567bec2 .gutenify-icon-wrapper .gutenify-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
-<div class="wp-block-gutenify-icon flex-col-item is-content-justification-center gutenify-section-7e0b046c-f4bd-43ba-b045-907c5567bec2"><a class="gutenify-icon-wrapper"><i class="fas fa-phone-volume"></i></a></div>
+<div class="wp-block-group"><!-- wp:gutenify/icon {"blockClientId":"a6284635-12a1-4976-872f-dc40115eb3b1","blockAdvanceOptions":{"textColor":"#fff"},"iconName":"fas fa-phone-volume","size":"18","gutenifyStyles":".gutenify-section-a6284635-12a1-4976-872f-dc40115eb3b1 .gutenify-icon-wrapper { color: #fff; }.gutenify-section-a6284635-12a1-4976-872f-dc40115eb3b1 .gutenify-icon-wrapper i {\n\t\t\tfont-size: 18px;\n\t\t}.gutenify-section-a6284635-12a1-4976-872f-dc40115eb3b1 .gutenify-icon-wrapper img {\n\t\t\twidth: 18px;\n\t\t\tmax-width: 18px;\n\t\t}.gutenify-section-a6284635-12a1-4976-872f-dc40115eb3b1 .gutenify-icon-wrapper .gutenify-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
+<div class="wp-block-gutenify-icon flex-col-item is-content-justification-center gutenify-section-a6284635-12a1-4976-872f-dc40115eb3b1 gutenify-icon-version-2"><a class="gutenify-icon-wrapper"><i class="fas fa-phone-volume"></i></a></div>
 <!-- /wp:gutenify/icon -->
 
 <!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"500"}},"fontSize":"small"} -->
@@ -10409,8 +10409,8 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:9:"re
 <!-- /wp:group -->
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"10px"}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center"}} -->
-<div class="wp-block-group"><!-- wp:gutenify/icon {"blockClientId":"9efaa8a6-27e9-44ee-a2cd-671b731d6e8c","blockAdvanceOptions":{"textColor":"#fff"},"iconName":"far fa-envelope","size":"18","gutenifyStyles":".gutenify-section-9efaa8a6-27e9-44ee-a2cd-671b731d6e8c .gutenify-icon-wrapper { color: #fff; }.gutenify-section-9efaa8a6-27e9-44ee-a2cd-671b731d6e8c .gutenify-icon-wrapper i {\n\t\t\tfont-size: 18px;\n\t\t}.gutenify-section-9efaa8a6-27e9-44ee-a2cd-671b731d6e8c .gutenify-icon-wrapper img {\n\t\t\twidth: 18px;\n\t\t\tmax-width: 18px;\n\t\t}.gutenify-section-9efaa8a6-27e9-44ee-a2cd-671b731d6e8c .gutenify-icon-wrapper .gutenify-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
-<div class="wp-block-gutenify-icon flex-col-item is-content-justification-center gutenify-section-9efaa8a6-27e9-44ee-a2cd-671b731d6e8c"><a class="gutenify-icon-wrapper"><i class="far fa-envelope"></i></a></div>
+<div class="wp-block-group"><!-- wp:gutenify/icon {"blockClientId":"4a0acb13-1c89-420a-923e-dcf22f008838","blockAdvanceOptions":{"textColor":"#fff"},"iconName":"far fa-envelope","size":"18","gutenifyStyles":".gutenify-section-4a0acb13-1c89-420a-923e-dcf22f008838 .gutenify-icon-wrapper { color: #fff; }.gutenify-section-4a0acb13-1c89-420a-923e-dcf22f008838 .gutenify-icon-wrapper i {\n\t\t\tfont-size: 18px;\n\t\t}.gutenify-section-4a0acb13-1c89-420a-923e-dcf22f008838 .gutenify-icon-wrapper img {\n\t\t\twidth: 18px;\n\t\t\tmax-width: 18px;\n\t\t}.gutenify-section-4a0acb13-1c89-420a-923e-dcf22f008838 .gutenify-icon-wrapper .gutenify-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
+<div class="wp-block-gutenify-icon flex-col-item is-content-justification-center gutenify-section-4a0acb13-1c89-420a-923e-dcf22f008838 gutenify-icon-version-2"><a class="gutenify-icon-wrapper"><i class="far fa-envelope"></i></a></div>
 <!-- /wp:gutenify/icon -->
 
 <!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"500"}},"fontSize":"small"} -->
@@ -10457,8 +10457,8 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:9:"re
 		<wp:post_id>4227</wp:post_id>
 		<wp:post_date><![CDATA[2022-08-08 11:13:48]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-08-08 11:13:48]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-08-22 08:32:22]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-08-22 08:32:22]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-10-19 04:37:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-10-19 04:37:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[header]]></wp:post_name>
@@ -10620,6 +10620,340 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:9:"re
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="wp_theme" nicename="gutenify-agency"><![CDATA[gutenify-agency]]></category>
 		<category domain="wp_template_part_area" nicename="header"><![CDATA[header]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Footer]]></title>
+		<link>https://demo.gutenify.com/agency-hub-pro/footer/</link>
+		<pubDate>Wed, 19 Oct 2022 04:37:21 +0000</pubDate>
+		<dc:creator><![CDATA[siteadmin]]></dc:creator>
+		<guid isPermaLink="false">https://demo.gutenify.com/agency-hub-pro/footer/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"4rem","bottom":"2rem"},"blockGap":"0px"},"elements":{"link":{"color":{"text":"var:preset|color|foreground"}}},"color":{"text":"#b7b7b7"}},"backgroundColor":"secondary","layout":{"inherit":true}} -->
+<div class="wp-block-group alignfull has-secondary-background-color has-text-color has-background has-link-color" style="color:#b7b7b7;padding-top:4rem;padding-bottom:2rem"><!-- wp:columns {"verticalAlignment":"top","align":"wide","style":{"spacing":{"padding":{"bottom":"3rem","top":"0rem"}}}} -->
+<div class="wp-block-columns alignwide are-vertically-aligned-top" style="padding-top:0rem;padding-bottom:3rem"><!-- wp:column {"verticalAlignment":"top"} -->
+<div class="wp-block-column is-vertically-aligned-top"><!-- wp:group {"style":{"border":{"radius":"0px"}},"className":"is-style-default  animated animated-fadeInUp"} -->
+<div class="wp-block-group is-style-default animated animated-fadeInUp" style="border-radius:0px"><!-- wp:columns {"isStackedOnMobile":false} -->
+<div class="wp-block-columns is-not-stacked-on-mobile"><!-- wp:column {"verticalAlignment":"top","width":"10%","style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;flex-basis:10%"><!-- wp:image {"id":4012,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://demo.gutenify.com/agency-hub-pro/wp-content/themes/gutenify-agency/images/icon-4.png" alt="" class="wp-image-4012"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"bottom","width":"100%","style":{"spacing":{"padding":{"bottom":"10px"}}}} -->
+<div class="wp-block-column is-vertically-aligned-bottom" style="padding-bottom:10px;flex-basis:100%"><!-- wp:group {"style":{"spacing":{"blockGap":"0px"}}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":5,"style":{"spacing":{"margin":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}},"typography":{"fontStyle":"normal","fontWeight":"500"}},"textColor":"background","fontSize":"medium"} -->
+<h5 class="has-background-color has-text-color has-medium-font-size" style="font-style:normal;font-weight:500;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px">Give Us A Call</h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"300"}},"textColor":"third","fontSize":"normal"} -->
+<p class="has-third-color has-text-color has-normal-font-size" style="font-style:normal;font-weight:300">(+021) 645 863 232</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top"} -->
+<div class="wp-block-column is-vertically-aligned-top"><!-- wp:group {"style":{"border":{"radius":"8px"}},"className":"is-style-default"} -->
+<div class="wp-block-group is-style-default" style="border-radius:8px"><!-- wp:columns {"isStackedOnMobile":false,"className":" animated animated-fadeInUp"} -->
+<div class="wp-block-columns is-not-stacked-on-mobile  animated animated-fadeInUp"><!-- wp:column {"verticalAlignment":"top","width":"10%","style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;flex-basis:10%"><!-- wp:image {"id":4013,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://demo.gutenify.com/agency-hub-pro/wp-content/themes/gutenify-agency/images/icon-1.png" alt="" class="wp-image-4013"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"bottom","width":"100%","style":{"spacing":{"padding":{"bottom":"10px"}}}} -->
+<div class="wp-block-column is-vertically-aligned-bottom" style="padding-bottom:10px;flex-basis:100%"><!-- wp:group {"style":{"spacing":{"blockGap":"0px"}}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":5,"style":{"spacing":{"margin":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}},"typography":{"fontStyle":"normal","fontWeight":"500"}},"textColor":"white","fontSize":"medium"} -->
+<h5 class="has-white-color has-text-color has-medium-font-size" style="font-style:normal;font-weight:500;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px">Send Us A Message</h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"300"}},"textColor":"third","fontSize":"normal"} -->
+<p class="has-third-color has-text-color has-normal-font-size" style="font-style:normal;font-weight:300">support@gutenify.com</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top"} -->
+<div class="wp-block-column is-vertically-aligned-top"><!-- wp:group {"style":{"border":{"radius":"8px"}},"className":"is-style-default"} -->
+<div class="wp-block-group is-style-default" style="border-radius:8px"><!-- wp:columns {"isStackedOnMobile":false,"className":" animated animated-fadeInUp"} -->
+<div class="wp-block-columns is-not-stacked-on-mobile  animated animated-fadeInUp"><!-- wp:column {"verticalAlignment":"top","width":"10%","style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;flex-basis:10%"><!-- wp:image {"id":4014,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://demo.gutenify.com/agency-hub-pro/wp-content/themes/gutenify-agency/images/icon-6.png" alt="" class="wp-image-4014"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"bottom","width":"100%","style":{"spacing":{"padding":{"bottom":"10px"}}}} -->
+<div class="wp-block-column is-vertically-aligned-bottom" style="padding-bottom:10px;flex-basis:100%"><!-- wp:group {"style":{"spacing":{"blockGap":"0px"}}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":5,"style":{"spacing":{"margin":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}},"typography":{"fontStyle":"normal","fontWeight":"500"}},"textColor":"white","fontSize":"medium"} -->
+<h5 class="has-white-color has-text-color has-medium-font-size" style="font-style:normal;font-weight:500;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px">Address</h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>590 Cedar Lane,East Boston</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:separator {"align":"wide","style":{"color":{"background":"#1c2245"}},"className":"is-style-wide"} -->
+<hr class="wp-block-separator alignwide has-text-color has-alpha-channel-opacity has-background is-style-wide" style="background-color:#1c2245;color:#1c2245"/>
+<!-- /wp:separator -->
+
+<!-- wp:columns {"align":"wide","style":{"spacing":{"padding":{"bottom":"3rem","top":"3rem"}}}} -->
+<div class="wp-block-columns alignwide" style="padding-top:3rem;padding-bottom:3rem"><!-- wp:column {"width":"20%","style":{"spacing":{"padding":{"top":"20px","right":"20px","bottom":"20px","left":"0px"},"blockGap":"10px"}},"className":" animated animated-fadeInUp"} -->
+<div class="wp-block-column  animated animated-fadeInUp" style="padding-top:20px;padding-right:20px;padding-bottom:20px;padding-left:0px;flex-basis:20%"><!-- wp:group {"className":" animated animated-fadeInUp"} -->
+<div class="wp-block-group animated animated-fadeInUp"><!-- wp:heading {"level":3,"style":{"typography":{"fontStyle":"normal","fontWeight":"500","fontSize":"1.5rem"}},"textColor":"white"} -->
+<h3 class="has-white-color has-text-color" style="font-size:1.5rem;font-style:normal;font-weight:500">About Us</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph -->
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce molestie orci nec bibendum iaculis.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"200px","style":{"spacing":{"blockGap":"10px","padding":{"top":"20px"}}}} -->
+<div class="wp-block-column" style="padding-top:20px;flex-basis:200px"><!-- wp:group {"className":" animated animated-fadeInUp"} -->
+<div class="wp-block-group animated animated-fadeInUp"><!-- wp:heading {"level":3,"style":{"typography":{"fontSize":"1.5rem","fontStyle":"normal","fontWeight":"500"}},"textColor":"white"} -->
+<h3 class="has-white-color has-text-color" style="font-size:1.5rem;font-style:normal;font-weight:500">Quick Links</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:list {"style":{"typography":{"lineHeight":"1.9","fontStyle":"normal","fontWeight":"300"}},"textColor":"third","fontSize":"normal"} -->
+<ul class="has-third-color has-text-color has-normal-font-size" style="font-style:normal;font-weight:300;line-height:1.9"><li>About Us</li><li>Services</li><li>Cases</li><li>Pricing</li></ul>
+<!-- /wp:list --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"200px","style":{"spacing":{"blockGap":"10px","padding":{"top":"20px"}}}} -->
+<div class="wp-block-column" style="padding-top:20px;flex-basis:200px"><!-- wp:group {"className":" animated animated-fadeInUp"} -->
+<div class="wp-block-group animated animated-fadeInUp"><!-- wp:heading {"level":3,"style":{"typography":{"fontSize":"1.5rem","fontStyle":"normal","fontWeight":"500"}},"textColor":"white"} -->
+<h3 class="has-white-color has-text-color" style="font-size:1.5rem;font-style:normal;font-weight:500"> Pages</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:list {"style":{"typography":{"lineHeight":"1.9","fontStyle":"normal","fontWeight":"300"}},"textColor":"third","fontSize":"normal"} -->
+<ul class="has-third-color has-text-color has-normal-font-size" style="font-style:normal;font-weight:300;line-height:1.9"><li>About Us</li><li>Services</li><li>Contact Us</li><li>FAQ</li></ul>
+<!-- /wp:list --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"200px","style":{"spacing":{"padding":{"top":"20px"},"blockGap":"10px"}}} -->
+<div class="wp-block-column" style="padding-top:20px;flex-basis:200px"><!-- wp:group {"className":" animated animated-fadeInUp"} -->
+<div class="wp-block-group animated animated-fadeInUp"><!-- wp:heading {"level":3,"style":{"typography":{"fontStyle":"normal","fontWeight":"500","fontSize":"1.5rem"}},"textColor":"white"} -->
+<h3 class="has-white-color has-text-color" style="font-size:1.5rem;font-style:normal;font-weight:500">Terms</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:list {"style":{"typography":{"lineHeight":"1.9","fontStyle":"normal","fontWeight":"300"}},"textColor":"third","fontSize":"normal"} -->
+<ul class="has-third-color has-text-color has-normal-font-size" style="font-style:normal;font-weight:300;line-height:1.9"><li>Privacy Policy</li><li>Terms and Conditions</li><li>Disclaimer</li><li>Support</li><li>FAQ</li></ul>
+<!-- /wp:list --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"style":{"spacing":{"padding":{"top":"20px"},"blockGap":"10px"}},"className":" animated animated-fadeInUp"} -->
+<div class="wp-block-column  animated animated-fadeInUp" style="padding-top:20px"><!-- wp:group {"className":" animated animated-fadeInUp"} -->
+<div class="wp-block-group animated animated-fadeInUp"><!-- wp:heading {"level":3,"style":{"typography":{"fontSize":"1.5rem","fontStyle":"normal","fontWeight":"500"}},"textColor":"white"} -->
+<h3 class="has-white-color has-text-color" style="font-size:1.5rem;font-style:normal;font-weight:500">News Letter</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph -->
+<p>Nsectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"textColor":"white"} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-white-color has-text-color">Subscribe</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"25px","right":"30px","bottom":"25px","left":"30px"}},"elements":{"link":{"color":{"text":"var:preset|color|background"}}},"color":{"background":"#09092d"}},"textColor":"background","className":" animated animated-fadeInUp","layout":{"inherit":true}} -->
+<div class="wp-block-group alignwide animated animated-fadeInUp has-background-color has-text-color has-background has-link-color" style="background-color:#09092d;padding-top:25px;padding-right:30px;padding-bottom:25px;padding-left:30px"><!-- wp:group {"align":"wide","layout":{"type":"flex","allowOrientation":false,"justifyContent":"space-between"}} -->
+<div class="wp-block-group alignwide"><!-- wp:group {"align":"wide","layout":{"type":"flex","allowOrientation":false,"justifyContent":"center"}} -->
+<div class="wp-block-group alignwide"><!-- wp:paragraph {"align":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"white"} -->
+<p class="has-text-align-center has-white-color has-text-color has-link-color"> Proudly powered by  <a rel="nofollow noopener" href="https://gutenify.com/themes/gutenify-agency" target="_blank">  Gutenify Agency </a> and  <a rel="nofollow noopener" href="https://wordpress.org" target="_blank"> WordPress</a></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:social-links {"iconColor":"background","iconColorValue":"#ffffff","openInNewTab":true,"size":"has-small-icon-size","className":"is-style-logos-only  ","layout":{"type":"flex","justifyContent":"center"},"style":{"spacing":{}}} -->
+<ul class="wp-block-social-links has-small-icon-size has-icon-color is-style-logos-only"><!-- wp:social-link {"url":"#","service":"facebook"} /-->
+
+<!-- wp:social-link {"url":"#","service":"twitter"} /-->
+
+<!-- wp:social-link {"url":"#","service":"linkedin"} /-->
+
+<!-- wp:social-link {"url":"#","service":"instagram"} /--></ul>
+<!-- /wp:social-links --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>4383</wp:post_id>
+		<wp:post_date><![CDATA[2022-10-19 04:37:21]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-10-19 04:37:21]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-10-19 04:37:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-10-19 04:37:21]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[footer]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_template_part]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_template_part_area" nicename="footer"><![CDATA[footer]]></category>
+		<category domain="wp_theme" nicename="gutenify-agency"><![CDATA[gutenify-agency]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Sidebar]]></title>
+		<link>https://demo.gutenify.com/agency-hub-pro/sidebar/</link>
+		<pubDate>Wed, 19 Oct 2022 04:37:29 +0000</pubDate>
+		<dc:creator><![CDATA[siteadmin]]></dc:creator>
+		<guid isPermaLink="false">https://demo.gutenify.com/agency-hub-pro/sidebar/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:group {"style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}}} -->
+<div class="wp-block-group" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:group {"style":{"spacing":{"blockGap":"5px"}},"className":"has-no-hover-shadow-dark animated animated-fadeInUp"} -->
+<div class="wp-block-group has-no-hover-shadow-dark animated animated-fadeInUp"><!-- wp:group {"style":{"spacing":{"padding":{"top":"30px","right":"30px","bottom":"30px","left":"30px"}}},"backgroundColor":"white"} -->
+<div class="wp-block-group has-white-background-color has-background" style="padding-top:30px;padding-right:30px;padding-bottom:30px;padding-left:30px"><!-- wp:search {"label":"","showLabel":false,"placeholder":" Search","width":100,"widthUnit":"%","buttonText":"Search","buttonUseIcon":true,"style":{"border":{"radius":"0px","width":"0px","style":"none"}},"backgroundColor":"primary","textColor":"background"} /--></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"25px","right":"30px","bottom":"25px","left":"30px"},"blockGap":"0px"}},"backgroundColor":"white","className":"has-no-hover-shadow-dark animated animated-fadeInUp"} -->
+<div class="wp-block-group has-no-hover-shadow-dark animated animated-fadeInUp has-white-background-color has-background" style="padding-top:25px;padding-right:30px;padding-bottom:25px;padding-left:30px"><!-- wp:group {"style":{"spacing":{"blockGap":"10px","margin":{"top":"0px","bottom":"0px"},"padding":{"top":"0px","right":"0px","bottom":"20px","left":"0px"}}},"layout":{"inherit":true}} -->
+<div class="wp-block-group" style="margin-top:0px;margin-bottom:0px;padding-top:0px;padding-right:0px;padding-bottom:20px;padding-left:0px"><!-- wp:heading {"level":3,"align":"wide","style":{"spacing":{"margin":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}},"textColor":"foreground","fontSize":"content-heading"} -->
+<h3 class="alignwide has-foreground-color has-text-color has-content-heading-font-size" style="margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px">Categories</h3>
+<!-- /wp:heading -->
+
+<!-- wp:group {"align":"wide","layout":{"inherit":false}} -->
+<div class="wp-block-group alignwide"><!-- wp:separator {"backgroundColor":"border","className":"is-style-wide"} -->
+<hr class="wp-block-separator has-text-color has-border-color has-alpha-channel-opacity has-border-background-color has-background is-style-wide"/>
+<!-- /wp:separator --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}}} -->
+<div class="wp-block-group" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:categories /--></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"25px","right":"30px","bottom":"25px","left":"30px"},"blockGap":"0px"}},"backgroundColor":"white","className":"has-no-hover-shadow-dark animated animated-fadeInUp"} -->
+<div class="wp-block-group has-no-hover-shadow-dark animated animated-fadeInUp has-white-background-color has-background" style="padding-top:25px;padding-right:30px;padding-bottom:25px;padding-left:30px"><!-- wp:group {"style":{"spacing":{"blockGap":"10px","margin":{"top":"0px","bottom":"0px"},"padding":{"top":"0px","right":"0px","bottom":"20px","left":"0px"}}},"layout":{"inherit":true}} -->
+<div class="wp-block-group" style="margin-top:0px;margin-bottom:0px;padding-top:0px;padding-right:0px;padding-bottom:20px;padding-left:0px"><!-- wp:heading {"level":3,"align":"wide","style":{"spacing":{"margin":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}},"textColor":"foreground","fontSize":"content-heading"} -->
+<h3 class="alignwide has-foreground-color has-text-color has-content-heading-font-size" style="margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px">Recent Posts</h3>
+<!-- /wp:heading -->
+
+<!-- wp:group {"align":"wide","layout":{"inherit":false}} -->
+<div class="wp-block-group alignwide"><!-- wp:separator {"backgroundColor":"border","className":"is-style-wide"} -->
+<hr class="wp-block-separator has-text-color has-border-color has-alpha-channel-opacity has-border-background-color has-background is-style-wide"/>
+<!-- /wp:separator --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}}} -->
+<div class="wp-block-group" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:latest-posts {"displayPostDate":true,"displayFeaturedImage":true,"featuredImageAlign":"left","featuredImageSizeWidth":75,"featuredImageSizeHeight":75} /--></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"25px","right":"30px","bottom":"25px","left":"30px"},"blockGap":"0px"}},"className":"has-no-hover-shadow-dark animated animated-fadeInUp"} -->
+<div class="wp-block-group has-no-hover-shadow-dark animated animated-fadeInUp" style="padding-top:25px;padding-right:30px;padding-bottom:25px;padding-left:30px"><!-- wp:group {"style":{"spacing":{"blockGap":"10px","margin":{"top":"0px","bottom":"0px"},"padding":{"top":"0px","right":"0px","bottom":"20px","left":"0px"}}},"layout":{"inherit":true}} -->
+<div class="wp-block-group" style="margin-top:0px;margin-bottom:0px;padding-top:0px;padding-right:0px;padding-bottom:20px;padding-left:0px"><!-- wp:heading {"level":3,"align":"wide","style":{"spacing":{"margin":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}},"textColor":"foreground","fontSize":"content-heading"} -->
+<h3 class="alignwide has-foreground-color has-text-color has-content-heading-font-size" style="margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px">Archive</h3>
+<!-- /wp:heading -->
+
+<!-- wp:group {"align":"wide","layout":{"inherit":false}} -->
+<div class="wp-block-group alignwide"><!-- wp:separator {"backgroundColor":"border","className":"is-style-wide"} -->
+<hr class="wp-block-separator has-text-color has-border-color has-alpha-channel-opacity has-border-background-color has-background is-style-wide"/>
+<!-- /wp:separator --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}}} -->
+<div class="wp-block-group" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:group -->
+<div class="wp-block-group"><!-- wp:archives /--></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"25px","right":"30px","bottom":"25px","left":"30px"},"blockGap":"0px"}},"className":"has-no-hover-shadow-dark animated animated-fadeInUp"} -->
+<div class="wp-block-group has-no-hover-shadow-dark animated animated-fadeInUp" style="padding-top:25px;padding-right:30px;padding-bottom:25px;padding-left:30px"><!-- wp:group {"style":{"spacing":{"blockGap":"10px","margin":{"top":"0px","bottom":"0px"},"padding":{"top":"0px","right":"0px","bottom":"20px","left":"0px"}}},"layout":{"inherit":true}} -->
+<div class="wp-block-group" style="margin-top:0px;margin-bottom:0px;padding-top:0px;padding-right:0px;padding-bottom:20px;padding-left:0px"><!-- wp:heading {"level":3,"align":"wide","style":{"spacing":{"margin":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}},"textColor":"foreground","fontSize":"content-heading"} -->
+<h3 class="alignwide has-foreground-color has-text-color has-content-heading-font-size" style="margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px">Tags</h3>
+<!-- /wp:heading -->
+
+<!-- wp:group {"align":"wide","layout":{"inherit":false}} -->
+<div class="wp-block-group alignwide"><!-- wp:separator {"backgroundColor":"border","className":"is-style-wide"} -->
+<hr class="wp-block-separator has-text-color has-border-color has-alpha-channel-opacity has-border-background-color has-background is-style-wide"/>
+<!-- /wp:separator --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}}} -->
+<div class="wp-block-group" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:tag-cloud /--></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"25px","right":"30px","bottom":"25px","left":"30px"},"blockGap":"0px"}},"className":"has-no-hover-shadow-dark animated animated-fadeInUp"} -->
+<div class="wp-block-group has-no-hover-shadow-dark animated animated-fadeInUp" style="padding-top:25px;padding-right:30px;padding-bottom:25px;padding-left:30px"><!-- wp:group {"style":{"spacing":{"blockGap":"10px","margin":{"top":"0px","bottom":"0px"},"padding":{"top":"0px","right":"0px","bottom":"20px","left":"0px"}}},"layout":{"inherit":true}} -->
+<div class="wp-block-group" style="margin-top:0px;margin-bottom:0px;padding-top:0px;padding-right:0px;padding-bottom:20px;padding-left:0px"><!-- wp:heading {"level":3,"align":"wide","style":{"spacing":{"margin":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}},"textColor":"foreground","fontSize":"content-heading"} -->
+<h3 class="alignwide has-foreground-color has-text-color has-content-heading-font-size" style="margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px">Social Links</h3>
+<!-- /wp:heading -->
+
+<!-- wp:group {"align":"wide","layout":{"inherit":false}} -->
+<div class="wp-block-group alignwide"><!-- wp:separator {"backgroundColor":"border","className":"is-style-wide"} -->
+<hr class="wp-block-separator has-text-color has-border-color has-alpha-channel-opacity has-border-background-color has-background is-style-wide"/>
+<!-- /wp:separator --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}}} -->
+<div class="wp-block-group" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:group {"style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}}} -->
+<div class="wp-block-group" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:social-links {"iconColor":"background","iconColorValue":"#ffffff","openInNewTab":true,"size":"has-small-icon-size","className":"is-style-default","layout":{"type":"flex","justifyContent":"left"},"style":{"spacing":{"blockGap":"20px"}}} -->
+<ul class="wp-block-social-links has-small-icon-size has-icon-color is-style-default"><!-- wp:social-link {"url":"#","service":"facebook"} /-->
+
+<!-- wp:social-link {"url":"#","service":"twitter"} /-->
+
+<!-- wp:social-link {"url":"#","service":"linkedin"} /-->
+
+<!-- wp:social-link {"url":"#","service":"instagram"} /--></ul>
+<!-- /wp:social-links --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>4384</wp:post_id>
+		<wp:post_date><![CDATA[2022-10-19 04:37:29]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-10-19 04:37:29]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-10-19 04:37:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-10-19 04:37:29]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[sidebar]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_template_part]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="gutenify-agency"><![CDATA[gutenify-agency]]></category>
+		<category domain="wp_template_part_area" nicename="uncategorized"><![CDATA[uncategorized]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
 		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
