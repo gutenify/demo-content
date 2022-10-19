@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.0.3" created="2022-10-18 10:47" -->
+	<!-- generator="WordPress/6.0.3" created="2022-10-19 08:06" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Retreat Pro</title>
 	<link>https://demo.gutenify.com/retreat-pro</link>
 	<description>Just another Gutenify Demos Sites site</description>
-	<pubDate>Tue, 18 Oct 2022 10:47:14 +0000</pubDate>
+	<pubDate>Wed, 19 Oct 2022 08:06:44 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.gutenify.com/</wp:base_site_url>
@@ -1961,8 +1961,8 @@
 
 <!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"16px"}}},"layout":{"inherit":false}} -->
 <div class="wp-block-group alignwide" style="padding-top:16px"><!-- wp:gutenify/team {"blockClientId":"931148e3-c612-4193-b7cc-fe9d47530261","blockAdvanceOptions":{"padding":{"desktop":{"top":"0px","bottom":"0px","left":"0px","right":"0px"}}},"columnSize":3,"gutenifyStyles":".gutenify-section-931148e3-c612-4193-b7cc-fe9d47530261 { padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px; }"} -->
-<div class="gutenify-team-block-wrapper gutenify-team-layout-1 gutenify-team-col-3 gutenify-section-931148e3-c612-4193-b7cc-fe9d47530261 gutenify-team-version-2"><div class="gutenify-team-section"><!-- wp:gutenify/team-member {"blockClientId":"bf09c49b-09bb-455f-b2c2-81c812cf0c8c","className":"has-shadow-dark","gutenifyStyles":".gutenify-section-bf09c49b-09bb-455f-b2c2-81c812cf0c8c { background: #fff; }"} -->
-<div class="wp-block-gutenify-team-member gutenify-team-item gutenify-section-bf09c49b-09bb-455f-b2c2-81c812cf0c8c gutenify-team-member-layout-1 gutenify-team-member-version-2 has-shadow-dark"><div class="gutenify-team-member-section"><!-- wp:image {"align":"center","id":102,"sizeSlug":"full","linkDestination":"none"} -->
+<div class="gutenify-team-block-wrapper gutenify-team-layout-1 gutenify-team-col-3 gutenify-section-931148e3-c612-4193-b7cc-fe9d47530261 gutenify-team-version-2"><div class="gutenify-team-section"><!-- wp:gutenify/team-member {"blockClientId":"b7f51e19-2848-4cb8-bba8-0690ae6b8505","className":"has-shadow-dark","gutenifyStyles":".gutenify-section-b7f51e19-2848-4cb8-bba8-0690ae6b8505 { background: #fff; }"} -->
+<div class="wp-block-gutenify-team-member gutenify-team-item gutenify-section-b7f51e19-2848-4cb8-bba8-0690ae6b8505 gutenify-team-member-layout-1 gutenify-team-member-version-2 has-shadow-dark"><div class="gutenify-team-member-section"><!-- wp:image {"align":"center","id":102,"sizeSlug":"full","linkDestination":"none"} -->
 <figure class="wp-block-image aligncenter size-full"><img src="https://demo.gutenify.com/retreat-pro/wp-content/uploads/sites/72/2022/10/team-3.jpeg" alt="" class="wp-image-102"/></figure>
 <!-- /wp:image -->
 
@@ -1987,8 +1987,8 @@
 <!-- /wp:social-links --></div></div>
 <!-- /wp:gutenify/team-member -->
 
-<!-- wp:gutenify/team-member {"blockClientId":"d190c6bc-646a-4e69-9436-eb4ac7c5714f","className":"has-shadow-dark","gutenifyStyles":".gutenify-section-d190c6bc-646a-4e69-9436-eb4ac7c5714f { background: #fff; }"} -->
-<div class="wp-block-gutenify-team-member gutenify-team-item gutenify-section-d190c6bc-646a-4e69-9436-eb4ac7c5714f gutenify-team-member-layout-1 gutenify-team-member-version-2 has-shadow-dark"><div class="gutenify-team-member-section"><!-- wp:image {"align":"center","id":103,"sizeSlug":"full","linkDestination":"none"} -->
+<!-- wp:gutenify/team-member {"blockClientId":"cfb7bd88-792d-40a7-ab88-f50a6338d030","className":"has-shadow-dark","gutenifyStyles":".gutenify-section-cfb7bd88-792d-40a7-ab88-f50a6338d030 { background: #fff; }"} -->
+<div class="wp-block-gutenify-team-member gutenify-team-item gutenify-section-cfb7bd88-792d-40a7-ab88-f50a6338d030 gutenify-team-member-layout-1 gutenify-team-member-version-2 has-shadow-dark"><div class="gutenify-team-member-section"><!-- wp:image {"align":"center","id":103,"sizeSlug":"full","linkDestination":"none"} -->
 <figure class="wp-block-image aligncenter size-full"><img src="https://demo.gutenify.com/retreat-pro/wp-content/uploads/sites/72/2022/10/team-2.jpeg" alt="" class="wp-image-103"/></figure>
 <!-- /wp:image -->
 
@@ -2013,8 +2013,8 @@
 <!-- /wp:social-links --></div></div>
 <!-- /wp:gutenify/team-member -->
 
-<!-- wp:gutenify/team-member {"blockClientId":"d3352706-d814-45a2-bd97-0577abb1d628","className":"has-shadow-dark","gutenifyStyles":".gutenify-section-d3352706-d814-45a2-bd97-0577abb1d628 { background: #fff; }"} -->
-<div class="wp-block-gutenify-team-member gutenify-team-item gutenify-section-d3352706-d814-45a2-bd97-0577abb1d628 gutenify-team-member-layout-1 gutenify-team-member-version-2 has-shadow-dark"><div class="gutenify-team-member-section"><!-- wp:image {"align":"center","id":104,"sizeSlug":"full","linkDestination":"none"} -->
+<!-- wp:gutenify/team-member {"blockClientId":"169c2cbf-89b0-4dba-8fd8-71a4ed2d1bad","className":"has-shadow-dark","gutenifyStyles":".gutenify-section-169c2cbf-89b0-4dba-8fd8-71a4ed2d1bad { background: #fff; }"} -->
+<div class="wp-block-gutenify-team-member gutenify-team-item gutenify-section-169c2cbf-89b0-4dba-8fd8-71a4ed2d1bad gutenify-team-member-layout-1 gutenify-team-member-version-2 has-shadow-dark"><div class="gutenify-team-member-section"><!-- wp:image {"align":"center","id":104,"sizeSlug":"full","linkDestination":"none"} -->
 <figure class="wp-block-image aligncenter size-full"><img src="https://demo.gutenify.com/retreat-pro/wp-content/uploads/sites/72/2022/10/team-1.jpeg" alt="" class="wp-image-104"/></figure>
 <!-- /wp:image -->
 
@@ -2074,8 +2074,8 @@
 <!-- wp:group {"align":"wide"} -->
 <div class="wp-block-group alignwide"><!-- wp:gutenify/advance-slider {"blockClientId":"a0b5b830-1cfa-42d4-97a6-3e658c6687e5","blockAdvanceOptions":{"hasPagination":false,"hasNavigation":true,"columns":2,"spaceBetween":40,"arrows":{"type":"style-1","backgroundColor":"#fff","normalColor":"#000"},"paginations":{"width":"15px","height":"15px","borderWidth":"3px","borderRadius":"50px","backgroundColor":"#fff"}},"gutenifyStyles":".gutenify-section-a0b5b830-1cfa-42d4-97a6-3e658c6687e5 .swiper-button-next  { color: #000;background-color: #fff; }.gutenify-section-a0b5b830-1cfa-42d4-97a6-3e658c6687e5 .swiper-button-prev  { color: #000;background-color: #fff; }.gutenify-section-a0b5b830-1cfa-42d4-97a6-3e658c6687e5 .swiper-pagination .swiper-pagination-bullet  { background-color: #fff;border-radius: 50px;border-width: 3px;border-style: solid;height: 15px;width: 15px; }.gutenify-section-a0b5b830-1cfa-42d4-97a6-3e658c6687e5 .swiper-button-next  { color: #000;background-color: #fff; }.gutenify-section-a0b5b830-1cfa-42d4-97a6-3e658c6687e5 .swiper-button-prev  { color: #000;background-color: #fff; }.gutenify-section-a0b5b830-1cfa-42d4-97a6-3e658c6687e5 .swiper-pagination .swiper-pagination-bullet  { background-color: #fff;border-radius: 50px;border-width: 3pxpx;border-style: solid;height: 15px;width: 15px; }"} -->
 <!-- wp:gutenify/advance-slide-item {"blockClientId":"59de1301-d8a9-48c6-b33c-50d1ba82de5e"} -->
-<div class="wp-block-gutenify-advance-slide-item gutenify-block-slide-item-wrapper swiper-slide gutenify-section-59de1301-d8a9-48c6-b33c-50d1ba82de5e gutenify-advance-slide-item-version-2"><!-- wp:gutenify/testimonial {"blockClientId":"27ef6feb-e985-4b4a-9404-7c352f56f46b","layout":"layout-2","gutenifyStyles":".gutenify-section-27ef6feb-e985-4b4a-9404-7c352f56f46b { background: #ffffff; }"} -->
-<div class="wp-block-gutenify-testimonial gutenify-testimonial-item gutenify-testimonial-layout-2 gutenify-section-27ef6feb-e985-4b4a-9404-7c352f56f46b gutenify-testimonial-version-2"><div class="gutenify-testimonial-section"><!-- wp:image {"align":"center","width":100,"height":100,"className":"is-style-rounded"} -->
+<div class="wp-block-gutenify-advance-slide-item gutenify-block-slide-item-wrapper swiper-slide gutenify-section-59de1301-d8a9-48c6-b33c-50d1ba82de5e gutenify-advance-slide-item-version-2"><!-- wp:gutenify/testimonial {"blockClientId":"6a42efea-c787-482c-bc58-91511803be30","layout":"layout-2","gutenifyStyles":".gutenify-section-6a42efea-c787-482c-bc58-91511803be30 { background: #ffffff; }"} -->
+<div class="wp-block-gutenify-testimonial gutenify-testimonial-item gutenify-testimonial-layout-2 gutenify-section-6a42efea-c787-482c-bc58-91511803be30 gutenify-testimonial-version-2"><div class="gutenify-testimonial-section"><!-- wp:image {"align":"center","width":100,"height":100,"className":"is-style-rounded"} -->
 <figure class="wp-block-image aligncenter is-resized is-style-rounded"><img src="https://demo.gutenify.com/retreat-pro/wp-content/plugins/gutenify/assets/images/profile-pic.jpg" alt="" width="100" height="100"/></figure>
 <!-- /wp:image -->
 
@@ -2091,15 +2091,15 @@
 <h4 class="has-text-align-left gutenify-testimonial-block-degination">Founder/ CEO</h4>
 <!-- /wp:heading -->
 
-<!-- wp:gutenify/star-rating {"blockClientId":"f212545c-7bde-4af8-85f8-8f6b00a3c944","textAlignment":"left","gutenifyStyles":".gutenify-section-f212545c-7bde-4af8-85f8-8f6b00a3c944 .gutenify-star-rating-filled, .gutenify-section-f212545c-7bde-4af8-85f8-8f6b00a3c944 .gutenify-star-rating-half { color: #ff9800; }"} -->
-<div class="wp-block-gutenify-star-rating is-content-justification-left gutenify-section-f212545c-7bde-4af8-85f8-8f6b00a3c944 gutenify-star-rating-version-2"><div class="gutenify-star-rating-section"><span class="fas fa-star gutenify-star-rating-filled"></span><span class="fas fa-star gutenify-star-rating-filled"></span><span class="fas fa-star gutenify-star-rating-filled"></span><span class="fas fa-star gutenify-star-rating-filled"></span><span class="fas fa-star gutenify-star-rating-filled"></span></div></div>
+<!-- wp:gutenify/star-rating {"blockClientId":"d9c63f56-08f9-4c0e-b2fe-64be9f3b5a40","textAlignment":"left","gutenifyStyles":".gutenify-section-d9c63f56-08f9-4c0e-b2fe-64be9f3b5a40 .gutenify-star-rating-filled, .gutenify-section-d9c63f56-08f9-4c0e-b2fe-64be9f3b5a40 .gutenify-star-rating-half { color: #ff9800; }"} -->
+<div class="wp-block-gutenify-star-rating is-content-justification-left gutenify-section-d9c63f56-08f9-4c0e-b2fe-64be9f3b5a40 gutenify-star-rating-version-2"><div class="gutenify-star-rating-section"><span class="fas fa-star gutenify-star-rating-filled"></span><span class="fas fa-star gutenify-star-rating-filled"></span><span class="fas fa-star gutenify-star-rating-filled"></span><span class="fas fa-star gutenify-star-rating-filled"></span><span class="fas fa-star gutenify-star-rating-filled"></span></div></div>
 <!-- /wp:gutenify/star-rating --></div></div>
 <!-- /wp:gutenify/testimonial --></div>
 <!-- /wp:gutenify/advance-slide-item -->
 
 <!-- wp:gutenify/advance-slide-item {"blockClientId":"59de1301-d8a9-48c6-b33c-50d1ba82de5e"} -->
-<div class="wp-block-gutenify-advance-slide-item gutenify-block-slide-item-wrapper swiper-slide gutenify-section-59de1301-d8a9-48c6-b33c-50d1ba82de5e gutenify-advance-slide-item-version-2"><!-- wp:gutenify/testimonial {"blockClientId":"62521db7-f97d-4c9e-ab5a-d083abca81a0","layout":"layout-2","gutenifyStyles":".gutenify-section-62521db7-f97d-4c9e-ab5a-d083abca81a0 { background: #ffffff; }"} -->
-<div class="wp-block-gutenify-testimonial gutenify-testimonial-item gutenify-testimonial-layout-2 gutenify-section-62521db7-f97d-4c9e-ab5a-d083abca81a0 gutenify-testimonial-version-2"><div class="gutenify-testimonial-section"><!-- wp:image {"align":"center","width":100,"height":100,"className":"is-style-rounded"} -->
+<div class="wp-block-gutenify-advance-slide-item gutenify-block-slide-item-wrapper swiper-slide gutenify-section-59de1301-d8a9-48c6-b33c-50d1ba82de5e gutenify-advance-slide-item-version-2"><!-- wp:gutenify/testimonial {"blockClientId":"81767fc5-c80e-4d8f-af6a-f9c4315da81a","layout":"layout-2","gutenifyStyles":".gutenify-section-81767fc5-c80e-4d8f-af6a-f9c4315da81a { background: #ffffff; }"} -->
+<div class="wp-block-gutenify-testimonial gutenify-testimonial-item gutenify-testimonial-layout-2 gutenify-section-81767fc5-c80e-4d8f-af6a-f9c4315da81a gutenify-testimonial-version-2"><div class="gutenify-testimonial-section"><!-- wp:image {"align":"center","width":100,"height":100,"className":"is-style-rounded"} -->
 <figure class="wp-block-image aligncenter is-resized is-style-rounded"><img src="https://demo.gutenify.com/retreat-pro/wp-content/plugins/gutenify/assets/images/profile-pic.jpg" alt="" width="100" height="100"/></figure>
 <!-- /wp:image -->
 
@@ -2115,8 +2115,8 @@
 <h4 class="has-text-align-left gutenify-testimonial-block-degination">Founder/ CEO</h4>
 <!-- /wp:heading -->
 
-<!-- wp:gutenify/star-rating {"blockClientId":"8166e849-4881-4bf7-9113-c4b5e827b2d3","textAlignment":"left","gutenifyStyles":".gutenify-section-8166e849-4881-4bf7-9113-c4b5e827b2d3 .gutenify-star-rating-filled, .gutenify-section-8166e849-4881-4bf7-9113-c4b5e827b2d3 .gutenify-star-rating-half { color: #ff9800; }"} -->
-<div class="wp-block-gutenify-star-rating is-content-justification-left gutenify-section-8166e849-4881-4bf7-9113-c4b5e827b2d3 gutenify-star-rating-version-2"><div class="gutenify-star-rating-section"><span class="fas fa-star gutenify-star-rating-filled"></span><span class="fas fa-star gutenify-star-rating-filled"></span><span class="fas fa-star gutenify-star-rating-filled"></span><span class="fas fa-star gutenify-star-rating-filled"></span><span class="fas fa-star gutenify-star-rating-filled"></span></div></div>
+<!-- wp:gutenify/star-rating {"blockClientId":"d715ff07-0f6b-4775-8c61-4c81641d897b","textAlignment":"left","gutenifyStyles":".gutenify-section-d715ff07-0f6b-4775-8c61-4c81641d897b .gutenify-star-rating-filled, .gutenify-section-d715ff07-0f6b-4775-8c61-4c81641d897b .gutenify-star-rating-half { color: #ff9800; }"} -->
+<div class="wp-block-gutenify-star-rating is-content-justification-left gutenify-section-d715ff07-0f6b-4775-8c61-4c81641d897b gutenify-star-rating-version-2"><div class="gutenify-star-rating-section"><span class="fas fa-star gutenify-star-rating-filled"></span><span class="fas fa-star gutenify-star-rating-filled"></span><span class="fas fa-star gutenify-star-rating-filled"></span><span class="fas fa-star gutenify-star-rating-filled"></span><span class="fas fa-star gutenify-star-rating-filled"></span></div></div>
 <!-- /wp:gutenify/star-rating --></div></div>
 <!-- /wp:gutenify/testimonial --></div>
 <!-- /wp:gutenify/advance-slide-item -->
@@ -2424,8 +2424,8 @@
 		<wp:post_id>6</wp:post_id>
 		<wp:post_date><![CDATA[2022-10-14 07:14:40]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-10-14 07:14:40]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-10-16 10:52:16]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-10-16 10:52:16]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-10-19 08:05:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-10-19 08:05:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -2441,7 +2441,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[amazonS3_cache]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:43:{s:78:"//demo.gutenify.com/retreat-pro/wp-content/uploads/sites/72/2022/10/banner.png";a:2:{s:2:"id";i:44;s:11:"source_type";s:13:"media-library";}s:92:"//demo-gutenify-com.s3.amazonaws.com/wp-content/uploads/sites/72/2022/10/14072648/banner.png";a:2:{s:2:"id";i:44;s:11:"source_type";s:13:"media-library";}s:78:"//demo.gutenify.com/retreat-pro/wp-content/uploads/sites/72/2022/10/icon-7.png";a:2:{s:2:"id";i:59;s:11:"source_type";s:13:"media-library";}s:92:"//demo-gutenify-com.s3.amazonaws.com/wp-content/uploads/sites/72/2022/10/14074737/icon-7.png";a:2:{s:2:"id";i:59;s:11:"source_type";s:13:"media-library";}s:79:"//demo.gutenify.com/retreat-pro/wp-content/uploads/sites/72/2022/10/slide23.png";a:2:{s:2:"id";i:202;s:11:"source_type";s:13:"media-library";}s:88:"//demo.gutenify.com/retreat-pro/wp-content/uploads/sites/72/2022/10/slide23-733x1024.png";a:2:{s:2:"id";i:202;s:11:"source_type";s:13:"media-library";}s:93:"//demo-gutenify-com.s3.amazonaws.com/wp-content/uploads/sites/72/2022/10/16091908/slide23.png";a:2:{s:2:"id";i:202;s:11:"source_type";s:13:"media-library";}s:102:"//demo-gutenify-com.s3.amazonaws.com/wp-content/uploads/sites/72/2022/10/16091908/slide23-733x1024.png";a:2:{s:2:"id";i:202;s:11:"source_type";s:13:"media-library";}s:82:"//demo.gutenify.com/retreat-pro/wp-content/uploads/sites/72/2022/10/media-1-1.jpeg";a:2:{s:2:"id";i:66;s:11:"source_type";s:13:"media-library";}s:96:"//demo-gutenify-com.s3.amazonaws.com/wp-content/uploads/sites/72/2022/10/14075013/media-1-1.jpeg";a:2:{s:2:"id";i:66;s:11:"source_type";s:13:"media-library";}s:73:"//demo.gutenify.com/retreat-pro/wp-content/uploads/sites/72/2022/10/1.png";a:2:{s:2:"id";i:69;s:11:"source_type";s:13:"media-library";}s:87:"//demo-gutenify-com.s3.amazonaws.com/wp-content/uploads/sites/72/2022/10/14075056/1.png";a:2:{s:2:"id";i:69;s:11:"source_type";s:13:"media-library";}s:80:"//demo.gutenify.com/retreat-pro/wp-content/uploads/sites/72/2022/10/media-2.jpeg";a:2:{s:2:"id";i:65;s:11:"source_type";s:13:"media-library";}s:94:"//demo-gutenify-com.s3.amazonaws.com/wp-content/uploads/sites/72/2022/10/14075012/media-2.jpeg";a:2:{s:2:"id";i:65;s:11:"source_type";s:13:"media-library";}s:78:"//demo.gutenify.com/retreat-pro/wp-content/uploads/sites/72/2022/10/icon-2.png";a:2:{s:2:"id";i:70;s:11:"source_type";s:13:"media-library";}s:92:"//demo-gutenify-com.s3.amazonaws.com/wp-content/uploads/sites/72/2022/10/14075057/icon-2.png";a:2:{s:2:"id";i:70;s:11:"source_type";s:13:"media-library";}s:80:"//demo.gutenify.com/retreat-pro/wp-content/uploads/sites/72/2022/10/media-3.jpeg";a:2:{s:2:"id";i:64;s:11:"source_type";s:13:"media-library";}s:94:"//demo-gutenify-com.s3.amazonaws.com/wp-content/uploads/sites/72/2022/10/14075010/media-3.jpeg";a:2:{s:2:"id";i:64;s:11:"source_type";s:13:"media-library";}s:78:"//demo.gutenify.com/retreat-pro/wp-content/uploads/sites/72/2022/10/icon-3.png";a:2:{s:2:"id";i:68;s:11:"source_type";s:13:"media-library";}s:92:"//demo-gutenify-com.s3.amazonaws.com/wp-content/uploads/sites/72/2022/10/14075055/icon-3.png";a:2:{s:2:"id";i:68;s:11:"source_type";s:13:"media-library";}s:79:"//demo.gutenify.com/retreat-pro/wp-content/uploads/sites/72/2022/10/post-2.jpeg";a:2:{s:2:"id";i:96;s:11:"source_type";s:13:"media-library";}s:88:"//demo.gutenify.com/retreat-pro/wp-content/uploads/sites/72/2022/10/post-2-1024x683.jpeg";a:2:{s:2:"id";i:96;s:11:"source_type";s:13:"media-library";}s:100:"//demo-gutenify-com.s3.amazonaws.com/wp-content/uploads/sites/72/2022/10/14083557/post-2-scaled.jpeg";a:2:{s:2:"id";i:96;s:11:"source_type";s:13:"media-library";}s:102:"//demo-gutenify-com.s3.amazonaws.com/wp-content/uploads/sites/72/2022/10/14083557/post-2-1024x683.jpeg";a:2:{s:2:"id";i:96;s:11:"source_type";s:13:"media-library";}s:79:"//demo.gutenify.com/retreat-pro/wp-content/uploads/sites/72/2022/10/post-1.jpeg";a:2:{s:2:"id";i:97;s:11:"source_type";s:13:"media-library";}s:88:"//demo.gutenify.com/retreat-pro/wp-content/uploads/sites/72/2022/10/post-1-1024x683.jpeg";a:2:{s:2:"id";i:97;s:11:"source_type";s:13:"media-library";}s:100:"//demo-gutenify-com.s3.amazonaws.com/wp-content/uploads/sites/72/2022/10/14083604/post-1-scaled.jpeg";a:2:{s:2:"id";i:97;s:11:"source_type";s:13:"media-library";}s:102:"//demo-gutenify-com.s3.amazonaws.com/wp-content/uploads/sites/72/2022/10/14083604/post-1-1024x683.jpeg";a:2:{s:2:"id";i:97;s:11:"source_type";s:13:"media-library";}s:76:"//demo.gutenify.com/retreat-pro/wp-content/uploads/sites/72/2022/10/post.png";a:2:{s:2:"id";i:114;s:11:"source_type";s:13:"media-library";}s:90:"//demo-gutenify-com.s3.amazonaws.com/wp-content/uploads/sites/72/2022/10/14091508/post.png";a:2:{s:2:"id";i:114;s:11:"source_type";s:13:"media-library";}s:79:"//demo.gutenify.com/retreat-pro/wp-content/uploads/sites/72/2022/10/team-3.jpeg";a:2:{s:2:"id";i:102;s:11:"source_type";s:13:"media-library";}s:93:"//demo-gutenify-com.s3.amazonaws.com/wp-content/uploads/sites/72/2022/10/14084554/team-3.jpeg";a:2:{s:2:"id";i:102;s:11:"source_type";s:13:"media-library";}s:79:"//demo.gutenify.com/retreat-pro/wp-content/uploads/sites/72/2022/10/team-2.jpeg";a:2:{s:2:"id";i:103;s:11:"source_type";s:13:"media-library";}s:93:"//demo-gutenify-com.s3.amazonaws.com/wp-content/uploads/sites/72/2022/10/14084637/team-2.jpeg";a:2:{s:2:"id";i:103;s:11:"source_type";s:13:"media-library";}s:79:"//demo.gutenify.com/retreat-pro/wp-content/uploads/sites/72/2022/10/team-1.jpeg";a:2:{s:2:"id";i:104;s:11:"source_type";s:13:"media-library";}s:93:"//demo-gutenify-com.s3.amazonaws.com/wp-content/uploads/sites/72/2022/10/14084643/team-1.jpeg";a:2:{s:2:"id";i:104;s:11:"source_type";s:13:"media-library";}s:78:"//demo.gutenify.com/retreat-pro/wp-content/uploads/sites/72/2022/10/icon-4.png";a:2:{s:2:"id";i:61;s:11:"source_type";s:13:"media-library";}s:92:"//demo-gutenify-com.s3.amazonaws.com/wp-content/uploads/sites/72/2022/10/14075006/icon-4.png";a:2:{s:2:"id";i:61;s:11:"source_type";s:13:"media-library";}s:78:"//demo.gutenify.com/retreat-pro/wp-content/uploads/sites/72/2022/10/icon-5.png";a:2:{s:2:"id";i:62;s:11:"source_type";s:13:"media-library";}s:92:"//demo-gutenify-com.s3.amazonaws.com/wp-content/uploads/sites/72/2022/10/14075007/icon-5.png";a:2:{s:2:"id";i:62;s:11:"source_type";s:13:"media-library";}s:78:"//demo.gutenify.com/retreat-pro/wp-content/uploads/sites/72/2022/10/icon-6.png";a:2:{s:2:"id";i:63;s:11:"source_type";s:13:"media-library";}s:92:"//demo-gutenify-com.s3.amazonaws.com/wp-content/uploads/sites/72/2022/10/14075009/icon-6.png";a:2:{s:2:"id";i:63;s:11:"source_type";s:13:"media-library";}s:86:"//demo.gutenify.com/retreat-pro/wp-content/uploads/sites/72/2022/10/post-2-scaled.jpeg";a:2:{s:2:"id";i:96;s:11:"source_type";s:13:"media-library";}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:45:{s:78:"//demo.gutenify.com/retreat-pro/wp-content/uploads/sites/72/2022/10/banner.png";a:2:{s:2:"id";i:44;s:11:"source_type";s:13:"media-library";}s:92:"//demo-gutenify-com.s3.amazonaws.com/wp-content/uploads/sites/72/2022/10/14072648/banner.png";a:2:{s:2:"id";i:44;s:11:"source_type";s:13:"media-library";}s:78:"//demo.gutenify.com/retreat-pro/wp-content/uploads/sites/72/2022/10/icon-7.png";a:2:{s:2:"id";i:59;s:11:"source_type";s:13:"media-library";}s:92:"//demo-gutenify-com.s3.amazonaws.com/wp-content/uploads/sites/72/2022/10/14074737/icon-7.png";a:2:{s:2:"id";i:59;s:11:"source_type";s:13:"media-library";}s:79:"//demo.gutenify.com/retreat-pro/wp-content/uploads/sites/72/2022/10/slide23.png";a:2:{s:2:"id";i:202;s:11:"source_type";s:13:"media-library";}s:88:"//demo.gutenify.com/retreat-pro/wp-content/uploads/sites/72/2022/10/slide23-733x1024.png";a:2:{s:2:"id";i:202;s:11:"source_type";s:13:"media-library";}s:93:"//demo-gutenify-com.s3.amazonaws.com/wp-content/uploads/sites/72/2022/10/16091908/slide23.png";a:2:{s:2:"id";i:202;s:11:"source_type";s:13:"media-library";}s:102:"//demo-gutenify-com.s3.amazonaws.com/wp-content/uploads/sites/72/2022/10/16091908/slide23-733x1024.png";a:2:{s:2:"id";i:202;s:11:"source_type";s:13:"media-library";}s:82:"//demo.gutenify.com/retreat-pro/wp-content/uploads/sites/72/2022/10/media-1-1.jpeg";a:2:{s:2:"id";i:66;s:11:"source_type";s:13:"media-library";}s:96:"//demo-gutenify-com.s3.amazonaws.com/wp-content/uploads/sites/72/2022/10/14075013/media-1-1.jpeg";a:2:{s:2:"id";i:66;s:11:"source_type";s:13:"media-library";}s:73:"//demo.gutenify.com/retreat-pro/wp-content/uploads/sites/72/2022/10/1.png";a:2:{s:2:"id";i:69;s:11:"source_type";s:13:"media-library";}s:87:"//demo-gutenify-com.s3.amazonaws.com/wp-content/uploads/sites/72/2022/10/14075056/1.png";a:2:{s:2:"id";i:69;s:11:"source_type";s:13:"media-library";}s:80:"//demo.gutenify.com/retreat-pro/wp-content/uploads/sites/72/2022/10/media-2.jpeg";a:2:{s:2:"id";i:65;s:11:"source_type";s:13:"media-library";}s:94:"//demo-gutenify-com.s3.amazonaws.com/wp-content/uploads/sites/72/2022/10/14075012/media-2.jpeg";a:2:{s:2:"id";i:65;s:11:"source_type";s:13:"media-library";}s:78:"//demo.gutenify.com/retreat-pro/wp-content/uploads/sites/72/2022/10/icon-2.png";a:2:{s:2:"id";i:70;s:11:"source_type";s:13:"media-library";}s:92:"//demo-gutenify-com.s3.amazonaws.com/wp-content/uploads/sites/72/2022/10/14075057/icon-2.png";a:2:{s:2:"id";i:70;s:11:"source_type";s:13:"media-library";}s:80:"//demo.gutenify.com/retreat-pro/wp-content/uploads/sites/72/2022/10/media-3.jpeg";a:2:{s:2:"id";i:64;s:11:"source_type";s:13:"media-library";}s:94:"//demo-gutenify-com.s3.amazonaws.com/wp-content/uploads/sites/72/2022/10/14075010/media-3.jpeg";a:2:{s:2:"id";i:64;s:11:"source_type";s:13:"media-library";}s:78:"//demo.gutenify.com/retreat-pro/wp-content/uploads/sites/72/2022/10/icon-3.png";a:2:{s:2:"id";i:68;s:11:"source_type";s:13:"media-library";}s:92:"//demo-gutenify-com.s3.amazonaws.com/wp-content/uploads/sites/72/2022/10/14075055/icon-3.png";a:2:{s:2:"id";i:68;s:11:"source_type";s:13:"media-library";}s:79:"//demo.gutenify.com/retreat-pro/wp-content/uploads/sites/72/2022/10/post-2.jpeg";a:2:{s:2:"id";i:96;s:11:"source_type";s:13:"media-library";}s:88:"//demo.gutenify.com/retreat-pro/wp-content/uploads/sites/72/2022/10/post-2-1024x683.jpeg";a:2:{s:2:"id";i:96;s:11:"source_type";s:13:"media-library";}s:100:"//demo-gutenify-com.s3.amazonaws.com/wp-content/uploads/sites/72/2022/10/14083557/post-2-scaled.jpeg";a:2:{s:2:"id";i:96;s:11:"source_type";s:13:"media-library";}s:102:"//demo-gutenify-com.s3.amazonaws.com/wp-content/uploads/sites/72/2022/10/14083557/post-2-1024x683.jpeg";a:2:{s:2:"id";i:96;s:11:"source_type";s:13:"media-library";}s:79:"//demo.gutenify.com/retreat-pro/wp-content/uploads/sites/72/2022/10/post-1.jpeg";a:2:{s:2:"id";i:97;s:11:"source_type";s:13:"media-library";}s:88:"//demo.gutenify.com/retreat-pro/wp-content/uploads/sites/72/2022/10/post-1-1024x683.jpeg";a:2:{s:2:"id";i:97;s:11:"source_type";s:13:"media-library";}s:100:"//demo-gutenify-com.s3.amazonaws.com/wp-content/uploads/sites/72/2022/10/14083604/post-1-scaled.jpeg";a:2:{s:2:"id";i:97;s:11:"source_type";s:13:"media-library";}s:102:"//demo-gutenify-com.s3.amazonaws.com/wp-content/uploads/sites/72/2022/10/14083604/post-1-1024x683.jpeg";a:2:{s:2:"id";i:97;s:11:"source_type";s:13:"media-library";}s:76:"//demo.gutenify.com/retreat-pro/wp-content/uploads/sites/72/2022/10/post.png";a:2:{s:2:"id";i:114;s:11:"source_type";s:13:"media-library";}s:90:"//demo-gutenify-com.s3.amazonaws.com/wp-content/uploads/sites/72/2022/10/14091508/post.png";a:2:{s:2:"id";i:114;s:11:"source_type";s:13:"media-library";}s:79:"//demo.gutenify.com/retreat-pro/wp-content/uploads/sites/72/2022/10/team-3.jpeg";a:2:{s:2:"id";i:102;s:11:"source_type";s:13:"media-library";}s:93:"//demo-gutenify-com.s3.amazonaws.com/wp-content/uploads/sites/72/2022/10/14084554/team-3.jpeg";a:2:{s:2:"id";i:102;s:11:"source_type";s:13:"media-library";}s:79:"//demo.gutenify.com/retreat-pro/wp-content/uploads/sites/72/2022/10/team-2.jpeg";a:2:{s:2:"id";i:103;s:11:"source_type";s:13:"media-library";}s:93:"//demo-gutenify-com.s3.amazonaws.com/wp-content/uploads/sites/72/2022/10/14084637/team-2.jpeg";a:2:{s:2:"id";i:103;s:11:"source_type";s:13:"media-library";}s:79:"//demo.gutenify.com/retreat-pro/wp-content/uploads/sites/72/2022/10/team-1.jpeg";a:2:{s:2:"id";i:104;s:11:"source_type";s:13:"media-library";}s:93:"//demo-gutenify-com.s3.amazonaws.com/wp-content/uploads/sites/72/2022/10/14084643/team-1.jpeg";a:2:{s:2:"id";i:104;s:11:"source_type";s:13:"media-library";}s:78:"//demo.gutenify.com/retreat-pro/wp-content/uploads/sites/72/2022/10/icon-4.png";a:2:{s:2:"id";i:61;s:11:"source_type";s:13:"media-library";}s:92:"//demo-gutenify-com.s3.amazonaws.com/wp-content/uploads/sites/72/2022/10/14075006/icon-4.png";a:2:{s:2:"id";i:61;s:11:"source_type";s:13:"media-library";}s:78:"//demo.gutenify.com/retreat-pro/wp-content/uploads/sites/72/2022/10/icon-5.png";a:2:{s:2:"id";i:62;s:11:"source_type";s:13:"media-library";}s:92:"//demo-gutenify-com.s3.amazonaws.com/wp-content/uploads/sites/72/2022/10/14075007/icon-5.png";a:2:{s:2:"id";i:62;s:11:"source_type";s:13:"media-library";}s:78:"//demo.gutenify.com/retreat-pro/wp-content/uploads/sites/72/2022/10/icon-6.png";a:2:{s:2:"id";i:63;s:11:"source_type";s:13:"media-library";}s:92:"//demo-gutenify-com.s3.amazonaws.com/wp-content/uploads/sites/72/2022/10/14075009/icon-6.png";a:2:{s:2:"id";i:63;s:11:"source_type";s:13:"media-library";}s:85:"//demo.gutenify.com/retreat-pro/wp-content/uploads/sites/72/2022/10/post2-scaled.jpeg";a:2:{s:2:"id";i:182;s:11:"source_type";s:13:"media-library";}s:99:"//demo-gutenify-com.s3.amazonaws.com/wp-content/uploads/sites/72/2022/10/16085615/post2-scaled.jpeg";a:2:{s:2:"id";i:182;s:11:"source_type";s:13:"media-library";}s:86:"//demo.gutenify.com/retreat-pro/wp-content/uploads/sites/72/2022/10/post-2-scaled.jpeg";a:2:{s:2:"id";i:96;s:11:"source_type";s:13:"media-library";}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2790,8 +2790,8 @@
 		<wp:post_id>8</wp:post_id>
 		<wp:post_date><![CDATA[2022-10-14 07:14:57]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-10-14 07:14:57]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-10-16 10:50:33]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-10-16 10:50:33]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-10-19 08:05:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-10-19 08:05:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact-us]]></wp:post_name>
@@ -2803,7 +2803,11 @@
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[amazonS3_cache]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:2:{s:86:"//demo.gutenify.com/retreat-pro/wp-content/uploads/sites/72/2022/10/post-2-scaled.jpeg";a:2:{s:2:"id";i:96;s:11:"source_type";s:13:"media-library";}s:100:"//demo-gutenify-com.s3.amazonaws.com/wp-content/uploads/sites/72/2022/10/14083557/post-2-scaled.jpeg";a:2:{s:2:"id";i:96;s:11:"source_type";s:13:"media-library";}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:86:"//demo.gutenify.com/retreat-pro/wp-content/uploads/sites/72/2022/10/post-2-scaled.jpeg";a:2:{s:2:"id";i:96;s:11:"source_type";s:13:"media-library";}s:100:"//demo-gutenify-com.s3.amazonaws.com/wp-content/uploads/sites/72/2022/10/14083557/post-2-scaled.jpeg";a:2:{s:2:"id";i:96;s:11:"source_type";s:13:"media-library";}s:85:"//demo.gutenify.com/retreat-pro/wp-content/uploads/sites/72/2022/10/post2-scaled.jpeg";a:2:{s:2:"id";i:182;s:11:"source_type";s:13:"media-library";}s:99:"//demo-gutenify-com.s3.amazonaws.com/wp-content/uploads/sites/72/2022/10/16085615/post2-scaled.jpeg";a:2:{s:2:"id";i:182;s:11:"source_type";s:13:"media-library";}s:80:"//demo.gutenify.com/retreat-pro/wp-content/uploads/sites/72/2022/10/media-2.jpeg";a:2:{s:2:"id";i:65;s:11:"source_type";s:13:"media-library";}s:94:"//demo-gutenify-com.s3.amazonaws.com/wp-content/uploads/sites/72/2022/10/14075012/media-2.jpeg";a:2:{s:2:"id";i:65;s:11:"source_type";s:13:"media-library";}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page-no-title]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -3546,23 +3550,23 @@
 		<dc:creator><![CDATA[siteadmin]]></dc:creator>
 		<guid isPermaLink="false">https://demo.gutenify.com/retreat-pro/2022/10/16/primary-menu-4/</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:navigation-link {"label":"About Us","type":"page","id":7,"url":"https://demo.gutenify.com/retreat-pro/about-us/","kind":"post-type"} /-->
+		<content:encoded><![CDATA[<!-- wp:navigation-link {"label":"Home","type":"page","id":6,"url":"https://demo.gutenify.com/retreat-pro/","kind":"post-type","isTopLevelLink":true} /-->
 
-<!-- wp:navigation-link {"label":"Gallery","type":"page","id":11,"url":"https://demo.gutenify.com/retreat-pro/gallery/","kind":"post-type"} /-->
+<!-- wp:navigation-link {"label":"About Us","type":"page","id":7,"url":"https://demo.gutenify.com/retreat-pro/about-us/","kind":"post-type","isTopLevelLink":true} /-->
 
-<!-- wp:navigation-link {"label":"Home","type":"page","id":6,"url":"https://demo.gutenify.com/retreat-pro/","kind":"post-type"} /-->
+<!-- wp:navigation-link {"label":"Gallery","type":"page","id":11,"url":"https://demo.gutenify.com/retreat-pro/gallery/","kind":"post-type","isTopLevelLink":true} /-->
 
-<!-- wp:navigation-link {"label":"Services","type":"page","id":9,"url":"https://demo.gutenify.com/retreat-pro/services/","kind":"post-type"} /-->
+<!-- wp:navigation-link {"label":"Services","type":"page","id":9,"url":"https://demo.gutenify.com/retreat-pro/services/","kind":"post-type","isTopLevelLink":true} /-->
 
-<!-- wp:navigation-link {"label":"Blog","type":"page","id":195,"url":"https://demo.gutenify.com/retreat-pro/blog/","kind":"post-type"} /-->
+<!-- wp:navigation-link {"label":"Blog","type":"page","id":195,"url":"https://demo.gutenify.com/retreat-pro/blog/","kind":"post-type","isTopLevelLink":true} /-->
 
-<!-- wp:navigation-link {"label":"Contact Us","type":"page","id":8,"url":"https://demo.gutenify.com/retreat-pro/contact-us/","kind":"post-type"} /-->]]></content:encoded>
+<!-- wp:navigation-link {"label":"Contact Us","type":"page","id":8,"url":"https://demo.gutenify.com/retreat-pro/contact-us/","kind":"post-type","isTopLevelLink":true} /-->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>198</wp:post_id>
 		<wp:post_date><![CDATA[2022-10-16 09:16:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-10-16 09:16:17]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-10-16 09:16:17]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-10-16 09:16:17]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-10-19 08:05:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-10-19 08:05:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[primary-menu-4]]></wp:post_name>
@@ -4125,7 +4129,7 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:9:"re
 <!-- wp:post-date {"format":"M j, Y","isLink":true,"fontSize":"small"} /--></div>
 <!-- /wp:group -->
 
-<!-- wp:post-excerpt {"moreText":"Know More\u003ca role=\u0022textbox\u0022 aria-multiline=\u0022true\u0022 aria-label=\u0022\u0026quot;Read more\u0026quot; link text\u0022 class=\u0022block-editor-rich-text__editable wp-block-post-excerpt__more-link rich-text\u0022 style=\u0022font-size: revert; background-color: initial; font-family: var(\u002d\u002dwp\u002d\u002dpreset\u002d\u002dfont-family\u002d\u002droboto); min-width: 1px; display: inline !important;\u0022\u003e\u003c/a\u003e"} /--></div>
+<!-- wp:post-excerpt {"moreText":"Know More","style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}}} /--></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->
 
@@ -4150,8 +4154,8 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:9:"re
 		<wp:post_id>137</wp:post_id>
 		<wp:post_date><![CDATA[2022-10-16 05:01:10]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-10-16 05:01:10]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-10-16 08:47:35]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-10-16 08:47:35]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-10-18 12:16:28]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-10-18 12:16:28]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[archive]]></wp:post_name>
@@ -4464,7 +4468,7 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:9:"re
 <div class="wp-block-group"><!-- wp:post-date {"format":"M j, Y","isLink":true,"fontSize":"small"} /--></div>
 <!-- /wp:group -->
 
-<!-- wp:post-excerpt {"moreText":"Know More\u003ca role=\u0022textbox\u0022 aria-multiline=\u0022true\u0022 aria-label=\u0022\u0026quot;Read more\u0026quot; link text\u0022 class=\u0022block-editor-rich-text__editable wp-block-post-excerpt__more-link rich-text\u0022 style=\u0022font-size: revert; background-color: initial; font-family: var(\u002d\u002dwp\u002d\u002dpreset\u002d\u002dfont-family\u002d\u002droboto); min-width: 1px; display: inline !important;\u0022\u003e\u003c/a\u003e"} /--></div>
+<!-- wp:post-excerpt {"moreText":"Know More","style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}}} /--></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->
 
@@ -4489,8 +4493,8 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:9:"re
 		<wp:post_id>220</wp:post_id>
 		<wp:post_date><![CDATA[2022-10-16 10:44:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-10-16 10:44:16]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-10-16 10:44:16]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-10-16 10:44:16]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-10-18 12:16:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-10-18 12:16:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[search]]></wp:post_name>
@@ -4643,6 +4647,43 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:9:"re
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="wp_theme" nicename="gutenify-finance"><![CDATA[gutenify-finance]]></category>
 		<category domain="wp_template_part_area" nicename="uncategorized"><![CDATA[uncategorized]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Page (No Title / Feature Image)]]></title>
+		<link>https://demo.gutenify.com/retreat-pro/2022/10/18/page-no-title/</link>
+		<pubDate>Tue, 18 Oct 2022 12:16:06 +0000</pubDate>
+		<dc:creator><![CDATA[siteadmin]]></dc:creator>
+		<guid isPermaLink="false">https://demo.gutenify.com/retreat-pro/2022/10/18/page-no-title/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:template-part {"slug":"header","theme":"gutenify-finance","tagName":"header"} /-->
+
+<!-- wp:group {"tagName":"main","style":{"spacing":{"margin":{"top":"0px"},"padding":{"top":"0px","bottom":"0px"}}},"layout":{"inherit":false}} -->
+<main class="wp-block-group" style="margin-top:0px;padding-top:0px;padding-bottom:0px"><!-- wp:group {"style":{"spacing":{"margin":{"top":"0px"}}}} -->
+<div class="wp-block-group" style="margin-top:0px"><!-- wp:post-content {"layout":{"inherit":true}} /--></div>
+<!-- /wp:group --></main>
+<!-- /wp:group -->
+
+<!-- wp:template-part {"slug":"footer","theme":"gutenify-finance","tagName":"footer"} /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>237</wp:post_id>
+		<wp:post_date><![CDATA[2022-10-18 12:16:06]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-10-18 12:16:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-10-18 12:16:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-10-18 12:16:06]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[page-no-title]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_template]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="gutenify-finance"><![CDATA[gutenify-finance]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
 		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
