@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.1.1" created="2022-11-21 15:51" -->
+	<!-- generator="WordPress/6.1.1" created="2022-11-24 05:34" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Hustle Clean Pro</title>
 	<link>https://demo.gutenify.com/gutenify-hustle-clean-pro</link>
 	<description>Multipurpose WP FSE Theme</description>
-	<pubDate>Mon, 21 Nov 2022 15:51:57 +0000</pubDate>
+	<pubDate>Thu, 24 Nov 2022 05:34:52 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.gutenify.com/</wp:base_site_url>
@@ -1086,7 +1086,7 @@
 
 <!-- wp:column {"verticalAlignment":"center","style":{"spacing":{"padding":{"top":"40px","right":"40px","bottom":"40px","left":"40px"}}}} -->
 <div class="wp-block-column is-vertically-aligned-center" style="padding-top:40px;padding-right:40px;padding-bottom:40px;padding-left:40px"><!-- wp:group {"align":"wide","layout":{"inherit":true,"type":"constrained"}} -->
-<div class="wp-block-group alignwide"><!-- wp:gutenify/section-title {"blockClientId":"3ef9c553-5dd7-4b27-bc37-dc35d71f8529","blockAdvanceOptions":{"margin":{"desktop":{"bottom":""}},"padding":{"desktop":{"bottom":"0px"},"tablet":{"bottom":"25px","left":""},"mobile":{"bottom":"20px"}},"prefixTitleClasses":" animated animated-fadeInUp","mainTitleClasses":" animated animated-fadeInUp","suffixTitleClasses":" animated animated-fadeInUp"},"textAlignment":"left","prefixContent":"\u003cstrong\u003eMeet Our Powerful\u003c/strong\u003e","prefixColor":"#f78550","prefixFontSize":"1.75rem","titleContent":"Website Fast With Gutenify","titleFontSize":"clamp(2.5rem, 4vw, 3rem)","suffixContent":"Change the workflow for your WordPress site, control everything from Site editor without\u003cbr\u003eusing any extra plugins. Improved speed, web vitals score and SEO to get better positions","suffixFontSize":"1.1rem","gutenifyStyles":".gutenify-section-3ef9c553-5dd7-4b27-bc37-dc35d71f8529 .gutenify-section-title-prefix{\n\t\t\tfont-size: 1.75rem;\n\t\t}.gutenify-section-3ef9c553-5dd7-4b27-bc37-dc35d71f8529 .gutenify-section-title-main{\n\t\tfont-size: clamp(2.5rem, 4vw, 3rem);\n\t}.gutenify-section-3ef9c553-5dd7-4b27-bc37-dc35d71f8529 .gutenify-section-title-suffix{\n\t\tfont-size: 1.1rem;\n\t}.gutenify-section-3ef9c553-5dd7-4b27-bc37-dc35d71f8529 { padding-bottom: 0px; }@media only screen and (max-width: 992px) { .gutenify-section-3ef9c553-5dd7-4b27-bc37-dc35d71f8529 { padding-bottom: 25px; } }@media only screen and (max-width: 768px) { .gutenify-section-3ef9c553-5dd7-4b27-bc37-dc35d71f8529 { padding-bottom: 20px; } }"} /-->
+<div class="wp-block-group alignwide"><!-- wp:gutenify/section-title {"blockClientId":"7160b6e4-226b-4af0-a6fd-fa8e0a8a254f","blockAdvanceOptions":{"margin":{"desktop":{"bottom":""}},"padding":{"desktop":{"bottom":"0px"},"tablet":{"bottom":"25px","left":""},"mobile":{"bottom":"20px"}},"prefixTitleClasses":" animated animated-fadeInUp","mainTitleClasses":" animated animated-fadeInUp","suffixTitleClasses":" animated animated-fadeInUp"},"textAlignment":"left","prefixContent":"\u003cstrong\u003eMeet Our Powerful\u003c/strong\u003e","prefixColor":"#f78550","prefixFontSize":"1.75rem","titleContent":"Website Fast With Gutenify","titleFontSize":"clamp(2.5rem, 4vw, 3rem)","suffixContent":"Change the workflow for your WordPress site, control everything from Site editor without\u003cbr\u003eusing any extra plugins. Improved speed, web vitals score and SEO to get better positions","suffixFontSize":"1.1rem","gutenifyStyles":".gutenify-section-7160b6e4-226b-4af0-a6fd-fa8e0a8a254f .gutenify-section-title-prefix{\n\t\t\tfont-size: 1.75rem;\n\t\t}.gutenify-section-7160b6e4-226b-4af0-a6fd-fa8e0a8a254f .gutenify-section-title-main{\n\t\tfont-size: clamp(2.5rem, 4vw, 3rem);\n\t}.gutenify-section-7160b6e4-226b-4af0-a6fd-fa8e0a8a254f .gutenify-section-title-suffix{\n\t\tfont-size: 1.1rem;\n\t}.gutenify-section-7160b6e4-226b-4af0-a6fd-fa8e0a8a254f { padding-bottom: 0px; }@media only screen and (max-width: 992px) { .gutenify-section-7160b6e4-226b-4af0-a6fd-fa8e0a8a254f { padding-bottom: 25px; } }@media only screen and (max-width: 768px) { .gutenify-section-7160b6e4-226b-4af0-a6fd-fa8e0a8a254f { padding-bottom: 20px; } }"} /-->
 
 <!-- wp:gutenify/buttons -->
 <div class="wp-block-gutenify-buttons wp-block-buttons gutenify-buttons-version-2"><!-- wp:gutenify/button {"blockClientId":"c9072ffe-db08-4c1b-a9e4-e2d1b574cfe0","blockAdvanceOptions":{"buttonBorderRadius":0,"buttonBorderWidth":0,"backgroundColor":"","backgroundGradient":"","borderWidth":"0","hoverBackgroundColor":"#f78550","hoverBorderColor":"#66fcf1","hoverTextColor":"#031728","borderColor":"#f78550","textColor":"#060606"},"text":"Know More","icon":{"name":"","positon":"before","spacing":""},"className":"animated animated-fadeInUp","gutenifyStyles":".gutenify-section-c9072ffe-db08-4c1b-a9e4-e2d1b574cfe0 .gutenify-button-link { color: #060606;border-color: #f78550; }.gutenify-section-c9072ffe-db08-4c1b-a9e4-e2d1b574cfe0 .gutenify-button-link:hover { color: #031728;background: #f78550;border-color: #66fcf1; }"} -->
@@ -1278,9 +1278,9 @@
 <!-- /wp:cover -->
 
 <!-- wp:gutenify/service {"blockClientId":"a4305800-a651-4864-a09c-2f33590f4b10","layout":"layout-2","hideButtons":true,"className":"alignundefined gutenify-service-block-wrapper","gutenifyStyles":".gutenify-section-a4305800-a651-4864-a09c-2f33590f4b10 { padding-top: 20px;padding-right: 20px;padding-bottom: 20px;padding-left: 20px; }"} -->
-<div class="wp-block-gutenify-service gutenify-service-layout-2 gutenify-service-col-2 gutenify--service--hide-button gutenify-section-a4305800-a651-4864-a09c-2f33590f4b10 gutenify-service-version-2 alignundefined gutenify-service-block-wrapper"><div class="gutenify-service-block"><!-- wp:gutenify/info-box {"className":"flex-col-item ","blockClientId":"72ad35f3-a3d7-4cb9-ad4c-23c4e61dbcbd","blockAdvanceOptions":{"padding":{"desktop":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}},"textColor":"#060606"},"layout":"layout-2","iconAlign":"center","titleAlign":"left","gutenifyStyles":".gutenify-section-72ad35f3-a3d7-4cb9-ad4c-23c4e61dbcbd { color: #060606; }.gutenify-section-72ad35f3-a3d7-4cb9-ad4c-23c4e61dbcbd { padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px; }"} -->
-<div class="wp-block-gutenify-info-box gutenify-info-box-layout-2 gutenify-section-72ad35f3-a3d7-4cb9-ad4c-23c4e61dbcbd gutenify-info-box-version-2 flex-col-item"><!-- wp:gutenify/icon {"blockClientId":"d758fce4-61cb-4c13-a4b0-32ed20a9bcac","blockAdvanceOptions":{"textColor":"#4bbed1","iconPadding":{"desktop":{"top":"10px"}}},"iconName":"far fa-copyright","size":"40","iconImage":{"uploading":false,"date":1651768575000,"filename":"icon4.png","menuOrder":0,"uploadedTo":24,"type":"image","subtype":"png","id":739,"title":"icon4","url":"https://demo-gutenify-com.s3.amazonaws.com/wp-content/uploads/sites/33/2022/05/10055219/icon4.png","link":"https://demo.gutenify.com/creative-shade/home/icon4/","alt":"","author":"5","description":"","caption":"","name":"icon4","status":"inherit","modified":1651768575000,"mime":"image/png","icon":"https://demo.gutenify.com/creative-shade/wp-includes/images/media/default.png","dateFormatted":"May 5, 2022","nonces":{"update":"8225743a27","delete":"b084a77072","edit":"d1a254caaf"},"editLink":"https://demo.gutenify.com/creative-shade/wp-admin/post.php?post=739\u0026amp;action=edit","meta":false,"authorName":"gutenify-dark-pro","authorLink":"https://demo.gutenify.com/creative-shade/wp-admin/profile.php","uploadedToTitle":"Home","uploadedToLink":"https://demo.gutenify.com/creative-shade/wp-admin/post.php?post=24\u0026amp;action=edit","filesizeInBytes":1814,"filesizeHumanReadable":"2 KB","context":"","height":82,"width":82,"orientation":"landscape","sizes":{"full":{"url":"https://demo-gutenify-com.s3.amazonaws.com/wp-content/uploads/sites/33/2022/05/10055219/icon4.png","height":82,"width":82,"orientation":"landscape"}},"compat":{"item":"","meta":""}},"gutenifyStyles":".gutenify-section-d758fce4-61cb-4c13-a4b0-32ed20a9bcac .gutenify-icon-wrapper { color: #4bbed1;\n\t\tpadding-top: 10px;\n\t\t\n\t\t\n\t\t\n\t }.gutenify-section-d758fce4-61cb-4c13-a4b0-32ed20a9bcac .gutenify-icon-wrapper i {\n\t\t\tfont-size: 40px;\n\t\t}.gutenify-section-d758fce4-61cb-4c13-a4b0-32ed20a9bcac .gutenify-icon-wrapper img {\n\t\t\twidth: 40px;\n\t\t\tmax-width: 40px;\n\t\t}.gutenify-section-d758fce4-61cb-4c13-a4b0-32ed20a9bcac .gutenify-icon-wrapper .gutenify-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
-<div class="wp-block-gutenify-icon flex-col-item is-content-justification-center gutenify-section-d758fce4-61cb-4c13-a4b0-32ed20a9bcac gutenify-icon-version-2"><a class="gutenify-icon-wrapper"><i class="far fa-copyright"></i></a></div>
+<div class="wp-block-gutenify-service gutenify-service-layout-2 gutenify-service-col-2 gutenify--service--hide-button gutenify-section-a4305800-a651-4864-a09c-2f33590f4b10 gutenify-service-version-2 alignundefined gutenify-service-block-wrapper"><div class="gutenify-service-block"><!-- wp:gutenify/info-box {"className":"flex-col-item ","blockClientId":"1d72391e-1b8f-43eb-aa14-538495404a21","blockAdvanceOptions":{"padding":{"desktop":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}},"textColor":"#060606"},"layout":"layout-2","iconAlign":"center","titleAlign":"left","gutenifyStyles":".gutenify-section-1d72391e-1b8f-43eb-aa14-538495404a21 { color: #060606; }.gutenify-section-1d72391e-1b8f-43eb-aa14-538495404a21 { padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px; }"} -->
+<div class="wp-block-gutenify-info-box gutenify-info-box-layout-2 gutenify-section-1d72391e-1b8f-43eb-aa14-538495404a21 gutenify-info-box-version-2 flex-col-item"><!-- wp:gutenify/icon {"blockClientId":"b4ee5650-0e28-4806-a3f8-7642d3e1a30b","blockAdvanceOptions":{"textColor":"#4bbed1","iconPadding":{"desktop":{"top":"10px"}}},"iconName":"far fa-copyright","size":"40","iconImage":{"uploading":false,"date":1651768575000,"filename":"icon4.png","menuOrder":0,"uploadedTo":24,"type":"image","subtype":"png","id":739,"title":"icon4","url":"https://demo-gutenify-com.s3.amazonaws.com/wp-content/uploads/sites/33/2022/05/10055219/icon4.png","link":"https://demo.gutenify.com/creative-shade/home/icon4/","alt":"","author":"5","description":"","caption":"","name":"icon4","status":"inherit","modified":1651768575000,"mime":"image/png","icon":"https://demo.gutenify.com/creative-shade/wp-includes/images/media/default.png","dateFormatted":"May 5, 2022","nonces":{"update":"8225743a27","delete":"b084a77072","edit":"d1a254caaf"},"editLink":"https://demo.gutenify.com/creative-shade/wp-admin/post.php?post=739\u0026amp;action=edit","meta":false,"authorName":"gutenify-dark-pro","authorLink":"https://demo.gutenify.com/creative-shade/wp-admin/profile.php","uploadedToTitle":"Home","uploadedToLink":"https://demo.gutenify.com/creative-shade/wp-admin/post.php?post=24\u0026amp;action=edit","filesizeInBytes":1814,"filesizeHumanReadable":"2 KB","context":"","height":82,"width":82,"orientation":"landscape","sizes":{"full":{"url":"https://demo-gutenify-com.s3.amazonaws.com/wp-content/uploads/sites/33/2022/05/10055219/icon4.png","height":82,"width":82,"orientation":"landscape"}},"compat":{"item":"","meta":""}},"gutenifyStyles":".gutenify-section-b4ee5650-0e28-4806-a3f8-7642d3e1a30b .gutenify-icon-wrapper { color: #4bbed1;\n\t\tpadding-top: 10px;\n\t\t\n\t\t\n\t\t\n\t }.gutenify-section-b4ee5650-0e28-4806-a3f8-7642d3e1a30b .gutenify-icon-wrapper i {\n\t\t\tfont-size: 40px;\n\t\t}.gutenify-section-b4ee5650-0e28-4806-a3f8-7642d3e1a30b .gutenify-icon-wrapper img {\n\t\t\twidth: 40px;\n\t\t\tmax-width: 40px;\n\t\t}.gutenify-section-b4ee5650-0e28-4806-a3f8-7642d3e1a30b .gutenify-icon-wrapper .gutenify-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
+<div class="wp-block-gutenify-icon flex-col-item is-content-justification-center gutenify-section-b4ee5650-0e28-4806-a3f8-7642d3e1a30b gutenify-icon-version-2"><a class="gutenify-icon-wrapper"><i class="far fa-copyright"></i></a></div>
 <!-- /wp:gutenify/icon -->
 
 <!-- wp:heading {"textAlign":"left","level":3,"textColor":"foreground","className":"gutenify-admin-info-box-block-title","fontSize":"large"} -->
@@ -1300,9 +1300,9 @@
 <!-- /wp:gutenify/buttons --></div>
 <!-- /wp:gutenify/info-box -->
 
-<!-- wp:gutenify/info-box {"className":"flex-col-item","blockClientId":"29111ab9-d5d4-472f-89a6-353961f7b3a2","blockAdvanceOptions":{"padding":{"desktop":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}},"textColor":"#060606"},"layout":"layout-2","iconAlign":"center","titleAlign":"left","gutenifyStyles":".gutenify-section-29111ab9-d5d4-472f-89a6-353961f7b3a2 { color: #060606; }.gutenify-section-29111ab9-d5d4-472f-89a6-353961f7b3a2 { padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px; }"} -->
-<div class="wp-block-gutenify-info-box gutenify-info-box-layout-2 gutenify-section-29111ab9-d5d4-472f-89a6-353961f7b3a2 gutenify-info-box-version-2 flex-col-item"><!-- wp:gutenify/icon {"blockClientId":"1daa7d49-d9e3-4dab-9004-bb98afa4ee87","blockAdvanceOptions":{"textColor":"#4bbed1","iconPadding":{"desktop":{"top":"10px"}}},"iconName":"fas fa-globe","size":"40","iconImage":{"uploading":false,"date":1651768767000,"filename":"icon5-1.png","menuOrder":0,"uploadedTo":24,"type":"image","subtype":"png","id":742,"title":"icon5 (1)","url":"https://demo-gutenify-com.s3.amazonaws.com/wp-content/uploads/sites/33/2022/05/10055219/icon5-1.png","link":"https://demo.gutenify.com/creative-shade/home/icon5-1/","alt":"","author":"5","description":"","caption":"","name":"icon5-1","status":"inherit","modified":1651768767000,"mime":"image/png","icon":"https://demo.gutenify.com/creative-shade/wp-includes/images/media/default.png","dateFormatted":"May 5, 2022","nonces":{"update":"4164bfd453","delete":"70d8f17c62","edit":"dc60469f7e"},"editLink":"https://demo.gutenify.com/creative-shade/wp-admin/post.php?post=742\u0026amp;action=edit","meta":false,"authorName":"gutenify-dark-pro","authorLink":"https://demo.gutenify.com/creative-shade/wp-admin/profile.php","uploadedToTitle":"Home","uploadedToLink":"https://demo.gutenify.com/creative-shade/wp-admin/post.php?post=24\u0026amp;action=edit","filesizeInBytes":1468,"filesizeHumanReadable":"1 KB","context":"","height":82,"width":82,"orientation":"landscape","sizes":{"full":{"url":"https://demo-gutenify-com.s3.amazonaws.com/wp-content/uploads/sites/33/2022/05/10055219/icon5-1.png","height":82,"width":82,"orientation":"landscape"}},"compat":{"item":"","meta":""}},"gutenifyStyles":".gutenify-section-1daa7d49-d9e3-4dab-9004-bb98afa4ee87 .gutenify-icon-wrapper { color: #4bbed1;\n\t\tpadding-top: 10px;\n\t\t\n\t\t\n\t\t\n\t }.gutenify-section-1daa7d49-d9e3-4dab-9004-bb98afa4ee87 .gutenify-icon-wrapper i {\n\t\t\tfont-size: 40px;\n\t\t}.gutenify-section-1daa7d49-d9e3-4dab-9004-bb98afa4ee87 .gutenify-icon-wrapper img {\n\t\t\twidth: 40px;\n\t\t\tmax-width: 40px;\n\t\t}.gutenify-section-1daa7d49-d9e3-4dab-9004-bb98afa4ee87 .gutenify-icon-wrapper .gutenify-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
-<div class="wp-block-gutenify-icon flex-col-item is-content-justification-center gutenify-section-1daa7d49-d9e3-4dab-9004-bb98afa4ee87 gutenify-icon-version-2"><a class="gutenify-icon-wrapper"><i class="fas fa-globe"></i></a></div>
+<!-- wp:gutenify/info-box {"className":"flex-col-item","blockClientId":"eee6b494-3b6f-4c32-8595-80d944ec8f49","blockAdvanceOptions":{"padding":{"desktop":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}},"textColor":"#060606"},"layout":"layout-2","iconAlign":"center","titleAlign":"left","gutenifyStyles":".gutenify-section-eee6b494-3b6f-4c32-8595-80d944ec8f49 { color: #060606; }.gutenify-section-eee6b494-3b6f-4c32-8595-80d944ec8f49 { padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px; }"} -->
+<div class="wp-block-gutenify-info-box gutenify-info-box-layout-2 gutenify-section-eee6b494-3b6f-4c32-8595-80d944ec8f49 gutenify-info-box-version-2 flex-col-item"><!-- wp:gutenify/icon {"blockClientId":"219e103b-5b2e-430c-94d0-ca1e450d476f","blockAdvanceOptions":{"textColor":"#4bbed1","iconPadding":{"desktop":{"top":"10px"}}},"iconName":"fas fa-globe","size":"40","iconImage":{"uploading":false,"date":1651768767000,"filename":"icon5-1.png","menuOrder":0,"uploadedTo":24,"type":"image","subtype":"png","id":742,"title":"icon5 (1)","url":"https://demo-gutenify-com.s3.amazonaws.com/wp-content/uploads/sites/33/2022/05/10055219/icon5-1.png","link":"https://demo.gutenify.com/creative-shade/home/icon5-1/","alt":"","author":"5","description":"","caption":"","name":"icon5-1","status":"inherit","modified":1651768767000,"mime":"image/png","icon":"https://demo.gutenify.com/creative-shade/wp-includes/images/media/default.png","dateFormatted":"May 5, 2022","nonces":{"update":"4164bfd453","delete":"70d8f17c62","edit":"dc60469f7e"},"editLink":"https://demo.gutenify.com/creative-shade/wp-admin/post.php?post=742\u0026amp;action=edit","meta":false,"authorName":"gutenify-dark-pro","authorLink":"https://demo.gutenify.com/creative-shade/wp-admin/profile.php","uploadedToTitle":"Home","uploadedToLink":"https://demo.gutenify.com/creative-shade/wp-admin/post.php?post=24\u0026amp;action=edit","filesizeInBytes":1468,"filesizeHumanReadable":"1 KB","context":"","height":82,"width":82,"orientation":"landscape","sizes":{"full":{"url":"https://demo-gutenify-com.s3.amazonaws.com/wp-content/uploads/sites/33/2022/05/10055219/icon5-1.png","height":82,"width":82,"orientation":"landscape"}},"compat":{"item":"","meta":""}},"gutenifyStyles":".gutenify-section-219e103b-5b2e-430c-94d0-ca1e450d476f .gutenify-icon-wrapper { color: #4bbed1;\n\t\tpadding-top: 10px;\n\t\t\n\t\t\n\t\t\n\t }.gutenify-section-219e103b-5b2e-430c-94d0-ca1e450d476f .gutenify-icon-wrapper i {\n\t\t\tfont-size: 40px;\n\t\t}.gutenify-section-219e103b-5b2e-430c-94d0-ca1e450d476f .gutenify-icon-wrapper img {\n\t\t\twidth: 40px;\n\t\t\tmax-width: 40px;\n\t\t}.gutenify-section-219e103b-5b2e-430c-94d0-ca1e450d476f .gutenify-icon-wrapper .gutenify-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
+<div class="wp-block-gutenify-icon flex-col-item is-content-justification-center gutenify-section-219e103b-5b2e-430c-94d0-ca1e450d476f gutenify-icon-version-2"><a class="gutenify-icon-wrapper"><i class="fas fa-globe"></i></a></div>
 <!-- /wp:gutenify/icon -->
 
 <!-- wp:heading {"textAlign":"left","level":3,"textColor":"foreground","className":"gutenify-admin-info-box-block-title","fontSize":"large"} -->
@@ -1504,8 +1504,8 @@
 <!-- wp:group {"align":"wide"} -->
 <div class="wp-block-group alignwide"><!-- wp:gutenify/advance-slider {"blockClientId":"f1771f58-be1f-43d5-8e2a-820bb491a35b","blockAdvanceOptions":{"hasPagination":false,"hasNavigation":true,"columns":3,"spaceBetween":40,"arrows":{"type":"style-1","backgroundColor":"#66fcf1","normalColor":"#031728","borderRadius":"100px"},"paginations":{"width":"15px","height":"15px","borderWidth":"3px","borderRadius":"50px","backgroundColor":"#fff"},"autoplay":false},"className":" animated animated-fadeInUp","gutenifyStyles":".gutenify-section-f1771f58-be1f-43d5-8e2a-820bb491a35b .swiper-button-next  { color: #031728;background-color: #66fcf1; }.gutenify-section-f1771f58-be1f-43d5-8e2a-820bb491a35b .swiper-button-prev  { color: #031728;background-color: #66fcf1; }.gutenify-section-f1771f58-be1f-43d5-8e2a-820bb491a35b .swiper-pagination .swiper-pagination-bullet  { background-color: #fff;border-radius: 50px;border-width: 3px;border-style: solid;height: 15px;width: 15px; }.gutenify-section-f1771f58-be1f-43d5-8e2a-820bb491a35b .swiper-button-next  { color: #031728;background-color: #66fcf1;border-radius: 100px; }.gutenify-section-f1771f58-be1f-43d5-8e2a-820bb491a35b .swiper-button-prev  { color: #031728;background-color: #66fcf1;border-radius: 100px; }.gutenify-section-f1771f58-be1f-43d5-8e2a-820bb491a35b .swiper-pagination .swiper-pagination-bullet  { background-color: #fff;border-radius: 50px;border-width: 3pxpx;border-style: solid;height: 15px;width: 15px; }"} -->
 <!-- wp:gutenify/advance-slide-item {"blockClientId":"883fd148-ca06-4541-a1ea-982481cd19a5"} -->
-<div class="wp-block-gutenify-advance-slide-item gutenify-block-slide-item-wrapper swiper-slide gutenify-section-883fd148-ca06-4541-a1ea-982481cd19a5 gutenify-advance-slide-item-version-2"><!-- wp:gutenify/testimonial {"blockClientId":"9ea2965c-d07e-478d-bf0d-26f4bc1138ab","blockAdvanceOptions":{"backgroundColor":"#ffffff"},"layout":"layout-5","className":"flex-col-item ","gutenifyStyles":".gutenify-section-9ea2965c-d07e-478d-bf0d-26f4bc1138ab { background: #ffffff; }"} -->
-<div class="wp-block-gutenify-testimonial gutenify-testimonial-item gutenify-testimonial-layout-5 gutenify-section-9ea2965c-d07e-478d-bf0d-26f4bc1138ab gutenify-testimonial-version-2 flex-col-item"><div class="gutenify-testimonial-section"><!-- wp:image {"align":"center","id":772,"width":75,"height":75,"sizeSlug":"thumbnail","linkDestination":"none","className":"is-style-rounded"} -->
+<div class="wp-block-gutenify-advance-slide-item gutenify-block-slide-item-wrapper swiper-slide gutenify-section-883fd148-ca06-4541-a1ea-982481cd19a5 gutenify-advance-slide-item-version-2"><!-- wp:gutenify/testimonial {"blockClientId":"6d5ac237-a405-4f4e-981c-eebbdebe0624","blockAdvanceOptions":{"backgroundColor":"#ffffff"},"layout":"layout-5","className":"flex-col-item ","gutenifyStyles":".gutenify-section-6d5ac237-a405-4f4e-981c-eebbdebe0624 { background: #ffffff; }"} -->
+<div class="wp-block-gutenify-testimonial gutenify-testimonial-item gutenify-testimonial-layout-5 gutenify-section-6d5ac237-a405-4f4e-981c-eebbdebe0624 gutenify-testimonial-version-2 flex-col-item"><div class="gutenify-testimonial-section"><!-- wp:image {"align":"center","id":772,"width":75,"height":75,"sizeSlug":"thumbnail","linkDestination":"none","className":"is-style-rounded"} -->
 <figure class="wp-block-image aligncenter size-thumbnail is-resized is-style-rounded"><img src="https://demo-gutenify-com.s3.amazonaws.com/wp-content/uploads/sites/49/2022/05/06115244/male-portrait-Q8YYKPA-1-150x150.jpeg" alt="" class="wp-image-772" width="75" height="75"/></figure>
 <!-- /wp:image -->
 
@@ -1521,15 +1521,15 @@
 <h4 class="has-text-align-center gutenify-testimonial-block-degination has-secondary-color has-text-color">Founder/ CEO</h4>
 <!-- /wp:heading -->
 
-<!-- wp:gutenify/star-rating {"blockClientId":"3de20021-198f-4425-bea8-04759d4e59bd","gutenifyStyles":".gutenify-section-3de20021-198f-4425-bea8-04759d4e59bd .gutenify-star-rating-filled, .gutenify-section-3de20021-198f-4425-bea8-04759d4e59bd .gutenify-star-rating-half { color: #ff9800; }"} -->
-<div class="wp-block-gutenify-star-rating is-content-justification-center gutenify-section-3de20021-198f-4425-bea8-04759d4e59bd gutenify-star-rating-version-2"><div class="gutenify-star-rating-section"><span class="fas fa-star gutenify-star-rating-filled"></span><span class="fas fa-star gutenify-star-rating-filled"></span><span class="fas fa-star gutenify-star-rating-filled"></span><span class="fas fa-star gutenify-star-rating-filled"></span><span class="fas fa-star gutenify-star-rating-filled"></span></div></div>
+<!-- wp:gutenify/star-rating {"blockClientId":"cd8afa0e-319e-40e8-b648-35eff4df6a42","gutenifyStyles":".gutenify-section-cd8afa0e-319e-40e8-b648-35eff4df6a42 .gutenify-star-rating-filled, .gutenify-section-cd8afa0e-319e-40e8-b648-35eff4df6a42 .gutenify-star-rating-half { color: #ff9800; }"} -->
+<div class="wp-block-gutenify-star-rating is-content-justification-center gutenify-section-cd8afa0e-319e-40e8-b648-35eff4df6a42 gutenify-star-rating-version-2"><div class="gutenify-star-rating-section"><span class="fas fa-star gutenify-star-rating-filled"></span><span class="fas fa-star gutenify-star-rating-filled"></span><span class="fas fa-star gutenify-star-rating-filled"></span><span class="fas fa-star gutenify-star-rating-filled"></span><span class="fas fa-star gutenify-star-rating-filled"></span></div></div>
 <!-- /wp:gutenify/star-rating --></div></div>
 <!-- /wp:gutenify/testimonial --></div>
 <!-- /wp:gutenify/advance-slide-item -->
 
 <!-- wp:gutenify/advance-slide-item {"blockClientId":"4ab382c5-4f6e-49fe-bddc-262d965a502b"} -->
-<div class="wp-block-gutenify-advance-slide-item gutenify-block-slide-item-wrapper swiper-slide gutenify-section-4ab382c5-4f6e-49fe-bddc-262d965a502b gutenify-advance-slide-item-version-2"><!-- wp:gutenify/testimonial {"blockClientId":"30295e2d-a143-47f4-9b1a-a55e90b29b78","blockAdvanceOptions":{"backgroundColor":"#ffffff"},"layout":"layout-5","className":"flex-col-item ","gutenifyStyles":".gutenify-section-30295e2d-a143-47f4-9b1a-a55e90b29b78 { background: #ffffff; }"} -->
-<div class="wp-block-gutenify-testimonial gutenify-testimonial-item gutenify-testimonial-layout-5 gutenify-section-30295e2d-a143-47f4-9b1a-a55e90b29b78 gutenify-testimonial-version-2 flex-col-item"><div class="gutenify-testimonial-section"><!-- wp:image {"align":"center","id":770,"width":75,"height":75,"sizeSlug":"thumbnail","linkDestination":"none","className":"is-style-rounded"} -->
+<div class="wp-block-gutenify-advance-slide-item gutenify-block-slide-item-wrapper swiper-slide gutenify-section-4ab382c5-4f6e-49fe-bddc-262d965a502b gutenify-advance-slide-item-version-2"><!-- wp:gutenify/testimonial {"blockClientId":"b15963f0-c652-4d4f-adae-d4a1ee7f0ebb","blockAdvanceOptions":{"backgroundColor":"#ffffff"},"layout":"layout-5","className":"flex-col-item ","gutenifyStyles":".gutenify-section-b15963f0-c652-4d4f-adae-d4a1ee7f0ebb { background: #ffffff; }"} -->
+<div class="wp-block-gutenify-testimonial gutenify-testimonial-item gutenify-testimonial-layout-5 gutenify-section-b15963f0-c652-4d4f-adae-d4a1ee7f0ebb gutenify-testimonial-version-2 flex-col-item"><div class="gutenify-testimonial-section"><!-- wp:image {"align":"center","id":770,"width":75,"height":75,"sizeSlug":"thumbnail","linkDestination":"none","className":"is-style-rounded"} -->
 <figure class="wp-block-image aligncenter size-thumbnail is-resized is-style-rounded"><img src="https://demo-gutenify-com.s3.amazonaws.com/wp-content/uploads/sites/49/2022/05/06115242/portrait-2Y2BRY2-1-150x150.jpeg" alt="" class="wp-image-770" width="75" height="75"/></figure>
 <!-- /wp:image -->
 
@@ -1545,15 +1545,15 @@
 <h4 class="has-text-align-center gutenify-testimonial-block-degination has-secondary-color has-text-color">Founder/ CEO</h4>
 <!-- /wp:heading -->
 
-<!-- wp:gutenify/star-rating {"blockClientId":"d8d15c85-4a9b-4eb1-a082-ccf277cde7c3","gutenifyStyles":".gutenify-section-d8d15c85-4a9b-4eb1-a082-ccf277cde7c3 .gutenify-star-rating-filled, .gutenify-section-d8d15c85-4a9b-4eb1-a082-ccf277cde7c3 .gutenify-star-rating-half { color: #ff9800; }"} -->
-<div class="wp-block-gutenify-star-rating is-content-justification-center gutenify-section-d8d15c85-4a9b-4eb1-a082-ccf277cde7c3 gutenify-star-rating-version-2"><div class="gutenify-star-rating-section"><span class="fas fa-star gutenify-star-rating-filled"></span><span class="fas fa-star gutenify-star-rating-filled"></span><span class="fas fa-star gutenify-star-rating-filled"></span><span class="fas fa-star gutenify-star-rating-filled"></span><span class="fas fa-star gutenify-star-rating-filled"></span></div></div>
+<!-- wp:gutenify/star-rating {"blockClientId":"2c8b7928-2e72-4b1b-b7c8-e532b64c8f80","gutenifyStyles":".gutenify-section-2c8b7928-2e72-4b1b-b7c8-e532b64c8f80 .gutenify-star-rating-filled, .gutenify-section-2c8b7928-2e72-4b1b-b7c8-e532b64c8f80 .gutenify-star-rating-half { color: #ff9800; }"} -->
+<div class="wp-block-gutenify-star-rating is-content-justification-center gutenify-section-2c8b7928-2e72-4b1b-b7c8-e532b64c8f80 gutenify-star-rating-version-2"><div class="gutenify-star-rating-section"><span class="fas fa-star gutenify-star-rating-filled"></span><span class="fas fa-star gutenify-star-rating-filled"></span><span class="fas fa-star gutenify-star-rating-filled"></span><span class="fas fa-star gutenify-star-rating-filled"></span><span class="fas fa-star gutenify-star-rating-filled"></span></div></div>
 <!-- /wp:gutenify/star-rating --></div></div>
 <!-- /wp:gutenify/testimonial --></div>
 <!-- /wp:gutenify/advance-slide-item -->
 
 <!-- wp:gutenify/advance-slide-item {"blockClientId":"4ab382c5-4f6e-49fe-bddc-262d965a502b"} -->
-<div class="wp-block-gutenify-advance-slide-item gutenify-block-slide-item-wrapper swiper-slide gutenify-section-4ab382c5-4f6e-49fe-bddc-262d965a502b gutenify-advance-slide-item-version-2"><!-- wp:gutenify/testimonial {"blockClientId":"d6d54897-baf0-48ee-a643-e88f6d3bfa63","blockAdvanceOptions":{"backgroundColor":"#ffffff"},"layout":"layout-5","className":"flex-col-item ","gutenifyStyles":".gutenify-section-d6d54897-baf0-48ee-a643-e88f6d3bfa63 { background: #ffffff; }"} -->
-<div class="wp-block-gutenify-testimonial gutenify-testimonial-item gutenify-testimonial-layout-5 gutenify-section-d6d54897-baf0-48ee-a643-e88f6d3bfa63 gutenify-testimonial-version-2 flex-col-item"><div class="gutenify-testimonial-section"><!-- wp:image {"align":"center","id":771,"width":75,"height":75,"sizeSlug":"thumbnail","linkDestination":"none","className":"is-style-rounded"} -->
+<div class="wp-block-gutenify-advance-slide-item gutenify-block-slide-item-wrapper swiper-slide gutenify-section-4ab382c5-4f6e-49fe-bddc-262d965a502b gutenify-advance-slide-item-version-2"><!-- wp:gutenify/testimonial {"blockClientId":"b65cdaf5-ce4c-404a-83f4-e8fcdb1dbb98","blockAdvanceOptions":{"backgroundColor":"#ffffff"},"layout":"layout-5","className":"flex-col-item ","gutenifyStyles":".gutenify-section-b65cdaf5-ce4c-404a-83f4-e8fcdb1dbb98 { background: #ffffff; }"} -->
+<div class="wp-block-gutenify-testimonial gutenify-testimonial-item gutenify-testimonial-layout-5 gutenify-section-b65cdaf5-ce4c-404a-83f4-e8fcdb1dbb98 gutenify-testimonial-version-2 flex-col-item"><div class="gutenify-testimonial-section"><!-- wp:image {"align":"center","id":771,"width":75,"height":75,"sizeSlug":"thumbnail","linkDestination":"none","className":"is-style-rounded"} -->
 <figure class="wp-block-image aligncenter size-thumbnail is-resized is-style-rounded"><img src="https://demo-gutenify-com.s3.amazonaws.com/wp-content/uploads/sites/49/2022/05/06115243/portrait-4847GSQ-150x150.jpeg" alt="" class="wp-image-771" width="75" height="75"/></figure>
 <!-- /wp:image -->
 
@@ -1569,8 +1569,8 @@
 <h4 class="has-text-align-center gutenify-testimonial-block-degination has-secondary-color has-text-color">Founder/ CEO</h4>
 <!-- /wp:heading -->
 
-<!-- wp:gutenify/star-rating {"blockClientId":"47d4324d-884a-4e8f-a1af-dd515bf4ea9a","gutenifyStyles":".gutenify-section-47d4324d-884a-4e8f-a1af-dd515bf4ea9a .gutenify-star-rating-filled, .gutenify-section-47d4324d-884a-4e8f-a1af-dd515bf4ea9a .gutenify-star-rating-half { color: #ff9800; }"} -->
-<div class="wp-block-gutenify-star-rating is-content-justification-center gutenify-section-47d4324d-884a-4e8f-a1af-dd515bf4ea9a gutenify-star-rating-version-2"><div class="gutenify-star-rating-section"><span class="fas fa-star gutenify-star-rating-filled"></span><span class="fas fa-star gutenify-star-rating-filled"></span><span class="fas fa-star gutenify-star-rating-filled"></span><span class="fas fa-star gutenify-star-rating-filled"></span><span class="fas fa-star gutenify-star-rating-filled"></span></div></div>
+<!-- wp:gutenify/star-rating {"blockClientId":"f1290a72-7b1f-41e1-9ff1-01705d08d579","gutenifyStyles":".gutenify-section-f1290a72-7b1f-41e1-9ff1-01705d08d579 .gutenify-star-rating-filled, .gutenify-section-f1290a72-7b1f-41e1-9ff1-01705d08d579 .gutenify-star-rating-half { color: #ff9800; }"} -->
+<div class="wp-block-gutenify-star-rating is-content-justification-center gutenify-section-f1290a72-7b1f-41e1-9ff1-01705d08d579 gutenify-star-rating-version-2"><div class="gutenify-star-rating-section"><span class="fas fa-star gutenify-star-rating-filled"></span><span class="fas fa-star gutenify-star-rating-filled"></span><span class="fas fa-star gutenify-star-rating-filled"></span><span class="fas fa-star gutenify-star-rating-filled"></span><span class="fas fa-star gutenify-star-rating-filled"></span></div></div>
 <!-- /wp:gutenify/star-rating --></div></div>
 <!-- /wp:gutenify/testimonial --></div>
 <!-- /wp:gutenify/advance-slide-item -->
@@ -1600,9 +1600,9 @@
 <!-- /wp:group -->
 
 <!-- wp:group {"align":"wide"} -->
-<div class="wp-block-group alignwide"><!-- wp:gutenify/team {"blockClientId":"f2ea3b46-1bb5-4946-85a7-fe70129cb54d","blockAdvanceOptions":{"padding":{"desktop":{"top":"20px","bottom":"20px","left":"0px","right":"0px"}},"textColor":"#66fcf1"},"columnSize":4,"align":"wide","className":"wp-block-gutenify-team alignwide animated animated-fadeInUp","gutenifyStyles":".gutenify-section-f2ea3b46-1bb5-4946-85a7-fe70129cb54d { color: #66fcf1; }.gutenify-section-f2ea3b46-1bb5-4946-85a7-fe70129cb54d { padding-top: 20px;padding-right: 0px;padding-bottom: 20px;padding-left: 0px; }"} -->
-<div class="gutenify-team-block-wrapper gutenify-team-layout-1 gutenify-team-col-4 gutenify-section-f2ea3b46-1bb5-4946-85a7-fe70129cb54d gutenify-team-version-2"><div class="gutenify-team-section"><!-- wp:gutenify/team-member {"blockClientId":"725a3c2d-9550-4c21-a8bd-97a668b27717","blockAdvanceOptions":{"backgroundColor":"#ffffff","textColor":"#f78550"},"className":"has-shadow-dark animated animated-fadeInUp","gutenifyStyles":".gutenify-section-725a3c2d-9550-4c21-a8bd-97a668b27717 { color: #f78550;background: #ffffff; }"} -->
-<div class="wp-block-gutenify-team-member gutenify-team-item gutenify-section-725a3c2d-9550-4c21-a8bd-97a668b27717 gutenify-team-member-layout-1 gutenify-team-member-version-2 has-shadow-dark animated animated-fadeInUp"><div class="gutenify-team-member-section"><!-- wp:image {"align":"center","id":314,"sizeSlug":"full","linkDestination":"none","className":"image-zoom-hover"} -->
+<div class="wp-block-group alignwide"><!-- wp:gutenify/team {"blockClientId":"11b17892-d46b-474a-a8cf-7eb0e9824b36","blockAdvanceOptions":{"padding":{"desktop":{"top":"20px","bottom":"20px","left":"0px","right":"0px"}},"textColor":"#66fcf1"},"columnSize":4,"align":"wide","className":"wp-block-gutenify-team alignwide animated animated-fadeInUp","gutenifyStyles":".gutenify-section-11b17892-d46b-474a-a8cf-7eb0e9824b36 { color: #66fcf1; }.gutenify-section-11b17892-d46b-474a-a8cf-7eb0e9824b36 { padding-top: 20px;padding-right: 0px;padding-bottom: 20px;padding-left: 0px; }"} -->
+<div class="gutenify-team-block-wrapper gutenify-team-layout-1 gutenify-team-col-4 gutenify-section-11b17892-d46b-474a-a8cf-7eb0e9824b36 gutenify-team-version-2"><div class="gutenify-team-section"><!-- wp:gutenify/team-member {"blockClientId":"28d7c885-30db-4169-9dfb-b080f9f5e336","blockAdvanceOptions":{"backgroundColor":"#ffffff","textColor":"#f78550"},"className":"has-shadow-dark animated animated-fadeInUp","gutenifyStyles":".gutenify-section-28d7c885-30db-4169-9dfb-b080f9f5e336 { color: #f78550;background: #ffffff; }"} -->
+<div class="wp-block-gutenify-team-member gutenify-team-item gutenify-section-28d7c885-30db-4169-9dfb-b080f9f5e336 gutenify-team-member-layout-1 gutenify-team-member-version-2 has-shadow-dark animated animated-fadeInUp"><div class="gutenify-team-member-section"><!-- wp:image {"align":"center","id":314,"sizeSlug":"full","linkDestination":"none","className":"image-zoom-hover"} -->
 <figure class="wp-block-image aligncenter size-full image-zoom-hover"><img src="https://demo.gutenify.com/gutenify-hustle-pro/wp-content/uploads/sites/80/2022/11/team-thumb-1.jpeg" alt="" class="wp-image-314"/></figure>
 <!-- /wp:image -->
 
@@ -1627,8 +1627,8 @@
 <!-- /wp:social-links --></div></div>
 <!-- /wp:gutenify/team-member -->
 
-<!-- wp:gutenify/team-member {"blockClientId":"b2f84303-6925-453d-950c-172e126d6639","blockAdvanceOptions":{"backgroundColor":"#ffffff","textColor":"#f78550"},"className":"has-shadow-dark animated animated-fadeInUp","gutenifyStyles":".gutenify-section-b2f84303-6925-453d-950c-172e126d6639 { color: #f78550;background: #ffffff; }"} -->
-<div class="wp-block-gutenify-team-member gutenify-team-item gutenify-section-b2f84303-6925-453d-950c-172e126d6639 gutenify-team-member-layout-1 gutenify-team-member-version-2 has-shadow-dark animated animated-fadeInUp"><div class="gutenify-team-member-section"><!-- wp:image {"align":"center","id":315,"sizeSlug":"full","linkDestination":"none","className":"image-zoom-hover"} -->
+<!-- wp:gutenify/team-member {"blockClientId":"7d4cd50c-3310-4d4c-b89f-e067e68bb653","blockAdvanceOptions":{"backgroundColor":"#ffffff","textColor":"#f78550"},"className":"has-shadow-dark animated animated-fadeInUp","gutenifyStyles":".gutenify-section-7d4cd50c-3310-4d4c-b89f-e067e68bb653 { color: #f78550;background: #ffffff; }"} -->
+<div class="wp-block-gutenify-team-member gutenify-team-item gutenify-section-7d4cd50c-3310-4d4c-b89f-e067e68bb653 gutenify-team-member-layout-1 gutenify-team-member-version-2 has-shadow-dark animated animated-fadeInUp"><div class="gutenify-team-member-section"><!-- wp:image {"align":"center","id":315,"sizeSlug":"full","linkDestination":"none","className":"image-zoom-hover"} -->
 <figure class="wp-block-image aligncenter size-full image-zoom-hover"><img src="https://demo.gutenify.com/gutenify-hustle-pro/wp-content/uploads/sites/80/2022/11/team-thumb-2.jpeg" alt="" class="wp-image-315"/></figure>
 <!-- /wp:image -->
 
@@ -1653,8 +1653,8 @@
 <!-- /wp:social-links --></div></div>
 <!-- /wp:gutenify/team-member -->
 
-<!-- wp:gutenify/team-member {"blockClientId":"1074a43a-44cb-4838-9756-e99391c03005","blockAdvanceOptions":{"backgroundColor":"#ffffff","textColor":"#f78550"},"className":"has-shadow-dark animated animated-fadeInUp","gutenifyStyles":".gutenify-section-1074a43a-44cb-4838-9756-e99391c03005 { color: #f78550;background: #ffffff; }"} -->
-<div class="wp-block-gutenify-team-member gutenify-team-item gutenify-section-1074a43a-44cb-4838-9756-e99391c03005 gutenify-team-member-layout-1 gutenify-team-member-version-2 has-shadow-dark animated animated-fadeInUp"><div class="gutenify-team-member-section"><!-- wp:image {"align":"center","id":316,"sizeSlug":"full","linkDestination":"none","className":"image-zoom-hover"} -->
+<!-- wp:gutenify/team-member {"blockClientId":"19363e79-a68d-44c5-98c6-0efa0a60ab67","blockAdvanceOptions":{"backgroundColor":"#ffffff","textColor":"#f78550"},"className":"has-shadow-dark animated animated-fadeInUp","gutenifyStyles":".gutenify-section-19363e79-a68d-44c5-98c6-0efa0a60ab67 { color: #f78550;background: #ffffff; }"} -->
+<div class="wp-block-gutenify-team-member gutenify-team-item gutenify-section-19363e79-a68d-44c5-98c6-0efa0a60ab67 gutenify-team-member-layout-1 gutenify-team-member-version-2 has-shadow-dark animated animated-fadeInUp"><div class="gutenify-team-member-section"><!-- wp:image {"align":"center","id":316,"sizeSlug":"full","linkDestination":"none","className":"image-zoom-hover"} -->
 <figure class="wp-block-image aligncenter size-full image-zoom-hover"><img src="https://demo.gutenify.com/gutenify-hustle-pro/wp-content/uploads/sites/80/2022/11/team-thumb-3.jpeg" alt="" class="wp-image-316"/></figure>
 <!-- /wp:image -->
 
@@ -1679,8 +1679,8 @@
 <!-- /wp:social-links --></div></div>
 <!-- /wp:gutenify/team-member -->
 
-<!-- wp:gutenify/team-member {"blockClientId":"7eada105-0213-476a-b38a-30176719ffc8","blockAdvanceOptions":{"backgroundColor":"#ffffff","textColor":"#f78550"},"className":"has-shadow-dark animated animated-fadeInUp","gutenifyStyles":".gutenify-section-7eada105-0213-476a-b38a-30176719ffc8 { color: #f78550;background: #ffffff; }"} -->
-<div class="wp-block-gutenify-team-member gutenify-team-item gutenify-section-7eada105-0213-476a-b38a-30176719ffc8 gutenify-team-member-layout-1 gutenify-team-member-version-2 has-shadow-dark animated animated-fadeInUp"><div class="gutenify-team-member-section"><!-- wp:image {"align":"center","id":317,"sizeSlug":"full","linkDestination":"none","className":"image-zoom-hover"} -->
+<!-- wp:gutenify/team-member {"blockClientId":"93a7c8c3-101e-438c-a8f9-4d37d63acf71","blockAdvanceOptions":{"backgroundColor":"#ffffff","textColor":"#f78550"},"className":"has-shadow-dark animated animated-fadeInUp","gutenifyStyles":".gutenify-section-93a7c8c3-101e-438c-a8f9-4d37d63acf71 { color: #f78550;background: #ffffff; }"} -->
+<div class="wp-block-gutenify-team-member gutenify-team-item gutenify-section-93a7c8c3-101e-438c-a8f9-4d37d63acf71 gutenify-team-member-layout-1 gutenify-team-member-version-2 has-shadow-dark animated animated-fadeInUp"><div class="gutenify-team-member-section"><!-- wp:image {"align":"center","id":317,"sizeSlug":"full","linkDestination":"none","className":"image-zoom-hover"} -->
 <figure class="wp-block-image aligncenter size-full image-zoom-hover"><img src="https://demo.gutenify.com/gutenify-hustle-pro/wp-content/uploads/sites/80/2022/11/team-thumb-4.jpeg" alt="" class="wp-image-317"/></figure>
 <!-- /wp:image -->
 
@@ -1856,7 +1856,7 @@
 <!-- /wp:column -->
 
 <!-- wp:column {"verticalAlignment":"center","style":{"spacing":{"padding":{"top":"40px","right":"40px","bottom":"40px","left":"40px"}}},"className":"animated fadeInUp"} -->
-<div class="wp-block-column is-vertically-aligned-center animated fadeInUp" style="padding-top:40px;padding-right:40px;padding-bottom:40px;padding-left:40px"><!-- wp:gutenify/section-title {"blockClientId":"1a10a362-657a-49d7-aff3-80d14e145bda","isSaved":true,"textAlignment":"left","prefixContent":"FAQ","prefixColor":"#f78550","titleContent":"Frequently Asked Questions","titleColor":"#060606","titleFontSize":"clamp(2.5rem, 4vw, 3rem)","suffixContent":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, \u003cbr\u003e","suffixColor":"#777","className":"","gutenifyStyles":".gutenify-section-1a10a362-657a-49d7-aff3-80d14e145bda .gutenify-section-title-main{\n\t\tfont-size: clamp(2.5rem, 4vw, 3rem);\n\t}"} /-->
+<div class="wp-block-column is-vertically-aligned-center animated fadeInUp" style="padding-top:40px;padding-right:40px;padding-bottom:40px;padding-left:40px"><!-- wp:gutenify/section-title {"blockClientId":"0c0c8ec8-a405-43c0-be99-9c64ff59df71","isSaved":true,"textAlignment":"left","prefixContent":"FAQ","prefixColor":"#f78550","titleContent":"Frequently Asked Questions","titleColor":"#060606","titleFontSize":"clamp(2.5rem, 4vw, 3rem)","suffixContent":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, \u003cbr\u003e","suffixColor":"#777","className":"","gutenifyStyles":".gutenify-section-0c0c8ec8-a405-43c0-be99-9c64ff59df71 .gutenify-section-title-main{\n\t\tfont-size: clamp(2.5rem, 4vw, 3rem);\n\t}"} /-->
 
 <!-- wp:gutenify/faqs {"blockClientId":"0f30c3f7-ce3b-415f-b015-36830a0980da","blockAdvanceOptions":{"header":{"backgroundColor":"#e4fafa","hoverBackgroundColor":"#66fcf1","hoverTextColor":"#031728","textColor":"#060606"},"border":{"color":"#2ef4d3"},"content":{"backgroundColor":"#ffffff","textColor":"#060606"}},"initialOpenAll":false,"gap":"20px","gutenifyStyles":".gutenify-section-0f30c3f7-ce3b-415f-b015-36830a0980da .gutenify-block-content-toggle-item-wrapper { margin-bottom: 20px;border-color: #2ef4d3; }.gutenify-section-0f30c3f7-ce3b-415f-b015-36830a0980da .gutenify-block-content-toggle-item-wrapper .gutenify-content-toggle-item-header \u003e * { color: #060606; }.gutenify-section-0f30c3f7-ce3b-415f-b015-36830a0980da .gutenify-block-content-toggle-item-wrapper .gutenify-content-toggle-item-header { background: #e4fafa; }.gutenify-section-0f30c3f7-ce3b-415f-b015-36830a0980da .gutenify-block-content-toggle-item-wrapper .gutenify-content-toggle-item-header:hover \u003e * { color: #031728; }.gutenify-section-0f30c3f7-ce3b-415f-b015-36830a0980da .gutenify-block-content-toggle-item-wrapper .gutenify-content-toggle-item-header:hover { background: #66fcf1; }.gutenify-section-0f30c3f7-ce3b-415f-b015-36830a0980da .gutenify-block-content-toggle-item-wrapper .gutenify-content-toggle-item-content \u003e * { color: #060606; }.gutenify-section-0f30c3f7-ce3b-415f-b015-36830a0980da .gutenify-block-content-toggle-item-wrapper .gutenify-content-toggle-item-content { background: #ffffff; }"} -->
 <div class="wp-block-gutenify-faqs gutenify-block-faq-wrapper gutenify-block-faq-accordion gutenify-section-0f30c3f7-ce3b-415f-b015-36830a0980da gutenify-faqs-version-2"><!-- wp:gutenify/content-toggle-item {"blockClientId":"18e9c6f6-a4a9-4a05-80c9-a657f4755fcc","title":"What Makes Your Business Plans So Special?","initialOpen":false} -->
@@ -1964,8 +1964,8 @@
 		<wp:post_id>4</wp:post_id>
 		<wp:post_date><![CDATA[2022-10-21 08:00:44]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-10-21 08:00:44]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-11-21 15:51:47]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-11-21 15:51:47]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-24 05:26:13]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-24 05:26:13]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -3736,13 +3736,31 @@ https://www.youtube.com/watch?v=TI9pT4LiFDc&amp;t=55s
 		<dc:creator><![CDATA[siteadmin]]></dc:creator>
 		<guid isPermaLink="false">https://demo.gutenify.com/gutenify-hustle-clean-pro/2022/10/21/header-navigation/</guid>
 		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
+		<content:encoded><![CDATA[<!-- wp:navigation-submenu {"label":"Home","type":"page","id":4,"url":"https://demo.gutenify.com/gutenify-hustle-clean-pro/","kind":"post-type","isTopLevelItem":true} -->
+<!-- wp:navigation-link {"label":"Home V2","type":"page","id":362,"url":"https://demo.gutenify.com/gutenify-hustle-clean-pro/home-v2/","kind":"post-type","isTopLevelLink":false} /-->
+<!-- /wp:navigation-submenu -->
+
+<!-- wp:navigation-submenu {"label":"About Us","type":"page","id":5,"url":"https://demo.gutenify.com/gutenify-hustle-clean-pro/about-us/","kind":"post-type","isTopLevelItem":true} -->
+<!-- wp:navigation-link {"label":"Team","type":"page","id":305,"url":"https://demo.gutenify.com/gutenify-hustle-clean-pro/team/","kind":"post-type","isTopLevelLink":false} /-->
+
+<!-- wp:navigation-link {"label":"Testimonials","type":"page","id":304,"url":"https://demo.gutenify.com/gutenify-hustle-clean-pro/testimonials/","kind":"post-type","isTopLevelLink":false} /-->
+
+<!-- wp:navigation-link {"label":"Portfolio","type":"page","id":302,"url":"https://demo.gutenify.com/gutenify-hustle-clean-pro/portfolio/","kind":"post-type","isTopLevelLink":false} /-->
+
+<!-- wp:navigation-link {"label":"Faq","type":"page","id":303,"url":"https://demo.gutenify.com/gutenify-hustle-clean-pro/faq/","kind":"post-type","isTopLevelLink":false} /-->
+<!-- /wp:navigation-submenu -->
+
+<!-- wp:navigation-link {"label":"Services","type":"page","id":7,"url":"https://demo.gutenify.com/gutenify-hustle-clean-pro/services/","kind":"post-type","isTopLevelLink":true} /-->
+
+<!-- wp:navigation-link {"label":"Contact Us","type":"page","id":6,"url":"https://demo.gutenify.com/gutenify-hustle-clean-pro/contact-us/","kind":"post-type","isTopLevelLink":true} /-->
+
+<!-- wp:navigation-link {"label":"News","type":"page","id":72,"url":"https://demo.gutenify.com/gutenify-hustle-clean-pro/news/","kind":"post-type","isTopLevelLink":true} /-->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>13</wp:post_id>
 		<wp:post_date><![CDATA[2022-10-21 08:18:39]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-10-21 08:18:39]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-10-21 08:18:39]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-10-21 08:18:39]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-21 17:16:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-21 17:16:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[header-navigation]]></wp:post_name>
@@ -4619,116 +4637,6 @@ https://www.youtube.com/watch?v=TI9pT4LiFDc&amp;t=55s
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[page-no-title]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_template]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="wp_theme" nicename="gutenify-fse"><![CDATA[gutenify-fse]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
-		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Page]]></title>
-		<link>https://demo.gutenify.com/gutenify-hustle-clean-pro/page/</link>
-		<pubDate>Sun, 23 Oct 2022 07:53:29 +0000</pubDate>
-		<dc:creator><![CDATA[siteadmin]]></dc:creator>
-		<guid isPermaLink="false">https://demo.gutenify.com/gutenify-hustle-clean-pro/page/</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:template-part {"slug":"header","theme":"gutenify-fse","tagName":"header"} /-->
-
-<!-- wp:cover {"url":"https://demo.gutenify.com/gutenify-hustle-clean-pro/wp-content/themes/gutenify-fse/images/cta-banner.jpg","id":2543,"dimRatio":40,"overlayColor":"background","focalPoint":{"x":"0.56","y":"0.46"},"minHeight":405,"minHeightUnit":"px","isDark":false} -->
-<div class="wp-block-cover is-light" style="min-height:405px"><span aria-hidden="true" class="wp-block-cover__background has-background-background-color has-background-dim-40 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-2543" alt="" src="https://demo.gutenify.com/gutenify-hustle-clean-pro/wp-content/themes/gutenify-fse/images/cta-banner.jpg" style="object-position:56% 46%" data-object-fit="cover" data-object-position="56% 46%"/><div class="wp-block-cover__inner-container"><!-- wp:group {"align":"wide","layout":{"inherit":true}} -->
-<div class="wp-block-group alignwide"><!-- wp:post-title {"textAlign":"center","level":1,"align":"wide","textColor":"foreground","fontSize":"large"} /--></div>
-<!-- /wp:group --></div></div>
-<!-- /wp:cover -->
-
-<!-- wp:group {"tagName":"main","style":{"spacing":{"padding":{"top":"80px","bottom":"80px"}}}} -->
-<main class="wp-block-group" style="padding-top:80px;padding-bottom:80px"><!-- wp:post-content {"layout":{"inherit":true}} /--></main>
-<!-- /wp:group -->
-
-<!-- wp:template-part {"slug":"footer","theme":"gutenify-fse","tagName":"footer"} /-->]]></content:encoded>
-		<excerpt:encoded><![CDATA[Displays a single page.]]></excerpt:encoded>
-		<wp:post_id>172</wp:post_id>
-		<wp:post_date><![CDATA[2022-10-23 07:53:29]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-10-23 07:53:29]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-10-23 07:53:29]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-10-23 07:53:29]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[page]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_template]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="wp_theme" nicename="gutenify-fse"><![CDATA[gutenify-fse]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
-		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Search]]></title>
-		<link>https://demo.gutenify.com/gutenify-hustle-clean-pro/search/</link>
-		<pubDate>Sun, 23 Oct 2022 07:53:47 +0000</pubDate>
-		<dc:creator><![CDATA[siteadmin]]></dc:creator>
-		<guid isPermaLink="false">https://demo.gutenify.com/gutenify-hustle-clean-pro/search/</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:template-part {"slug":"header","theme":"gutenify-fse","tagName":"header"} /-->
-
-<!-- wp:group -->
-<div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"padding":{"top":"80px","bottom":"80px"}}},"layout":{"inherit":true}} -->
-<div class="wp-block-group" style="padding-top:80px;padding-bottom:80px"><!-- wp:group {"style":{"spacing":{"padding":{"bottom":"50px"}}},"layout":{"inherit":true}} -->
-<div class="wp-block-group" style="padding-bottom:50px"><!-- wp:search {"label":"Search","showLabel":false,"width":100,"widthUnit":"%","buttonText":"Search","buttonPosition":"button-inside","align":"center","backgroundColor":"primary","textColor":"foreground"} /--></div>
-<!-- /wp:group -->
-
-<!-- wp:query {"queryId":1,"query":{"perPage":"8","pages":"","offset":"","postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":false},"tagName":"main","displayLayout":{"type":"flex","columns":4},"align":"wide","layout":{"inherit":false}} -->
-<main class="wp-block-query alignwide"><!-- wp:post-template {"align":"wide"} -->
-<!-- wp:group {"style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}},"className":"has-shadow-dark animated animated-fadeInUp","layout":{"inherit":true}} -->
-<div class="wp-block-group has-shadow-dark animated animated-fadeInUp" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:post-featured-image {"isLink":true,"align":"wide","className":"no-padding"} /-->
-
-<!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"40px","right":"40px","bottom":"40px","left":"40px"},"margin":{"top":"0px"}}},"backgroundColor":"dark-gray"} -->
-<div class="wp-block-group alignwide has-dark-gray-background-color has-background" style="margin-top:0px;padding-top:40px;padding-right:40px;padding-bottom:40px;padding-left:40px"><!-- wp:post-title {"level":3,"isLink":true,"align":"wide","style":{"typography":{"fontStyle":"normal","fontWeight":"600","lineHeight":"1.4","fontSize":"1.3rem"}}} /-->
-
-<!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap"}} -->
-<div class="wp-block-group"><!-- wp:post-date {"format":"M j, Y","isLink":true,"fontSize":"small"} /--></div>
-<!-- /wp:group -->
-
-<!-- wp:post-excerpt {"moreText":"Know More","style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}}} /--></div>
-<!-- /wp:group --></div>
-<!-- /wp:group -->
-
-<!-- wp:spacer {"height":"20px"} -->
-<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-<!-- /wp:post-template -->
-
-<!-- wp:query-pagination {"paginationArrow":"arrow","align":"center","layout":{"type":"flex","justifyContent":"space-between"}} -->
-<!-- wp:query-pagination-previous {"fontSize":"small"} /-->
-
-<!-- wp:query-pagination-numbers /-->
-
-<!-- wp:query-pagination-next {"fontSize":"small"} /-->
-<!-- /wp:query-pagination --></main>
-<!-- /wp:query --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group -->
-
-<!-- wp:template-part {"slug":"footer","theme":"gutenify-fse","tagName":"footer"} /-->]]></content:encoded>
-		<excerpt:encoded><![CDATA[Displays search results.]]></excerpt:encoded>
-		<wp:post_id>173</wp:post_id>
-		<wp:post_date><![CDATA[2022-10-23 07:53:47]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-10-23 07:53:47]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-10-23 07:53:47]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-10-23 07:53:47]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[search]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
@@ -6319,6 +6227,66 @@ https://www.youtube.com/watch?v=TI9pT4LiFDc&amp;t=55s
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
+		<title><![CDATA[Main Menu]]></title>
+		<link>https://demo.gutenify.com/gutenify-hustle-clean-pro/main-menu-6/</link>
+		<pubDate>Mon, 21 Nov 2022 15:58:01 +0000</pubDate>
+		<dc:creator><![CDATA[siteadmin]]></dc:creator>
+		<guid isPermaLink="false">https://demo.gutenify.com/gutenify-hustle-clean-pro/?p=479</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:navigation-link {"label":"Pages","type":"custom","url":"#","kind":"custom","isTopLevelLink":true} /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>479</wp:post_id>
+		<wp:post_date><![CDATA[2022-11-21 15:58:01]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-11-21 15:58:01]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-11-21 15:58:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-21 15:58:01]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[main-menu-6]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_navigation]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title><![CDATA[Main Menu]]></title>
+		<link>https://demo.gutenify.com/gutenify-hustle-clean-pro/?p=482</link>
+		<pubDate>Mon, 21 Nov 2022 17:14:15 +0000</pubDate>
+		<dc:creator><![CDATA[siteadmin]]></dc:creator>
+		<guid isPermaLink="false">https://demo.gutenify.com/gutenify-hustle-clean-pro/?p=482</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:navigation-link {"label":"Pages","type":"custom","url":"#","kind":"custom","isTopLevelLink":true} /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>482</wp:post_id>
+		<wp:post_date><![CDATA[2022-11-21 17:14:15]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-11-21 17:14:15]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-11-21 17:14:15]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-21 17:14:15]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_navigation]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[draft]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1669050855]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Header]]></title>
 		<link>https://demo.gutenify.com/gutenify-hustle-clean-pro/header/</link>
 		<pubDate>Fri, 21 Oct 2022 08:19:44 +0000</pubDate>
@@ -6818,6 +6786,116 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:9:"re
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[Page]]></title>
+		<link>https://demo.gutenify.com/gutenify-hustle-clean-pro/page/</link>
+		<pubDate>Sun, 23 Oct 2022 07:53:29 +0000</pubDate>
+		<dc:creator><![CDATA[siteadmin]]></dc:creator>
+		<guid isPermaLink="false">https://demo.gutenify.com/gutenify-hustle-clean-pro/page/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:template-part {"slug":"header","theme":"gutenify-fse","tagName":"header"} /-->
+
+<!-- wp:cover {"url":"https://demo.gutenify.com/gutenify-hustle-clean-pro/wp-content/themes/gutenify-fse/images/cta-banner.jpg","id":2543,"dimRatio":40,"overlayColor":"background","focalPoint":{"x":"0.56","y":"0.46"},"minHeight":405,"minHeightUnit":"px","isDark":false} -->
+<div class="wp-block-cover is-light" style="min-height:405px"><span aria-hidden="true" class="wp-block-cover__background has-background-background-color has-background-dim-40 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-2543" alt="" src="https://demo.gutenify.com/gutenify-hustle-clean-pro/wp-content/themes/gutenify-fse/images/cta-banner.jpg" style="object-position:56% 46%" data-object-fit="cover" data-object-position="56% 46%"/><div class="wp-block-cover__inner-container"><!-- wp:group {"align":"wide","layout":{"inherit":true}} -->
+<div class="wp-block-group alignwide"><!-- wp:post-title {"textAlign":"center","level":1,"align":"wide","textColor":"foreground","fontSize":"large"} /--></div>
+<!-- /wp:group --></div></div>
+<!-- /wp:cover -->
+
+<!-- wp:group {"tagName":"main","style":{"spacing":{"padding":{"top":"80px","bottom":"80px"}}}} -->
+<main class="wp-block-group" style="padding-top:80px;padding-bottom:80px"><!-- wp:post-content {"layout":{"inherit":true}} /--></main>
+<!-- /wp:group -->
+
+<!-- wp:template-part {"slug":"footer","theme":"gutenify-fse","tagName":"footer"} /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[Displays a single page.]]></excerpt:encoded>
+		<wp:post_id>172</wp:post_id>
+		<wp:post_date><![CDATA[2022-10-23 07:53:29]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-10-23 07:53:29]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-10-23 07:53:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-10-23 07:53:29]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[page]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_template]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="gutenify-fse"><![CDATA[gutenify-fse]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Search]]></title>
+		<link>https://demo.gutenify.com/gutenify-hustle-clean-pro/search/</link>
+		<pubDate>Sun, 23 Oct 2022 07:53:47 +0000</pubDate>
+		<dc:creator><![CDATA[siteadmin]]></dc:creator>
+		<guid isPermaLink="false">https://demo.gutenify.com/gutenify-hustle-clean-pro/search/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:template-part {"slug":"header","theme":"gutenify-fse","tagName":"header"} /-->
+
+<!-- wp:group -->
+<div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"padding":{"top":"80px","bottom":"80px"}}},"layout":{"inherit":true}} -->
+<div class="wp-block-group" style="padding-top:80px;padding-bottom:80px"><!-- wp:group {"style":{"spacing":{"padding":{"bottom":"50px"}}},"layout":{"inherit":true}} -->
+<div class="wp-block-group" style="padding-bottom:50px"><!-- wp:search {"label":"Search","showLabel":false,"width":100,"widthUnit":"%","buttonText":"Search","buttonPosition":"button-inside","align":"center","backgroundColor":"primary","textColor":"foreground"} /--></div>
+<!-- /wp:group -->
+
+<!-- wp:query {"queryId":1,"query":{"perPage":"8","pages":"","offset":"","postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":false},"tagName":"main","displayLayout":{"type":"flex","columns":4},"align":"wide","layout":{"inherit":false}} -->
+<main class="wp-block-query alignwide"><!-- wp:post-template {"align":"wide"} -->
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}},"className":"has-shadow-dark animated animated-fadeInUp","layout":{"inherit":true}} -->
+<div class="wp-block-group has-shadow-dark animated animated-fadeInUp" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:post-featured-image {"isLink":true,"align":"wide","className":"no-padding"} /-->
+
+<!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"40px","right":"40px","bottom":"40px","left":"40px"},"margin":{"top":"0px"}}},"backgroundColor":"dark-gray"} -->
+<div class="wp-block-group alignwide has-dark-gray-background-color has-background" style="margin-top:0px;padding-top:40px;padding-right:40px;padding-bottom:40px;padding-left:40px"><!-- wp:post-title {"level":3,"isLink":true,"align":"wide","style":{"typography":{"fontStyle":"normal","fontWeight":"600","lineHeight":"1.4","fontSize":"1.3rem"}}} /-->
+
+<!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group"><!-- wp:post-date {"format":"M j, Y","isLink":true,"fontSize":"small"} /--></div>
+<!-- /wp:group -->
+
+<!-- wp:post-excerpt {"moreText":"Know More","style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}}} /--></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"20px"} -->
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+<!-- /wp:post-template -->
+
+<!-- wp:query-pagination {"paginationArrow":"arrow","align":"center","layout":{"type":"flex","justifyContent":"space-between"}} -->
+<!-- wp:query-pagination-previous {"fontSize":"small"} /-->
+
+<!-- wp:query-pagination-numbers /-->
+
+<!-- wp:query-pagination-next {"fontSize":"small"} /-->
+<!-- /wp:query-pagination --></main>
+<!-- /wp:query --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:template-part {"slug":"footer","theme":"gutenify-fse","tagName":"footer"} /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[Displays search results.]]></excerpt:encoded>
+		<wp:post_id>173</wp:post_id>
+		<wp:post_date><![CDATA[2022-10-23 07:53:47]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-10-23 07:53:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-10-23 07:53:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-10-23 07:53:47]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[search]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_template]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="gutenify-fse"><![CDATA[gutenify-fse]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Header]]></title>
 		<link>https://demo.gutenify.com/gutenify-hustle-clean-pro/header/</link>
 		<pubDate>Thu, 17 Nov 2022 10:19:54 +0000</pubDate>
@@ -6834,7 +6912,7 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:9:"re
 <!-- /wp:group -->
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|70"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
-<div class="wp-block-group"><!-- wp:navigation {"ref":379,"textColor":"foreground","overlayBackgroundColor":"background","overlayTextColor":"foreground","align":"wide","className":"has-left-submenu","layout":{"type":"flex","setCascadingProperties":true,"justifyContent":"left","flexWrap":"wrap","orientation":"horizontal"},"style":{"typography":{"fontStyle":"normal","fontWeight":"600","fontSize":"16px"},"spacing":{}}} /-->
+<div class="wp-block-group"><!-- wp:navigation {"ref":13,"textColor":"foreground","overlayBackgroundColor":"background","overlayTextColor":"foreground","align":"wide","className":"has-left-submenu","layout":{"type":"flex","setCascadingProperties":true,"justifyContent":"left","flexWrap":"wrap","orientation":"horizontal"},"style":{"typography":{"fontStyle":"normal","fontWeight":"600","fontSize":"16px"},"spacing":{}}} /-->
 
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"left"},"style":{"spacing":{"margin":{"top":"0px","bottom":"0px"}}}} -->
 <div class="wp-block-buttons" style="margin-top:0px;margin-bottom:0px"><!-- wp:button {"style":{"border":{"radius":"100px"},"spacing":{"padding":{"right":"31px","left":"31px","top":"8px","bottom":"8px"}}},"className":"is-style-fill"} -->
@@ -6849,8 +6927,8 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:9:"re
 		<wp:post_id>182</wp:post_id>
 		<wp:post_date><![CDATA[2022-11-17 10:19:54]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-11-17 10:19:54]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-11-21 11:12:31]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-11-21 11:12:31]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-21 17:16:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-21 17:16:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[header]]></wp:post_name>
@@ -7050,7 +7128,7 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:9:"re
 <!-- wp:post-date {"format":"M j, Y","isLink":true,"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontSize":"small"} /--></div>
 <!-- /wp:group -->
 
-<!-- wp:post-excerpt {"moreText":"Know More\u003ca role=\u0022textbox\u0022 aria-label=\u0022\u0026quot;Read more\u0026quot; link text\u0022 class=\u0022block-editor-rich-text__editable wp-block-post-excerpt__more-link rich-text\u0022 style=\u0022font-size: revert;background-color: initial;font-family: var(\u002d\u002dwp\u002d\u002dpreset\u002d\u002dfont-family\u002d\u002droboto);min-width: 1px\u0022\u003e\u003c/a\u003e","style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}}} /--></div>
+<!-- wp:post-excerpt {"moreText":"Know More","style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}}} /--></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->
 
@@ -7077,8 +7155,8 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:9:"re
 		<wp:post_id>469</wp:post_id>
 		<wp:post_date><![CDATA[2022-11-21 11:13:49]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-11-21 11:13:49]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-11-21 11:15:13]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-11-21 11:15:13]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-24 05:28:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-24 05:28:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[archive]]></wp:post_name>
@@ -7320,6 +7398,271 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:9:"re
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[page]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_template]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="gutenify-hustle"><![CDATA[gutenify-hustle]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[404]]></title>
+		<link>https://demo.gutenify.com/gutenify-hustle-clean-pro/404/</link>
+		<pubDate>Thu, 24 Nov 2022 05:26:12 +0000</pubDate>
+		<dc:creator><![CDATA[siteadmin]]></dc:creator>
+		<guid isPermaLink="false">https://demo.gutenify.com/gutenify-hustle-clean-pro/404/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:template-part {"slug":"header","theme":"gutenify-hustle","tagName":"header"} /-->
+
+<!-- wp:group {"tagName":"main","style":{"spacing":{"padding":{"top":"80px","bottom":"80px"}}}} -->
+<main class="wp-block-group" style="padding-top:80px;padding-bottom:80px"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:query-title {"type":"archive","textAlign":"center"} /-->
+
+<!-- wp:heading {"style":{"typography":{"fontSize":"clamp(4rem, 40vw, 20rem)","fontWeight":"200","lineHeight":"1"}},"textColor":"foreground","className":"has-text-align-center"} -->
+<h2 class="has-text-align-center has-foreground-color has-text-color" style="font-size:clamp(4rem, 40vw, 20rem);font-weight:200;line-height:1">
+4<mark style="background-color: rgba(0, 0, 0, 0); color: #01dacc" class="has-inline-color">0</mark>4		</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">This page could not be found. Maybe try a search? </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:search {"label":"Search","showLabel":false,"width":75,"widthUnit":"%","buttonText":"Search","buttonUseIcon":true,"align":"center","backgroundColor":"primary","textColor":"light"} /--></div>
+<!-- /wp:group --></main>
+<!-- /wp:group -->
+
+<!-- wp:template-part {"slug":"footer","theme":"gutenify-hustle","tagName":"footer"} /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[Displays when no content is found.]]></excerpt:encoded>
+		<wp:post_id>489</wp:post_id>
+		<wp:post_date><![CDATA[2022-11-24 05:26:12]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-11-24 05:26:12]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-11-24 05:26:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-24 05:26:12]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[404]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_template]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="gutenify-hustle"><![CDATA[gutenify-hustle]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Home]]></title>
+		<link>https://demo.gutenify.com/gutenify-hustle-clean-pro/home/</link>
+		<pubDate>Thu, 24 Nov 2022 05:26:31 +0000</pubDate>
+		<dc:creator><![CDATA[siteadmin]]></dc:creator>
+		<guid isPermaLink="false">https://demo.gutenify.com/gutenify-hustle-clean-pro/home/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:template-part {"slug":"header","theme":"gutenify-hustle","tagName":"header"} /-->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"blockGap":"0"}},"className":"has-no-underline","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull has-no-underline"><!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"100px","bottom":"100px","right":"30px","left":"30px"}}},"backgroundColor":"background-secondary","layout":{"inherit":true,"type":"constrained"}} -->
+<div class="wp-block-group alignfull has-background-secondary-background-color has-background" style="padding-top:100px;padding-right:30px;padding-bottom:100px;padding-left:30px"><!-- wp:columns {"verticalAlignment":"center","align":"wide"} -->
+<div class="wp-block-columns alignwide are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center"} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:cover {"url":"https://demo.gutenify.com/gutenify-hustle-clean-pro/wp-content/themes/gutenify-hustle/images/video-hero.jpg","id":105,"dimRatio":70,"overlayColor":"background","focalPoint":{"x":0.65,"y":0.54},"minHeight":530,"minHeightUnit":"px","isDark":false,"className":" animated animated-fadeInUp"} -->
+<div class="wp-block-cover is-light animated animated-fadeInUp" style="min-height:530px"><span aria-hidden="true" class="wp-block-cover__background has-background-background-color has-background-dim-70 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-105" alt="" src="https://demo.gutenify.com/gutenify-hustle-clean-pro/wp-content/themes/gutenify-hustle/images/video-hero.jpg" style="object-position:65% 54%" data-object-fit="cover" data-object-position="65% 54%"/><div class="wp-block-cover__inner-container"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:image {"align":"center","id":283,"width":75,"height":75,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="https://demo.gutenify.com/gutenify-hustle-clean-pro/wp-content/themes/gutenify-hustle/images/play-button.png" alt="" class="wp-image-283" width="75" height="75"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group --></div></div>
+<!-- /wp:cover --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","style":{"spacing":{"padding":{"top":"40px","right":"40px","bottom":"40px","left":"40px"}}}} -->
+<div class="wp-block-column is-vertically-aligned-center" style="padding-top:40px;padding-right:40px;padding-bottom:40px;padding-left:40px"><!-- wp:group {"align":"wide","layout":{"inherit":true,"type":"constrained"}} -->
+<div class="wp-block-group alignwide"><!-- wp:paragraph {"style":{"typography":{"letterSpacing":"3px"}},"textColor":"primary","className":" animated animated-fadeInUp"} -->
+<p class="animated animated-fadeInUp has-primary-color has-text-color" style="letter-spacing:3px">Play Our Hystory</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"style":{"typography":{"lineHeight":"1.4"}},"className":" animated animated-fadeInUp","fontSize":"huge"} -->
+<h2 class="animated animated-fadeInUp has-huge-font-size" style="line-height:1.4">Building Experience &amp; Give High Success Rates </h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"left","className":" animated animated-fadeInUp"} -->
+<p class="has-text-align-left animated animated-fadeInUp">Change the workflow for your WordPress site, control everything from Site editor  without using any extra plugins. Improved speed, web vitals score and SEO to get better positions  </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons {"className":" animated animated-fadeInUp","layout":{"type":"flex","justifyContent":"left"},"style":{"spacing":{"margin":{"top":"20px","bottom":"20px"}}}} -->
+<div class="wp-block-buttons animated animated-fadeInUp" style="margin-top:20px;margin-bottom:20px"><!-- wp:button {"style":{"spacing":{"padding":{"right":"35px","left":"35px"}}},"className":"is-style-fill"} -->
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link wp-element-button" href="#" style="padding-right:35px;padding-left:35px">More Videos</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"80px","right":"0px","bottom":"80px","left":"0px"},"blockGap":"0px"}},"layout":{"inherit":true,"type":"constrained"}} -->
+<div class="wp-block-group alignfull" style="padding-top:80px;padding-right:0px;padding-bottom:80px;padding-left:0px"><!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"10px","padding":{"bottom":"30px"}}},"layout":{"inherit":true,"type":"constrained"}} -->
+<div class="wp-block-group alignwide" style="padding-bottom:30px"><!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"0px","padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between","verticalAlignment":"top"}} -->
+<div class="wp-block-group alignwide" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:group {"style":{"spacing":{"blockGap":"0px","padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}},"layout":{"inherit":true,"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:paragraph {"align":"left","style":{"typography":{"letterSpacing":"4px"}},"textColor":"primary","className":" animated animated-fadeInUp"} -->
+<p class="has-text-align-left animated animated-fadeInUp has-primary-color has-text-color" style="letter-spacing:4px">NEWS</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"textAlign":"left","style":{"spacing":{"margin":{"bottom":"0px"}}},"className":" animated animated-fadeInUp","fontSize":"large"} -->
+<h2 class="has-text-align-left animated animated-fadeInUp has-large-font-size" style="margin-bottom:0px">From Our Blog Posts</h2>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:buttons {"className":" animated animated-fadeInUp","layout":{"type":"flex","justifyContent":"left"},"style":{"spacing":{"blockGap":"10px","margin":{"top":"20px","bottom":"20px"}}}} -->
+<div class="wp-block-buttons animated animated-fadeInUp" style="margin-top:20px;margin-bottom:20px"><!-- wp:button {"style":{"spacing":{"padding":{"right":"35px","left":"35px"}}},"className":"is-style-fill"} -->
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link wp-element-button" href="#" style="padding-right:35px;padding-left:35px">View More</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"bottom":"60px"}}},"layout":{"inherit":true,"type":"constrained"}} -->
+<div class="wp-block-group alignwide" style="padding-bottom:60px"><!-- wp:query {"queryId":1,"query":{"perPage":"3","pages":"","offset":"","postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":false},"tagName":"main","displayLayout":{"type":"flex","columns":3},"align":"wide","layout":{"inherit":false}} -->
+<main class="wp-block-query alignwide"><!-- wp:post-template {"align":"wide"} -->
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"10px","right":"10px","bottom":"10px","left":"10px"}}}} -->
+<div class="wp-block-group" style="padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px"><!-- wp:group {"style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}},"className":"has-shadow-dark  animated animated-fadeInUp","layout":{"inherit":true,"type":"constrained"}} -->
+<div class="wp-block-group has-shadow-dark animated animated-fadeInUp" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:post-featured-image {"isLink":true,"align":"wide","className":"no-padding image-zoom-hover"} /-->
+
+<!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"40px","right":"40px","bottom":"40px","left":"40px"},"margin":{"top":"0px"},"blockGap":"10px"}},"backgroundColor":"background-secondary","className":"has-no-underline"} -->
+<div class="wp-block-group alignwide has-no-underline has-background-secondary-background-color has-background" style="margin-top:0px;padding-top:40px;padding-right:40px;padding-bottom:40px;padding-left:40px"><!-- wp:post-title {"level":3,"isLink":true,"align":"wide","style":{"typography":{"fontStyle":"normal","fontWeight":"400"}}} /-->
+
+<!-- wp:post-date {"format":"F j, Y","isLink":true,"style":{"typography":{"fontStyle":"normal","fontWeight":"300"}},"fontSize":"small"} /-->
+
+<!-- wp:post-excerpt {"moreText":"Know More","style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}}} /--></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+<!-- /wp:post-template --></main>
+<!-- /wp:query --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:template-part {"slug":"footer","theme":"gutenify-hustle","tagName":"footer"} /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[Displays posts on the homepage, or on the Posts page if a static homepage is set.]]></excerpt:encoded>
+		<wp:post_id>491</wp:post_id>
+		<wp:post_date><![CDATA[2022-11-24 05:26:31]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-11-24 05:26:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-11-24 05:27:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-24 05:27:16]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[home]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_template]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="gutenify-hustle"><![CDATA[gutenify-hustle]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Page (No Title / Feature Image)]]></title>
+		<link>https://demo.gutenify.com/gutenify-hustle-clean-pro/page-no-title/</link>
+		<pubDate>Thu, 24 Nov 2022 05:27:27 +0000</pubDate>
+		<dc:creator><![CDATA[siteadmin]]></dc:creator>
+		<guid isPermaLink="false">https://demo.gutenify.com/gutenify-hustle-clean-pro/page-no-title/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:template-part {"slug":"header","theme":"gutenify-hustle","tagName":"header"} /-->
+
+<!-- wp:group {"tagName":"main","style":{"spacing":{"margin":{"top":"0px"},"padding":{"top":"0px","bottom":"0px"}}},"layout":{"inherit":false}} -->
+<main class="wp-block-group" style="margin-top:0px;padding-top:0px;padding-bottom:0px"><!-- wp:group {"style":{"spacing":{"margin":{"top":"0px"}}}} -->
+<div class="wp-block-group" style="margin-top:0px"><!-- wp:post-content {"layout":{"type":"constrained"}} /--></div>
+<!-- /wp:group --></main>
+<!-- /wp:group -->
+
+<!-- wp:template-part {"slug":"footer","theme":"gutenify-hustle","tagName":"footer"} /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>494</wp:post_id>
+		<wp:post_date><![CDATA[2022-11-24 05:27:27]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-11-24 05:27:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-11-24 05:27:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-24 05:27:27]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[page-no-title]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_template]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="gutenify-hustle"><![CDATA[gutenify-hustle]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Search]]></title>
+		<link>https://demo.gutenify.com/gutenify-hustle-clean-pro/search/</link>
+		<pubDate>Thu, 24 Nov 2022 05:27:58 +0000</pubDate>
+		<dc:creator><![CDATA[siteadmin]]></dc:creator>
+		<guid isPermaLink="false">https://demo.gutenify.com/gutenify-hustle-clean-pro/search/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:template-part {"slug":"header","theme":"gutenify-hustle","tagName":"header"} /-->
+
+<!-- wp:group -->
+<div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"padding":{"top":"80px","bottom":"80px"}}},"layout":{"inherit":true,"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-top:80px;padding-bottom:80px"><!-- wp:group {"style":{"spacing":{"padding":{"bottom":"50px"}}},"layout":{"inherit":true,"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-bottom:50px"><!-- wp:search {"label":"Search","showLabel":false,"width":100,"widthUnit":"%","buttonText":"Search","buttonPosition":"button-inside","align":"center","backgroundColor":"primary","textColor":"light"} /--></div>
+<!-- /wp:group -->
+
+<!-- wp:query {"queryId":1,"query":{"perPage":"8","pages":"","offset":"","postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":false},"tagName":"main","displayLayout":{"type":"flex","columns":4},"align":"wide","layout":{"inherit":false}} -->
+<main class="wp-block-query alignwide"><!-- wp:post-template {"align":"wide"} -->
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}},"className":"has-shadow-dark animated animated-fadeInUp","layout":{"inherit":true,"type":"constrained"}} -->
+<div class="wp-block-group has-shadow-dark animated animated-fadeInUp" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:post-featured-image {"isLink":true,"align":"wide","className":"no-padding"} /-->
+
+<!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"40px","right":"40px","bottom":"40px","left":"40px"},"margin":{"top":"0px"},"blockGap":"var:preset|spacing|30"}},"backgroundColor":"dark-gray"} -->
+<div class="wp-block-group alignwide has-dark-gray-background-color has-background" style="margin-top:0px;padding-top:40px;padding-right:40px;padding-bottom:40px;padding-left:40px"><!-- wp:post-title {"level":3,"isLink":true,"align":"wide","style":{"typography":{"fontStyle":"normal","fontWeight":"600","lineHeight":"1.4","fontSize":"1.3rem"}}} /-->
+
+<!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group"><!-- wp:post-date {"format":"M j, Y","isLink":true,"fontSize":"small"} /--></div>
+<!-- /wp:group -->
+
+<!-- wp:post-excerpt {"moreText":"Know More","style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}}} /--></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"20px"} -->
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+<!-- /wp:post-template -->
+
+<!-- wp:query-pagination {"paginationArrow":"arrow","align":"center","layout":{"type":"flex","justifyContent":"space-between"}} -->
+<!-- wp:query-pagination-previous {"fontSize":"small"} /-->
+
+<!-- wp:query-pagination-numbers /-->
+
+<!-- wp:query-pagination-next {"fontSize":"small"} /-->
+<!-- /wp:query-pagination --></main>
+<!-- /wp:query --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:template-part {"slug":"footer","theme":"gutenify-hustle","tagName":"footer"} /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[Displays search results.]]></excerpt:encoded>
+		<wp:post_id>495</wp:post_id>
+		<wp:post_date><![CDATA[2022-11-24 05:27:58]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-11-24 05:27:58]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-11-24 05:27:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-24 05:27:58]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[search]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
