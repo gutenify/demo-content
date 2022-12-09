@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.1.1" created="2022-11-30 09:35" -->
+	<!-- generator="WordPress/6.1.1" created="2022-12-09 05:35" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>gutenify Civil</title>
 	<link>https://demo.gutenify.com/gutenify-civil</link>
 	<description>Multipurpose WP FSE Theme</description>
-	<pubDate>Wed, 30 Nov 2022 09:35:31 +0000</pubDate>
+	<pubDate>Fri, 09 Dec 2022 05:35:44 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.gutenify.com/</wp:base_site_url>
@@ -4823,7 +4823,7 @@
 
 <!-- wp:column {"width":"66.66%"} -->
 <div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"bottom":"60px"}}},"layout":{"inherit":true,"type":"constrained"}} -->
-<div class="wp-block-group alignwide" style="padding-bottom:60px"><!-- wp:query {"queryId":1,"query":{"perPage":"3","pages":"","offset":"","postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":false},"tagName":"main","displayLayout":{"type":"list","columns":3},"align":"wide","layout":{"inherit":false}} -->
+<div class="wp-block-group alignwide" style="padding-bottom:60px"><!-- wp:query {"queryId":1,"query":{"perPage":"3","pages":"","offset":"","postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":true},"tagName":"main","displayLayout":{"type":"list","columns":3},"align":"wide","layout":{"type":"constrained"}} -->
 <main class="wp-block-query alignwide"><!-- wp:post-template {"align":"wide"} -->
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"},"blockGap":"0","margin":{"top":"0","bottom":"var:preset|spacing|70"}}}} -->
 <div class="wp-block-group" style="margin-top:0;margin-bottom:var(--wp--preset--spacing--70);padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:columns {"style":{"spacing":{"padding":{"top":"0","right":"0","bottom":"0","left":"0"}}},"backgroundColor":"background-secondary"} -->
@@ -4867,8 +4867,8 @@
 		<wp:post_id>231</wp:post_id>
 		<wp:post_date><![CDATA[2022-11-30 09:33:09]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-11-30 09:33:09]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-11-30 09:33:09]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-11-30 09:33:09]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-12-09 05:35:19]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-12-09 05:35:19]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[archive]]></wp:post_name>

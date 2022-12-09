@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.0.3" created="2022-10-19 08:16" -->
+	<!-- generator="WordPress/6.1.1" created="2022-12-09 05:35" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Photography</title>
 	<link>https://demo.gutenify.com/gutenify-photography</link>
 	<description>FSE Photography Them</description>
-	<pubDate>Wed, 19 Oct 2022 08:16:01 +0000</pubDate>
+	<pubDate>Fri, 09 Dec 2022 05:35:33 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.gutenify.com/</wp:base_site_url>
@@ -65,7 +65,7 @@
 					<wp:term><wp:term_id>3</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[header-menu]]></wp:term_slug><wp:term_name><![CDATA[Header Menu]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=6.0.3</generator>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
 
 		<item>
 		<title><![CDATA[Fashion Model Fashion Hair Model Look Twice 320up]]></title>
@@ -7040,6 +7040,34 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
 							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>6</wp:comment_id>
+			<wp:comment_author><![CDATA[promoHaw]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[dfhsegzeasem@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>https://iherb-promo-code.com/</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[37.139.53.13]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2022-10-26 06:04:00]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2022-10-26 06:04:00]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[I consider, that you are not right. I am assured. I can prove it. Write to me in PM, we will communicate.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>7</wp:comment_id>
+			<wp:comment_author><![CDATA[Williamhyday]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[hgkjrby8wam@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[37.139.53.169]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2022-11-06 00:30:49]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2022-11-06 00:30:49]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[<a href="https://rostyslav.com/en/iherb-promo-code/" rel="nofollow ugc">https://rostyslav.com/en/iherb-promo-code/</a>]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
 					</item>
 					<item>
 		<title><![CDATA[Standard Blog Post]]></title>
@@ -9756,15 +9784,15 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"},"blockGap":"0px"}},"backgroundColor":"background"} -->
 <div class="wp-block-group has-background-background-color has-background" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:cover {"url":"https://demo.gutenify.com/gutenify-photography/wp-content/themes/gutenify-photography/images/cover-banner.jpg","id":3755,"dimRatio":30,"focalPoint":{"x":"0.45","y":"0.15"},"minHeight":300,"customGradient":"linear-gradient(90deg,rgb(0,0,0) 52%,rgba(150,149,240,0) 96%)"} -->
-<div class="wp-block-cover" style="min-height:300px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-30 has-background-dim wp-block-cover__gradient-background has-background-gradient" style="background:linear-gradient(90deg,rgb(0,0,0) 52%,rgba(150,149,240,0) 96%)"></span><img class="wp-block-cover__image-background wp-image-3755" alt="" src="https://demo.gutenify.com/gutenify-photography/wp-content/themes/gutenify-photography/images/cover-banner.jpg" style="object-position:45% 15%" data-object-fit="cover" data-object-position="45% 15%"/><div class="wp-block-cover__inner-container"><!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"0px"}},"layout":{"inherit":true}} -->
+<div class="wp-block-cover" style="min-height:300px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-30 has-background-dim wp-block-cover__gradient-background has-background-gradient" style="background:linear-gradient(90deg,rgb(0,0,0) 52%,rgba(150,149,240,0) 96%)"></span><img class="wp-block-cover__image-background wp-image-3755" alt="" src="https://demo.gutenify.com/gutenify-photography/wp-content/themes/gutenify-photography/images/cover-banner.jpg" style="object-position:45% 15%" data-object-fit="cover" data-object-position="45% 15%"/><div class="wp-block-cover__inner-container"><!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"0px"}},"layout":{"inherit":true,"type":"constrained"}} -->
 <div class="wp-block-group alignwide"><!-- wp:post-title {"textAlign":"left","level":1,"align":"wide","textColor":"foreground","fontSize":"extra-large"} /--></div>
 <!-- /wp:group --></div></div>
 <!-- /wp:cover -->
 
-<!-- wp:group {"style":{"spacing":{"padding":{"top":"80px","right":"20px","bottom":"80px","left":"20px"},"blockGap":"0px"}},"layout":{"inherit":true}} -->
-<div class="wp-block-group" style="padding-top:80px;padding-right:20px;padding-bottom:80px;padding-left:20px"><!-- wp:query {"queryId":1,"query":{"perPage":"8","pages":"","offset":"","postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":false},"tagName":"main","displayLayout":{"type":"flex","columns":3},"align":"wide","layout":{"inherit":false}} -->
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"80px","right":"20px","bottom":"80px","left":"20px"},"blockGap":"0px"}},"layout":{"inherit":true,"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-top:80px;padding-right:20px;padding-bottom:80px;padding-left:20px"><!-- wp:query {"queryId":1,"query":{"perPage":"8","pages":"","offset":"","postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":true},"tagName":"main","displayLayout":{"type":"flex","columns":3},"align":"wide","layout":{"type":"constrained"}} -->
 <main class="wp-block-query alignwide"><!-- wp:post-template {"align":"wide"} -->
-<!-- wp:group {"style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}},"backgroundColor":"background-secondary","className":"has-shadow-dark animated animated-fadeInUp","layout":{"inherit":true}} -->
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}},"backgroundColor":"background-secondary","className":"has-shadow-dark animated animated-fadeInUp","layout":{"inherit":true,"type":"constrained"}} -->
 <div class="wp-block-group has-shadow-dark animated animated-fadeInUp has-background-secondary-background-color has-background" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:post-featured-image {"isLink":true,"align":"wide","className":"no-padding"} /-->
 
 <!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"40px","right":"40px","bottom":"40px","left":"40px"},"margin":{"top":"0px"}}},"backgroundColor":"dark-gray"} -->
@@ -9801,8 +9829,8 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 		<wp:post_id>3933</wp:post_id>
 		<wp:post_date><![CDATA[2022-10-19 04:52:58]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-10-19 04:52:58]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-10-19 04:52:58]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-10-19 04:52:58]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-12-09 05:34:41]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-12-09 05:34:41]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[archive]]></wp:post_name>
