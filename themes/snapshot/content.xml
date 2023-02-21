@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.0.3" created="2022-10-19 08:15" -->
+	<!-- generator="WordPress/6.1.1" created="2023-02-19 14:42" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Snapshot</title>
 	<link>https://demo.gutenify.com/snapshot</link>
 	<description>FSE Photography Theme</description>
-	<pubDate>Wed, 19 Oct 2022 08:15:12 +0000</pubDate>
+	<pubDate>Sun, 19 Feb 2023 14:42:07 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.gutenify.com/</wp:base_site_url>
@@ -308,7 +308,7 @@
 			<wp:term><wp:term_id>3</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[header-menu]]></wp:term_slug><wp:term_name><![CDATA[Header Menu]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=6.0.3</generator>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
 
 		<item>
 		<title><![CDATA[Fashion Model Fashion Hair Model Look Twice 320up]]></title>
@@ -4603,7 +4603,7 @@
 <div class="wp-block-gutenify-advance-slide-item gutenify-block-slide-item-wrapper swiper-slide gutenify-section-c8a45939-663e-4bff-8b42-32f93cbcf9a0 gutenify-advance-slide-item-version-2"><!-- wp:cover {"url":"https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/MaxPixel.net-Eyeglasses-Woman-Portrait-Together-Man-Couple-5886719.jpg","id":3398,"dimRatio":40,"focalPoint":{"x":"0.43","y":"0.38"},"customGradient":"linear-gradient(347deg,rgb(0,0,0) 0%,rgb(0,0,0) 100%)","contentPosition":"center center","isDark":false,"align":"full"} -->
 <div class="wp-block-cover alignfull is-light"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-40 has-background-dim wp-block-cover__gradient-background has-background-gradient" style="background:linear-gradient(347deg,rgb(0,0,0) 0%,rgb(0,0,0) 100%)"></span><img class="wp-block-cover__image-background wp-image-3398" alt="" src="https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/MaxPixel.net-Eyeglasses-Woman-Portrait-Together-Man-Couple-5886719.jpg" style="object-position:43% 38%" data-object-fit="cover" data-object-position="43% 38%"/><div class="wp-block-cover__inner-container"><!-- wp:gutenify/container {"blockClientId":"11858e43-ed3f-4739-92f4-01b9ca171824","blockAdvanceOptions":{"backgroundColor":"","backgroundGradient":"","padding":{"desktop":{"top":"5%","bottom":"100px"}}},"gutenifyStyles":".gutenify-section-11858e43-ed3f-4739-92f4-01b9ca171824 { padding-top: 5%;padding-bottom: 100px; }"} -->
 <div class="wp-block-gutenify-container gutenify-block-container-wrapper gutenify-section-11858e43-ed3f-4739-92f4-01b9ca171824 gutenify-container-version-2"><div class="gutenify-container"><!-- wp:gutenify/container {"blockClientId":"49ef74f9-518a-40aa-9bcb-5e8b2a5a8fee","blockAdvanceOptions":{"backgroundColor":"","backgroundGradient":"","padding":{"desktop":{"top":"8%","bottom":"8%"}}},"gutenifyStyles":".gutenify-section-49ef74f9-518a-40aa-9bcb-5e8b2a5a8fee { padding-top: 8%;padding-bottom: 8%; }"} -->
-<div class="wp-block-gutenify-container gutenify-block-container-wrapper gutenify-section-49ef74f9-518a-40aa-9bcb-5e8b2a5a8fee gutenify-container-version-2"><div class="gutenify-container"><!-- wp:social-links {"iconColor":"background","iconColorValue":"#ffffff","openInNewTab":true,"size":"has-small-icon-size","className":"is-style-logos-only tooltip-style  ","layout":{"type":"flex","justifyContent":"left","orientation":"vertical"},"style":{"spacing":{"blockGap":"20px"}}} -->
+<div class="wp-block-gutenify-container gutenify-block-container-wrapper gutenify-section-49ef74f9-518a-40aa-9bcb-5e8b2a5a8fee gutenify-container-version-2"><div class="gutenify-container"><!-- wp:social-links {"iconColor":"background","iconColorValue":"#ffffff","openInNewTab":true,"size":"has-small-icon-size","style":{"spacing":{"blockGap":"20px"}},"className":"is-style-logos-only tooltip-style  ","layout":{"type":"flex","justifyContent":"left","orientation":"vertical"}} -->
 <ul class="wp-block-social-links has-small-icon-size has-icon-color is-style-logos-only tooltip-style"><!-- wp:social-link {"url":"https://gutenify.com/","service":"facebook"} /-->
 
 <!-- wp:social-link {"url":"https://gutenify.com/","service":"twitter"} /-->
@@ -4614,14 +4614,14 @@
 <!-- /wp:social-links --></div></div>
 <!-- /wp:gutenify/container -->
 
-<!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"10px","padding":{"top":"0px","right":"0px"}}},"layout":{"inherit":false,"contentSize":"1300px"}} -->
+<!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"10px","padding":{"top":"0px","right":"0px"}}},"layout":{"inherit":false,"contentSize":"1300px","type":"constrained"}} -->
 <div class="wp-block-group alignwide" style="padding-top:0px;padding-right:0px"><!-- wp:group {"style":{"spacing":{"blockGap":"15px"}},"layout":{"inherit":false}} -->
 <div class="wp-block-group"><!-- wp:heading {"textAlign":"left","align":"full","style":{"typography":{"lineHeight":"1.5","textTransform":"capitalize","fontStyle":"normal","fontWeight":"700"}},"className":" animated animated-fadeInUp","fontSize":"huge"} -->
 <h2 class="alignfull has-text-align-left animated animated-fadeInUp has-huge-font-size" style="font-style:normal;font-weight:700;line-height:1.5;text-transform:capitalize"><a href="#"> Photography is  the Art of Catching Retain </a></h2>
 <!-- /wp:heading -->
 
 <!-- wp:heading {"textAlign":"left","level":3,"align":"wide","style":{"typography":{"lineHeight":"1.5","letterSpacing":"5px"}},"textColor":"primary","className":" animated animated-fadeInUp","fontSize":"normal"} -->
-<h3 class="alignwide has-text-align-left animated animated-fadeInUp has-primary-color has-text-color has-normal-font-size" style="line-height:1.5;letter-spacing:5px">- "<em>Bing Your Creativity To Your Life</em>"</h3>
+<h3 class="alignwide has-text-align-left animated animated-fadeInUp has-primary-color has-text-color has-normal-font-size" style="letter-spacing:5px;line-height:1.5">- "<em>Bing Your Creativity To Your Life</em>"</h3>
 <!-- /wp:heading --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group --></div></div>
@@ -4633,7 +4633,7 @@
 <div class="wp-block-gutenify-advance-slide-item gutenify-block-slide-item-wrapper swiper-slide gutenify-section-507414ff-e1d7-44f0-b8c1-2d70cd7735b4 gutenify-advance-slide-item-version-2"><!-- wp:cover {"url":"https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/header-media-11.jpeg","id":4033,"dimRatio":40,"focalPoint":{"x":"0.43","y":"0.38"},"customGradient":"linear-gradient(347deg,rgb(0,0,0) 0%,rgb(0,0,0) 100%)","contentPosition":"center center","isDark":false,"align":"full"} -->
 <div class="wp-block-cover alignfull is-light"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-40 has-background-dim wp-block-cover__gradient-background has-background-gradient" style="background:linear-gradient(347deg,rgb(0,0,0) 0%,rgb(0,0,0) 100%)"></span><img class="wp-block-cover__image-background wp-image-4033" alt="" src="https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/header-media-11.jpeg" style="object-position:43% 38%" data-object-fit="cover" data-object-position="43% 38%"/><div class="wp-block-cover__inner-container"><!-- wp:gutenify/container {"blockClientId":"11858e43-ed3f-4739-92f4-01b9ca171824","blockAdvanceOptions":{"backgroundColor":"","backgroundGradient":"","padding":{"desktop":{"top":"5%","bottom":"100px"}}},"gutenifyStyles":".gutenify-section-11858e43-ed3f-4739-92f4-01b9ca171824 { padding-top: 5%;padding-bottom: 100px; }"} -->
 <div class="wp-block-gutenify-container gutenify-block-container-wrapper gutenify-section-11858e43-ed3f-4739-92f4-01b9ca171824 gutenify-container-version-2"><div class="gutenify-container"><!-- wp:gutenify/container {"blockClientId":"49ef74f9-518a-40aa-9bcb-5e8b2a5a8fee","blockAdvanceOptions":{"backgroundColor":"","backgroundGradient":"","padding":{"desktop":{"top":"8%","bottom":"8%"}}},"gutenifyStyles":".gutenify-section-49ef74f9-518a-40aa-9bcb-5e8b2a5a8fee { padding-top: 8%;padding-bottom: 8%; }"} -->
-<div class="wp-block-gutenify-container gutenify-block-container-wrapper gutenify-section-49ef74f9-518a-40aa-9bcb-5e8b2a5a8fee gutenify-container-version-2"><div class="gutenify-container"><!-- wp:social-links {"iconColor":"background","iconColorValue":"#ffffff","openInNewTab":true,"size":"has-small-icon-size","className":"is-style-logos-only tooltip-style  ","layout":{"type":"flex","justifyContent":"left","orientation":"vertical"},"style":{"spacing":{"blockGap":"20px"}}} -->
+<div class="wp-block-gutenify-container gutenify-block-container-wrapper gutenify-section-49ef74f9-518a-40aa-9bcb-5e8b2a5a8fee gutenify-container-version-2"><div class="gutenify-container"><!-- wp:social-links {"iconColor":"background","iconColorValue":"#ffffff","openInNewTab":true,"size":"has-small-icon-size","style":{"spacing":{"blockGap":"20px"}},"className":"is-style-logos-only tooltip-style  ","layout":{"type":"flex","justifyContent":"left","orientation":"vertical"}} -->
 <ul class="wp-block-social-links has-small-icon-size has-icon-color is-style-logos-only tooltip-style"><!-- wp:social-link {"url":"https://gutenify.com/","service":"facebook"} /-->
 
 <!-- wp:social-link {"url":"https://gutenify.com/","service":"twitter"} /-->
@@ -4644,14 +4644,14 @@
 <!-- /wp:social-links --></div></div>
 <!-- /wp:gutenify/container -->
 
-<!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"10px","padding":{"top":"0px","right":"0px"}}},"layout":{"inherit":false,"contentSize":"1300px"}} -->
+<!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"10px","padding":{"top":"0px","right":"0px"}}},"layout":{"inherit":false,"contentSize":"1300px","type":"constrained"}} -->
 <div class="wp-block-group alignwide" style="padding-top:0px;padding-right:0px"><!-- wp:group {"style":{"spacing":{"blockGap":"15px"}},"layout":{"inherit":false}} -->
 <div class="wp-block-group"><!-- wp:heading {"textAlign":"left","align":"full","style":{"typography":{"lineHeight":"1.5","textTransform":"capitalize","fontStyle":"normal","fontWeight":"700"}},"className":" animated animated-fadeInUp","fontSize":"huge"} -->
 <h2 class="alignfull has-text-align-left animated animated-fadeInUp has-huge-font-size" style="font-style:normal;font-weight:700;line-height:1.5;text-transform:capitalize"><a href="#"> Photography is  the Art of Catching Retain </a></h2>
 <!-- /wp:heading -->
 
 <!-- wp:heading {"textAlign":"left","level":3,"align":"wide","style":{"typography":{"lineHeight":"1.5","letterSpacing":"5px"}},"textColor":"primary","className":" animated animated-fadeInUp","fontSize":"normal"} -->
-<h3 class="alignwide has-text-align-left animated animated-fadeInUp has-primary-color has-text-color has-normal-font-size" style="line-height:1.5;letter-spacing:5px">- "<em>Bing Your Creativity To Your Life</em>"</h3>
+<h3 class="alignwide has-text-align-left animated animated-fadeInUp has-primary-color has-text-color has-normal-font-size" style="letter-spacing:5px;line-height:1.5">- "<em>Bing Your Creativity To Your Life</em>"</h3>
 <!-- /wp:heading --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group --></div></div>
@@ -4663,7 +4663,7 @@
 <div class="wp-block-gutenify-advance-slide-item gutenify-block-slide-item-wrapper swiper-slide gutenify-section-507414ff-e1d7-44f0-b8c1-2d70cd7735b4 gutenify-advance-slide-item-version-2"><!-- wp:cover {"url":"https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/img1.jpeg","id":4031,"dimRatio":50,"focalPoint":{"x":"0.43","y":"0.38"},"customGradient":"linear-gradient(356deg,rgb(0,0,0) 37%,rgba(0,0,0,0) 61%)","contentPosition":"center center","isDark":false,"align":"full"} -->
 <div class="wp-block-cover alignfull is-light"><span aria-hidden="true" class="wp-block-cover__background has-background-dim wp-block-cover__gradient-background has-background-gradient" style="background:linear-gradient(356deg,rgb(0,0,0) 37%,rgba(0,0,0,0) 61%)"></span><img class="wp-block-cover__image-background wp-image-4031" alt="" src="https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/img1.jpeg" style="object-position:43% 38%" data-object-fit="cover" data-object-position="43% 38%"/><div class="wp-block-cover__inner-container"><!-- wp:gutenify/container {"blockClientId":"11858e43-ed3f-4739-92f4-01b9ca171824","blockAdvanceOptions":{"backgroundColor":"","backgroundGradient":"","padding":{"desktop":{"top":"5%","bottom":"100px"}}},"gutenifyStyles":".gutenify-section-11858e43-ed3f-4739-92f4-01b9ca171824 { padding-top: 5%;padding-bottom: 100px; }"} -->
 <div class="wp-block-gutenify-container gutenify-block-container-wrapper gutenify-section-11858e43-ed3f-4739-92f4-01b9ca171824 gutenify-container-version-2"><div class="gutenify-container"><!-- wp:gutenify/container {"blockClientId":"49ef74f9-518a-40aa-9bcb-5e8b2a5a8fee","blockAdvanceOptions":{"backgroundColor":"","backgroundGradient":"","padding":{"desktop":{"top":"8%","bottom":"8%"}}},"gutenifyStyles":".gutenify-section-49ef74f9-518a-40aa-9bcb-5e8b2a5a8fee { padding-top: 8%;padding-bottom: 8%; }"} -->
-<div class="wp-block-gutenify-container gutenify-block-container-wrapper gutenify-section-49ef74f9-518a-40aa-9bcb-5e8b2a5a8fee gutenify-container-version-2"><div class="gutenify-container"><!-- wp:social-links {"iconColor":"background","iconColorValue":"#ffffff","openInNewTab":true,"size":"has-small-icon-size","className":"is-style-logos-only tooltip-style  ","layout":{"type":"flex","justifyContent":"left","orientation":"vertical"},"style":{"spacing":{"blockGap":"20px"}}} -->
+<div class="wp-block-gutenify-container gutenify-block-container-wrapper gutenify-section-49ef74f9-518a-40aa-9bcb-5e8b2a5a8fee gutenify-container-version-2"><div class="gutenify-container"><!-- wp:social-links {"iconColor":"background","iconColorValue":"#ffffff","openInNewTab":true,"size":"has-small-icon-size","style":{"spacing":{"blockGap":"20px"}},"className":"is-style-logos-only tooltip-style  ","layout":{"type":"flex","justifyContent":"left","orientation":"vertical"}} -->
 <ul class="wp-block-social-links has-small-icon-size has-icon-color is-style-logos-only tooltip-style"><!-- wp:social-link {"url":"https://gutenify.com/","service":"facebook"} /-->
 
 <!-- wp:social-link {"url":"https://gutenify.com/","service":"twitter"} /-->
@@ -4674,14 +4674,14 @@
 <!-- /wp:social-links --></div></div>
 <!-- /wp:gutenify/container -->
 
-<!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"10px","padding":{"top":"0px","right":"0px"}}},"layout":{"inherit":false,"contentSize":"1300px"}} -->
+<!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"10px","padding":{"top":"0px","right":"0px"}}},"layout":{"inherit":false,"contentSize":"1300px","type":"constrained"}} -->
 <div class="wp-block-group alignwide" style="padding-top:0px;padding-right:0px"><!-- wp:group {"style":{"spacing":{"blockGap":"15px"}},"layout":{"inherit":false}} -->
 <div class="wp-block-group"><!-- wp:heading {"textAlign":"left","align":"full","style":{"typography":{"lineHeight":"1.5","textTransform":"capitalize","fontStyle":"normal","fontWeight":"700"}},"className":" animated animated-fadeInUp","fontSize":"huge"} -->
 <h2 class="alignfull has-text-align-left animated animated-fadeInUp has-huge-font-size" style="font-style:normal;font-weight:700;line-height:1.5;text-transform:capitalize"><a href="#"> Photography is  the Art of Catching Retain </a></h2>
 <!-- /wp:heading -->
 
 <!-- wp:heading {"textAlign":"left","level":3,"align":"wide","style":{"typography":{"lineHeight":"1.5","letterSpacing":"5px"}},"textColor":"primary","className":" animated animated-fadeInUp","fontSize":"normal"} -->
-<h3 class="alignwide has-text-align-left animated animated-fadeInUp has-primary-color has-text-color has-normal-font-size" style="line-height:1.5;letter-spacing:5px">- "<em>Bing Your Creativity To Your Life</em>"</h3>
+<h3 class="alignwide has-text-align-left animated animated-fadeInUp has-primary-color has-text-color has-normal-font-size" style="letter-spacing:5px;line-height:1.5">- "<em>Bing Your Creativity To Your Life</em>"</h3>
 <!-- /wp:heading --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group --></div></div>
@@ -4691,14 +4691,14 @@
 <!-- /wp:gutenify/advance-slider --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"style":{"spacing":{"padding":{"top":"60px","bottom":"60px"}},"color":{"background":"#111111"}},"layout":{"inherit":true}} -->
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"60px","bottom":"60px"}},"color":{"background":"#111111"}},"layout":{"inherit":true,"type":"constrained"}} -->
 <div class="wp-block-group has-background" style="background-color:#111111;padding-top:60px;padding-bottom:60px"><!-- wp:group {"align":"wide","layout":{"type":"flex","flexWrap":"nowrap"}} -->
 <div class="wp-block-group alignwide"><!-- wp:image {"align":"left","width":50,"height":50,"sizeSlug":"large","className":" animated animated-fadeInLeft"} -->
 <figure class="wp-block-image alignleft size-large is-resized  animated animated-fadeInLeft"><img src="https://demo.gutenify.com/gutenify-photography/wp-content/themes/gutenify-photography/images/star-bg.png" alt="Star Background" width="50" height="50"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"align":"wide","layout":{"inherit":false,"contentSize":"900px"}} -->
+<!-- wp:group {"align":"wide","layout":{"inherit":false,"contentSize":"900px","type":"constrained"}} -->
 <div class="wp-block-group alignwide"><!-- wp:columns {"align":"full","style":{"spacing":{"blockGap":"20px"}}} -->
 <div class="wp-block-columns alignfull"><!-- wp:column {"verticalAlignment":"center","width":"33%","style":{"spacing":{"padding":{"top":"0px","right":"20px","bottom":"0px","left":"20px"},"blockGap":"5px"}}} -->
 <div class="wp-block-column is-vertically-aligned-center" style="padding-top:0px;padding-right:20px;padding-bottom:0px;padding-left:20px;flex-basis:33%"><!-- wp:heading {"textColor":"foreground","className":" animated animated-fadeInUp","fontSize":"gigantic"} -->
@@ -4721,11 +4721,11 @@
 <!-- wp:column {"verticalAlignment":"center","width":"","layout":{"inherit":true}} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:gutenify/advance-gallery {"blockClientId":"6bfc92c3-103a-465e-9d09-dec24afe9626","blockAdvanceOptions":{"itemBackgroundColor":"#fff","itemLinkColor":"","itemColor":"","innerBlock":{},"galleryImages":[{"sizes":{"thumbnail":{"height":150,"width":150,"url":"https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2019/01/19-1-150x150.jpeg","orientation":"landscape"},"medium":{"height":300,"width":258,"url":"https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2019/01/19-1-258x300.jpeg","orientation":"portrait"},"full":{"url":"https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2019/01/19-1.jpeg","height":814,"width":700,"orientation":"portrait"}},"mime":"image/jpeg","type":"image","subtype":"jpeg","id":4051,"url":"https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2019/01/19-1.jpeg","alt":"","link":"https://demo.gutenify.com/snapshot/?attachment_id=4051","caption":""},{"sizes":{"thumbnail":{"height":150,"width":150,"url":"https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-8-150x150.jpg","orientation":"landscape"},"medium":{"height":300,"width":200,"url":"https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-8-200x300.jpg","orientation":"portrait"},"large":{"height":1024,"width":683,"url":"https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-8-683x1024.jpg","orientation":"portrait"},"full":{"url":"https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-8.jpg","height":1920,"width":1280,"orientation":"portrait"}},"mime":"image/jpeg","type":"image","subtype":"jpeg","id":3923,"url":"https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-8.jpg","alt":"","link":"https://demo.gutenify.com/snapshot/home/galler-8/","caption":""}],"columns":2,"gap":27,"linkTo":"media"},"gutenifyStyles":".gutenify-section-6bfc92c3-103a-465e-9d09-dec24afe9626.wp-block-gutenify-advance-gallery{\n\t\t\t\u002d\u002dgap:27px;\n\t\t\t\u002d\u002dcolumns:2;\n\t\t}"} -->
 <figure class="wp-block-gutenify-advance-gallery gutenify-advance-gallery-layout-1 gutenify-section-6bfc92c3-103a-465e-9d09-dec24afe9626 gutenify-advance-gallery-col-2 gutenify-advance-gallery-no-masonry gutenify-advance-gallery-version-2"><!-- wp:image {"id":4051,"linkDestination":"media","className":" animated animated-fadeInDown grayscale"} -->
-<figure class="wp-block-image  animated animated-fadeInDown grayscale"><a href="https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2019/01/19-1.jpeg"><img src="https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2019/01/19-1.jpeg" alt="" class="wp-image-4051"/></a><figcaption>Popular Photo</figcaption></figure>
+<figure class="wp-block-image  animated animated-fadeInDown grayscale"><a href="https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2019/01/19-1.jpeg"><img src="https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2019/01/19-1.jpeg" alt="" class="wp-image-4051"/></a><figcaption class="wp-element-caption">Popular Photo</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":3923,"linkDestination":"media","className":" animated animated-fadeInUp grayscale"} -->
-<figure class="wp-block-image  animated animated-fadeInUp grayscale"><a href="https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-8.jpg"><img src="https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-8.jpg" alt="" class="wp-image-3923"/></a><figcaption>Popular Photo</figcaption></figure>
+<figure class="wp-block-image  animated animated-fadeInUp grayscale"><a href="https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-8.jpg"><img src="https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-8.jpg" alt="" class="wp-image-3923"/></a><figcaption class="wp-element-caption">Popular Photo</figcaption></figure>
 <!-- /wp:image --></figure>
 <!-- /wp:gutenify/advance-gallery --></div>
 <!-- /wp:column --></div>
@@ -4739,7 +4739,7 @@
 <!-- /wp:group --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"style":{"spacing":{"padding":{"top":"100px","right":"30px","bottom":"100px","left":"30px"},"blockGap":"0px"}},"backgroundColor":"background","layout":{"inherit":true}} -->
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"100px","right":"30px","bottom":"100px","left":"30px"},"blockGap":"0px"}},"backgroundColor":"background","layout":{"inherit":true,"type":"constrained"}} -->
 <div class="wp-block-group has-background-background-color has-background" style="padding-top:100px;padding-right:30px;padding-bottom:100px;padding-left:30px"><!-- wp:group {"style":{"spacing":{"blockGap":"5px","padding":{"bottom":"50px"}}}} -->
 <div class="wp-block-group" style="padding-bottom:50px"><!-- wp:paragraph {"align":"center","style":{"typography":{"letterSpacing":"4px"}},"textColor":"primary","className":" animated animated-fadeInUp"} -->
 <p class="has-text-align-center animated animated-fadeInUp has-primary-color has-text-color" style="letter-spacing:4px">Photo</p>
@@ -4763,60 +4763,60 @@
 <!-- wp:group {"align":"full","style":{"spacing":{"padding":{"right":"0px","left":"0px"}}},"className":"aligncenter"} -->
 <div class="wp-block-group alignfull aligncenter" style="padding-right:0px;padding-left:0px"><!-- wp:gutenify/advance-gallery {"blockClientId":"bbc44cfd-1508-489a-b62a-87c8559c8692","blockAdvanceOptions":{"itemBackgroundColor":"#fff","itemLinkColor":"","itemColor":"","innerBlock":{},"galleryImages":[{"sizes":{"thumbnail":{"height":150,"width":150,"url":"https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-1-150x150.jpg","orientation":"landscape"},"medium":{"height":300,"width":200,"url":"https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-1-200x300.jpg","orientation":"portrait"},"large":{"height":1024,"width":683,"url":"https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-1-683x1024.jpg","orientation":"portrait"},"full":{"url":"https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-1.jpg","height":1536,"width":1024,"orientation":"portrait"}},"mime":"image/jpeg","type":"image","subtype":"jpeg","id":3914,"url":"https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-1.jpg","alt":"","link":"https://demo.gutenify.com/snapshot/home/galler-1/","caption":""},{"sizes":{"thumbnail":{"height":150,"width":150,"url":"https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/gallery-4-150x150.jpg","orientation":"landscape"},"medium":{"height":300,"width":200,"url":"https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/gallery-4-200x300.jpg","orientation":"portrait"},"large":{"height":1024,"width":684,"url":"https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/gallery-4-684x1024.jpg","orientation":"portrait"},"full":{"url":"https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/gallery-4.jpg","height":1534,"width":1024,"orientation":"portrait"}},"mime":"image/jpeg","type":"image","subtype":"jpeg","id":3915,"url":"https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/gallery-4.jpg","alt":"","link":"https://demo.gutenify.com/snapshot/home/gallery-4/","caption":""},{"sizes":{"thumbnail":{"height":150,"width":150,"url":"https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-2-150x150.jpg","orientation":"landscape"},"medium":{"height":218,"width":300,"url":"https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-2-300x218.jpg","orientation":"landscape"},"full":{"url":"https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-2.jpg","height":744,"width":1024,"orientation":"landscape"}},"mime":"image/jpeg","type":"image","subtype":"jpeg","id":3916,"url":"https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-2.jpg","alt":"","link":"https://demo.gutenify.com/snapshot/home/galler-2/","caption":""},{"sizes":{"thumbnail":{"height":150,"width":150,"url":"https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-3-150x150.jpg","orientation":"landscape"},"medium":{"height":300,"width":209,"url":"https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-3-209x300.jpg","orientation":"portrait"},"large":{"height":1024,"width":715,"url":"https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-3-715x1024.jpg","orientation":"portrait"},"full":{"url":"https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-3.jpg","height":1467,"width":1024,"orientation":"portrait"}},"mime":"image/jpeg","type":"image","subtype":"jpeg","id":3917,"url":"https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-3.jpg","alt":"","link":"https://demo.gutenify.com/snapshot/home/galler-3/","caption":""},{"sizes":{"thumbnail":{"height":150,"width":150,"url":"https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/gallery-5-150x150.jpg","orientation":"landscape"},"medium":{"height":193,"width":300,"url":"https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/gallery-5-300x193.jpg","orientation":"landscape"},"full":{"url":"https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/gallery-5.jpg","height":658,"width":1024,"orientation":"landscape"}},"mime":"image/jpeg","type":"image","subtype":"jpeg","id":3918,"url":"https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/gallery-5.jpg","alt":"","link":"https://demo.gutenify.com/snapshot/home/gallery-5/","caption":""},{"sizes":{"thumbnail":{"height":150,"width":150,"url":"https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-6-150x150.jpg","orientation":"landscape"},"medium":{"height":300,"width":236,"url":"https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-6-236x300.jpg","orientation":"portrait"},"large":{"height":1024,"width":807,"url":"https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-6-807x1024.jpg","orientation":"portrait"},"full":{"url":"https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-6.jpg","height":1625,"width":1280,"orientation":"portrait"}},"mime":"image/jpeg","type":"image","subtype":"jpeg","id":3919,"url":"https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-6.jpg","alt":"","link":"https://demo.gutenify.com/snapshot/home/galler-6/","caption":""},{"sizes":{"thumbnail":{"height":150,"width":150,"url":"https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-11-150x150.jpg","orientation":"landscape"},"medium":{"height":300,"width":200,"url":"https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-11-200x300.jpg","orientation":"portrait"},"large":{"height":1024,"width":683,"url":"https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-11-683x1024.jpg","orientation":"portrait"},"full":{"url":"https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-11.jpg","height":1536,"width":1024,"orientation":"portrait"}},"mime":"image/jpeg","type":"image","subtype":"jpeg","id":3920,"url":"https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-11.jpg","alt":"","link":"https://demo.gutenify.com/snapshot/home/galler-11/","caption":""},{"sizes":{"thumbnail":{"height":150,"width":150,"url":"https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-10-150x150.jpg","orientation":"landscape"},"medium":{"height":300,"width":199,"url":"https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-10-199x300.jpg","orientation":"portrait"},"large":{"height":1024,"width":678,"url":"https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-10-678x1024.jpg","orientation":"portrait"},"full":{"url":"https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-10.jpg","height":1546,"width":1024,"orientation":"portrait"}},"mime":"image/jpeg","type":"image","subtype":"jpeg","id":3921,"url":"https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-10.jpg","alt":"","link":"https://demo.gutenify.com/snapshot/home/galler-10/","caption":""},{"sizes":{"thumbnail":{"height":150,"width":150,"url":"https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-9-150x150.jpg","orientation":"landscape"},"medium":{"height":300,"width":240,"url":"https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-9-240x300.jpg","orientation":"portrait"},"large":{"height":1024,"width":819,"url":"https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-9-819x1024.jpg","orientation":"portrait"},"full":{"url":"https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-9.jpg","height":1280,"width":1024,"orientation":"portrait"}},"mime":"image/jpeg","type":"image","subtype":"jpeg","id":3922,"url":"https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-9.jpg","alt":"","link":"https://demo.gutenify.com/snapshot/home/galler-9/","caption":""},{"sizes":{"thumbnail":{"height":150,"width":150,"url":"https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-8-150x150.jpg","orientation":"landscape"},"medium":{"height":300,"width":200,"url":"https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-8-200x300.jpg","orientation":"portrait"},"large":{"height":1024,"width":683,"url":"https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-8-683x1024.jpg","orientation":"portrait"},"full":{"url":"https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-8.jpg","height":1920,"width":1280,"orientation":"portrait"}},"mime":"image/jpeg","type":"image","subtype":"jpeg","id":3923,"url":"https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-8.jpg","alt":"","link":"https://demo.gutenify.com/snapshot/home/galler-8/","caption":""},{"sizes":{"thumbnail":{"height":150,"width":150,"url":"https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-7-150x150.jpg","orientation":"landscape"},"medium":{"height":300,"width":209,"url":"https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-7-209x300.jpg","orientation":"portrait"},"large":{"height":1024,"width":713,"url":"https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-7-713x1024.jpg","orientation":"portrait"},"full":{"url":"https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-7.jpg","height":1835,"width":1277,"orientation":"portrait"}},"mime":"image/jpeg","type":"image","subtype":"jpeg","id":3924,"url":"https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-7.jpg","alt":"","link":"https://demo.gutenify.com/snapshot/home/galler-7/","caption":""},{"sizes":{"thumbnail":{"height":150,"width":150,"url":"https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-12-150x150.jpg","orientation":"landscape"},"medium":{"height":240,"width":300,"url":"https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-12-300x240.jpg","orientation":"landscape"},"full":{"url":"https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-12.jpg","height":820,"width":1024,"orientation":"landscape"}},"mime":"image/jpeg","type":"image","subtype":"jpeg","id":3925,"url":"https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-12.jpg","alt":"","link":"https://demo.gutenify.com/snapshot/home/galler-12/","caption":""}],"sizeSlug":"full","linkTo":"media","gap":20,"columns":4,"enableMasonry":true},"gutenifyStyles":".gutenify-section-bbc44cfd-1508-489a-b62a-87c8559c8692.wp-block-gutenify-advance-gallery{\n\t\t\t\u002d\u002dgap:20px;\n\t\t\t\u002d\u002dcolumns:4;\n\t\t}"} -->
 <figure class="wp-block-gutenify-advance-gallery gutenify-advance-gallery-layout-1 gutenify-section-bbc44cfd-1508-489a-b62a-87c8559c8692 gutenify-advance-gallery-col-4 gutenify-advance-gallery-has-masonry gutenify-advance-gallery-version-2"><!-- wp:image {"id":3914,"sizeSlug":"full","linkDestination":"media","className":"grayscale  image-zoom-hover  animated animated-fadeInUp"} -->
-<figure class="wp-block-image size-full grayscale  image-zoom-hover animated animated-fadeInUp"><a href="https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-1.jpg"><img src="https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-1.jpg" alt="" class="wp-image-3914"/></a><figcaption>Gallery Caption Here</figcaption></figure>
+<figure class="wp-block-image size-full grayscale  image-zoom-hover animated animated-fadeInUp"><a href="https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-1.jpg"><img src="https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-1.jpg" alt="" class="wp-image-3914"/></a><figcaption class="wp-element-caption">Gallery Caption Here</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":3916,"sizeSlug":"full","linkDestination":"media","className":"grayscale  image-zoom-hover  animated animated-fadeInUp"} -->
-<figure class="wp-block-image size-full grayscale  image-zoom-hover animated animated-fadeInUp"><a href="https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-2.jpg"><img src="https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-2.jpg" alt="" class="wp-image-3916"/></a><figcaption>Gallery Caption Here</figcaption></figure>
+<figure class="wp-block-image size-full grayscale  image-zoom-hover animated animated-fadeInUp"><a href="https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-2.jpg"><img src="https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-2.jpg" alt="" class="wp-image-3916"/></a><figcaption class="wp-element-caption">Gallery Caption Here</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":3917,"sizeSlug":"full","linkDestination":"media","className":"grayscale  image-zoom-hover  animated animated-fadeInUp"} -->
-<figure class="wp-block-image size-full grayscale  image-zoom-hover animated animated-fadeInUp"><a href="https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-3.jpg"><img src="https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-3.jpg" alt="" class="wp-image-3917"/></a><figcaption>Gallery Caption Here</figcaption></figure>
+<figure class="wp-block-image size-full grayscale  image-zoom-hover animated animated-fadeInUp"><a href="https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-3.jpg"><img src="https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-3.jpg" alt="" class="wp-image-3917"/></a><figcaption class="wp-element-caption">Gallery Caption Here</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":3918,"sizeSlug":"full","linkDestination":"media","className":"grayscale  image-zoom-hover  animated animated-fadeInUp"} -->
-<figure class="wp-block-image size-full grayscale  image-zoom-hover animated animated-fadeInUp"><a href="https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/gallery-5.jpg"><img src="https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/gallery-5.jpg" alt="" class="wp-image-3918"/></a><figcaption>Gallery Caption Here</figcaption></figure>
+<figure class="wp-block-image size-full grayscale  image-zoom-hover animated animated-fadeInUp"><a href="https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/gallery-5.jpg"><img src="https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/gallery-5.jpg" alt="" class="wp-image-3918"/></a><figcaption class="wp-element-caption">Gallery Caption Here</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":3921,"sizeSlug":"full","linkDestination":"media","className":"grayscale  image-zoom-hover  animated animated-fadeInUp"} -->
-<figure class="wp-block-image size-full grayscale  image-zoom-hover animated animated-fadeInUp"><a href="https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-10.jpg"><img src="https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-10.jpg" alt="" class="wp-image-3921"/></a><figcaption>Gallery Caption Here</figcaption></figure>
+<figure class="wp-block-image size-full grayscale  image-zoom-hover animated animated-fadeInUp"><a href="https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-10.jpg"><img src="https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-10.jpg" alt="" class="wp-image-3921"/></a><figcaption class="wp-element-caption">Gallery Caption Here</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":3922,"sizeSlug":"full","linkDestination":"media","className":"grayscale  image-zoom-hover  animated animated-fadeInUp"} -->
-<figure class="wp-block-image size-full grayscale  image-zoom-hover animated animated-fadeInUp"><a href="https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-9.jpg"><img src="https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-9.jpg" alt="" class="wp-image-3922"/></a><figcaption>Gallery Caption Here</figcaption></figure>
+<figure class="wp-block-image size-full grayscale  image-zoom-hover animated animated-fadeInUp"><a href="https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-9.jpg"><img src="https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-9.jpg" alt="" class="wp-image-3922"/></a><figcaption class="wp-element-caption">Gallery Caption Here</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":3919,"sizeSlug":"full","linkDestination":"media","className":"grayscale  image-zoom-hover  animated animated-fadeInUp"} -->
-<figure class="wp-block-image size-full grayscale  image-zoom-hover animated animated-fadeInUp"><a href="https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-6.jpg"><img src="https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-6.jpg" alt="" class="wp-image-3919"/></a><figcaption>Gallery Caption Here</figcaption></figure>
+<figure class="wp-block-image size-full grayscale  image-zoom-hover animated animated-fadeInUp"><a href="https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-6.jpg"><img src="https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-6.jpg" alt="" class="wp-image-3919"/></a><figcaption class="wp-element-caption">Gallery Caption Here</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":3918,"sizeSlug":"full","linkDestination":"media","className":"grayscale  image-zoom-hover  animated animated-fadeInUp"} -->
-<figure class="wp-block-image size-full grayscale  image-zoom-hover animated animated-fadeInUp"><a href="https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/gallery-5.jpg"><img src="https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/gallery-5.jpg" alt="" class="wp-image-3918"/></a><figcaption>Gallery Caption Here</figcaption></figure>
+<figure class="wp-block-image size-full grayscale  image-zoom-hover animated animated-fadeInUp"><a href="https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/gallery-5.jpg"><img src="https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/gallery-5.jpg" alt="" class="wp-image-3918"/></a><figcaption class="wp-element-caption">Gallery Caption Here</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":3916,"sizeSlug":"full","linkDestination":"media","className":"grayscale  image-zoom-hover  animated animated-fadeInUp"} -->
-<figure class="wp-block-image size-full grayscale  image-zoom-hover animated animated-fadeInUp"><a href="https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-2.jpg"><img src="https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-2.jpg" alt="" class="wp-image-3916"/></a><figcaption>Gallery Caption Here</figcaption></figure>
+<figure class="wp-block-image size-full grayscale  image-zoom-hover animated animated-fadeInUp"><a href="https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-2.jpg"><img src="https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/galler-2.jpg" alt="" class="wp-image-3916"/></a><figcaption class="wp-element-caption">Gallery Caption Here</figcaption></figure>
 <!-- /wp:image --></figure>
 <!-- /wp:gutenify/advance-gallery -->
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"0px","padding":{"top":"40px","right":"0px","bottom":"0px","left":"0px"}}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center"}} -->
 <div class="wp-block-group" style="padding-top:40px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:buttons {"className":" animated animated-fadeInUp","layout":{"type":"flex","justifyContent":"left"},"style":{"spacing":{"blockGap":"10px","margin":{"top":"20px","bottom":"20px"}}}} -->
-<div class="wp-block-buttons  animated animated-fadeInUp" style="margin-top:20px;margin-bottom:20px"><!-- wp:button {"backgroundColor":"brown","style":{"spacing":{"padding":{"right":"35px","left":"35px"}}},"className":"is-style-fill"} -->
-<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-brown-background-color has-background" href="#" style="padding-right:35px;padding-left:35px">Explore More</a></div>
+<div class="wp-block-buttons animated animated-fadeInUp" style="margin-top:20px;margin-bottom:20px"><!-- wp:button {"backgroundColor":"brown","style":{"spacing":{"padding":{"right":"35px","left":"35px"}}},"className":"is-style-fill"} -->
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-brown-background-color has-background wp-element-button" href="#" style="padding-right:35px;padding-left:35px">Explore More</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"style":{"spacing":{"padding":{"top":"60px","bottom":"60px"}},"color":{"background":"#111111"}},"layout":{"inherit":true}} -->
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"60px","bottom":"60px"}},"color":{"background":"#111111"}},"layout":{"inherit":true,"type":"constrained"}} -->
 <div class="wp-block-group has-background" style="background-color:#111111;padding-top:60px;padding-bottom:60px"><!-- wp:group {"align":"wide","layout":{"type":"flex","flexWrap":"nowrap"}} -->
 <div class="wp-block-group alignwide"><!-- wp:image {"align":"left","width":50,"height":50,"sizeSlug":"large","className":" animated animated-fadeInLeft"} -->
 <figure class="wp-block-image alignleft size-large is-resized  animated animated-fadeInLeft"><img src="https://demo.gutenify.com/gutenify-photography/wp-content/themes/gutenify-photography/images/star-bg.png" alt="Star Background" width="50" height="50"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"align":"wide","layout":{"inherit":false,"contentSize":"900px"}} -->
+<!-- wp:group {"align":"wide","layout":{"inherit":false,"contentSize":"900px","type":"constrained"}} -->
 <div class="wp-block-group alignwide"><!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":"20px"}}} -->
 <div class="wp-block-columns alignwide"><!-- wp:column {"verticalAlignment":"center","width":"40%","layout":{"inherit":true}} -->
 <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:40%"><!-- wp:image {"id":3636,"sizeSlug":"full","linkDestination":"none","className":"animated animated-fadeInUp is-style-rounded"} -->
@@ -4837,7 +4837,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"20px"}}}} -->
-<div class="wp-block-group" style="padding-top:20px"><!-- wp:social-links {"iconColor":"background","iconColorValue":"#ffffff","openInNewTab":true,"size":"has-small-icon-size","className":" animated animated-fadeInUp tooltip-style is-style-logos-only","layout":{"type":"flex","justifyContent":"left","orientation":"horizontal"},"style":{"spacing":{"blockGap":"20px"}}} -->
+<div class="wp-block-group" style="padding-top:20px"><!-- wp:social-links {"iconColor":"background","iconColorValue":"#ffffff","openInNewTab":true,"size":"has-small-icon-size","style":{"spacing":{"blockGap":"20px"}},"className":" animated animated-fadeInUp tooltip-style is-style-logos-only","layout":{"type":"flex","justifyContent":"left","orientation":"horizontal"}} -->
 <ul class="wp-block-social-links has-small-icon-size has-icon-color  animated animated-fadeInUp tooltip-style is-style-logos-only"><!-- wp:social-link {"url":"https://gutenify.com/","service":"facebook"} /-->
 
 <!-- wp:social-link {"url":"https://gutenify.com/","service":"twitter"} /-->
@@ -4867,7 +4867,7 @@
 <!-- /wp:group --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"style":{"spacing":{"padding":{"top":"100px","bottom":"100px","right":"30px","left":"30px"}},"border":{"width":"0px","style":"none"}},"backgroundColor":"background","layout":{"inherit":true}} -->
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"100px","bottom":"100px","right":"30px","left":"30px"}},"border":{"width":"0px","style":"none"}},"backgroundColor":"background","layout":{"inherit":true,"type":"constrained"}} -->
 <div class="wp-block-group has-background-background-color has-background" style="border-style:none;border-width:0px;padding-top:100px;padding-right:30px;padding-bottom:100px;padding-left:30px"><!-- wp:group {"style":{"spacing":{"blockGap":"5px","padding":{"bottom":"50px"}}}} -->
 <div class="wp-block-group" style="padding-bottom:50px"><!-- wp:paragraph {"align":"center","style":{"typography":{"letterSpacing":"4px"}},"textColor":"primary","className":" animated animated-fadeInUp"} -->
 <p class="has-text-align-center animated animated-fadeInUp has-primary-color has-text-color" style="letter-spacing:4px">About Photography </p>
@@ -4889,9 +4889,9 @@
 <!-- /wp:group -->
 
 <!-- wp:gutenify/service {"blockClientId":"5fa3343c-7df9-4eea-91d2-3148e790778a","blockAdvanceOptions":{"padding":{"desktop":{"top":"0px","bottom":"0px","left":"0px","right":"0px"}}},"layout":"layout-2","columnSize":3,"hideButtons":true,"align":"wide","className":"gutenify-service-block-wrapper","gutenifyStyles":".gutenify-section-5fa3343c-7df9-4eea-91d2-3148e790778a { padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px; }"} -->
-<div class="wp-block-gutenify-service alignwide gutenify-service-layout-2 gutenify-service-col-3 gutenify--service--hide-button gutenify-section-5fa3343c-7df9-4eea-91d2-3148e790778a gutenify-service-version-2 gutenify-service-block-wrapper"><div class="gutenify-service-block"><!-- wp:gutenify/info-box {"className":"flex-col-item has-shadow-dark animated animated-fadeInUp","blockClientId":"a80817d6-cebf-4336-9079-31c94fb8163b","blockAdvanceOptions":{"backgroundColor":"#111","padding":{"desktop":{"top":"40px","right":"40px","bottom":"40px","left":"40px"}}},"layout":"layout-2","iconAlign":"center","titleAlign":"left","gutenifyStyles":".gutenify-section-a80817d6-cebf-4336-9079-31c94fb8163b { background: #111; }.gutenify-section-a80817d6-cebf-4336-9079-31c94fb8163b { padding-top: 40px;padding-right: 40px;padding-bottom: 40px;padding-left: 40px; }"} -->
-<div class="wp-block-gutenify-info-box gutenify-info-box-layout-2 gutenify-section-a80817d6-cebf-4336-9079-31c94fb8163b gutenify-info-box-version-2 flex-col-item has-shadow-dark animated animated-fadeInUp"><!-- wp:gutenify/icon {"blockClientId":"0ef80d24-d460-4b82-a8ec-4151e29b35b8","blockAdvanceOptions":{"textColor":"#7d6043"},"iconName":"las la-camera","size":56,"gutenifyStyles":".gutenify-section-0ef80d24-d460-4b82-a8ec-4151e29b35b8 .gutenify-icon-wrapper { color: #7d6043; }.gutenify-section-0ef80d24-d460-4b82-a8ec-4151e29b35b8 .gutenify-icon-wrapper i {\n\t\t\tfont-size: 56px;\n\t\t}.gutenify-section-0ef80d24-d460-4b82-a8ec-4151e29b35b8 .gutenify-icon-wrapper img {\n\t\t\twidth: 56px;\n\t\t\tmax-width: 56px;\n\t\t}.gutenify-section-0ef80d24-d460-4b82-a8ec-4151e29b35b8 .gutenify-icon-wrapper .gutenify-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
-<div class="wp-block-gutenify-icon flex-col-item is-content-justification-center gutenify-section-0ef80d24-d460-4b82-a8ec-4151e29b35b8 gutenify-icon-version-2"><a class="gutenify-icon-wrapper"><i class="las la-camera"></i></a></div>
+<div class="wp-block-gutenify-service alignwide gutenify-service-layout-2 gutenify-service-col-3 gutenify--service--hide-button gutenify-section-5fa3343c-7df9-4eea-91d2-3148e790778a gutenify-service-version-2 gutenify-service-block-wrapper"><div class="gutenify-service-block"><!-- wp:gutenify/info-box {"className":"flex-col-item has-shadow-dark animated animated-fadeInUp","blockClientId":"a0c53200-80b9-4039-a611-39dc5a5d49c8","blockAdvanceOptions":{"backgroundColor":"#111","padding":{"desktop":{"top":"40px","right":"40px","bottom":"40px","left":"40px"}}},"layout":"layout-2","iconAlign":"center","titleAlign":"left","gutenifyStyles":".gutenify-section-a0c53200-80b9-4039-a611-39dc5a5d49c8 { background: #111; }.gutenify-section-a0c53200-80b9-4039-a611-39dc5a5d49c8 { padding-top: 40px;padding-right: 40px;padding-bottom: 40px;padding-left: 40px; }"} -->
+<div class="wp-block-gutenify-info-box gutenify-info-box-layout-2 gutenify-section-a0c53200-80b9-4039-a611-39dc5a5d49c8 gutenify-info-box-version-2 flex-col-item has-shadow-dark animated animated-fadeInUp"><!-- wp:gutenify/icon {"blockClientId":"952d7c73-435a-4738-a40e-5f92587ba493","blockAdvanceOptions":{"textColor":"#7d6043"},"iconName":"las la-camera","size":56,"gutenifyStyles":".gutenify-section-952d7c73-435a-4738-a40e-5f92587ba493 .gutenify-icon-wrapper { color: #7d6043; }.gutenify-section-952d7c73-435a-4738-a40e-5f92587ba493 .gutenify-icon-wrapper i {\n\t\t\tfont-size: 56px;\n\t\t}.gutenify-section-952d7c73-435a-4738-a40e-5f92587ba493 .gutenify-icon-wrapper img {\n\t\t\twidth: 56px;\n\t\t\tmax-width: 56px;\n\t\t}.gutenify-section-952d7c73-435a-4738-a40e-5f92587ba493 .gutenify-icon-wrapper .gutenify-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
+<div class="wp-block-gutenify-icon flex-col-item is-content-justification-center gutenify-section-952d7c73-435a-4738-a40e-5f92587ba493 gutenify-icon-version-2"><a class="gutenify-icon-wrapper"><i class="las la-camera"></i></a></div>
 <!-- /wp:gutenify/icon -->
 
 <!-- wp:heading {"textAlign":"left","level":3,"className":"gutenify-admin-info-box-block-title  "} -->
@@ -4913,9 +4913,9 @@
 <!-- /wp:gutenify/buttons --></div>
 <!-- /wp:gutenify/info-box -->
 
-<!-- wp:gutenify/info-box {"className":"flex-col-item has-shadow-dark animated animated-fadeInUp","blockClientId":"7e4a0564-4716-49a3-8d64-0be130fe2b2b","blockAdvanceOptions":{"backgroundColor":"#111","padding":{"desktop":{"top":"40px","right":"40px","bottom":"40px","left":"40px"}}},"layout":"layout-2","iconAlign":"center","titleAlign":"left","gutenifyStyles":".gutenify-section-7e4a0564-4716-49a3-8d64-0be130fe2b2b { background: #111; }.gutenify-section-7e4a0564-4716-49a3-8d64-0be130fe2b2b { padding-top: 40px;padding-right: 40px;padding-bottom: 40px;padding-left: 40px; }"} -->
-<div class="wp-block-gutenify-info-box gutenify-info-box-layout-2 gutenify-section-7e4a0564-4716-49a3-8d64-0be130fe2b2b gutenify-info-box-version-2 flex-col-item has-shadow-dark animated animated-fadeInUp"><!-- wp:gutenify/icon {"blockClientId":"e031bd1c-7c9d-46bf-be64-e0aeb7f8a599","blockAdvanceOptions":{"textColor":"#7d6043"},"iconName":"las la-camera","size":56,"gutenifyStyles":".gutenify-section-e031bd1c-7c9d-46bf-be64-e0aeb7f8a599 .gutenify-icon-wrapper { color: #7d6043; }.gutenify-section-e031bd1c-7c9d-46bf-be64-e0aeb7f8a599 .gutenify-icon-wrapper i {\n\t\t\tfont-size: 56px;\n\t\t}.gutenify-section-e031bd1c-7c9d-46bf-be64-e0aeb7f8a599 .gutenify-icon-wrapper img {\n\t\t\twidth: 56px;\n\t\t\tmax-width: 56px;\n\t\t}.gutenify-section-e031bd1c-7c9d-46bf-be64-e0aeb7f8a599 .gutenify-icon-wrapper .gutenify-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
-<div class="wp-block-gutenify-icon flex-col-item is-content-justification-center gutenify-section-e031bd1c-7c9d-46bf-be64-e0aeb7f8a599 gutenify-icon-version-2"><a class="gutenify-icon-wrapper"><i class="las la-camera"></i></a></div>
+<!-- wp:gutenify/info-box {"className":"flex-col-item has-shadow-dark animated animated-fadeInUp","blockClientId":"121e50ad-ea88-490d-8406-2f5b895ae6ef","blockAdvanceOptions":{"backgroundColor":"#111","padding":{"desktop":{"top":"40px","right":"40px","bottom":"40px","left":"40px"}}},"layout":"layout-2","iconAlign":"center","titleAlign":"left","gutenifyStyles":".gutenify-section-121e50ad-ea88-490d-8406-2f5b895ae6ef { background: #111; }.gutenify-section-121e50ad-ea88-490d-8406-2f5b895ae6ef { padding-top: 40px;padding-right: 40px;padding-bottom: 40px;padding-left: 40px; }"} -->
+<div class="wp-block-gutenify-info-box gutenify-info-box-layout-2 gutenify-section-121e50ad-ea88-490d-8406-2f5b895ae6ef gutenify-info-box-version-2 flex-col-item has-shadow-dark animated animated-fadeInUp"><!-- wp:gutenify/icon {"blockClientId":"b2d6508f-770e-4c9c-bd32-fa0923c0e543","blockAdvanceOptions":{"textColor":"#7d6043"},"iconName":"las la-camera","size":56,"gutenifyStyles":".gutenify-section-b2d6508f-770e-4c9c-bd32-fa0923c0e543 .gutenify-icon-wrapper { color: #7d6043; }.gutenify-section-b2d6508f-770e-4c9c-bd32-fa0923c0e543 .gutenify-icon-wrapper i {\n\t\t\tfont-size: 56px;\n\t\t}.gutenify-section-b2d6508f-770e-4c9c-bd32-fa0923c0e543 .gutenify-icon-wrapper img {\n\t\t\twidth: 56px;\n\t\t\tmax-width: 56px;\n\t\t}.gutenify-section-b2d6508f-770e-4c9c-bd32-fa0923c0e543 .gutenify-icon-wrapper .gutenify-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
+<div class="wp-block-gutenify-icon flex-col-item is-content-justification-center gutenify-section-b2d6508f-770e-4c9c-bd32-fa0923c0e543 gutenify-icon-version-2"><a class="gutenify-icon-wrapper"><i class="las la-camera"></i></a></div>
 <!-- /wp:gutenify/icon -->
 
 <!-- wp:heading {"textAlign":"left","level":3,"className":"gutenify-admin-info-box-block-title  "} -->
@@ -4937,9 +4937,9 @@
 <!-- /wp:gutenify/buttons --></div>
 <!-- /wp:gutenify/info-box -->
 
-<!-- wp:gutenify/info-box {"className":"flex-col-item has-shadow-dark animated animated-fadeInUp","blockClientId":"a21a92b4-2d72-4ae4-b107-5a893c04be99","blockAdvanceOptions":{"backgroundColor":"#111","padding":{"desktop":{"top":"40px","right":"40px","bottom":"40px","left":"40px"}}},"layout":"layout-2","iconAlign":"center","titleAlign":"left","gutenifyStyles":".gutenify-section-a21a92b4-2d72-4ae4-b107-5a893c04be99 { background: #111; }.gutenify-section-a21a92b4-2d72-4ae4-b107-5a893c04be99 { padding-top: 40px;padding-right: 40px;padding-bottom: 40px;padding-left: 40px; }"} -->
-<div class="wp-block-gutenify-info-box gutenify-info-box-layout-2 gutenify-section-a21a92b4-2d72-4ae4-b107-5a893c04be99 gutenify-info-box-version-2 flex-col-item has-shadow-dark animated animated-fadeInUp"><!-- wp:gutenify/icon {"blockClientId":"2d06f002-c198-4f9e-aeb7-67e390a51380","blockAdvanceOptions":{"textColor":"#7d6043"},"iconName":"las la-camera","size":56,"gutenifyStyles":".gutenify-section-2d06f002-c198-4f9e-aeb7-67e390a51380 .gutenify-icon-wrapper { color: #7d6043; }.gutenify-section-2d06f002-c198-4f9e-aeb7-67e390a51380 .gutenify-icon-wrapper i {\n\t\t\tfont-size: 56px;\n\t\t}.gutenify-section-2d06f002-c198-4f9e-aeb7-67e390a51380 .gutenify-icon-wrapper img {\n\t\t\twidth: 56px;\n\t\t\tmax-width: 56px;\n\t\t}.gutenify-section-2d06f002-c198-4f9e-aeb7-67e390a51380 .gutenify-icon-wrapper .gutenify-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
-<div class="wp-block-gutenify-icon flex-col-item is-content-justification-center gutenify-section-2d06f002-c198-4f9e-aeb7-67e390a51380 gutenify-icon-version-2"><a class="gutenify-icon-wrapper"><i class="las la-camera"></i></a></div>
+<!-- wp:gutenify/info-box {"className":"flex-col-item has-shadow-dark animated animated-fadeInUp","blockClientId":"67bf45a4-4d0a-402b-8f80-237e19f90e27","blockAdvanceOptions":{"backgroundColor":"#111","padding":{"desktop":{"top":"40px","right":"40px","bottom":"40px","left":"40px"}}},"layout":"layout-2","iconAlign":"center","titleAlign":"left","gutenifyStyles":".gutenify-section-67bf45a4-4d0a-402b-8f80-237e19f90e27 { background: #111; }.gutenify-section-67bf45a4-4d0a-402b-8f80-237e19f90e27 { padding-top: 40px;padding-right: 40px;padding-bottom: 40px;padding-left: 40px; }"} -->
+<div class="wp-block-gutenify-info-box gutenify-info-box-layout-2 gutenify-section-67bf45a4-4d0a-402b-8f80-237e19f90e27 gutenify-info-box-version-2 flex-col-item has-shadow-dark animated animated-fadeInUp"><!-- wp:gutenify/icon {"blockClientId":"250cd97f-f25d-4901-82e7-00d035d34638","blockAdvanceOptions":{"textColor":"#7d6043"},"iconName":"las la-camera","size":56,"gutenifyStyles":".gutenify-section-250cd97f-f25d-4901-82e7-00d035d34638 .gutenify-icon-wrapper { color: #7d6043; }.gutenify-section-250cd97f-f25d-4901-82e7-00d035d34638 .gutenify-icon-wrapper i {\n\t\t\tfont-size: 56px;\n\t\t}.gutenify-section-250cd97f-f25d-4901-82e7-00d035d34638 .gutenify-icon-wrapper img {\n\t\t\twidth: 56px;\n\t\t\tmax-width: 56px;\n\t\t}.gutenify-section-250cd97f-f25d-4901-82e7-00d035d34638 .gutenify-icon-wrapper .gutenify-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
+<div class="wp-block-gutenify-icon flex-col-item is-content-justification-center gutenify-section-250cd97f-f25d-4901-82e7-00d035d34638 gutenify-icon-version-2"><a class="gutenify-icon-wrapper"><i class="las la-camera"></i></a></div>
 <!-- /wp:gutenify/icon -->
 
 <!-- wp:heading {"textAlign":"left","level":3,"className":"gutenify-admin-info-box-block-title  "} -->
@@ -4961,9 +4961,9 @@
 <!-- /wp:gutenify/buttons --></div>
 <!-- /wp:gutenify/info-box -->
 
-<!-- wp:gutenify/info-box {"className":"flex-col-item has-shadow-dark animated animated-fadeInUp","blockClientId":"08aa2dc4-874d-4aca-8a9e-f8b5598781bc","blockAdvanceOptions":{"backgroundColor":"#111","padding":{"desktop":{"top":"40px","right":"40px","bottom":"40px","left":"40px"}}},"layout":"layout-2","iconAlign":"center","titleAlign":"left","gutenifyStyles":".gutenify-section-08aa2dc4-874d-4aca-8a9e-f8b5598781bc { background: #111; }.gutenify-section-08aa2dc4-874d-4aca-8a9e-f8b5598781bc { padding-top: 40px;padding-right: 40px;padding-bottom: 40px;padding-left: 40px; }"} -->
-<div class="wp-block-gutenify-info-box gutenify-info-box-layout-2 gutenify-section-08aa2dc4-874d-4aca-8a9e-f8b5598781bc gutenify-info-box-version-2 flex-col-item has-shadow-dark animated animated-fadeInUp"><!-- wp:gutenify/icon {"blockClientId":"89158a98-10df-4eb9-9dd3-e9f52cee52be","blockAdvanceOptions":{"textColor":"#7d6043"},"iconName":"las la-camera","size":56,"gutenifyStyles":".gutenify-section-89158a98-10df-4eb9-9dd3-e9f52cee52be .gutenify-icon-wrapper { color: #7d6043; }.gutenify-section-89158a98-10df-4eb9-9dd3-e9f52cee52be .gutenify-icon-wrapper i {\n\t\t\tfont-size: 56px;\n\t\t}.gutenify-section-89158a98-10df-4eb9-9dd3-e9f52cee52be .gutenify-icon-wrapper img {\n\t\t\twidth: 56px;\n\t\t\tmax-width: 56px;\n\t\t}.gutenify-section-89158a98-10df-4eb9-9dd3-e9f52cee52be .gutenify-icon-wrapper .gutenify-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
-<div class="wp-block-gutenify-icon flex-col-item is-content-justification-center gutenify-section-89158a98-10df-4eb9-9dd3-e9f52cee52be gutenify-icon-version-2"><a class="gutenify-icon-wrapper"><i class="las la-camera"></i></a></div>
+<!-- wp:gutenify/info-box {"className":"flex-col-item has-shadow-dark animated animated-fadeInUp","blockClientId":"1d73b1ee-2127-4263-b1c5-7490fdca5b2e","blockAdvanceOptions":{"backgroundColor":"#111","padding":{"desktop":{"top":"40px","right":"40px","bottom":"40px","left":"40px"}}},"layout":"layout-2","iconAlign":"center","titleAlign":"left","gutenifyStyles":".gutenify-section-1d73b1ee-2127-4263-b1c5-7490fdca5b2e { background: #111; }.gutenify-section-1d73b1ee-2127-4263-b1c5-7490fdca5b2e { padding-top: 40px;padding-right: 40px;padding-bottom: 40px;padding-left: 40px; }"} -->
+<div class="wp-block-gutenify-info-box gutenify-info-box-layout-2 gutenify-section-1d73b1ee-2127-4263-b1c5-7490fdca5b2e gutenify-info-box-version-2 flex-col-item has-shadow-dark animated animated-fadeInUp"><!-- wp:gutenify/icon {"blockClientId":"e939e14e-8f36-4b0f-bf5d-ee39762e8cf4","blockAdvanceOptions":{"textColor":"#7d6043"},"iconName":"las la-camera","size":56,"gutenifyStyles":".gutenify-section-e939e14e-8f36-4b0f-bf5d-ee39762e8cf4 .gutenify-icon-wrapper { color: #7d6043; }.gutenify-section-e939e14e-8f36-4b0f-bf5d-ee39762e8cf4 .gutenify-icon-wrapper i {\n\t\t\tfont-size: 56px;\n\t\t}.gutenify-section-e939e14e-8f36-4b0f-bf5d-ee39762e8cf4 .gutenify-icon-wrapper img {\n\t\t\twidth: 56px;\n\t\t\tmax-width: 56px;\n\t\t}.gutenify-section-e939e14e-8f36-4b0f-bf5d-ee39762e8cf4 .gutenify-icon-wrapper .gutenify-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
+<div class="wp-block-gutenify-icon flex-col-item is-content-justification-center gutenify-section-e939e14e-8f36-4b0f-bf5d-ee39762e8cf4 gutenify-icon-version-2"><a class="gutenify-icon-wrapper"><i class="las la-camera"></i></a></div>
 <!-- /wp:gutenify/icon -->
 
 <!-- wp:heading {"textAlign":"left","level":3,"className":"gutenify-admin-info-box-block-title  "} -->
@@ -4985,9 +4985,9 @@
 <!-- /wp:gutenify/buttons --></div>
 <!-- /wp:gutenify/info-box -->
 
-<!-- wp:gutenify/info-box {"className":"flex-col-item has-shadow-dark animated animated-fadeInUp","blockClientId":"d421129a-f371-41fb-83dd-76e7abb1d329","blockAdvanceOptions":{"backgroundColor":"#111","padding":{"desktop":{"top":"40px","right":"40px","bottom":"40px","left":"40px"}}},"layout":"layout-2","iconAlign":"center","titleAlign":"left","gutenifyStyles":".gutenify-section-d421129a-f371-41fb-83dd-76e7abb1d329 { background: #111; }.gutenify-section-d421129a-f371-41fb-83dd-76e7abb1d329 { padding-top: 40px;padding-right: 40px;padding-bottom: 40px;padding-left: 40px; }"} -->
-<div class="wp-block-gutenify-info-box gutenify-info-box-layout-2 gutenify-section-d421129a-f371-41fb-83dd-76e7abb1d329 gutenify-info-box-version-2 flex-col-item has-shadow-dark animated animated-fadeInUp"><!-- wp:gutenify/icon {"blockClientId":"1cfc1fcd-ec87-4475-9569-7e048b95948a","blockAdvanceOptions":{"textColor":"#7d6043"},"iconName":"las la-camera","size":56,"gutenifyStyles":".gutenify-section-1cfc1fcd-ec87-4475-9569-7e048b95948a .gutenify-icon-wrapper { color: #7d6043; }.gutenify-section-1cfc1fcd-ec87-4475-9569-7e048b95948a .gutenify-icon-wrapper i {\n\t\t\tfont-size: 56px;\n\t\t}.gutenify-section-1cfc1fcd-ec87-4475-9569-7e048b95948a .gutenify-icon-wrapper img {\n\t\t\twidth: 56px;\n\t\t\tmax-width: 56px;\n\t\t}.gutenify-section-1cfc1fcd-ec87-4475-9569-7e048b95948a .gutenify-icon-wrapper .gutenify-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
-<div class="wp-block-gutenify-icon flex-col-item is-content-justification-center gutenify-section-1cfc1fcd-ec87-4475-9569-7e048b95948a gutenify-icon-version-2"><a class="gutenify-icon-wrapper"><i class="las la-camera"></i></a></div>
+<!-- wp:gutenify/info-box {"className":"flex-col-item has-shadow-dark animated animated-fadeInUp","blockClientId":"66cc04bd-11f2-48f9-986c-939452280b05","blockAdvanceOptions":{"backgroundColor":"#111","padding":{"desktop":{"top":"40px","right":"40px","bottom":"40px","left":"40px"}}},"layout":"layout-2","iconAlign":"center","titleAlign":"left","gutenifyStyles":".gutenify-section-66cc04bd-11f2-48f9-986c-939452280b05 { background: #111; }.gutenify-section-66cc04bd-11f2-48f9-986c-939452280b05 { padding-top: 40px;padding-right: 40px;padding-bottom: 40px;padding-left: 40px; }"} -->
+<div class="wp-block-gutenify-info-box gutenify-info-box-layout-2 gutenify-section-66cc04bd-11f2-48f9-986c-939452280b05 gutenify-info-box-version-2 flex-col-item has-shadow-dark animated animated-fadeInUp"><!-- wp:gutenify/icon {"blockClientId":"66aea757-4259-4848-ae29-29c56c210c7b","blockAdvanceOptions":{"textColor":"#7d6043"},"iconName":"las la-camera","size":56,"gutenifyStyles":".gutenify-section-66aea757-4259-4848-ae29-29c56c210c7b .gutenify-icon-wrapper { color: #7d6043; }.gutenify-section-66aea757-4259-4848-ae29-29c56c210c7b .gutenify-icon-wrapper i {\n\t\t\tfont-size: 56px;\n\t\t}.gutenify-section-66aea757-4259-4848-ae29-29c56c210c7b .gutenify-icon-wrapper img {\n\t\t\twidth: 56px;\n\t\t\tmax-width: 56px;\n\t\t}.gutenify-section-66aea757-4259-4848-ae29-29c56c210c7b .gutenify-icon-wrapper .gutenify-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
+<div class="wp-block-gutenify-icon flex-col-item is-content-justification-center gutenify-section-66aea757-4259-4848-ae29-29c56c210c7b gutenify-icon-version-2"><a class="gutenify-icon-wrapper"><i class="las la-camera"></i></a></div>
 <!-- /wp:gutenify/icon -->
 
 <!-- wp:heading {"textAlign":"left","level":3,"className":"gutenify-admin-info-box-block-title  "} -->
@@ -5009,9 +5009,9 @@
 <!-- /wp:gutenify/buttons --></div>
 <!-- /wp:gutenify/info-box -->
 
-<!-- wp:gutenify/info-box {"className":"flex-col-item has-shadow-dark animated animated-fadeInUp","blockClientId":"cfb4afbe-c78f-4bd2-ac2e-25853e53a4f6","blockAdvanceOptions":{"backgroundColor":"#111","padding":{"desktop":{"top":"40px","right":"40px","bottom":"40px","left":"40px"}}},"layout":"layout-2","iconAlign":"center","titleAlign":"left","gutenifyStyles":".gutenify-section-cfb4afbe-c78f-4bd2-ac2e-25853e53a4f6 { background: #111; }.gutenify-section-cfb4afbe-c78f-4bd2-ac2e-25853e53a4f6 { padding-top: 40px;padding-right: 40px;padding-bottom: 40px;padding-left: 40px; }"} -->
-<div class="wp-block-gutenify-info-box gutenify-info-box-layout-2 gutenify-section-cfb4afbe-c78f-4bd2-ac2e-25853e53a4f6 gutenify-info-box-version-2 flex-col-item has-shadow-dark animated animated-fadeInUp"><!-- wp:gutenify/icon {"blockClientId":"0da63759-252d-46eb-b108-c5cef1301c59","blockAdvanceOptions":{"textColor":"#7d6043"},"iconName":"las la-camera","size":56,"gutenifyStyles":".gutenify-section-0da63759-252d-46eb-b108-c5cef1301c59 .gutenify-icon-wrapper { color: #7d6043; }.gutenify-section-0da63759-252d-46eb-b108-c5cef1301c59 .gutenify-icon-wrapper i {\n\t\t\tfont-size: 56px;\n\t\t}.gutenify-section-0da63759-252d-46eb-b108-c5cef1301c59 .gutenify-icon-wrapper img {\n\t\t\twidth: 56px;\n\t\t\tmax-width: 56px;\n\t\t}.gutenify-section-0da63759-252d-46eb-b108-c5cef1301c59 .gutenify-icon-wrapper .gutenify-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
-<div class="wp-block-gutenify-icon flex-col-item is-content-justification-center gutenify-section-0da63759-252d-46eb-b108-c5cef1301c59 gutenify-icon-version-2"><a class="gutenify-icon-wrapper"><i class="las la-camera"></i></a></div>
+<!-- wp:gutenify/info-box {"className":"flex-col-item has-shadow-dark animated animated-fadeInUp","blockClientId":"ccb4e639-25de-498f-89ce-accabf1346f2","blockAdvanceOptions":{"backgroundColor":"#111","padding":{"desktop":{"top":"40px","right":"40px","bottom":"40px","left":"40px"}}},"layout":"layout-2","iconAlign":"center","titleAlign":"left","gutenifyStyles":".gutenify-section-ccb4e639-25de-498f-89ce-accabf1346f2 { background: #111; }.gutenify-section-ccb4e639-25de-498f-89ce-accabf1346f2 { padding-top: 40px;padding-right: 40px;padding-bottom: 40px;padding-left: 40px; }"} -->
+<div class="wp-block-gutenify-info-box gutenify-info-box-layout-2 gutenify-section-ccb4e639-25de-498f-89ce-accabf1346f2 gutenify-info-box-version-2 flex-col-item has-shadow-dark animated animated-fadeInUp"><!-- wp:gutenify/icon {"blockClientId":"e71f5216-9c39-42f3-928f-cd0062b7f487","blockAdvanceOptions":{"textColor":"#7d6043"},"iconName":"las la-camera","size":56,"gutenifyStyles":".gutenify-section-e71f5216-9c39-42f3-928f-cd0062b7f487 .gutenify-icon-wrapper { color: #7d6043; }.gutenify-section-e71f5216-9c39-42f3-928f-cd0062b7f487 .gutenify-icon-wrapper i {\n\t\t\tfont-size: 56px;\n\t\t}.gutenify-section-e71f5216-9c39-42f3-928f-cd0062b7f487 .gutenify-icon-wrapper img {\n\t\t\twidth: 56px;\n\t\t\tmax-width: 56px;\n\t\t}.gutenify-section-e71f5216-9c39-42f3-928f-cd0062b7f487 .gutenify-icon-wrapper .gutenify-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
+<div class="wp-block-gutenify-icon flex-col-item is-content-justification-center gutenify-section-e71f5216-9c39-42f3-928f-cd0062b7f487 gutenify-icon-version-2"><a class="gutenify-icon-wrapper"><i class="las la-camera"></i></a></div>
 <!-- /wp:gutenify/icon -->
 
 <!-- wp:heading {"textAlign":"left","level":3,"className":"gutenify-admin-info-box-block-title  "} -->
@@ -5044,7 +5044,7 @@
 <!-- /wp:group -->
 
 <!-- wp:cover {"url":"https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/newsletter.png","id":4036,"dimRatio":0,"customGradient":"linear-gradient(93deg,rgb(0,0,0) 38%,rgba(46,42,48,0.08) 94%)","contentPosition":"center center","isDark":false,"align":"full"} -->
-<div class="wp-block-cover alignfull is-light"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim has-background-gradient" style="background:linear-gradient(93deg,rgb(0,0,0) 38%,rgba(46,42,48,0.08) 94%)"></span><img class="wp-block-cover__image-background wp-image-4036" alt="" src="https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/newsletter.png" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:group {"align":"wide","layout":{"inherit":true}} -->
+<div class="wp-block-cover alignfull is-light"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim has-background-gradient" style="background:linear-gradient(93deg,rgb(0,0,0) 38%,rgba(46,42,48,0.08) 94%)"></span><img class="wp-block-cover__image-background wp-image-4036" alt="" src="https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/newsletter.png" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:group {"align":"wide","layout":{"inherit":true,"type":"constrained"}} -->
 <div class="wp-block-group alignwide"><!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"150px","bottom":"150px","right":"30px","left":"30px"}}},"textColor":"background","layout":{"inherit":false}} -->
 <div class="wp-block-group alignwide has-background-color has-text-color" style="padding-top:150px;padding-right:30px;padding-bottom:150px;padding-left:30px"><!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"10px"}}} -->
 <div class="wp-block-group alignwide"><!-- wp:paragraph {"align":"left","textColor":"foreground","className":" animated animated-fadeInUp","fontSize":"medium"} -->
@@ -5075,12 +5075,12 @@
 <!-- /wp:group --></div></div>
 <!-- /wp:cover -->
 
-<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"100px","right":"30px","left":"30px","bottom":"100px"}}},"backgroundColor":"background","layout":{"inherit":true}} -->
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"100px","right":"30px","left":"30px","bottom":"100px"}}},"backgroundColor":"background","layout":{"inherit":true,"type":"constrained"}} -->
 <div class="wp-block-group alignfull has-background-background-color has-background" style="padding-top:100px;padding-right:30px;padding-bottom:100px;padding-left:30px"><!-- wp:columns {"align":"wide"} -->
 <div class="wp-block-columns alignwide"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:group {"style":{"spacing":{"padding":{"top":"40px","right":"40px","bottom":"40px","left":"40px"},"blockGap":"10px"},"border":{"radius":"0px","width":"1px"}},"borderColor":"border"} -->
-<div class="wp-block-group has-border-color has-border-border-color" style="border-radius:0px;border-width:1px;padding-top:40px;padding-right:40px;padding-bottom:40px;padding-left:40px"><!-- wp:gutenify/icon {"blockClientId":"9af8d70b-b901-499b-ad06-f4f76686fbdd","blockAdvanceOptions":{"textColor":"#7d6043"},"iconName":"las la-camera","gutenifyStyles":".gutenify-section-9af8d70b-b901-499b-ad06-f4f76686fbdd .gutenify-icon-wrapper { color: #7d6043; }.gutenify-section-9af8d70b-b901-499b-ad06-f4f76686fbdd .gutenify-icon-wrapper i {\n\t\t\tfont-size: 40px;\n\t\t}.gutenify-section-9af8d70b-b901-499b-ad06-f4f76686fbdd .gutenify-icon-wrapper img {\n\t\t\twidth: 40px;\n\t\t\tmax-width: 40px;\n\t\t}.gutenify-section-9af8d70b-b901-499b-ad06-f4f76686fbdd .gutenify-icon-wrapper .gutenify-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
-<div class="wp-block-gutenify-icon flex-col-item is-content-justification-center gutenify-section-9af8d70b-b901-499b-ad06-f4f76686fbdd gutenify-icon-version-2"><a class="gutenify-icon-wrapper"><i class="las la-camera"></i></a></div>
+<div class="wp-block-group has-border-color has-border-border-color" style="border-width:1px;border-radius:0px;padding-top:40px;padding-right:40px;padding-bottom:40px;padding-left:40px"><!-- wp:gutenify/icon {"blockClientId":"b04ad651-02b8-4f76-a635-99dad814885a","blockAdvanceOptions":{"textColor":"#7d6043"},"iconName":"las la-camera","gutenifyStyles":".gutenify-section-b04ad651-02b8-4f76-a635-99dad814885a .gutenify-icon-wrapper { color: #7d6043; }.gutenify-section-b04ad651-02b8-4f76-a635-99dad814885a .gutenify-icon-wrapper i {\n\t\t\tfont-size: 40px;\n\t\t}.gutenify-section-b04ad651-02b8-4f76-a635-99dad814885a .gutenify-icon-wrapper img {\n\t\t\twidth: 40px;\n\t\t\tmax-width: 40px;\n\t\t}.gutenify-section-b04ad651-02b8-4f76-a635-99dad814885a .gutenify-icon-wrapper .gutenify-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
+<div class="wp-block-gutenify-icon flex-col-item is-content-justification-center gutenify-section-b04ad651-02b8-4f76-a635-99dad814885a gutenify-icon-version-2"><a class="gutenify-icon-wrapper"><i class="las la-camera"></i></a></div>
 <!-- /wp:gutenify/icon -->
 
 <!-- wp:heading {"textAlign":"center","level":3,"style":{"typography":{"fontStyle":"normal","fontWeight":"700","textTransform":"capitalize","lineHeight":"1","fontSize":"2em"}}} -->
@@ -5095,8 +5095,8 @@
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:group {"style":{"spacing":{"padding":{"top":"40px","right":"40px","bottom":"40px","left":"40px"},"blockGap":"10px"},"border":{"radius":"0px","width":"1px"}},"borderColor":"border"} -->
-<div class="wp-block-group has-border-color has-border-border-color" style="border-radius:0px;border-width:1px;padding-top:40px;padding-right:40px;padding-bottom:40px;padding-left:40px"><!-- wp:gutenify/icon {"blockClientId":"253a0b30-84be-426b-8bd1-f03b747c8856","blockAdvanceOptions":{"textColor":"#7d6043"},"iconName":"lar la-file-image","gutenifyStyles":".gutenify-section-253a0b30-84be-426b-8bd1-f03b747c8856 .gutenify-icon-wrapper { color: #7d6043; }.gutenify-section-253a0b30-84be-426b-8bd1-f03b747c8856 .gutenify-icon-wrapper i {\n\t\t\tfont-size: 40px;\n\t\t}.gutenify-section-253a0b30-84be-426b-8bd1-f03b747c8856 .gutenify-icon-wrapper img {\n\t\t\twidth: 40px;\n\t\t\tmax-width: 40px;\n\t\t}.gutenify-section-253a0b30-84be-426b-8bd1-f03b747c8856 .gutenify-icon-wrapper .gutenify-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
-<div class="wp-block-gutenify-icon flex-col-item is-content-justification-center gutenify-section-253a0b30-84be-426b-8bd1-f03b747c8856 gutenify-icon-version-2"><a class="gutenify-icon-wrapper"><i class="lar la-file-image"></i></a></div>
+<div class="wp-block-group has-border-color has-border-border-color" style="border-width:1px;border-radius:0px;padding-top:40px;padding-right:40px;padding-bottom:40px;padding-left:40px"><!-- wp:gutenify/icon {"blockClientId":"ac59f7b7-2262-4f93-bfbc-562413ee89d9","blockAdvanceOptions":{"textColor":"#7d6043"},"iconName":"lar la-file-image","gutenifyStyles":".gutenify-section-ac59f7b7-2262-4f93-bfbc-562413ee89d9 .gutenify-icon-wrapper { color: #7d6043; }.gutenify-section-ac59f7b7-2262-4f93-bfbc-562413ee89d9 .gutenify-icon-wrapper i {\n\t\t\tfont-size: 40px;\n\t\t}.gutenify-section-ac59f7b7-2262-4f93-bfbc-562413ee89d9 .gutenify-icon-wrapper img {\n\t\t\twidth: 40px;\n\t\t\tmax-width: 40px;\n\t\t}.gutenify-section-ac59f7b7-2262-4f93-bfbc-562413ee89d9 .gutenify-icon-wrapper .gutenify-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
+<div class="wp-block-gutenify-icon flex-col-item is-content-justification-center gutenify-section-ac59f7b7-2262-4f93-bfbc-562413ee89d9 gutenify-icon-version-2"><a class="gutenify-icon-wrapper"><i class="lar la-file-image"></i></a></div>
 <!-- /wp:gutenify/icon -->
 
 <!-- wp:heading {"textAlign":"center","level":3,"style":{"typography":{"fontSize":"2em","fontStyle":"normal","fontWeight":"700","textTransform":"capitalize","lineHeight":"1"}}} -->
@@ -5111,8 +5111,8 @@
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:group {"style":{"spacing":{"padding":{"top":"40px","right":"40px","bottom":"40px","left":"40px"},"blockGap":"10px"},"border":{"radius":"0px","width":"1px"}},"borderColor":"border"} -->
-<div class="wp-block-group has-border-color has-border-border-color" style="border-radius:0px;border-width:1px;padding-top:40px;padding-right:40px;padding-bottom:40px;padding-left:40px"><!-- wp:gutenify/icon {"blockClientId":"22b95d70-5aec-4f1c-bb8a-b0dcd5bc4e65","blockAdvanceOptions":{"textColor":"#7d6043"},"iconName":"las la-shield-alt","gutenifyStyles":".gutenify-section-22b95d70-5aec-4f1c-bb8a-b0dcd5bc4e65 .gutenify-icon-wrapper { color: #7d6043; }.gutenify-section-22b95d70-5aec-4f1c-bb8a-b0dcd5bc4e65 .gutenify-icon-wrapper i {\n\t\t\tfont-size: 40px;\n\t\t}.gutenify-section-22b95d70-5aec-4f1c-bb8a-b0dcd5bc4e65 .gutenify-icon-wrapper img {\n\t\t\twidth: 40px;\n\t\t\tmax-width: 40px;\n\t\t}.gutenify-section-22b95d70-5aec-4f1c-bb8a-b0dcd5bc4e65 .gutenify-icon-wrapper .gutenify-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
-<div class="wp-block-gutenify-icon flex-col-item is-content-justification-center gutenify-section-22b95d70-5aec-4f1c-bb8a-b0dcd5bc4e65 gutenify-icon-version-2"><a class="gutenify-icon-wrapper"><i class="las la-shield-alt"></i></a></div>
+<div class="wp-block-group has-border-color has-border-border-color" style="border-width:1px;border-radius:0px;padding-top:40px;padding-right:40px;padding-bottom:40px;padding-left:40px"><!-- wp:gutenify/icon {"blockClientId":"9637484d-5a28-4d2d-b0fb-842ed6c061c3","blockAdvanceOptions":{"textColor":"#7d6043"},"iconName":"las la-shield-alt","gutenifyStyles":".gutenify-section-9637484d-5a28-4d2d-b0fb-842ed6c061c3 .gutenify-icon-wrapper { color: #7d6043; }.gutenify-section-9637484d-5a28-4d2d-b0fb-842ed6c061c3 .gutenify-icon-wrapper i {\n\t\t\tfont-size: 40px;\n\t\t}.gutenify-section-9637484d-5a28-4d2d-b0fb-842ed6c061c3 .gutenify-icon-wrapper img {\n\t\t\twidth: 40px;\n\t\t\tmax-width: 40px;\n\t\t}.gutenify-section-9637484d-5a28-4d2d-b0fb-842ed6c061c3 .gutenify-icon-wrapper .gutenify-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
+<div class="wp-block-gutenify-icon flex-col-item is-content-justification-center gutenify-section-9637484d-5a28-4d2d-b0fb-842ed6c061c3 gutenify-icon-version-2"><a class="gutenify-icon-wrapper"><i class="las la-shield-alt"></i></a></div>
 <!-- /wp:gutenify/icon -->
 
 <!-- wp:heading {"textAlign":"center","level":3,"style":{"typography":{"fontSize":"2em","fontStyle":"normal","fontWeight":"700","textTransform":"capitalize","lineHeight":"1"}}} -->
@@ -5127,8 +5127,8 @@
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:group {"style":{"spacing":{"padding":{"top":"40px","right":"40px","bottom":"40px","left":"40px"},"blockGap":"10px"},"border":{"radius":"0px","width":"1px"}},"borderColor":"border"} -->
-<div class="wp-block-group has-border-color has-border-border-color" style="border-radius:0px;border-width:1px;padding-top:40px;padding-right:40px;padding-bottom:40px;padding-left:40px"><!-- wp:gutenify/icon {"blockClientId":"037c5535-26a4-4340-aa33-90b94efa8471","blockAdvanceOptions":{"textColor":"#7d6043"},"iconName":"las la-user-plus","gutenifyStyles":".gutenify-section-037c5535-26a4-4340-aa33-90b94efa8471 .gutenify-icon-wrapper { color: #7d6043; }.gutenify-section-037c5535-26a4-4340-aa33-90b94efa8471 .gutenify-icon-wrapper i {\n\t\t\tfont-size: 40px;\n\t\t}.gutenify-section-037c5535-26a4-4340-aa33-90b94efa8471 .gutenify-icon-wrapper img {\n\t\t\twidth: 40px;\n\t\t\tmax-width: 40px;\n\t\t}.gutenify-section-037c5535-26a4-4340-aa33-90b94efa8471 .gutenify-icon-wrapper .gutenify-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
-<div class="wp-block-gutenify-icon flex-col-item is-content-justification-center gutenify-section-037c5535-26a4-4340-aa33-90b94efa8471 gutenify-icon-version-2"><a class="gutenify-icon-wrapper"><i class="las la-user-plus"></i></a></div>
+<div class="wp-block-group has-border-color has-border-border-color" style="border-width:1px;border-radius:0px;padding-top:40px;padding-right:40px;padding-bottom:40px;padding-left:40px"><!-- wp:gutenify/icon {"blockClientId":"0901c942-3037-4ed5-8837-c14a2e74399c","blockAdvanceOptions":{"textColor":"#7d6043"},"iconName":"las la-user-plus","gutenifyStyles":".gutenify-section-0901c942-3037-4ed5-8837-c14a2e74399c .gutenify-icon-wrapper { color: #7d6043; }.gutenify-section-0901c942-3037-4ed5-8837-c14a2e74399c .gutenify-icon-wrapper i {\n\t\t\tfont-size: 40px;\n\t\t}.gutenify-section-0901c942-3037-4ed5-8837-c14a2e74399c .gutenify-icon-wrapper img {\n\t\t\twidth: 40px;\n\t\t\tmax-width: 40px;\n\t\t}.gutenify-section-0901c942-3037-4ed5-8837-c14a2e74399c .gutenify-icon-wrapper .gutenify-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
+<div class="wp-block-gutenify-icon flex-col-item is-content-justification-center gutenify-section-0901c942-3037-4ed5-8837-c14a2e74399c gutenify-icon-version-2"><a class="gutenify-icon-wrapper"><i class="las la-user-plus"></i></a></div>
 <!-- /wp:gutenify/icon -->
 
 <!-- wp:heading {"textAlign":"center","level":3,"style":{"typography":{"fontSize":"2em","fontStyle":"normal","fontWeight":"700","textTransform":"capitalize","lineHeight":"1"}}} -->
@@ -5143,8 +5143,8 @@
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:group {"style":{"spacing":{"padding":{"top":"40px","right":"40px","bottom":"40px","left":"40px"},"blockGap":"10px"},"border":{"radius":"0px","width":"1px"}},"borderColor":"border"} -->
-<div class="wp-block-group has-border-color has-border-border-color" style="border-radius:0px;border-width:1px;padding-top:40px;padding-right:40px;padding-bottom:40px;padding-left:40px"><!-- wp:gutenify/icon {"blockClientId":"687e5c38-ff47-4039-8c90-49da4e71ed1d","blockAdvanceOptions":{"textColor":"#7d6043"},"iconName":"las la-camera","gutenifyStyles":".gutenify-section-687e5c38-ff47-4039-8c90-49da4e71ed1d .gutenify-icon-wrapper { color: #7d6043; }.gutenify-section-687e5c38-ff47-4039-8c90-49da4e71ed1d .gutenify-icon-wrapper i {\n\t\t\tfont-size: 40px;\n\t\t}.gutenify-section-687e5c38-ff47-4039-8c90-49da4e71ed1d .gutenify-icon-wrapper img {\n\t\t\twidth: 40px;\n\t\t\tmax-width: 40px;\n\t\t}.gutenify-section-687e5c38-ff47-4039-8c90-49da4e71ed1d .gutenify-icon-wrapper .gutenify-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
-<div class="wp-block-gutenify-icon flex-col-item is-content-justification-center gutenify-section-687e5c38-ff47-4039-8c90-49da4e71ed1d gutenify-icon-version-2"><a class="gutenify-icon-wrapper"><i class="las la-camera"></i></a></div>
+<div class="wp-block-group has-border-color has-border-border-color" style="border-width:1px;border-radius:0px;padding-top:40px;padding-right:40px;padding-bottom:40px;padding-left:40px"><!-- wp:gutenify/icon {"blockClientId":"98d09943-29dc-4399-bb17-95df204e00bf","blockAdvanceOptions":{"textColor":"#7d6043"},"iconName":"las la-camera","gutenifyStyles":".gutenify-section-98d09943-29dc-4399-bb17-95df204e00bf .gutenify-icon-wrapper { color: #7d6043; }.gutenify-section-98d09943-29dc-4399-bb17-95df204e00bf .gutenify-icon-wrapper i {\n\t\t\tfont-size: 40px;\n\t\t}.gutenify-section-98d09943-29dc-4399-bb17-95df204e00bf .gutenify-icon-wrapper img {\n\t\t\twidth: 40px;\n\t\t\tmax-width: 40px;\n\t\t}.gutenify-section-98d09943-29dc-4399-bb17-95df204e00bf .gutenify-icon-wrapper .gutenify-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
+<div class="wp-block-gutenify-icon flex-col-item is-content-justification-center gutenify-section-98d09943-29dc-4399-bb17-95df204e00bf gutenify-icon-version-2"><a class="gutenify-icon-wrapper"><i class="las la-camera"></i></a></div>
 <!-- /wp:gutenify/icon -->
 
 <!-- wp:heading {"textAlign":"center","level":3,"style":{"typography":{"fontSize":"2em","fontStyle":"normal","fontWeight":"700","textTransform":"capitalize","lineHeight":"1"}}} -->
@@ -5159,7 +5159,7 @@
 <!-- /wp:columns --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"style":{"spacing":{"padding":{"right":"0px","left":"0px","top":"0px","bottom":"0px"},"blockGap":"0px"}},"backgroundColor":"background-secondary","layout":{"inherit":true}} -->
+<!-- wp:group {"style":{"spacing":{"padding":{"right":"0px","left":"0px","top":"0px","bottom":"0px"},"blockGap":"0px"}},"backgroundColor":"background-secondary","layout":{"inherit":true,"type":"constrained"}} -->
 <div class="wp-block-group has-background-secondary-background-color has-background" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:gutenify/container {"blockClientId":"9db88e65-abd9-4513-894a-e38529539eac","blockAdvanceOptions":{"backgroundColor":"","backgroundGradient":"","padding":{"desktop":{"top":"80px","right":"0px","bottom":"80px","left":"0px"},"mobile":{"top":"40px","right":"40px","bottom":"40px","left":"40px"}}},"align":"wide","gutenifyStyles":".gutenify-section-9db88e65-abd9-4513-894a-e38529539eac { padding-top: 80px;padding-right: 0px;padding-bottom: 80px;padding-left: 0px; }@media only screen and (max-width: 768px) { .gutenify-section-9db88e65-abd9-4513-894a-e38529539eac { padding-top: 40px;padding-right: 40px;padding-bottom: 40px;padding-left: 40px; } }"} -->
 <div class="wp-block-gutenify-container alignwide gutenify-block-container-wrapper gutenify-section-9db88e65-abd9-4513-894a-e38529539eac gutenify-container-version-2"><div class="gutenify-container"><!-- wp:group {"style":{"spacing":{"blockGap":"5px","padding":{"bottom":"50px"}}}} -->
 <div class="wp-block-group" style="padding-bottom:50px"><!-- wp:paragraph {"align":"center","style":{"typography":{"letterSpacing":"4px"}},"textColor":"primary","className":" animated animated-fadeInUp"} -->
@@ -5182,8 +5182,8 @@
 <!-- /wp:group -->
 
 <!-- wp:gutenify/testimonials {"blockClientId":"d5003c82-d377-4add-b1d9-71287860554a","layout":"layout-3","gutenifyStyles":".gutenify-section-d5003c82-d377-4add-b1d9-71287860554a { padding-top: 20px;padding-right: 20px;padding-bottom: 20px;padding-left: 20px; }"} -->
-<div class="wp-block-gutenify-testimonials gutenify-testimonials-block-wrapper gutenify-testimonials-layout-3 gutenify-testimonials-col-2 gutenify-section-d5003c82-d377-4add-b1d9-71287860554a gutenify-testimonials-version-2"><div class="gutenify-testimonials-section"><div class="gutenify-testimonials-block"><!-- wp:gutenify/testimonial {"blockClientId":"0912dde6-ac83-4340-abcb-e348e474d11d","blockAdvanceOptions":{"backgroundColor":"#000"},"layout":"layout-3","className":"flex-col-item has-shadow-dark animated animated-fadeInUp","gutenifyStyles":".gutenify-section-0912dde6-ac83-4340-abcb-e348e474d11d { background: #000; }"} -->
-<div class="wp-block-gutenify-testimonial gutenify-testimonial-item gutenify-testimonial-layout-3 gutenify-section-0912dde6-ac83-4340-abcb-e348e474d11d gutenify-testimonial-version-2 flex-col-item has-shadow-dark animated animated-fadeInUp"><div class="gutenify-testimonial-section"><!-- wp:image {"align":"center","id":3506,"width":75,"height":75,"sizeSlug":"thumbnail","linkDestination":"none","className":"is-style-rounded"} -->
+<div class="wp-block-gutenify-testimonials gutenify-testimonials-block-wrapper gutenify-testimonials-layout-3 gutenify-testimonials-col-2 gutenify-section-d5003c82-d377-4add-b1d9-71287860554a gutenify-testimonials-version-2"><div class="gutenify-testimonials-section"><div class="gutenify-testimonials-block"><!-- wp:gutenify/testimonial {"blockClientId":"17399a36-3095-4d8e-904a-7b6c887a6d4d","blockAdvanceOptions":{"backgroundColor":"#000"},"layout":"layout-3","className":"flex-col-item has-shadow-dark animated animated-fadeInUp","gutenifyStyles":".gutenify-section-17399a36-3095-4d8e-904a-7b6c887a6d4d { background: #000; }"} -->
+<div class="wp-block-gutenify-testimonial gutenify-testimonial-item gutenify-testimonial-layout-3 gutenify-section-17399a36-3095-4d8e-904a-7b6c887a6d4d gutenify-testimonial-version-2 flex-col-item has-shadow-dark animated animated-fadeInUp"><div class="gutenify-testimonial-section"><!-- wp:image {"align":"center","id":3506,"width":75,"height":75,"sizeSlug":"thumbnail","linkDestination":"none","className":"is-style-rounded"} -->
 <figure class="wp-block-image aligncenter size-thumbnail is-resized is-style-rounded"><img src="https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/MaxPixel.net-Technology-Sony-Young-Portrait-Camera-Man-Photo-2942577-150x150.png" alt="" class="wp-image-3506" width="75" height="75"/></figure>
 <!-- /wp:image -->
 
@@ -5199,13 +5199,13 @@
 <h4 class="has-text-align-left gutenify-testimonial-block-degination has-primary-color has-text-color has-extra-small-font-size" style="letter-spacing:3px">Founder/ CEO</h4>
 <!-- /wp:heading -->
 
-<!-- wp:gutenify/star-rating {"blockClientId":"231adc29-0a4b-49d3-9c24-fe65c83f57b0","textAlignment":"left","gutenifyStyles":".gutenify-section-231adc29-0a4b-49d3-9c24-fe65c83f57b0 .gutenify-star-rating-filled, .gutenify-section-231adc29-0a4b-49d3-9c24-fe65c83f57b0 .gutenify-star-rating-half { color: #ff9800; }"} -->
-<div class="wp-block-gutenify-star-rating is-content-justification-left gutenify-section-231adc29-0a4b-49d3-9c24-fe65c83f57b0 gutenify-star-rating-version-2"><div class="gutenify-star-rating-section"><span class="fas fa-star gutenify-star-rating-filled"></span><span class="fas fa-star gutenify-star-rating-filled"></span><span class="fas fa-star gutenify-star-rating-filled"></span><span class="fas fa-star gutenify-star-rating-filled"></span><span class="fas fa-star gutenify-star-rating-filled"></span></div></div>
+<!-- wp:gutenify/star-rating {"blockClientId":"9fc8184e-7b13-4855-b62b-acdcb4661112","textAlignment":"left","gutenifyStyles":".gutenify-section-9fc8184e-7b13-4855-b62b-acdcb4661112 .gutenify-star-rating-filled, .gutenify-section-9fc8184e-7b13-4855-b62b-acdcb4661112 .gutenify-star-rating-half { color: #ff9800; }"} -->
+<div class="wp-block-gutenify-star-rating is-content-justification-left gutenify-section-9fc8184e-7b13-4855-b62b-acdcb4661112 gutenify-star-rating-version-2"><div class="gutenify-star-rating-section"><span class="fas fa-star gutenify-star-rating-filled"></span><span class="fas fa-star gutenify-star-rating-filled"></span><span class="fas fa-star gutenify-star-rating-filled"></span><span class="fas fa-star gutenify-star-rating-filled"></span><span class="fas fa-star gutenify-star-rating-filled"></span></div></div>
 <!-- /wp:gutenify/star-rating --></div></div>
 <!-- /wp:gutenify/testimonial -->
 
-<!-- wp:gutenify/testimonial {"blockClientId":"9ab98f54-86f7-4cd8-8e09-16bc73e3c152","blockAdvanceOptions":{"backgroundColor":"#000"},"layout":"layout-3","className":"flex-col-item has-shadow-dark animated animated-fadeInUp","gutenifyStyles":".gutenify-section-9ab98f54-86f7-4cd8-8e09-16bc73e3c152 { background: #000; }"} -->
-<div class="wp-block-gutenify-testimonial gutenify-testimonial-item gutenify-testimonial-layout-3 gutenify-section-9ab98f54-86f7-4cd8-8e09-16bc73e3c152 gutenify-testimonial-version-2 flex-col-item has-shadow-dark animated animated-fadeInUp"><div class="gutenify-testimonial-section"><!-- wp:image {"align":"center","id":3636,"width":75,"height":75,"sizeSlug":"thumbnail","linkDestination":"none","className":"is-style-rounded"} -->
+<!-- wp:gutenify/testimonial {"blockClientId":"e820b1ec-8932-422d-8e3c-04e467d54fd1","blockAdvanceOptions":{"backgroundColor":"#000"},"layout":"layout-3","className":"flex-col-item has-shadow-dark animated animated-fadeInUp","gutenifyStyles":".gutenify-section-e820b1ec-8932-422d-8e3c-04e467d54fd1 { background: #000; }"} -->
+<div class="wp-block-gutenify-testimonial gutenify-testimonial-item gutenify-testimonial-layout-3 gutenify-section-e820b1ec-8932-422d-8e3c-04e467d54fd1 gutenify-testimonial-version-2 flex-col-item has-shadow-dark animated animated-fadeInUp"><div class="gutenify-testimonial-section"><!-- wp:image {"align":"center","id":3636,"width":75,"height":75,"sizeSlug":"thumbnail","linkDestination":"none","className":"is-style-rounded"} -->
 <figure class="wp-block-image aligncenter size-thumbnail is-resized is-style-rounded"><img src="https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/hand-girl-woman-camera-photography-photographer-1291509-pxhere.com-1-150x150.jpg" alt="" class="wp-image-3636" width="75" height="75"/></figure>
 <!-- /wp:image -->
 
@@ -5221,8 +5221,8 @@
 <h4 class="has-text-align-left gutenify-testimonial-block-degination has-primary-color has-text-color has-extra-small-font-size" style="letter-spacing:3px">Founder/ CEO</h4>
 <!-- /wp:heading -->
 
-<!-- wp:gutenify/star-rating {"blockClientId":"e18e82e4-dac9-47c8-a714-9204f3a2afb8","textAlignment":"left","gutenifyStyles":".gutenify-section-e18e82e4-dac9-47c8-a714-9204f3a2afb8 .gutenify-star-rating-filled, .gutenify-section-e18e82e4-dac9-47c8-a714-9204f3a2afb8 .gutenify-star-rating-half { color: #ff9800; }"} -->
-<div class="wp-block-gutenify-star-rating is-content-justification-left gutenify-section-e18e82e4-dac9-47c8-a714-9204f3a2afb8 gutenify-star-rating-version-2"><div class="gutenify-star-rating-section"><span class="fas fa-star gutenify-star-rating-filled"></span><span class="fas fa-star gutenify-star-rating-filled"></span><span class="fas fa-star gutenify-star-rating-filled"></span><span class="fas fa-star gutenify-star-rating-filled"></span><span class="fas fa-star gutenify-star-rating-filled"></span></div></div>
+<!-- wp:gutenify/star-rating {"blockClientId":"7f6fc5bb-9eb4-474b-bf4b-568f3a47efff","textAlignment":"left","gutenifyStyles":".gutenify-section-7f6fc5bb-9eb4-474b-bf4b-568f3a47efff .gutenify-star-rating-filled, .gutenify-section-7f6fc5bb-9eb4-474b-bf4b-568f3a47efff .gutenify-star-rating-half { color: #ff9800; }"} -->
+<div class="wp-block-gutenify-star-rating is-content-justification-left gutenify-section-7f6fc5bb-9eb4-474b-bf4b-568f3a47efff gutenify-star-rating-version-2"><div class="gutenify-star-rating-section"><span class="fas fa-star gutenify-star-rating-filled"></span><span class="fas fa-star gutenify-star-rating-filled"></span><span class="fas fa-star gutenify-star-rating-filled"></span><span class="fas fa-star gutenify-star-rating-filled"></span><span class="fas fa-star gutenify-star-rating-filled"></span></div></div>
 <!-- /wp:gutenify/star-rating --></div></div>
 <!-- /wp:gutenify/testimonial --></div></div></div>
 <!-- /wp:gutenify/testimonials -->
@@ -5237,7 +5237,7 @@
 <!-- /wp:gutenify/container --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"style":{"spacing":{"padding":{"right":"0px","left":"0px"},"blockGap":"0px"},"color":{"background":"#0d0c0c"}},"layout":{"inherit":true}} -->
+<!-- wp:group {"style":{"spacing":{"padding":{"right":"0px","left":"0px"},"blockGap":"0px"},"color":{"background":"#0d0c0c"}},"layout":{"inherit":true,"type":"constrained"}} -->
 <div class="wp-block-group has-background" style="background-color:#0d0c0c;padding-right:0px;padding-left:0px"><!-- wp:gutenify/container {"blockClientId":"9db88e65-abd9-4513-894a-e38529539eac","blockAdvanceOptions":{"backgroundColor":"","backgroundGradient":"","padding":{"desktop":{"top":"80px","right":"0px","bottom":"80px","left":"0px"},"mobile":{"top":"40px","right":"40px","bottom":"40px","left":"40px"}}},"align":"wide","gutenifyStyles":".gutenify-section-9db88e65-abd9-4513-894a-e38529539eac { padding-top: 80px;padding-right: 0px;padding-bottom: 80px;padding-left: 0px; }@media only screen and (max-width: 768px) { .gutenify-section-9db88e65-abd9-4513-894a-e38529539eac { padding-top: 40px;padding-right: 40px;padding-bottom: 40px;padding-left: 40px; } }"} -->
 <div class="wp-block-gutenify-container alignwide gutenify-block-container-wrapper gutenify-section-9db88e65-abd9-4513-894a-e38529539eac gutenify-container-version-2"><div class="gutenify-container"><!-- wp:group {"style":{"spacing":{"blockGap":"5px","padding":{"bottom":"50px"}}}} -->
 <div class="wp-block-group" style="padding-bottom:50px"><!-- wp:paragraph {"align":"center","style":{"typography":{"letterSpacing":"4px"}},"textColor":"primary","className":" animated animated-fadeInUp"} -->
@@ -5260,8 +5260,8 @@
 <!-- /wp:group -->
 
 <!-- wp:gutenify/team {"blockClientId":"1e47de20-c498-436b-bd6a-44322937f3f0","blockAdvanceOptions":{"padding":{"desktop":{"top":"20px","bottom":"20px","left":"0px","right":"0px"},"mobile":{"right":"0px","left":"0px"}}},"columnSize":3,"align":"wide","className":"wp-block-gutenify-team alignwide animated animated-fadeInUp","gutenifyStyles":".gutenify-section-1e47de20-c498-436b-bd6a-44322937f3f0 { padding-top: 20px;padding-right: 0px;padding-bottom: 20px;padding-left: 0px; }@media only screen and (max-width: 768px) { .gutenify-section-1e47de20-c498-436b-bd6a-44322937f3f0 { padding-right: 0px;padding-left: 0px; } }"} -->
-<div class="gutenify-team-block-wrapper gutenify-team-layout-1 gutenify-team-col-3 gutenify-section-1e47de20-c498-436b-bd6a-44322937f3f0 gutenify-team-version-2"><div class="gutenify-team-section"><!-- wp:gutenify/team-member {"blockClientId":"f127c98b-03fa-425a-b766-c3552e870920","blockAdvanceOptions":{"backgroundColor":"#111"},"className":"has-shadow-dark animated animated-fadeInUp","gutenifyStyles":".gutenify-section-f127c98b-03fa-425a-b766-c3552e870920 { background: #111; }"} -->
-<div class="wp-block-gutenify-team-member gutenify-team-item gutenify-section-f127c98b-03fa-425a-b766-c3552e870920 gutenify-team-member-layout-1 gutenify-team-member-version-2 has-shadow-dark animated animated-fadeInUp"><div class="gutenify-team-member-section"><!-- wp:image {"align":"center","id":3937,"sizeSlug":"full","linkDestination":"none","className":"grayscale  image-zoom-hover "} -->
+<div class="gutenify-team-block-wrapper gutenify-team-layout-1 gutenify-team-col-3 gutenify-section-1e47de20-c498-436b-bd6a-44322937f3f0 gutenify-team-version-2"><div class="gutenify-team-section"><!-- wp:gutenify/team-member {"blockClientId":"8f163035-c132-47a3-af1f-d9104c48e9cb","blockAdvanceOptions":{"backgroundColor":"#111"},"className":"has-shadow-dark animated animated-fadeInUp","gutenifyStyles":".gutenify-section-8f163035-c132-47a3-af1f-d9104c48e9cb { background: #111; }"} -->
+<div class="wp-block-gutenify-team-member gutenify-team-item gutenify-section-8f163035-c132-47a3-af1f-d9104c48e9cb gutenify-team-member-layout-1 gutenify-team-member-version-2 has-shadow-dark animated animated-fadeInUp"><div class="gutenify-team-member-section"><!-- wp:image {"align":"center","id":3937,"sizeSlug":"full","linkDestination":"none","className":"grayscale  image-zoom-hover "} -->
 <figure class="wp-block-image aligncenter size-full grayscale  image-zoom-hover"><img src="https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/team1.jpg" alt="" class="wp-image-3937"/></figure>
 <!-- /wp:image -->
 
@@ -5286,8 +5286,8 @@
 <!-- /wp:social-links --></div></div>
 <!-- /wp:gutenify/team-member -->
 
-<!-- wp:gutenify/team-member {"blockClientId":"1550ba39-60c2-4dcb-b42b-bafe031049e9","blockAdvanceOptions":{"backgroundColor":"#111"},"className":"has-shadow-dark animated animated-fadeInUp","gutenifyStyles":".gutenify-section-1550ba39-60c2-4dcb-b42b-bafe031049e9 { background: #111; }"} -->
-<div class="wp-block-gutenify-team-member gutenify-team-item gutenify-section-1550ba39-60c2-4dcb-b42b-bafe031049e9 gutenify-team-member-layout-1 gutenify-team-member-version-2 has-shadow-dark animated animated-fadeInUp"><div class="gutenify-team-member-section"><!-- wp:image {"align":"center","id":3938,"sizeSlug":"full","linkDestination":"none","className":"grayscale  image-zoom-hover "} -->
+<!-- wp:gutenify/team-member {"blockClientId":"0ad2aba6-a037-4c43-a15c-cf1cf49f93b4","blockAdvanceOptions":{"backgroundColor":"#111"},"className":"has-shadow-dark animated animated-fadeInUp","gutenifyStyles":".gutenify-section-0ad2aba6-a037-4c43-a15c-cf1cf49f93b4 { background: #111; }"} -->
+<div class="wp-block-gutenify-team-member gutenify-team-item gutenify-section-0ad2aba6-a037-4c43-a15c-cf1cf49f93b4 gutenify-team-member-layout-1 gutenify-team-member-version-2 has-shadow-dark animated animated-fadeInUp"><div class="gutenify-team-member-section"><!-- wp:image {"align":"center","id":3938,"sizeSlug":"full","linkDestination":"none","className":"grayscale  image-zoom-hover "} -->
 <figure class="wp-block-image aligncenter size-full grayscale  image-zoom-hover"><img src="https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/team2.jpg" alt="" class="wp-image-3938"/></figure>
 <!-- /wp:image -->
 
@@ -5312,8 +5312,8 @@
 <!-- /wp:social-links --></div></div>
 <!-- /wp:gutenify/team-member -->
 
-<!-- wp:gutenify/team-member {"blockClientId":"b90fbf3c-ae88-4dfe-9909-90e052fb1788","blockAdvanceOptions":{"backgroundColor":"#111","textColor":"#fff"},"className":"has-shadow-dark animated animated-fadeInUp","gutenifyStyles":".gutenify-section-b90fbf3c-ae88-4dfe-9909-90e052fb1788 { color: #fff;background: #111; }"} -->
-<div class="wp-block-gutenify-team-member gutenify-team-item gutenify-section-b90fbf3c-ae88-4dfe-9909-90e052fb1788 gutenify-team-member-layout-1 gutenify-team-member-version-2 has-shadow-dark animated animated-fadeInUp"><div class="gutenify-team-member-section"><!-- wp:image {"align":"center","id":3939,"sizeSlug":"full","linkDestination":"none","className":"grayscale  image-zoom-hover "} -->
+<!-- wp:gutenify/team-member {"blockClientId":"a1358a6e-1f7e-4c49-8bcf-5901a3e63988","blockAdvanceOptions":{"backgroundColor":"#111","textColor":"#fff"},"className":"has-shadow-dark animated animated-fadeInUp","gutenifyStyles":".gutenify-section-a1358a6e-1f7e-4c49-8bcf-5901a3e63988 { color: #fff;background: #111; }"} -->
+<div class="wp-block-gutenify-team-member gutenify-team-item gutenify-section-a1358a6e-1f7e-4c49-8bcf-5901a3e63988 gutenify-team-member-layout-1 gutenify-team-member-version-2 has-shadow-dark animated animated-fadeInUp"><div class="gutenify-team-member-section"><!-- wp:image {"align":"center","id":3939,"sizeSlug":"full","linkDestination":"none","className":"grayscale  image-zoom-hover "} -->
 <figure class="wp-block-image aligncenter size-full grayscale  image-zoom-hover"><img src="https://demo.gutenify.com/snapshot/wp-content/uploads/sites/51/2022/07/team3.jpg" alt="" class="wp-image-3939"/></figure>
 <!-- /wp:image -->
 
@@ -5349,7 +5349,7 @@
 <!-- /wp:gutenify/container --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"style":{"spacing":{"padding":{"right":"0px","left":"0px"},"blockGap":"0px"}},"layout":{"inherit":true}} -->
+<!-- wp:group {"style":{"spacing":{"padding":{"right":"0px","left":"0px"},"blockGap":"0px"}},"layout":{"inherit":true,"type":"constrained"}} -->
 <div class="wp-block-group" style="padding-right:0px;padding-left:0px"><!-- wp:gutenify/container {"blockClientId":"9db88e65-abd9-4513-894a-e38529539eac","blockAdvanceOptions":{"backgroundColor":"","backgroundGradient":"","padding":{"desktop":{"top":"80px","right":"0px","bottom":"80px","left":"0px"},"mobile":{"top":"40px","right":"40px","bottom":"40px","left":"40px"}}},"align":"wide","gutenifyStyles":".gutenify-section-9db88e65-abd9-4513-894a-e38529539eac { padding-top: 80px;padding-right: 0px;padding-bottom: 80px;padding-left: 0px; }@media only screen and (max-width: 768px) { .gutenify-section-9db88e65-abd9-4513-894a-e38529539eac { padding-top: 40px;padding-right: 40px;padding-bottom: 40px;padding-left: 40px; } }"} -->
 <div class="wp-block-gutenify-container alignwide gutenify-block-container-wrapper gutenify-section-9db88e65-abd9-4513-894a-e38529539eac gutenify-container-version-2"><div class="gutenify-container"><!-- wp:group {"style":{"spacing":{"blockGap":"5px","padding":{"bottom":"50px"}}}} -->
 <div class="wp-block-group" style="padding-bottom:50px"><!-- wp:paragraph {"align":"center","style":{"typography":{"letterSpacing":"4px"}},"textColor":"primary","className":" animated animated-fadeInUp"} -->
@@ -5375,7 +5375,7 @@
 <!-- /wp:gutenify/container --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"style":{"spacing":{"padding":{"top":"80px","right":"0px","bottom":"80px","left":"0px"},"blockGap":"0px"}},"backgroundColor":"background-secondary","layout":{"inherit":true}} -->
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"80px","right":"0px","bottom":"80px","left":"0px"},"blockGap":"0px"}},"backgroundColor":"background-secondary","layout":{"inherit":true,"type":"constrained"}} -->
 <div class="wp-block-group has-background-secondary-background-color has-background" style="padding-top:80px;padding-right:0px;padding-bottom:80px;padding-left:0px"><!-- wp:group {"style":{"spacing":{"blockGap":"5px","padding":{"bottom":"50px"}}}} -->
 <div class="wp-block-group" style="padding-bottom:50px"><!-- wp:paragraph {"align":"center","style":{"typography":{"letterSpacing":"4px"}},"textColor":"primary","className":" animated animated-fadeInUp"} -->
 <p class="has-text-align-center animated animated-fadeInUp has-primary-color has-text-color" style="letter-spacing:4px">From Our Blog</p>
@@ -5407,16 +5407,16 @@
 <!-- /wp:group --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"align":"full","layout":{"inherit":true}} -->
+<!-- wp:group {"align":"full","layout":{"inherit":true,"type":"constrained"}} -->
 <div class="wp-block-group alignfull"><!-- wp:gutenify/container {"blockClientId":"60cf2b9d-2424-45ed-a74a-e423caf84052","blockAdvanceOptions":{"backgroundColor":"","backgroundGradient":"","padding":{"desktop":{"top":"80px","right":"0px","bottom":"80px","left":"0px"},"mobile":{"top":"40px","right":"20px","bottom":"40px","left":"20px"}}},"align":"wide","gutenifyStyles":".gutenify-section-60cf2b9d-2424-45ed-a74a-e423caf84052 { padding-top: 80px;padding-right: 0px;padding-bottom: 80px;padding-left: 0px; }@media only screen and (max-width: 768px) { .gutenify-section-60cf2b9d-2424-45ed-a74a-e423caf84052 { padding-top: 40px;padding-right: 20px;padding-bottom: 40px;padding-left: 20px; } }"} -->
 <div class="wp-block-gutenify-container alignwide gutenify-block-container-wrapper gutenify-section-60cf2b9d-2424-45ed-a74a-e423caf84052 gutenify-container-version-2"><div class="gutenify-container"><!-- wp:columns {"verticalAlignment":"center","align":"wide"} -->
 <div class="wp-block-columns alignwide are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","className":"animated fadeInUp"} -->
-<div class="wp-block-column is-vertically-aligned-center animated fadeInUp"><!-- wp:gutenify/section-title {"blockClientId":"150afc40-9739-492a-a373-85be5b873b5b","blockAdvanceOptions":{"prefixTitleClasses":" animated animated-fadeInUp","mainTitleClasses":" animated animated-fadeInUp","suffixTitleClasses":" animated animated-fadeInUp"},"textAlignment":"left","prefixContent":"CONTACT US","titleContent":"Get In Touch","titleFontSize":"clamp(2.5rem, 4vw, 3rem)","suffixContent":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. Vestibulum sodales sapien id dolor aliquam volutpat. Suspendisse fermentum lorem.","gutenifyStyles":".gutenify-section-150afc40-9739-492a-a373-85be5b873b5b .gutenify-section-title-main{\n\t\tfont-size: clamp(2.5rem, 4vw, 3rem);\n\t}"} /-->
+<div class="wp-block-column is-vertically-aligned-center animated fadeInUp"><!-- wp:gutenify/section-title {"blockClientId":"c12e3cb0-102e-4817-bf56-5a69f00e9faa","blockAdvanceOptions":{"prefixTitleClasses":" animated animated-fadeInUp","mainTitleClasses":" animated animated-fadeInUp","suffixTitleClasses":" animated animated-fadeInUp"},"textAlignment":"left","prefixContent":"CONTACT US","titleContent":"Get In Touch","titleFontSize":"clamp(2.5rem, 4vw, 3rem)","suffixContent":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. Vestibulum sodales sapien id dolor aliquam volutpat. Suspendisse fermentum lorem.","gutenifyStyles":".gutenify-section-c12e3cb0-102e-4817-bf56-5a69f00e9faa .gutenify-section-title-main{\n\t\tfont-size: clamp(2.5rem, 4vw, 3rem);\n\t}"} /-->
 
 <!-- wp:gutenify/service {"blockClientId":"a4305800-a651-4864-a09c-2f33590f4b10","layout":"layout-2","hideButtons":true,"className":"alignundefined gutenify-service-block-wrapper","gutenifyStyles":".gutenify-section-a4305800-a651-4864-a09c-2f33590f4b10 { padding-top: 20px;padding-right: 20px;padding-bottom: 20px;padding-left: 20px; }"} -->
 <div class="wp-block-gutenify-service gutenify-service-layout-2 gutenify-service-col-2 gutenify--service--hide-button gutenify-section-a4305800-a651-4864-a09c-2f33590f4b10 gutenify-service-version-2 alignundefined gutenify-service-block-wrapper"><div class="gutenify-service-block"><!-- wp:gutenify/info-box {"className":"flex-col-item animated animated-fadeInUp","blockClientId":"7764d261-88a4-4f29-876b-1d41af436cbe","blockAdvanceOptions":{"padding":{"desktop":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}},"layout":"layout-2","iconAlign":"center","titleAlign":"left","gutenifyStyles":".gutenify-section-7764d261-88a4-4f29-876b-1d41af436cbe { padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px; }"} -->
-<div class="wp-block-gutenify-info-box gutenify-info-box-layout-2 gutenify-section-7764d261-88a4-4f29-876b-1d41af436cbe gutenify-info-box-version-2 flex-col-item animated animated-fadeInUp"><!-- wp:gutenify/icon {"blockClientId":"81aecf4b-6511-4f24-ac40-7bfd81bed355","blockAdvanceOptions":{"textColor":"#7d6043"},"iconName":"fas fa-map-marker-alt","size":"18","gutenifyStyles":".gutenify-section-81aecf4b-6511-4f24-ac40-7bfd81bed355 .gutenify-icon-wrapper { color: #7d6043; }.gutenify-section-81aecf4b-6511-4f24-ac40-7bfd81bed355 .gutenify-icon-wrapper i {\n\t\t\tfont-size: 18px;\n\t\t}.gutenify-section-81aecf4b-6511-4f24-ac40-7bfd81bed355 .gutenify-icon-wrapper img {\n\t\t\twidth: 18px;\n\t\t\tmax-width: 18px;\n\t\t}.gutenify-section-81aecf4b-6511-4f24-ac40-7bfd81bed355 .gutenify-icon-wrapper .gutenify-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
-<div class="wp-block-gutenify-icon flex-col-item is-content-justification-center gutenify-section-81aecf4b-6511-4f24-ac40-7bfd81bed355 gutenify-icon-version-2"><a class="gutenify-icon-wrapper"><i class="fas fa-map-marker-alt"></i></a></div>
+<div class="wp-block-gutenify-info-box gutenify-info-box-layout-2 gutenify-section-7764d261-88a4-4f29-876b-1d41af436cbe gutenify-info-box-version-2 flex-col-item animated animated-fadeInUp"><!-- wp:gutenify/icon {"blockClientId":"673d2987-d24e-4e76-a09e-0f41e52652a5","blockAdvanceOptions":{"textColor":"#7d6043"},"iconName":"fas fa-map-marker-alt","size":"18","gutenifyStyles":".gutenify-section-673d2987-d24e-4e76-a09e-0f41e52652a5 .gutenify-icon-wrapper { color: #7d6043; }.gutenify-section-673d2987-d24e-4e76-a09e-0f41e52652a5 .gutenify-icon-wrapper i {\n\t\t\tfont-size: 18px;\n\t\t}.gutenify-section-673d2987-d24e-4e76-a09e-0f41e52652a5 .gutenify-icon-wrapper img {\n\t\t\twidth: 18px;\n\t\t\tmax-width: 18px;\n\t\t}.gutenify-section-673d2987-d24e-4e76-a09e-0f41e52652a5 .gutenify-icon-wrapper .gutenify-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
+<div class="wp-block-gutenify-icon flex-col-item is-content-justification-center gutenify-section-673d2987-d24e-4e76-a09e-0f41e52652a5 gutenify-icon-version-2"><a class="gutenify-icon-wrapper"><i class="fas fa-map-marker-alt"></i></a></div>
 <!-- /wp:gutenify/icon -->
 
 <!-- wp:heading {"textAlign":"left","level":3,"className":"gutenify-admin-info-box-block-title"} -->
@@ -5437,8 +5437,8 @@
 <!-- /wp:gutenify/info-box -->
 
 <!-- wp:gutenify/info-box {"className":"flex-col-item animated animated-fadeInUp","blockClientId":"6e20f20b-3d06-4604-bcf4-4125470210d0","blockAdvanceOptions":{"padding":{"desktop":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}},"layout":"layout-2","iconAlign":"center","titleAlign":"left","gutenifyStyles":".gutenify-section-6e20f20b-3d06-4604-bcf4-4125470210d0 { padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px; }"} -->
-<div class="wp-block-gutenify-info-box gutenify-info-box-layout-2 gutenify-section-6e20f20b-3d06-4604-bcf4-4125470210d0 gutenify-info-box-version-2 flex-col-item animated animated-fadeInUp"><!-- wp:gutenify/icon {"blockClientId":"4ce1bc47-783a-4133-866e-e0ef7cee04d4","blockAdvanceOptions":{"textColor":"#7d6043"},"iconName":"fas fa-phone","size":"18","gutenifyStyles":".gutenify-section-4ce1bc47-783a-4133-866e-e0ef7cee04d4 .gutenify-icon-wrapper { color: #7d6043; }.gutenify-section-4ce1bc47-783a-4133-866e-e0ef7cee04d4 .gutenify-icon-wrapper i {\n\t\t\tfont-size: 18px;\n\t\t}.gutenify-section-4ce1bc47-783a-4133-866e-e0ef7cee04d4 .gutenify-icon-wrapper img {\n\t\t\twidth: 18px;\n\t\t\tmax-width: 18px;\n\t\t}.gutenify-section-4ce1bc47-783a-4133-866e-e0ef7cee04d4 .gutenify-icon-wrapper .gutenify-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
-<div class="wp-block-gutenify-icon flex-col-item is-content-justification-center gutenify-section-4ce1bc47-783a-4133-866e-e0ef7cee04d4 gutenify-icon-version-2"><a class="gutenify-icon-wrapper"><i class="fas fa-phone"></i></a></div>
+<div class="wp-block-gutenify-info-box gutenify-info-box-layout-2 gutenify-section-6e20f20b-3d06-4604-bcf4-4125470210d0 gutenify-info-box-version-2 flex-col-item animated animated-fadeInUp"><!-- wp:gutenify/icon {"blockClientId":"672eebb3-c4ad-4015-a437-2314b623eb4a","blockAdvanceOptions":{"textColor":"#7d6043"},"iconName":"fas fa-phone","size":"18","gutenifyStyles":".gutenify-section-672eebb3-c4ad-4015-a437-2314b623eb4a .gutenify-icon-wrapper { color: #7d6043; }.gutenify-section-672eebb3-c4ad-4015-a437-2314b623eb4a .gutenify-icon-wrapper i {\n\t\t\tfont-size: 18px;\n\t\t}.gutenify-section-672eebb3-c4ad-4015-a437-2314b623eb4a .gutenify-icon-wrapper img {\n\t\t\twidth: 18px;\n\t\t\tmax-width: 18px;\n\t\t}.gutenify-section-672eebb3-c4ad-4015-a437-2314b623eb4a .gutenify-icon-wrapper .gutenify-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
+<div class="wp-block-gutenify-icon flex-col-item is-content-justification-center gutenify-section-672eebb3-c4ad-4015-a437-2314b623eb4a gutenify-icon-version-2"><a class="gutenify-icon-wrapper"><i class="fas fa-phone"></i></a></div>
 <!-- /wp:gutenify/icon -->
 
 <!-- wp:heading {"textAlign":"left","level":3,"className":"gutenify-admin-info-box-block-title"} -->
@@ -5459,8 +5459,8 @@
 <!-- /wp:gutenify/info-box -->
 
 <!-- wp:gutenify/info-box {"className":"flex-col-item animated animated-fadeInUp","blockClientId":"b291af32-5d9f-4299-a902-fab3c337007c","blockAdvanceOptions":{"padding":{"desktop":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}},"layout":"layout-2","iconAlign":"center","titleAlign":"left","gutenifyStyles":".gutenify-section-b291af32-5d9f-4299-a902-fab3c337007c { padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px; }"} -->
-<div class="wp-block-gutenify-info-box gutenify-info-box-layout-2 gutenify-section-b291af32-5d9f-4299-a902-fab3c337007c gutenify-info-box-version-2 flex-col-item animated animated-fadeInUp"><!-- wp:gutenify/icon {"blockClientId":"db2ba7eb-bf5e-4f69-b145-fe7fe4f107d2","blockAdvanceOptions":{"textColor":"#7d6043"},"iconName":"far fa-comments","size":"18","gutenifyStyles":".gutenify-section-db2ba7eb-bf5e-4f69-b145-fe7fe4f107d2 .gutenify-icon-wrapper { color: #7d6043; }.gutenify-section-db2ba7eb-bf5e-4f69-b145-fe7fe4f107d2 .gutenify-icon-wrapper i {\n\t\t\tfont-size: 18px;\n\t\t}.gutenify-section-db2ba7eb-bf5e-4f69-b145-fe7fe4f107d2 .gutenify-icon-wrapper img {\n\t\t\twidth: 18px;\n\t\t\tmax-width: 18px;\n\t\t}.gutenify-section-db2ba7eb-bf5e-4f69-b145-fe7fe4f107d2 .gutenify-icon-wrapper .gutenify-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
-<div class="wp-block-gutenify-icon flex-col-item is-content-justification-center gutenify-section-db2ba7eb-bf5e-4f69-b145-fe7fe4f107d2 gutenify-icon-version-2"><a class="gutenify-icon-wrapper"><i class="far fa-comments"></i></a></div>
+<div class="wp-block-gutenify-info-box gutenify-info-box-layout-2 gutenify-section-b291af32-5d9f-4299-a902-fab3c337007c gutenify-info-box-version-2 flex-col-item animated animated-fadeInUp"><!-- wp:gutenify/icon {"blockClientId":"a1128d0f-8c2f-4fa8-bb0f-91c5a03bd317","blockAdvanceOptions":{"textColor":"#7d6043"},"iconName":"far fa-comments","size":"18","gutenifyStyles":".gutenify-section-a1128d0f-8c2f-4fa8-bb0f-91c5a03bd317 .gutenify-icon-wrapper { color: #7d6043; }.gutenify-section-a1128d0f-8c2f-4fa8-bb0f-91c5a03bd317 .gutenify-icon-wrapper i {\n\t\t\tfont-size: 18px;\n\t\t}.gutenify-section-a1128d0f-8c2f-4fa8-bb0f-91c5a03bd317 .gutenify-icon-wrapper img {\n\t\t\twidth: 18px;\n\t\t\tmax-width: 18px;\n\t\t}.gutenify-section-a1128d0f-8c2f-4fa8-bb0f-91c5a03bd317 .gutenify-icon-wrapper .gutenify-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
+<div class="wp-block-gutenify-icon flex-col-item is-content-justification-center gutenify-section-a1128d0f-8c2f-4fa8-bb0f-91c5a03bd317 gutenify-icon-version-2"><a class="gutenify-icon-wrapper"><i class="far fa-comments"></i></a></div>
 <!-- /wp:gutenify/icon -->
 
 <!-- wp:heading {"textAlign":"left","level":3,"className":"gutenify-admin-info-box-block-title"} -->
@@ -5481,8 +5481,8 @@
 <!-- /wp:gutenify/info-box -->
 
 <!-- wp:gutenify/info-box {"className":"flex-col-item animated animated-fadeInUp","blockClientId":"16ffcb35-6398-4228-937b-dca000d94659","blockAdvanceOptions":{"padding":{"desktop":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}},"layout":"layout-2","iconAlign":"center","titleAlign":"left","gutenifyStyles":".gutenify-section-16ffcb35-6398-4228-937b-dca000d94659 { padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px; }"} -->
-<div class="wp-block-gutenify-info-box gutenify-info-box-layout-2 gutenify-section-16ffcb35-6398-4228-937b-dca000d94659 gutenify-info-box-version-2 flex-col-item animated animated-fadeInUp"><!-- wp:gutenify/icon {"blockClientId":"09363b1e-caab-4891-9265-8d3d40542f0f","blockAdvanceOptions":{"textColor":"#7d6043"},"iconName":"fas fa-globe","size":"18","gutenifyStyles":".gutenify-section-09363b1e-caab-4891-9265-8d3d40542f0f .gutenify-icon-wrapper { color: #7d6043; }.gutenify-section-09363b1e-caab-4891-9265-8d3d40542f0f .gutenify-icon-wrapper i {\n\t\t\tfont-size: 18px;\n\t\t}.gutenify-section-09363b1e-caab-4891-9265-8d3d40542f0f .gutenify-icon-wrapper img {\n\t\t\twidth: 18px;\n\t\t\tmax-width: 18px;\n\t\t}.gutenify-section-09363b1e-caab-4891-9265-8d3d40542f0f .gutenify-icon-wrapper .gutenify-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
-<div class="wp-block-gutenify-icon flex-col-item is-content-justification-center gutenify-section-09363b1e-caab-4891-9265-8d3d40542f0f gutenify-icon-version-2"><a class="gutenify-icon-wrapper"><i class="fas fa-globe"></i></a></div>
+<div class="wp-block-gutenify-info-box gutenify-info-box-layout-2 gutenify-section-16ffcb35-6398-4228-937b-dca000d94659 gutenify-info-box-version-2 flex-col-item animated animated-fadeInUp"><!-- wp:gutenify/icon {"blockClientId":"4925af45-fa85-4571-965c-25f9cd40ce93","blockAdvanceOptions":{"textColor":"#7d6043"},"iconName":"fas fa-globe","size":"18","gutenifyStyles":".gutenify-section-4925af45-fa85-4571-965c-25f9cd40ce93 .gutenify-icon-wrapper { color: #7d6043; }.gutenify-section-4925af45-fa85-4571-965c-25f9cd40ce93 .gutenify-icon-wrapper i {\n\t\t\tfont-size: 18px;\n\t\t}.gutenify-section-4925af45-fa85-4571-965c-25f9cd40ce93 .gutenify-icon-wrapper img {\n\t\t\twidth: 18px;\n\t\t\tmax-width: 18px;\n\t\t}.gutenify-section-4925af45-fa85-4571-965c-25f9cd40ce93 .gutenify-icon-wrapper .gutenify-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
+<div class="wp-block-gutenify-icon flex-col-item is-content-justification-center gutenify-section-4925af45-fa85-4571-965c-25f9cd40ce93 gutenify-icon-version-2"><a class="gutenify-icon-wrapper"><i class="fas fa-globe"></i></a></div>
 <!-- /wp:gutenify/icon -->
 
 <!-- wp:heading {"textAlign":"left","level":3,"className":"gutenify-admin-info-box-block-title"} -->
@@ -5505,7 +5505,7 @@
 <!-- /wp:column -->
 
 <!-- wp:column {"verticalAlignment":"center","style":{"spacing":{"padding":{"top":"40px","right":"40px","bottom":"40px","left":"40px"}},"color":{"background":"#0d0d0d"}},"className":" animated animated-fadeInUp  dark-field"} -->
-<div class="wp-block-column is-vertically-aligned-center  animated animated-fadeInUp dark-field has-background" style="background-color:#0d0d0d;padding-top:40px;padding-right:40px;padding-bottom:40px;padding-left:40px"><!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}},"className":"has-no-hover-shadow-dark ","layout":{"inherit":true}} -->
+<div class="wp-block-column is-vertically-aligned-center animated animated-fadeInUp dark-field has-background" style="background-color:#0d0d0d;padding-top:40px;padding-right:40px;padding-bottom:40px;padding-left:40px"><!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}},"className":"has-no-hover-shadow-dark ","layout":{"inherit":true,"type":"constrained"}} -->
 <div class="wp-block-group alignwide has-no-hover-shadow-dark" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:contact-form-7/contact-form-selector -->
 <div class="wp-block-contact-form-7-contact-form-selector">[contact-form-7 id="3832" title="Contact form 1"]</div>
 <!-- /wp:contact-form-7/contact-form-selector --></div>
@@ -5519,8 +5519,8 @@
 		<wp:post_id>27</wp:post_id>
 		<wp:post_date><![CDATA[2022-04-27 17:11:35]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-04-27 17:11:35]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-10-19 04:49:23]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-10-19 04:49:23]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-02-19 14:40:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-02-19 14:40:21]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -6316,41 +6316,13 @@
 		<dc:creator><![CDATA[siteadmin]]></dc:creator>
 		<guid isPermaLink="false">https://demo.gutenify.com/gutenify-template-kit/?page_id=32</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"bottom":"80px","top":"40px"}}}} -->
-<div class="wp-block-group alignwide" style="padding-top:40px;padding-bottom:80px"><!-- wp:query {"queryId":1,"query":{"perPage":"6","pages":"","offset":"","postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":false},"tagName":"main","displayLayout":{"type":"flex","columns":3},"align":"wide","layout":{"inherit":false}} -->
-<main class="wp-block-query alignwide"><!-- wp:post-template {"align":"wide"} -->
-<!-- wp:group {"style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}},"className":"has-shadow-dark  animated animated-fadeInUp","layout":{"inherit":true}} -->
-<div class="wp-block-group has-shadow-dark animated animated-fadeInUp" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:post-featured-image {"isLink":true,"align":"wide","className":"no-padding"} /-->
-
-<!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"40px","right":"40px","bottom":"40px","left":"40px"},"margin":{"top":"0px"},"blockGap":"10px"},"color":{"background":"#111111"}}} -->
-<div class="wp-block-group alignwide has-background" style="background-color:#111111;margin-top:0px;padding-top:40px;padding-right:40px;padding-bottom:40px;padding-left:40px"><!-- wp:post-title {"level":3,"isLink":true,"align":"wide","style":{"typography":{"fontStyle":"normal","fontWeight":"400"}},"fontSize":"content-heading"} /-->
-
-<!-- wp:post-date {"format":"F j, Y","isLink":true,"style":{"typography":{"fontStyle":"normal","fontWeight":"300"}},"fontSize":"small"} /-->
-
-<!-- wp:post-excerpt {"moreText":"Know More\u003ca role=\u0022textbox\u0022 aria-label=\u0022\u0026quot;Read more\u0026quot; link text\u0022 class=\u0022block-editor-rich-text__editable wp-block-post-excerpt__more-link rich-text\u0022 style=\u0022font-size: revert;font-family: var(\u002d\u002dwp\u002d\u002dpreset\u002d\u002dfont-family\u002d\u002dpoppins);min-width: 1px\u0022\u003e\u003c/a\u003e"} /--></div>
-<!-- /wp:group --></div>
-<!-- /wp:group -->
-<!-- /wp:post-template -->
-
-<!-- wp:spacer {"height":"20px"} -->
-<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:query-pagination {"paginationArrow":"arrow","align":"center","className":"has-shadow-dark  animated animated-fadeInUp","layout":{"type":"flex","justifyContent":"space-between"}} -->
-<!-- wp:query-pagination-previous {"fontSize":"small"} /-->
-
-<!-- wp:query-pagination-numbers /-->
-
-<!-- wp:query-pagination-next {"fontSize":"small"} /-->
-<!-- /wp:query-pagination --></main>
-<!-- /wp:query --></div>
-<!-- /wp:group -->]]></content:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>32</wp:post_id>
 		<wp:post_date><![CDATA[2022-04-27 17:12:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-04-27 17:12:23]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-04-27 17:12:23]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-04-27 17:12:23]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-02-19 14:41:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-02-19 14:41:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog]]></wp:post_name>
@@ -6363,6 +6335,10 @@
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[amazonS3_cache]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:54:{s:157:"//demo.gutenify.com/gutenify-template-kit/wp-content/uploads/sites/26/2022/04/Astra-–-Fast-Lightweight-Customizable-Free-WordPress-Theme-Download-Now-2.png";a:2:{s:2:"id";i:11;s:11:"source_type";s:13:"media-library";}s:161:"//demo-gutenify-com.s3.amazonaws.com/wp-content/uploads/sites/26/2022/04/27080015/Astra-–-Fast-Lightweight-Customizable-Free-WordPress-Theme-Download-Now-2.png";a:2:{s:2:"id";i:11;s:11:"source_type";s:13:"media-library";}s:99:"//demo.gutenify.com/gutenify-template-kit/wp-content/uploads/sites/26/2022/04/shot-slider-1-min.png";a:2:{s:2:"id";i:172;s:11:"source_type";s:13:"media-library";}s:103:"//demo-gutenify-com.s3.amazonaws.com/wp-content/uploads/sites/26/2022/04/29160525/shot-slider-1-min.png";a:2:{s:2:"id";i:172;s:11:"source_type";s:13:"media-library";}s:88:"//demo.gutenify.com/gutenify-template-kit/wp-content/uploads/sites/26/2022/04/banner.png";a:2:{s:2:"id";i:85;s:11:"source_type";s:13:"media-library";}s:92:"//demo-gutenify-com.s3.amazonaws.com/wp-content/uploads/sites/26/2022/04/29120338/banner.png";a:2:{s:2:"id";i:85;s:11:"source_type";s:13:"media-library";}s:88:"//demo.gutenify.com/gutenify-template-kit/wp-content/uploads/sites/26/2022/04/icon-1.png";a:2:{s:2:"id";i:69;s:11:"source_type";s:13:"media-library";}s:92:"//demo-gutenify-com.s3.amazonaws.com/wp-content/uploads/sites/26/2022/04/28055637/icon-1.png";a:2:{s:2:"id";i:69;s:11:"source_type";s:13:"media-library";}s:88:"//demo.gutenify.com/gutenify-template-kit/wp-content/uploads/sites/26/2022/04/icon-2.png";a:2:{s:2:"id";i:77;s:11:"source_type";s:13:"media-library";}s:92:"//demo-gutenify-com.s3.amazonaws.com/wp-content/uploads/sites/26/2022/04/28134415/icon-2.png";a:2:{s:2:"id";i:77;s:11:"source_type";s:13:"media-library";}s:88:"//demo.gutenify.com/gutenify-template-kit/wp-content/uploads/sites/26/2022/04/icon-3.png";a:2:{s:2:"id";i:75;s:11:"source_type";s:13:"media-library";}s:92:"//demo-gutenify-com.s3.amazonaws.com/wp-content/uploads/sites/26/2022/04/28134240/icon-3.png";a:2:{s:2:"id";i:75;s:11:"source_type";s:13:"media-library";}s:88:"//demo.gutenify.com/gutenify-template-kit/wp-content/uploads/sites/26/2022/04/icon-4.png";a:2:{s:2:"id";i:76;s:11:"source_type";s:13:"media-library";}s:92:"//demo-gutenify-com.s3.amazonaws.com/wp-content/uploads/sites/26/2022/04/28134406/icon-4.png";a:2:{s:2:"id";i:76;s:11:"source_type";s:13:"media-library";}s:90:"//demo.gutenify.com/gutenify-template-kit/wp-content/uploads/sites/26/2022/04/banner-1.png";a:2:{s:2:"id";i:206;s:11:"source_type";s:13:"media-library";}s:94:"//demo-gutenify-com.s3.amazonaws.com/wp-content/uploads/sites/26/2022/04/30064720/banner-1.png";a:2:{s:2:"id";i:206;s:11:"source_type";s:13:"media-library";}s:127:"//demo.gutenify.com/automobile/wp-content/uploads/sites/28/2022/05/car-mechanics-working-and-maintaining-car-X26M5C3-min-1.jpeg";a:2:{s:2:"id";i:623;s:11:"source_type";s:13:"media-library";}s:142:"//demo-gutenify-com.s3.amazonaws.com/wp-content/uploads/sites/28/2022/05/05071157/car-mechanics-working-and-maintaining-car-X26M5C3-min-1.jpeg";a:2:{s:2:"id";i:623;s:11:"source_type";s:13:"media-library";}s:126:"//demo.gutenify.com/financeco/wp-content/uploads/sites/29/2022/05/car-mechanics-working-and-maintaining-car-X26M5C3-min-1.jpeg";a:2:{s:2:"id";i:623;s:11:"source_type";s:13:"media-library";}s:142:"//demo-gutenify-com.s3.amazonaws.com/wp-content/uploads/sites/29/2022/05/05071157/car-mechanics-working-and-maintaining-car-X26M5C3-min-1.jpeg";a:2:{s:2:"id";i:623;s:11:"source_type";s:13:"media-library";}s:129:"//demo.gutenify.com/financeco/wp-content/uploads/sites/29/2022/05/successful-company-with-happy-workers-business-tea-4U7682X.jpeg";a:2:{s:2:"id";i:728;s:11:"source_type";s:13:"media-library";}s:145:"//demo-gutenify-com.s3.amazonaws.com/wp-content/uploads/sites/29/2022/05/05161958/successful-company-with-happy-workers-business-tea-4U7682X.jpeg";a:2:{s:2:"id";i:728;s:11:"source_type";s:13:"media-library";}s:134:"//demo.gutenify.com/creative-shade/wp-content/uploads/sites/33/2022/05/successful-company-with-happy-workers-business-tea-4U7682X.jpeg";a:2:{s:2:"id";i:728;s:11:"source_type";s:13:"media-library";}s:145:"//demo-gutenify-com.s3.amazonaws.com/wp-content/uploads/sites/33/2022/05/10055125/successful-company-with-happy-workers-business-tea-4U7682X.jpeg";a:2:{s:2:"id";i:728;s:11:"source_type";s:13:"media-library";}s:131:"//demo.gutenify.com/creative-shade/wp-content/uploads/sites/33/2022/05/car-mechanics-working-and-maintaining-car-X26M5C3-min-1.jpeg";a:1:{s:9:"timestamp";i:1652796903;}s:151:"//demo.gutenify.com/gutenify-business-dark/wp-content/uploads/sites/46/2022/06/MaxPixel.net-Business-Economy-Workplace-Businesswoman-Team-4124197-1.jpg";a:2:{s:2:"id";i:2543;s:11:"source_type";s:13:"media-library";}s:154:"//demo-gutenify-com.s3.amazonaws.com/wp-content/uploads/sites/46/2022/06/28062203/MaxPixel.net-Business-Economy-Workplace-Businesswoman-Team-4124197-1.jpg";a:2:{s:2:"id";i:2543;s:11:"source_type";s:13:"media-library";}s:146:"//demo.gutenify.com/gutenify-photography/wp-content/uploads/sites/50/2022/07/MaxPixel.net-Model-Man-Stylish-Man-Style-Fashion-Portrait-1866574.jpg";a:2:{s:2:"id";i:3371;s:11:"source_type";s:13:"media-library";}s:151:"//demo-gutenify-com.s3.amazonaws.com/wp-content/uploads/sites/50/2022/07/13113716/MaxPixel.net-Model-Man-Stylish-Man-Style-Fashion-Portrait-1866574.jpg";a:2:{s:2:"id";i:3371;s:11:"source_type";s:13:"media-library";}s:96:"//demo.gutenify.com/gutenify-photography/wp-content/uploads/sites/50/2022/07/star-bg-color-1.png";a:2:{s:2:"id";i:3746;s:11:"source_type";s:13:"media-library";}s:101:"//demo-gutenify-com.s3.amazonaws.com/wp-content/uploads/sites/50/2022/07/18062513/star-bg-color-1.png";a:2:{s:2:"id";i:3746;s:11:"source_type";s:13:"media-library";}s:94:"//demo.gutenify.com/gutenify-photography/wp-content/uploads/sites/50/2022/07/star-bg-color.png";a:2:{s:2:"id";i:3744;s:11:"source_type";s:13:"media-library";}s:99:"//demo-gutenify-com.s3.amazonaws.com/wp-content/uploads/sites/50/2022/07/18062347/star-bg-color.png";a:2:{s:2:"id";i:3744;s:11:"source_type";s:13:"media-library";}s:149:"//demo.gutenify.com/gutenify-photography/wp-content/uploads/sites/50/2022/07/hand-girl-woman-camera-photography-photographer-1291509-pxhere.com-1.jpg";a:2:{s:2:"id";i:3636;s:11:"source_type";s:13:"media-library";}s:154:"//demo-gutenify-com.s3.amazonaws.com/wp-content/uploads/sites/50/2022/07/15050305/hand-girl-woman-camera-photography-photographer-1291509-pxhere.com-1.jpg";a:2:{s:2:"id";i:3636;s:11:"source_type";s:13:"media-library";}s:92:"//demo.gutenify.com/gutenify-photography/wp-content/uploads/sites/50/2022/07/signature-1.png";a:2:{s:2:"id";i:3587;s:11:"source_type";s:13:"media-library";}s:97:"//demo-gutenify-com.s3.amazonaws.com/wp-content/uploads/sites/50/2022/07/14101429/signature-1.png";a:2:{s:2:"id";i:3587;s:11:"source_type";s:13:"media-library";}s:88:"//demo.gutenify.com/gutenify-photography/wp-content/uploads/sites/50/2022/07/star-bg.png";a:2:{s:2:"id";i:3741;s:11:"source_type";s:13:"media-library";}s:93:"//demo-gutenify-com.s3.amazonaws.com/wp-content/uploads/sites/50/2022/07/18061824/star-bg.png";a:2:{s:2:"id";i:3741;s:11:"source_type";s:13:"media-library";}s:89:"//demo.gutenify.com/gutenify-photography/wp-content/uploads/sites/50/2022/07/galler-1.jpg";a:1:{s:9:"timestamp";i:1658214190;}s:90:"//demo.gutenify.com/gutenify-photography/wp-content/uploads/sites/50/2022/07/gallery-4.jpg";a:1:{s:9:"timestamp";i:1658214190;}s:89:"//demo.gutenify.com/gutenify-photography/wp-content/uploads/sites/50/2022/07/galler-2.jpg";a:1:{s:9:"timestamp";i:1658214190;}s:89:"//demo.gutenify.com/gutenify-photography/wp-content/uploads/sites/50/2022/07/galler-3.jpg";a:1:{s:9:"timestamp";i:1658214190;}s:90:"//demo.gutenify.com/gutenify-photography/wp-content/uploads/sites/50/2022/07/gallery-5.jpg";a:1:{s:9:"timestamp";i:1658214190;}s:89:"//demo.gutenify.com/gutenify-photography/wp-content/uploads/sites/50/2022/07/galler-6.jpg";a:1:{s:9:"timestamp";i:1658214190;}s:89:"//demo.gutenify.com/gutenify-photography/wp-content/uploads/sites/50/2022/07/galler-7.jpg";a:1:{s:9:"timestamp";i:1658214190;}s:89:"//demo.gutenify.com/gutenify-photography/wp-content/uploads/sites/50/2022/07/galler-8.jpg";a:1:{s:9:"timestamp";i:1658214190;}s:89:"//demo.gutenify.com/gutenify-photography/wp-content/uploads/sites/50/2022/07/galler-9.jpg";a:1:{s:9:"timestamp";i:1658214190;}s:90:"//demo.gutenify.com/gutenify-photography/wp-content/uploads/sites/50/2022/07/galler-10.jpg";a:1:{s:9:"timestamp";i:1658214190;}s:90:"//demo.gutenify.com/gutenify-photography/wp-content/uploads/sites/50/2022/07/galler-11.jpg";a:1:{s:9:"timestamp";i:1658214190;}s:90:"//demo.gutenify.com/gutenify-photography/wp-content/uploads/sites/50/2022/07/galler-12.jpg";a:1:{s:9:"timestamp";i:1658214190;}s:149:"//demo.gutenify.com/gutenify-photography/wp-content/uploads/sites/50/2022/07/MaxPixel.net-Technology-Sony-Young-Portrait-Camera-Man-Photo-2942577.jpg";a:1:{s:9:"timestamp";i:1658214190;}s:93:"//demo.gutenify.com/gutenify-photography/wp-content/uploads/sites/50/2022/07/cover-banner.jpg";a:2:{s:2:"id";i:3755;s:11:"source_type";s:13:"media-library";}s:98:"//demo-gutenify-com.s3.amazonaws.com/wp-content/uploads/sites/50/2022/07/18064436/cover-banner.jpg";a:2:{s:2:"id";i:3755;s:11:"source_type";s:13:"media-library";}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[blog-listing]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -12799,129 +12775,6 @@ https://vimeo.com/243191812
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Contact form 1]]></title>
-		<link>https://demo.gutenify.com/snapshot/?post_type=wpcf7_contact_form&#038;p=3832</link>
-		<pubDate>Tue, 19 Jul 2022 07:15:26 +0000</pubDate>
-		<dc:creator><![CDATA[siteadmin]]></dc:creator>
-		<guid isPermaLink="false">https://demo.gutenify.com/snapshot/?post_type=wpcf7_contact_form&#038;p=3832</guid>
-		<description></description>
-		<content:encoded><![CDATA[<label> Your name
-    [text* your-name] </label>
-
-<label> Your email
-    [email* your-email] </label>
-
-<label> Subject
-    [text* your-subject] </label>
-
-<label> Your message (optional)
-    [textarea your-message] </label>
-
-[submit "Submit"]
-[_site_title] "[your-subject]"
-[_site_title] <wordpress@demo.gutenify.com>
-From: [your-name] <[your-email]>
-Subject: [your-subject]
-
-Message Body:
-[your-message]
-
--- 
-This e-mail was sent from a contact form on [_site_title] ([_site_url])
-[_site_admin_email]
-Reply-To: [your-email]
-
-0
-0
-
-[_site_title] "[your-subject]"
-[_site_title] <wordpress@demo.gutenify.com>
-Message Body:
-[your-message]
-
--- 
-This e-mail was sent from a contact form on [_site_title] ([_site_url])
-[your-email]
-Reply-To: [_site_admin_email]
-
-0
-0
-Thank you for your message. It has been sent.
-There was an error trying to send your message. Please try again later.
-One or more fields have an error. Please check and try again.
-There was an error trying to send your message. Please try again later.
-You must accept the terms and conditions before sending your message.
-Please fill out this field.
-This field has a too long input.
-This field has a too short input.
-There was an unknown error uploading the file.
-You are not allowed to upload files of this type.
-The uploaded file is too large.
-There was an error uploading the file.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>3832</wp:post_id>
-		<wp:post_date><![CDATA[2022-07-19 07:15:26]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-07-19 07:15:26]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-07-19 07:15:26]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-07-19 07:15:26]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[contact-form-1]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wpcf7_contact_form]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_form]]></wp:meta_key>
-		<wp:meta_value><![CDATA[<label> Your name
-    [text* your-name] </label>
-
-<label> Your email
-    [email* your-email] </label>
-
-<label> Subject
-    [text* your-subject] </label>
-
-<label> Your message (optional)
-    [textarea your-message] </label>
-
-[submit "Submit"]]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:8:{s:7:"subject";s:30:"[_site_title] "[your-subject]"";s:6:"sender";s:43:"[_site_title] <wordpress@demo.gutenify.com>";s:4:"body";s:163:"From: [your-name] <[your-email]>
-Subject: [your-subject]
-
-Message Body:
-[your-message]
-
--- 
-This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:9:"recipient";s:19:"[_site_admin_email]";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:30:"[_site_title] "[your-subject]"";s:6:"sender";s:43:"[_site_title] <wordpress@demo.gutenify.com>";s:4:"body";s:105:"Message Body:
-[your-message]
-
--- 
-This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:29:"Reply-To: [_site_admin_email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:12:{s:12:"mail_sent_ok";s:45:"Thank you for your message. It has been sent.";s:12:"mail_sent_ng";s:71:"There was an error trying to send your message. Please try again later.";s:16:"validation_error";s:61:"One or more fields have an error. Please check and try again.";s:4:"spam";s:71:"There was an error trying to send your message. Please try again later.";s:12:"accept_terms";s:69:"You must accept the terms and conditions before sending your message.";s:16:"invalid_required";s:27:"Please fill out this field.";s:16:"invalid_too_long";s:32:"This field has a too long input.";s:17:"invalid_too_short";s:33:"This field has a too short input.";s:13:"upload_failed";s:46:"There was an unknown error uploading the file.";s:24:"upload_file_type_invalid";s:49:"You are not allowed to upload files of this type.";s:21:"upload_file_too_large";s:31:"The uploaded file is too large.";s:23:"upload_failed_php_error";s:38:"There was an error uploading the file.";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_additional_settings]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_locale]]></wp:meta_key>
-		<wp:meta_value><![CDATA[en_US]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[Header Four]]></title>
 		<link>https://demo.gutenify.com/snapshot/2022/07/22/header-four/</link>
 		<pubDate>Fri, 22 Jul 2022 08:02:15 +0000</pubDate>
@@ -13605,18 +13458,18 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:9:"re
 
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"},"blockGap":"0px"}},"backgroundColor":"background"} -->
 <div class="wp-block-group has-background-background-color has-background" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:cover {"url":"https://demo.gutenify.com/snapshot/wp-content/themes/gutenify-photography/images/cover-banner.jpg","id":3755,"dimRatio":30,"focalPoint":{"x":"0.45","y":"0.15"},"minHeight":300,"customGradient":"linear-gradient(90deg,rgb(0,0,0) 52%,rgba(150,149,240,0) 96%)"} -->
-<div class="wp-block-cover" style="min-height:300px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-30 has-background-dim wp-block-cover__gradient-background has-background-gradient" style="background:linear-gradient(90deg,rgb(0,0,0) 52%,rgba(150,149,240,0) 96%)"></span><img class="wp-block-cover__image-background wp-image-3755" alt="" src="https://demo.gutenify.com/snapshot/wp-content/themes/gutenify-photography/images/cover-banner.jpg" style="object-position:45% 15%" data-object-fit="cover" data-object-position="45% 15%"/><div class="wp-block-cover__inner-container"><!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"0px"}},"layout":{"inherit":true}} -->
+<div class="wp-block-cover" style="min-height:300px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-30 has-background-dim wp-block-cover__gradient-background has-background-gradient" style="background:linear-gradient(90deg,rgb(0,0,0) 52%,rgba(150,149,240,0) 96%)"></span><img class="wp-block-cover__image-background wp-image-3755" alt="" src="https://demo.gutenify.com/snapshot/wp-content/themes/gutenify-photography/images/cover-banner.jpg" style="object-position:45% 15%" data-object-fit="cover" data-object-position="45% 15%"/><div class="wp-block-cover__inner-container"><!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"0px"}},"layout":{"inherit":true,"type":"constrained"}} -->
 <div class="wp-block-group alignwide"><!-- wp:post-title {"textAlign":"left","level":1,"align":"wide","textColor":"foreground","fontSize":"extra-large"} /--></div>
 <!-- /wp:group --></div></div>
 <!-- /wp:cover -->
 
-<!-- wp:group {"style":{"spacing":{"padding":{"top":"80px","right":"20px","bottom":"80px","left":"20px"},"blockGap":"0px"}},"layout":{"inherit":true}} -->
-<div class="wp-block-group" style="padding-top:80px;padding-right:20px;padding-bottom:80px;padding-left:20px"><!-- wp:query {"queryId":1,"query":{"perPage":"8","pages":"","offset":"","postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":false},"tagName":"main","displayLayout":{"type":"flex","columns":3},"align":"wide","layout":{"inherit":false}} -->
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"80px","right":"20px","bottom":"80px","left":"20px"},"blockGap":"0px"}},"layout":{"inherit":true,"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-top:80px;padding-right:20px;padding-bottom:80px;padding-left:20px"><!-- wp:query {"queryId":1,"query":{"perPage":"8","pages":"","offset":"","postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":true},"tagName":"main","displayLayout":{"type":"flex","columns":3},"align":"wide","layout":{"type":"constrained"}} -->
 <main class="wp-block-query alignwide"><!-- wp:post-template {"align":"wide"} -->
-<!-- wp:group {"style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}},"backgroundColor":"background-secondary","className":"has-shadow-dark animated animated-fadeInUp","layout":{"inherit":true}} -->
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}},"backgroundColor":"background-secondary","className":"has-shadow-dark animated animated-fadeInUp","layout":{"inherit":true,"type":"constrained"}} -->
 <div class="wp-block-group has-shadow-dark animated animated-fadeInUp has-background-secondary-background-color has-background" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:post-featured-image {"isLink":true,"align":"wide","className":"no-padding"} /-->
 
-<!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"40px","right":"40px","bottom":"40px","left":"40px"},"margin":{"top":"0px"}}},"backgroundColor":"dark-gray"} -->
+<!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"40px","right":"40px","bottom":"40px","left":"40px"},"margin":{"top":"0px"},"blockGap":"var:preset|spacing|20"}},"backgroundColor":"dark-gray"} -->
 <div class="wp-block-group alignwide has-dark-gray-background-color has-background" style="margin-top:0px;padding-top:40px;padding-right:40px;padding-bottom:40px;padding-left:40px"><!-- wp:post-title {"level":3,"isLink":true,"align":"wide","style":{"typography":{"fontStyle":"normal","fontWeight":"600","lineHeight":"1.4","fontSize":"1.3rem"}}} /-->
 
 <!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap"}} -->
@@ -13650,8 +13503,8 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:9:"re
 		<wp:post_id>4257</wp:post_id>
 		<wp:post_date><![CDATA[2022-10-19 04:49:21]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-10-19 04:49:21]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-10-19 04:49:21]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-10-19 04:49:21]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-02-19 14:41:11]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-02-19 14:41:11]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[archive]]></wp:post_name>
@@ -14051,18 +13904,18 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:9:"re
 		<content:encoded><![CDATA[<!-- wp:template-part {"slug":"header","theme":"gutenify-photography","tagName":"header"} /-->
 
 <!-- wp:group -->
-<div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"padding":{"top":"80px","bottom":"80px"}}},"layout":{"inherit":true}} -->
-<div class="wp-block-group" style="padding-top:80px;padding-bottom:80px"><!-- wp:group {"style":{"spacing":{"padding":{"bottom":"50px"}}},"layout":{"inherit":true}} -->
-<div class="wp-block-group" style="padding-bottom:50px"><!-- wp:search {"label":"Search","showLabel":false,"width":100,"widthUnit":"%","buttonText":"Search","buttonPosition":"button-inside","align":"center","backgroundColor":"primary","textColor":"foreground"} /--></div>
+<div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"padding":{"top":"80px","bottom":"80px"}}},"layout":{"inherit":true,"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-top:80px;padding-bottom:80px"><!-- wp:group {"style":{"spacing":{"padding":{"bottom":"50px"}}},"layout":{"inherit":true,"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-bottom:50px"><!-- wp:search {"label":"Search","showLabel":false,"width":100,"widthUnit":"%","buttonText":"Search","align":"center","style":{"border":{"radius":"0px"}},"backgroundColor":"primary","textColor":"foreground"} /--></div>
 <!-- /wp:group -->
 
 <!-- wp:query {"queryId":1,"query":{"perPage":"8","pages":"","offset":"","postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":false},"tagName":"main","displayLayout":{"type":"flex","columns":4},"align":"wide","layout":{"inherit":false}} -->
 <main class="wp-block-query alignwide"><!-- wp:post-template {"align":"wide"} -->
-<!-- wp:group {"style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}},"className":"has-shadow-dark animated animated-fadeInUp","layout":{"inherit":true}} -->
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}},"className":"has-shadow-dark animated animated-fadeInUp","layout":{"inherit":true,"type":"constrained"}} -->
 <div class="wp-block-group has-shadow-dark animated animated-fadeInUp" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:post-featured-image {"isLink":true,"align":"wide","className":"no-padding"} /-->
 
-<!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"40px","right":"40px","bottom":"40px","left":"40px"},"margin":{"top":"0px"}}},"backgroundColor":"dark-gray"} -->
-<div class="wp-block-group alignwide has-dark-gray-background-color has-background" style="margin-top:0px;padding-top:40px;padding-right:40px;padding-bottom:40px;padding-left:40px"><!-- wp:post-title {"level":3,"isLink":true,"align":"wide","style":{"typography":{"fontStyle":"normal","fontWeight":"600","lineHeight":"1.4","fontSize":"1.3rem"}}} /-->
+<!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"40px","right":"40px","bottom":"40px","left":"40px"},"margin":{"top":"0px"},"blockGap":"var:preset|spacing|20"}},"backgroundColor":"background-secondary"} -->
+<div class="wp-block-group alignwide has-background-secondary-background-color has-background" style="margin-top:0px;padding-top:40px;padding-right:40px;padding-bottom:40px;padding-left:40px"><!-- wp:post-title {"level":3,"isLink":true,"align":"wide","style":{"typography":{"fontStyle":"normal","fontWeight":"600","lineHeight":"1.4","fontSize":"1.3rem"}}} /-->
 
 <!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap"}} -->
 <div class="wp-block-group"><!-- wp:post-date {"format":"M j, Y","isLink":true,"fontSize":"small"} /--></div>
@@ -14093,8 +13946,8 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:9:"re
 		<wp:post_id>4268</wp:post_id>
 		<wp:post_date><![CDATA[2022-10-19 04:51:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-10-19 04:51:36]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-10-19 04:51:36]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-10-19 04:51:36]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-02-19 14:40:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-02-19 14:40:18]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[search]]></wp:post_name>
@@ -14108,6 +13961,206 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:9:"re
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
 		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Blog Listing]]></title>
+		<link>https://demo.gutenify.com/snapshot/2023/02/19/blog-listing/</link>
+		<pubDate>Sun, 19 Feb 2023 14:41:36 +0000</pubDate>
+		<dc:creator><![CDATA[siteadmin]]></dc:creator>
+		<guid isPermaLink="false">https://demo.gutenify.com/snapshot/2023/02/19/blog-listing/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:template-part {"slug":"header","theme":"gutenify-photography","tagName":"header"} /-->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"0px"}}} -->
+<div class="wp-block-group"><!-- wp:pattern {"slug":"gutenify-photography/cover-with-post-title"} /-->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"80px","right":"20px","bottom":"80px","left":"20px"},"blockGap":"0px"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-top:80px;padding-right:20px;padding-bottom:80px;padding-left:20px"><!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|70","left":"var:preset|spacing|70"}}}} -->
+<div class="wp-block-columns alignwide"><!-- wp:column {"width":"33.33%"} -->
+<div class="wp-block-column" style="flex-basis:33.33%"><!-- wp:template-part {"slug":"sidebar","theme":"gutenify-photography"} /--></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"66.66%"} -->
+<div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:query {"queryId":1,"query":{"perPage":"8","pages":"","offset":"","postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":false},"tagName":"main","displayLayout":{"type":"list","columns":3},"align":"wide","layout":{"type":"default"}} -->
+<main class="wp-block-query alignwide"><!-- wp:post-template {"align":"wide"} -->
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}},"className":"has-shadow-dark animated animated-fadeInUp","layout":{"inherit":true,"type":"constrained"}} -->
+<div class="wp-block-group has-shadow-dark animated animated-fadeInUp" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:post-featured-image {"isLink":true,"align":"wide","className":"no-padding"} /-->
+
+<!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"40px","right":"40px","bottom":"40px","left":"40px"},"margin":{"top":"0px"},"blockGap":"15px"}},"backgroundColor":"background-secondary"} -->
+<div class="wp-block-group alignwide has-background-secondary-background-color has-background" style="margin-top:0px;padding-top:40px;padding-right:40px;padding-bottom:40px;padding-left:40px"><!-- wp:post-title {"level":3,"isLink":true,"align":"wide","style":{"typography":{"fontStyle":"normal","fontWeight":"600","lineHeight":"1.4"}},"fontSize":"medium"} /-->
+
+<!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group"><!-- wp:post-author {"avatarSize":24,"showBio":false,"textColor":"primary","fontSize":"small"} /-->
+
+<!-- wp:post-date {"format":"M j, Y","isLink":true,"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary","fontSize":"small"} /--></div>
+<!-- /wp:group -->
+
+<!-- wp:post-excerpt {"moreText":"Know More","style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}}} /--></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"20px"} -->
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+<!-- /wp:post-template -->
+
+<!-- wp:query-pagination {"paginationArrow":"arrow","align":"center","layout":{"type":"flex","justifyContent":"space-between"}} -->
+<!-- wp:query-pagination-previous {"fontSize":"small"} /-->
+
+<!-- wp:query-pagination-numbers /-->
+
+<!-- wp:query-pagination-next {"fontSize":"small"} /-->
+<!-- /wp:query-pagination --></main>
+<!-- /wp:query --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:template-part {"slug":"footer","theme":"gutenify-photography","tagName":"footer"} /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>4273</wp:post_id>
+		<wp:post_date><![CDATA[2023-02-19 14:41:36]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-02-19 14:41:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-02-19 14:41:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-02-19 14:41:36]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[blog-listing]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_template]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="gutenify-photography"><![CDATA[gutenify-photography]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Contact form 1]]></title>
+		<link>https://demo.gutenify.com/snapshot/?post_type=wpcf7_contact_form&#038;p=3832</link>
+		<pubDate>Tue, 19 Jul 2022 07:15:26 +0000</pubDate>
+		<dc:creator><![CDATA[siteadmin]]></dc:creator>
+		<guid isPermaLink="false">https://demo.gutenify.com/snapshot/?post_type=wpcf7_contact_form&#038;p=3832</guid>
+		<description></description>
+		<content:encoded><![CDATA[<label> Your name
+    [text* your-name] </label>
+
+<label> Your email
+    [email* your-email] </label>
+
+<label> Subject
+    [text* your-subject] </label>
+
+<label> Your message (optional)
+    [textarea your-message] </label>
+
+[submit "Submit"]
+[_site_title] "[your-subject]"
+[_site_title] <wordpress@demo.gutenify.com>
+From: [your-name] <[your-email]>
+Subject: [your-subject]
+
+Message Body:
+[your-message]
+
+-- 
+This e-mail was sent from a contact form on [_site_title] ([_site_url])
+[_site_admin_email]
+Reply-To: [your-email]
+
+0
+0
+
+[_site_title] "[your-subject]"
+[_site_title] <wordpress@demo.gutenify.com>
+Message Body:
+[your-message]
+
+-- 
+This e-mail was sent from a contact form on [_site_title] ([_site_url])
+[your-email]
+Reply-To: [_site_admin_email]
+
+0
+0
+Thank you for your message. It has been sent.
+There was an error trying to send your message. Please try again later.
+One or more fields have an error. Please check and try again.
+There was an error trying to send your message. Please try again later.
+You must accept the terms and conditions before sending your message.
+Please fill out this field.
+This field has a too long input.
+This field has a too short input.
+There was an unknown error uploading the file.
+You are not allowed to upload files of this type.
+The uploaded file is too large.
+There was an error uploading the file.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>3832</wp:post_id>
+		<wp:post_date><![CDATA[2022-07-19 07:15:26]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-07-19 07:15:26]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-19 07:15:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-19 07:15:26]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[contact-form-1]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wpcf7_contact_form]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_form]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<label> Your name
+    [text* your-name] </label>
+
+<label> Your email
+    [email* your-email] </label>
+
+<label> Subject
+    [text* your-subject] </label>
+
+<label> Your message (optional)
+    [textarea your-message] </label>
+
+[submit "Submit"]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:8:{s:7:"subject";s:30:"[_site_title] "[your-subject]"";s:6:"sender";s:43:"[_site_title] <wordpress@demo.gutenify.com>";s:4:"body";s:163:"From: [your-name] <[your-email]>
+Subject: [your-subject]
+
+Message Body:
+[your-message]
+
+-- 
+This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:9:"recipient";s:19:"[_site_admin_email]";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:30:"[_site_title] "[your-subject]"";s:6:"sender";s:43:"[_site_title] <wordpress@demo.gutenify.com>";s:4:"body";s:105:"Message Body:
+[your-message]
+
+-- 
+This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:29:"Reply-To: [_site_admin_email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:12:{s:12:"mail_sent_ok";s:45:"Thank you for your message. It has been sent.";s:12:"mail_sent_ng";s:71:"There was an error trying to send your message. Please try again later.";s:16:"validation_error";s:61:"One or more fields have an error. Please check and try again.";s:4:"spam";s:71:"There was an error trying to send your message. Please try again later.";s:12:"accept_terms";s:69:"You must accept the terms and conditions before sending your message.";s:16:"invalid_required";s:27:"Please fill out this field.";s:16:"invalid_too_long";s:32:"This field has a too long input.";s:17:"invalid_too_short";s:33:"This field has a too short input.";s:13:"upload_failed";s:46:"There was an unknown error uploading the file.";s:24:"upload_file_type_invalid";s:49:"You are not allowed to upload files of this type.";s:21:"upload_file_too_large";s:31:"The uploaded file is too large.";s:23:"upload_failed_php_error";s:38:"There was an error uploading the file.";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_additional_settings]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_locale]]></wp:meta_key>
+		<wp:meta_value><![CDATA[en_US]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 				</channel>
