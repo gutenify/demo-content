@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.5.3" created="2024-05-14 12:09" -->
+	<!-- generator="WordPress/6.5.3" created="2024-05-14 12:27" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Narzo Four</title>
 	<link>https://demo.gutenify.com/narzo-four</link>
 	<description></description>
-	<pubDate>Tue, 14 May 2024 12:09:13 +0000</pubDate>
+	<pubDate>Tue, 14 May 2024 12:27:26 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.gutenify.com/</wp:base_site_url>
@@ -3230,8 +3230,8 @@
 
 <!-- wp:group {"metadata":{"name":"Collections"},"align":"full","style":{"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"top":"var:preset|spacing|80","bottom":"var:preset|spacing|80","left":"4.2vw","right":"4.2vw"}}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignfull" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--80);padding-right:4.2vw;padding-bottom:var(--wp--preset--spacing--80);padding-left:4.2vw"><!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"16px","padding":{"top":"0","bottom":"0"}}},"layout":{"type":"flex","flexWrap":"wrap","justifyContent":"space-between"}} -->
-<div class="wp-block-group alignwide" style="padding-top:0;padding-bottom:0"><!-- wp:heading {"level":3,"align":"wide"} -->
-<h3 class="wp-block-heading alignwide">Collections</h3>
+<div class="wp-block-group alignwide" style="padding-top:0;padding-bottom:0"><!-- wp:heading {"level":3,"align":"wide","fontSize":"extra-large"} -->
+<h3 class="wp-block-heading alignwide has-extra-large-font-size">Collections</h3>
 <!-- /wp:heading -->
 
 <!-- wp:buttons {"layout":{"type":"flex","flexWrap":"wrap","justifyContent":"center"}} -->
@@ -3312,8 +3312,8 @@
 
 <!-- wp:group {"metadata":{"name":"Articles"},"align":"full","style":{"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"top":"var:preset|spacing|80","bottom":"var:preset|spacing|80","left":"4.2vw","right":"4.2vw"}}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignfull" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--80);padding-right:4.2vw;padding-bottom:var(--wp--preset--spacing--80);padding-left:4.2vw"><!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"16px","padding":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignwide" style="padding-top:0;padding-bottom:0"><!-- wp:heading {"textAlign":"center","level":4,"align":"wide"} -->
-<h4 class="wp-block-heading alignwide has-text-align-center">Articles</h4>
+<div class="wp-block-group alignwide" style="padding-top:0;padding-bottom:0"><!-- wp:heading {"textAlign":"center","level":3,"align":"wide","fontSize":"extra-large"} -->
+<h3 class="wp-block-heading alignwide has-text-align-center has-extra-large-font-size">Articles</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center"} -->
@@ -3352,8 +3352,8 @@
 <div class="wp-block-cover alignfull is-light" style="padding-top:12vw;padding-right:4.2vw;padding-bottom:12vw;padding-left:4.2vw"><span aria-hidden="true" class="wp-block-cover__background has-foreground-background-color has-background-dim-0 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-236" alt="" src="https://demo.gutenify.com/narzo-four/wp-content/uploads/sites/163/2024/05/jpeg-optimizer_store-curtain-fashion-clothing-room-outerwear-21277-pxhere.png" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"0","padding":{"top":"0","right":"0px","left":"0%","bottom":"0"}}},"layout":{"type":"constrained","contentSize":""}} -->
 <div class="wp-block-group alignwide" style="padding-top:0;padding-right:0px;padding-bottom:0;padding-left:0%"><!-- wp:group {"align":"wide","style":{"border":{"width":"10px","color":"#ffffff","radius":"50px"},"spacing":{"padding":{"top":"var:preset|spacing|70","bottom":"var:preset|spacing|70"},"blockGap":"var:preset|spacing|70"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignwide has-border-color" style="border-color:#ffffff;border-width:10px;border-radius:50px;padding-top:var(--wp--preset--spacing--70);padding-bottom:var(--wp--preset--spacing--70)"><!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"16px"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignwide"><!-- wp:heading {"textAlign":"center","level":3,"style":{"elements":{"link":{"color":{"text":"var:preset|color|background"}}}},"textColor":"background"} -->
-<h3 class="wp-block-heading has-text-align-center has-background-color has-text-color has-link-color">Subscribe to Our Newsletter</h3>
+<div class="wp-block-group alignwide"><!-- wp:heading {"textAlign":"center","level":3,"style":{"elements":{"link":{"color":{"text":"var:preset|color|background"}}}},"textColor":"background","fontSize":"extra-large"} -->
+<h3 class="wp-block-heading has-text-align-center has-background-color has-text-color has-link-color has-extra-large-font-size">Subscribe to Our Newsletter</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|background"}}}},"textColor":"background"} -->
@@ -3438,8 +3438,8 @@
 		<wp:post_id>12</wp:post_id>
 		<wp:post_date><![CDATA[2024-05-08 07:22:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-05-08 07:22:27]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-05-14 11:27:28]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-05-14 11:27:28]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-05-14 12:26:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-14 12:26:35]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[homepage]]></wp:post_name>
