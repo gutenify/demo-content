@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.5.3" created="2024-05-14 12:27" -->
+	<!-- generator="WordPress/6.5.3" created="2024-05-15 06:10" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Narzo Four</title>
 	<link>https://demo.gutenify.com/narzo-four</link>
 	<description></description>
-	<pubDate>Tue, 14 May 2024 12:27:26 +0000</pubDate>
+	<pubDate>Wed, 15 May 2024 06:10:15 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.gutenify.com/</wp:base_site_url>
@@ -3546,8 +3546,8 @@
 <!-- /wp:columns --></div></div>
 <!-- /wp:cover -->
 
-<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"right":"var:preset|spacing|40","left":"var:preset|spacing|40","top":"var:preset|spacing|80","bottom":"var:preset|spacing|80"},"margin":{"top":"0px","bottom":"0px"},"blockGap":"var:preset|spacing|60"}},"backgroundColor":"background-secondary","className":"gutenify-section-d22323d0-0c50-11ef-9601-4b4d5b3e13ea","layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignfull gutenify-section-d22323d0-0c50-11ef-9601-4b4d5b3e13ea has-background-secondary-background-color has-background" style="margin-top:0px;margin-bottom:0px;padding-top:var(--wp--preset--spacing--80);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--80);padding-left:var(--wp--preset--spacing--40)"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|40","margin":{"top":"0","bottom":"0"}}},"className":"gutenify-section-f2d83f70-0c50-11ef-9601-4b4d5b3e13ea","layout":{"type":"constrained"}} -->
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"right":"4.2vw","left":"4.2vw","top":"var:preset|spacing|80","bottom":"var:preset|spacing|80"},"margin":{"top":"0px","bottom":"0px"},"blockGap":"var:preset|spacing|60"}},"backgroundColor":"background-secondary","className":"gutenify-section-d22323d0-0c50-11ef-9601-4b4d5b3e13ea","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull gutenify-section-d22323d0-0c50-11ef-9601-4b4d5b3e13ea has-background-secondary-background-color has-background" style="margin-top:0px;margin-bottom:0px;padding-top:var(--wp--preset--spacing--80);padding-right:4.2vw;padding-bottom:var(--wp--preset--spacing--80);padding-left:4.2vw"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|40","margin":{"top":"0","bottom":"0"}}},"className":"gutenify-section-f2d83f70-0c50-11ef-9601-4b4d5b3e13ea","layout":{"type":"constrained"}} -->
 <div class="wp-block-group gutenify-section-f2d83f70-0c50-11ef-9601-4b4d5b3e13ea" style="margin-top:0;margin-bottom:0"><!-- wp:heading {"textAlign":"center","level":4,"className":"gutenify-section-e4745180-0c50-11ef-9601-4b4d5b3e13ea","fontSize":"extra-large"} -->
 <h4 class="wp-block-heading has-text-align-center gutenify-section-e4745180-0c50-11ef-9601-4b4d5b3e13ea has-extra-large-font-size">We will find  the style for your life</h4>
 <!-- /wp:heading -->
@@ -3628,8 +3628,8 @@
 <!-- /wp:group --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"var:preset|spacing|80","bottom":"var:preset|spacing|80","left":"var:preset|spacing|40","right":"var:preset|spacing|40"}}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignwide" style="padding-top:var(--wp--preset--spacing--80);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--80);padding-left:var(--wp--preset--spacing--40)"><!-- wp:columns {"align":"wide"} -->
+<!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"var:preset|spacing|80","bottom":"var:preset|spacing|80","left":"4.2vw","right":"4.2vw"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignwide" style="padding-top:var(--wp--preset--spacing--80);padding-right:4.2vw;padding-bottom:var(--wp--preset--spacing--80);padding-left:4.2vw"><!-- wp:columns {"align":"wide"} -->
 <div class="wp-block-columns alignwide"><!-- wp:column {"width":"33.34%","style":{"spacing":{"blockGap":"var:preset|spacing|60"}}} -->
 <div class="wp-block-column" style="flex-basis:33.34%"><!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"var:preset|spacing|30"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignwide"><!-- wp:heading {"level":4,"style":{"typography":{"lineHeight":"1"}},"fontSize":"extra-large"} -->
@@ -3664,11 +3664,11 @@
 <!-- /wp:columns --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"align":"full","layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignfull"><!-- wp:cover {"url":"https://demo.gutenify.com/narzo-four/wp-content/uploads/sites/163/2024/05/woman-female-girlfriend-girl-student-fashion-1629069-pxhere-1.png","id":477,"dimRatio":0,"customOverlayColor":"#FFF","isUserOverlayColor":true,"isDark":false,"align":"wide","style":{"spacing":{"padding":{"top":"0","bottom":"0","left":"0","right":"0"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|80","bottom":"var:preset|spacing|80","left":"4.2vw","right":"4.2vw"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull" style="padding-top:var(--wp--preset--spacing--80);padding-right:4.2vw;padding-bottom:var(--wp--preset--spacing--80);padding-left:4.2vw"><!-- wp:cover {"url":"https://demo.gutenify.com/narzo-four/wp-content/uploads/sites/163/2024/05/woman-female-girlfriend-girl-student-fashion-1629069-pxhere-1.png","id":477,"dimRatio":0,"customOverlayColor":"#FFF","isUserOverlayColor":true,"isDark":false,"align":"wide","style":{"spacing":{"padding":{"top":"0","bottom":"0","left":"0","right":"0"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-cover alignwide is-light" style="margin-top:0;margin-bottom:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim" style="background-color:#FFF"></span><img class="wp-block-cover__image-background wp-image-477" alt="" src="https://demo.gutenify.com/narzo-four/wp-content/uploads/sites/163/2024/05/woman-female-girlfriend-girl-student-fashion-1629069-pxhere-1.png" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"var:preset|spacing|80","bottom":"0","left":"var:preset|spacing|80","right":"var:preset|spacing|80"},"margin":{"top":"0","bottom":"0"},"blockGap":"0"}},"layout":{"type":"default"}} -->
 <div class="wp-block-group alignwide" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--80);padding-right:var(--wp--preset--spacing--80);padding-bottom:0;padding-left:var(--wp--preset--spacing--80)"><!-- wp:woocommerce/single-product {"productId":479} -->
-<div class="wp-block-woocommerce-single-product"><!-- wp:columns {"verticalAlignment":null,"style":{"spacing":{"padding":{"top":"0","bottom":"0","left":"0","right":"0"},"margin":{"top":"0","bottom":"0"},"blockGap":{"left":"var:preset|spacing|80"}}}} -->
+<div class="wp-block-woocommerce-single-product"><!-- wp:columns {"style":{"spacing":{"padding":{"top":"0","bottom":"0","left":"0","right":"0"},"margin":{"top":"0","bottom":"0"},"blockGap":{"left":"var:preset|spacing|80"}}}} -->
 <div class="wp-block-columns" style="margin-top:0;margin-bottom:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:column {"width":"365px","style":{"spacing":{"blockGap":"var:preset|spacing|60"}}} -->
 <div class="wp-block-column" style="flex-basis:365px"><!-- wp:group {"style":{"spacing":{"blockGap":"20px"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:post-title {"isLink":true,"__woocommerceNamespace":"woocommerce/product-query/product-title"} /-->
@@ -3698,8 +3698,8 @@
 <!-- /wp:cover --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:group {"align":"wide","layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between"}} -->
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|80","bottom":"var:preset|spacing|80","left":"4.2vw","right":"4.2vw"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--80);padding-right:4.2vw;padding-bottom:var(--wp--preset--spacing--80);padding-left:4.2vw"><!-- wp:group {"align":"wide","layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between"}} -->
 <div class="wp-block-group alignwide"><!-- wp:heading -->
 <h2 class="wp-block-heading">Categories</h2>
 <!-- /wp:heading -->
@@ -3716,8 +3716,8 @@
 		<wp:post_id>433</wp:post_id>
 		<wp:post_date><![CDATA[2024-05-10 07:57:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-05-10 07:57:59]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-05-14 11:29:02]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-05-14 11:29:02]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-05-15 03:28:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-15 03:28:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[homepage-2]]></wp:post_name>
@@ -4311,23 +4311,23 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Demo Blog Page]]></title>
-		<link>https://demo.gutenify.com/narzo-four/demo-blog-page/</link>
-		<pubDate>Tue, 14 May 2024 11:51:15 +0000</pubDate>
+		<title><![CDATA[My Account]]></title>
+		<link>https://demo.gutenify.com/narzo-four/?page_id=822</link>
+		<pubDate></pubDate>
 		<dc:creator><![CDATA[cysujan]]></dc:creator>
-		<guid isPermaLink="false">https://demo.gutenify.com/narzo-four/?page_id=803</guid>
+		<guid isPermaLink="false">https://demo.gutenify.com/narzo-four/?page_id=822</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>803</wp:post_id>
-		<wp:post_date><![CDATA[2024-05-14 11:51:15]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-05-14 11:51:15]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-05-14 11:51:15]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-05-14 11:51:15]]></wp:post_modified_gmt>
+		<wp:post_id>822</wp:post_id>
+		<wp:post_date><![CDATA[2024-05-15 05:46:39]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-05-15 05:46:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[demo-blog-page]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_name><![CDATA[]]></wp:post_name>
+		<wp:status><![CDATA[draft]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
@@ -5724,98 +5724,6 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Black Dress - Green]]></title>
-		<link>https://demo.gutenify.com/narzo-four/product/full-black/?attribute_color=Green</link>
-		<pubDate>Thu, 09 May 2024 10:28:44 +0000</pubDate>
-		<dc:creator><![CDATA[cysujan]]></dc:creator>
-		<guid isPermaLink="false">https://demo.gutenify.com/narzo-four/?post_type=product_variation&#038;p=345</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[Color: Green]]></excerpt:encoded>
-		<wp:post_id>345</wp:post_id>
-		<wp:post_date><![CDATA[2024-05-09 10:28:44]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-05-09 10:28:44]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-05-09 10:28:44]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-05-09 10:28:44]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[full-black-green]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>205</wp:post_parent>
-		<wp:menu_order>2</wp:menu_order>
-		<wp:post_type><![CDATA[product_variation]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_variation_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_tax_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxable]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_tax_class]]></wp:meta_key>
-		<wp:meta_value><![CDATA[parent]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_backorders]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sold_individually]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_virtual]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_downloadable]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_download_limit]]></wp:meta_key>
-		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_download_expiry]]></wp:meta_key>
-		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[attribute_color]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Green]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[8.8.3]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[Red One Piece]]></title>
 		<link>https://demo.gutenify.com/narzo-four/product/red-one-piece/</link>
 		<pubDate>Fri, 10 May 2024 04:01:02 +0000</pubDate>
@@ -6454,6 +6362,30 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[Demo Blog Page]]></title>
+		<link>https://demo.gutenify.com/narzo-four/demo-blog-page/</link>
+		<pubDate>Tue, 14 May 2024 11:51:15 +0000</pubDate>
+		<dc:creator><![CDATA[cysujan]]></dc:creator>
+		<guid isPermaLink="false">https://demo.gutenify.com/narzo-four/?page_id=803</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>803</wp:post_id>
+		<wp:post_date><![CDATA[2024-05-14 11:51:15]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-05-14 11:51:15]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-05-14 11:51:15]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-14 11:51:15]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[demo-blog-page]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
 		<title><![CDATA[inter;normal;400;100%;U+0-10FFFF]]></title>
 		<link>https://demo.gutenify.com/narzo-four/2024/05/08/internormal400100u0-10ffff/</link>
 		<pubDate>Wed, 08 May 2024 11:25:40 +0000</pubDate>
@@ -6886,29 +6818,97 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title><![CDATA[arvo;italic;400;100%;U+0-10FFFF]]></title>
-		<link>https://demo.gutenify.com/narzo-four/2024/05/08/arvoitalic400100u0-10ffff/</link>
-		<pubDate>Wed, 08 May 2024 11:25:45 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">https://demo.gutenify.com/narzo-four/2024/05/08/arvoitalic400100u0-10ffff/</guid>
+		<title><![CDATA[Black Dress - Green]]></title>
+		<link>https://demo.gutenify.com/narzo-four/product/full-black/?attribute_color=Green</link>
+		<pubDate>Thu, 09 May 2024 10:28:44 +0000</pubDate>
+		<dc:creator><![CDATA[cysujan]]></dc:creator>
+		<guid isPermaLink="false">https://demo.gutenify.com/narzo-four/?post_type=product_variation&#038;p=345</guid>
 		<description></description>
-		<content:encoded><![CDATA[{"fontFamily":"Arvo","fontStyle":"italic","fontWeight":"400","src":"https://demo.gutenify.com/narzo-four/wp-content/uploads/sites/163/fonts/tDbN2oWUg0MKqSIQ7Z7u_vvijQ.woff2","preview":"https://s.w.org/images/fonts/17.7/previews/arvo/arvo-400-italic.svg"}]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>179</wp:post_id>
-		<wp:post_date><![CDATA[2024-05-08 11:25:45]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-05-08 11:25:45]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-05-08 11:25:45]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-05-08 11:25:45]]></wp:post_modified_gmt>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[Color: Green]]></excerpt:encoded>
+		<wp:post_id>345</wp:post_id>
+		<wp:post_date><![CDATA[2024-05-09 10:28:44]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-05-09 10:28:44]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-05-09 10:28:44]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-09 10:28:44]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[arvoitalic400100u0-10ffff]]></wp:post_name>
+		<wp:post_name><![CDATA[full-black-green]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>155</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
+		<wp:post_parent>205</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type><![CDATA[product_variation]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														</item>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_variation_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_tax_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxable]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_tax_class]]></wp:meta_key>
+		<wp:meta_value><![CDATA[parent]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_backorders]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_sold_individually]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_virtual]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_downloadable]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_download_limit]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_download_expiry]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[attribute_color]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Green]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
+		<wp:meta_value><![CDATA[8.8.3]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 					<item>
 		<title><![CDATA[Black Dress - Brown]]></title>
 		<link>https://demo.gutenify.com/narzo-four/product/full-black/?attribute_color=Brown</link>
@@ -7122,26 +7122,26 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title><![CDATA[Montserrat]]></title>
-		<link>https://demo.gutenify.com/narzo-four/2024/05/08/montserrat/</link>
-		<pubDate>Wed, 08 May 2024 11:25:40 +0000</pubDate>
+		<title><![CDATA[arvo;italic;400;100%;U+0-10FFFF]]></title>
+		<link>https://demo.gutenify.com/narzo-four/2024/05/08/arvoitalic400100u0-10ffff/</link>
+		<pubDate>Wed, 08 May 2024 11:25:45 +0000</pubDate>
 		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">https://demo.gutenify.com/narzo-four/2024/05/08/montserrat/</guid>
+		<guid isPermaLink="false">https://demo.gutenify.com/narzo-four/2024/05/08/arvoitalic400100u0-10ffff/</guid>
 		<description></description>
-		<content:encoded><![CDATA[{"fontFamily":"Montserrat, sans-serif","preview":"https://s.w.org/images/fonts/17.7/previews/montserrat/montserrat.svg"}]]></content:encoded>
+		<content:encoded><![CDATA[{"fontFamily":"Arvo","fontStyle":"italic","fontWeight":"400","src":"https://demo.gutenify.com/narzo-four/wp-content/uploads/sites/163/fonts/tDbN2oWUg0MKqSIQ7Z7u_vvijQ.woff2","preview":"https://s.w.org/images/fonts/17.7/previews/arvo/arvo-400-italic.svg"}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>154</wp:post_id>
-		<wp:post_date><![CDATA[2024-05-08 11:25:40]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-05-08 11:25:40]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-05-08 11:25:40]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-05-08 11:25:40]]></wp:post_modified_gmt>
+		<wp:post_id>179</wp:post_id>
+		<wp:post_date><![CDATA[2024-05-08 11:25:45]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-05-08 11:25:45]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-05-08 11:25:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-08 11:25:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[montserrat]]></wp:post_name>
+		<wp:post_name><![CDATA[arvoitalic400100u0-10ffff]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
+		<wp:post_parent>155</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_font_family]]></wp:post_type>
+		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
@@ -7488,37 +7488,37 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 		<dc:creator><![CDATA[codeyatri]]></dc:creator>
 		<guid isPermaLink="false">https://demo.gutenify.com/narzo-four/2024/05/08/navigation/</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:navigation-link {"label":"Home","type":"page","id":12,"url":"/narzo-four/","title":"","kind":"post-type","style":{"layout":{"selfStretch":"fit","flexSize":null}}} /-->
+		<content:encoded><![CDATA[<!-- wp:navigation-link {"label":"Home","url":"/narzo-four/","kind":"custom"} /-->
 
-<!-- wp:navigation-link {"label":"About Us","type":"page","id":716,"url":"/narzo-four/about-us/","kind":"post-type"} /-->
+<!-- wp:navigation-link {"label":"About Us","url":"/narzo-four/about-us/","kind":"custom"} /-->
 
-<!-- wp:navigation-link {"label":"Contact Us","type":"page","id":741,"url":"/narzo-four/contact-us/","kind":"post-type"} /-->
+<!-- wp:navigation-link {"label":"Contact Us","url":"/narzo-four/contact-us/","kind":"custom"} /-->
 
 <!-- wp:navigation-submenu {"label":"Blog","type":"page","id":803,"url":"/narzo-four/demo-blog-page/","kind":"post-type"} -->
-<!-- wp:navigation-link {"label":"Blog (Full Width)","type":"page","id":745,"url":"/narzo-four/blog-full-width/","kind":"post-type"} /-->
+<!-- wp:navigation-link {"label":"Blog (Full Width)","url":"/narzo-four/blog-full-width/","kind":"custom"} /-->
 
-<!-- wp:navigation-link {"label":"Blog (Left Sidebar)","type":"page","id":747,"url":"/narzo-four/blog-left-sidebar/","kind":"post-type"} /-->
+<!-- wp:navigation-link {"label":"Blog (Left Sidebar)","url":"/narzo-four/blog-left-sidebar/","kind":"custom"} /-->
 
-<!-- wp:navigation-link {"label":"Blog (Right Sidebar)","type":"page","id":749,"url":"/narzo-four/blog-right-sidebar/","kind":"post-type"} /-->
+<!-- wp:navigation-link {"label":"Blog (Right Sidebar)","url":"/narzo-four/blog-right-sidebar/","kind":"custom"} /-->
 <!-- /wp:navigation-submenu -->
 
 <!-- wp:navigation-submenu {"label":"Shop","type":"page","id":7,"url":"/narzo-four/shop/","kind":"post-type"} -->
-<!-- wp:navigation-link {"label":"Product (Left Sidebar)","type":"page","id":751,"url":"/narzo-four/product-left-sidebar/","kind":"post-type"} /-->
+<!-- wp:navigation-link {"label":"Product (Left Sidebar)","url":"/narzo-four/product-left-sidebar/","kind":"custom"} /-->
 
-<!-- wp:navigation-link {"label":"Product (Right Sidebar)","type":"page","id":753,"url":"/narzo-four/product-right-sidebar/","kind":"post-type"} /-->
+<!-- wp:navigation-link {"label":"Product (Right Sidebar)","url":"/narzo-four/product-right-sidebar/","kind":"custom"} /-->
 
-<!-- wp:navigation-link {"label":"Cart","type":"page","id":8,"url":"/narzo-four/cart/","kind":"post-type"} /-->
+<!-- wp:navigation-link {"label":"Cart","url":"/narzo-four/cart/","kind":"custom"} /-->
 
-<!-- wp:navigation-link {"label":"My account","type":"page","id":10,"url":"/narzo-four/my-account/","kind":"post-type"} /-->
+<!-- wp:navigation-link {"label":"My Account","url":"/narzo-four/my-account/","kind":"custom"} /-->
 
-<!-- wp:navigation-link {"label":"Checkout","type":"page","id":9,"url":"/narzo-four/checkout/","kind":"post-type"} /-->
+<!-- wp:navigation-link {"label":"Checkout","url":"/narzo-four/checkout/","kind":"custom"} /-->
 <!-- /wp:navigation-submenu -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>4</wp:post_id>
 		<wp:post_date><![CDATA[2024-05-08 07:03:42]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-05-08 07:03:42]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-05-14 11:56:01]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-05-14 11:56:01]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-05-15 05:48:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-15 05:48:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[navigation]]></wp:post_name>
@@ -7622,8 +7622,8 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 		<wp:post_id>18</wp:post_id>
 		<wp:post_date><![CDATA[2024-05-08 07:20:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-05-08 07:20:43]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-05-14 12:03:16]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-05-14 12:03:16]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-05-15 05:48:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-15 05:48:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[header]]></wp:post_name>
@@ -7893,6 +7893,30 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
+					<item>
+		<title><![CDATA[Montserrat]]></title>
+		<link>https://demo.gutenify.com/narzo-four/2024/05/08/montserrat/</link>
+		<pubDate>Wed, 08 May 2024 11:25:40 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">https://demo.gutenify.com/narzo-four/2024/05/08/montserrat/</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"fontFamily":"Montserrat, sans-serif","preview":"https://s.w.org/images/fonts/17.7/previews/montserrat/montserrat.svg"}]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>154</wp:post_id>
+		<wp:post_date><![CDATA[2024-05-08 11:25:40]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-05-08 11:25:40]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-05-08 11:25:40]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-08 11:25:40]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[montserrat]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_font_family]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
 					<item>
 		<title><![CDATA[Arvo]]></title>
 		<link>https://demo.gutenify.com/narzo-four/2024/05/08/arvo/</link>
